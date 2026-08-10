@@ -167,10 +167,7 @@ Objectif : aucun abonnement d'application récurrent.
 |----------|------------------|------|
 | Facture PDF avec mention art. 293 B | Order Printer (gratuit) + template Liquid sur mesure | 0 € |
 | Favoris / wishlist | code thème + métachamps client | 0 € |
-| Badges « 100 % Authentique », « Neuf avec étiquette », « Origine vérifiée » | Liquid sur la fiche produit | 0 € |
-
-Le badge d'origine se limite à **« Origine vérifiée »** : le canal
-d'approvisionnement ne doit apparaître nulle part sur la boutique.
+| Badges « 100 % Authentique », « Neuf avec étiquette », « Origine vérifiée en maison de vente » | Liquid sur la fiche produit | 0 € |
 | Retrait automatique du stock à 0 | Shopify Flow (inclus) | 0 € |
 | Suivi de commande | natif Shopify | 0 € |
 | Dashboard de marge | app admin développée ici | 0 € |
