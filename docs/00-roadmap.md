@@ -99,7 +99,9 @@ Thème retenu : **Dawn**.
 | Shopify Payments — acceptation | ✅ active |
 | Shopify Payments — versements | ⏸️ IBAN manquant, en attente du RIB |
 | PayPal Business | ⏸️ en attente du RIB |
-| Boîte e-mail contact@maison-nsaia.fr | ✅ créée (Gandi, DKIM+SPF OK) |
+| Boîte e-mail contact@maison-nsaia.fr | ✅ créée (Gandi) |
+| E-mail expéditeur Shopify | ✅ authentifié (6 CNAME DKIM) |
+| DMARC | ✅ `_dmarc` TXT `v=DMARC1; p=none` |
 | Domaine des comptes clients | 🔄 à basculer sur maison-nsaia.fr |
 | Thème Dawn installé et réglé | ⬜ à faire sur ordinateur |
 | Photos produits harmonisées | ⬜ plus tard |
@@ -113,19 +115,14 @@ téléphone. Tout le reste de l'admin passe bien en mobile.
    *Paramètres* → *Comptes client* → section **URL** → *Gérer*.
    Le DNS est déjà en place (CNAME `compte` → `shops.myshopify.com.`), il ne
    manque que la sélection du domaine. Le sélecteur ne s'affiche pas sur mobile.
-2. **E-mail expéditeur** → déclarer `contact@maison-nsaia.fr` dans Shopify.
-   *Paramètres* → *Détails de la boutique* → e-mail de l'expéditeur.
-   Shopify demandera probablement d'ajouter des enregistrements DNS chez Gandi
-   pour authentifier le domaine expéditeur. Sans ça, les confirmations de
-   commande partent depuis une adresse Shopify générique.
-3. **Thème Dawn** → installation et réglages (voir `01-theme.md`).
+2. **Thème Dawn** → installation et réglages (voir `01-theme.md`).
 
 ### À faire dès réception du RIB
 
-4. **Shopify Payments — IBAN.** *Paramètres* → *Paiements* → **Ajouter un
+3. **Shopify Payments — IBAN.** *Paramètres* → *Paiements* → **Ajouter un
    compte**. Sans ça, l'encaissement fonctionne mais les versements restent
    suspendus.
-5. **PayPal Business.** Créer le compte sur paypal.com (possible dès maintenant
+4. **PayPal Business.** Créer le compte sur paypal.com (possible dès maintenant
    sans RIB : e-mail + SIRET suffisent, le compte bancaire se rattache plus
    tard), puis Shopify → *Paiements* → *Moyens de paiement supplémentaires* →
    PayPal → relier le compte.
