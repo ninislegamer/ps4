@@ -80,8 +80,9 @@ Dans Gandi → *Nom de domaine* → *Enregistrements DNS* :
 ### 0.7 — Compte Partenaire Shopify (pour l'étape 7)
 
 - Créer un compte sur partners.shopify.com (gratuit).
-- Nécessaire pour développer l'app admin (dashboard marge + génération IA).
-- Prévoir une clé API Anthropic pour la génération des titres/descriptions.
+- Nécessaire pour développer l'app admin (dashboard de marge).
+- Aucune clé API à prévoir : les fiches produit sont rédigées en conversation,
+  pas générées par une intégration.
 
 ---
 
@@ -170,11 +171,12 @@ Objectif : aucun abonnement d'application récurrent.
 | Retrait automatique du stock à 0 | Shopify Flow (inclus) | 0 € |
 | Suivi de commande | natif Shopify | 0 € |
 | Dashboard de marge | app admin développée ici | 0 € |
-| Génération IA des titres/descriptions | app admin + clé API Anthropic | usage réel |
+| Rédaction des fiches produit | écrites en conversation, collées dans Shopify | 0 € |
 | Bon de livraison de marque | template imprimable | 0 € |
 
-**Ce qui reste irréductiblement payant :** l'affranchissement des colis et la
-consommation de l'API pour la génération IA.
+**Ce qui reste irréductiblement payant :** l'affranchissement des colis — et il
+est **refacturé au client**, donc il ne pèse pas sur la marge. Hors abonnement
+Shopify et renouvellement du domaine, le coût récurrent du projet est nul.
 
 **Étiquettes d'expédition : non générables.** Le code-barres encode un numéro de
 suivi réel émis et payé auprès du transporteur ; un fichier fabriqué ne scanne
@@ -188,6 +190,60 @@ au volume actuel.
 
 ---
 
+## Rédaction des fiches produit
+
+Pas de génération automatique ni d'intégration IA. Les fiches sont **rédigées en
+conversation**, puis collées dans Shopify.
+
+Méthode : fournir pour chaque pièce la marque, le modèle, la taille ou les
+dimensions, la matière, l'état exact, la provenance et, si possible, les photos.
+En retour : un titre et une description conformes au brief de marque
+(`brief-ia.md`) — ton de maison de vente, aucune information inventée, rareté
+énoncée par le fait et non par l'adjectif.
+
+Avantage sur une génération automatique : chaque fiche est relue, et rien
+d'inexact ne peut être publié sur une pièce dont l'authenticité est l'argument
+principal.
+
+---
+
+## Bon de livraison et carte d'authenticité
+
+Document imprimable glissé dans chaque colis, aux couleurs de Maison Nsaia.
+Zéro coût récurrent : un template, une impression.
+
+Contenu prévu :
+
+- En-tête Maison Nsaia (logo, `maison-nsaia.fr`, `contact@maison-nsaia.fr`)
+- Numéro de commande et date
+- Le détail de la pièce : marque, modèle, taille, état
+- **La mention d'authenticité** : pièce sourcée et vérifiée en maison de vente,
+  exemplaire unique
+- La mention **« TVA non applicable, art. 293 B du CGI »**
+- Le rappel du droit de rétractation de 14 jours et la marche à suivre
+- Une ligne manuscrite possible (remerciement, numéro de pièce)
+
+À concevoir à l'étape 6, en même temps que la facture PDF — les deux partagent
+les mêmes données de commande.
+
+---
+
+## Frais de livraison
+
+**Refacturés au client**, jamais absorbés par la marge.
+
+À arbitrer à l'étape « Expédition » :
+
+- **Tarif forfaitaire** par mode (ex. Colissimo suivi, Mondial Relay) — le plus
+  lisible, et le plus simple à tenir sur des pièces de poids très variables.
+- **Assurance** sur les pièces à forte valeur : à intégrer au forfait ou à
+  proposer en option, mais jamais à négliger sur une pièce à plusieurs centaines
+  d'euros.
+- **Livraison offerte au-delà d'un seuil** : levier commercial à garder en
+  réserve, à n'activer que si le seuil couvre réellement le port.
+
+---
+
 ## Phases suivantes (accompagnées, une étape à la fois)
 
 | # | Étape | Livrable |
@@ -198,7 +254,7 @@ au volume actuel.
 | 4 | Stock unitaire | 1 pièce = 1 fiche, retrait auto via Shopify Flow |
 | 5 | Paiements | Carte / PayPal / Apple Pay / Google Pay + checkout |
 | 6 | Espace client | Compte, suivi, favoris, facture PDF (art. 293 B) |
-| 7 | Dashboard admin | App marge automatique + génération IA des fiches |
+| 7 | Dashboard admin | App de calcul de marge automatique |
 
 ---
 
