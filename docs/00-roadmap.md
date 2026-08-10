@@ -242,6 +242,25 @@ les mêmes données de commande.
 - **Livraison offerte au-delà d'un seuil** : levier commercial à garder en
   réserve, à n'activer que si le seuil couvre réellement le port.
 
+### Choisir un agrégateur avant de fixer les tarifs
+
+À faire **en premier** dans cette étape : le tarif d'achat détermine le tarif
+affiché au client, donc le taux de conversion. Ne pas partir du tarif guichet.
+
+Comparer, sur les formats réels de la boutique (une paire de baskets, un
+manteau, un display scellé) :
+
+| Service | À vérifier |
+|---------|-----------|
+| **Boxtal** | tarifs Colissimo / Mondial Relay négociés, pas d'abonnement sur l'offre de base |
+| **Sendcloud** | palier gratuit limité en volume, puis abonnement |
+| **Tarif guichet La Poste** | référence de comparaison, presque toujours le plus cher |
+
+Vérifier les conditions commerciales au moment du choix (elles évoluent) et
+brancher le service retenu sur Shopify avant de créer les zones et tarifs
+d'expédition. Objectif : afficher au client le tarif le plus bas possible, pas
+absorber la différence.
+
 ---
 
 ## Phases suivantes (accompagnées, une étape à la fois)
