@@ -446,7 +446,46 @@ Prix de vente minimum pour une marge cible `M` :
 prix_min = (prix_achat + M + 0,25) / 0,861
 ```
 
-Seuils : `M = 25 €` en standard, `M = 100 €` sur les grosses pièces.
+Seuils de marge : **20 à 25 €** sur les petites pièces, **100 €** sur les grosses
+pièces (proposition : au-delà de 300 € de prix de revente — à confirmer).
+
+## Décision d'achat en vente aux enchères
+
+Le chiffre utile devant une vente n'est pas le prix de revente : c'est
+**l'enchère maximale à ne pas dépasser**.
+
+### Les frais acheteur
+
+En maison de vente, le coût réel d'acquisition est l'adjudication **plus les
+frais acheteur**, généralement 20 à 30 %. Une adjudication à 100 € coûte 125 €.
+Calculer la marge sur l'enchère seule fausse le résultat de 25 % et transforme
+une marge de 25 € en perte.
+
+### Formule
+
+```
+coût max         = 0,861 × prix_revente − marge_visée − 0,25
+enchère maximale = (coût max − frais annexes) / (1 + taux frais acheteur)
+```
+
+Exemple, manteau revendable 250 €, frais acheteur 25 %, transport 10 € :
+
+| Étape | Calcul | Résultat |
+|-------|--------|----------|
+| Coût max d'acquisition | 0,861 × 250 − 25 − 0,25 | **190 €** |
+| Enchère max sans transport | 190 / 1,25 | **152 €** |
+| Enchère max avec transport | (190 − 10) / 1,25 | **144 €** |
+
+### Informations à réunir avant chaque vente
+
+1. Photo et désignation complète — marque, modèle, taille, état visible
+2. Estimation basse et haute annoncée
+3. **Taux de frais acheteur** de la maison de vente (dans les conditions de
+   vente, variable d'une maison à l'autre)
+4. Frais de retrait ou d'expédition du lot
+
+Sortie attendue : prix de revente réaliste, puis enchère maximale pour 20 €,
+25 € et 100 € de marge.
 
 Le port n'entre pas dans la formule : il est refacturé au client.
 
