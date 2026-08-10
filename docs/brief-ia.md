@@ -59,3 +59,27 @@ Pas de majuscules décoratives, pas de mots-clés empilés.
 | Retrait automatique du stock | non | oui, via Shopify Flow (étape 4) |
 | Facture PDF avec mention art. 293 B | non | oui (étape 6) |
 | Dashboard de marge | non | oui (étape 7) |
+
+
+---
+
+## Informations à fournir par pièce
+
+Pour rédiger un titre et une description, il faut au minimum :
+
+**Indispensable**
+
+- Photos : face, dos, détails, **étiquette de marque** et **étiquette de taille**
+- Marque et modèle
+- Taille, avec la correspondance si elle est étrangère (UK, IT, US)
+- État exact : neuf avec étiquette, neuf sans étiquette, très bon état
+- Défauts éventuels, même minimes
+
+**Utile**
+
+- Matière (étiquette intérieure)
+- Provenance : maison de vente, lot, achat particulier
+- Prix d'achat, pour calculer le prix de vente et la marge
+
+Rappel : aucune information non fournie ne doit apparaître dans la fiche. Une
+matière ou une année absentes de cette liste ne s'inventent pas.
