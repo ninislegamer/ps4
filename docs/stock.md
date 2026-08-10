@@ -24,6 +24,7 @@ livraison gratuite, le port est absorbé et se déduit en plus.
 | Robe asymétrique **Elisabetta Franchi** ivoire, viscose | 46 IT / 42 FR | Neuve avec étiquette | 26 € | **139 €** | 94 € | Boutique | reçue |
 | Robe bustier **Chiara Ferragni** noire, soirée | M | Neuve avec étiquette | 38 € | **89 €** | 39 € | Boutique + Leboncoin | reçue |
 | Robe droite **Pier Antonio Gaspari** bleu marine | 42 | Neuve | 30 € | **79 €** | 38 € | Boutique + Leboncoin | reçue |
+| Baskets **Emporio Armani** bleu lavande / blanc | 36 | Neuves avec étiquette et boîte | 55 € | **129 €** | 56 € | Boutique | reçues — **prix marché à confirmer** |
 | Ballerines **Hogan** 186 Zeppa Fashion, crème et vernis turquoise | 36 | Neuves avec boîte | 15 € | **99 €** | 70 € | Boutique | reçues |
 | Ballerines **Massimo Dutti** cuir rouge à bride | 40 (IT) | Neuves avec étiquette et boîte | 25 € | **69 €** | 34 € | Leboncoin + eBay | reçues |
 | **New Balance** BB80 blanc / bleu marine | 38 | Neuves avec boîte | 45 € | **79 €** | 23 € | Boutique + Leboncoin | reçues — **prix marché à confirmer** |
@@ -35,7 +36,7 @@ livraison gratuite, le port est absorbé et se déduit en plus.
 | **BMW** Overall ProRain | XL | Neuf | 82,61 € | **139 €** | 29 € | Leboncoin + Vinted | à recevoir |
 | **Adidas Yeezy** 700 V3 Mono Safflower | 38 | Occasion, portée | 75,24 € | à établir | — | Vinted | authentification requise |
 
-**Capital engagé : ~932 €.** Marge attendue : environ **903 €** hors Yeezy.
+**Capital engagé : ~987 €.** Marge attendue : environ **959 €** hors Yeezy.
 
 ### Références pour les fiches
 
@@ -95,6 +96,12 @@ livraison gratuite, le port est absorbé et se déduit en plus.
   italienne distribuée sur YOOX. **Orthographe exacte : Pier ANTONIO, pas
   Antonia** — l'annonce de la maison de vente comportait la faute, et une fiche
   mal orthographiée reste introuvable.
+- **Baskets Emporio Armani** — Femme → Baskets, niveau *Créateurs*. **Prix marché
+  à confirmer** (~220-320 € estimés en boutique, 100-160 € en outlet ; non
+  vérifiés, quota de recherche épuisé) — contrôler sur YOOX, Zalando et Vestiaire
+  Collective. Seuil d'équilibre 64 €, plancher de marge atteint à 93 €.
+  Le coloris bleu lavande et blanc est féminin et actuel, pas un basique noir :
+  bonne candidate pour une photo de page d'accueil.
 - **adidas by Stella McCartney UltraBoost 21** — Femme → Baskets, niveau
   *Créateurs* (pas Sportswear : c'est une collaboration de créatrice). Taille 36,
   la plus courante.
@@ -172,6 +179,7 @@ dessous, la marge dépend trop du prix de vente exact.
 |-------|------|--------|-------|
 | Ballerines Hogan | 15 € | ~300 € catalogue d'origine | 1 pour 20 |
 | Robe Elisabetta Franchi | 26 € | ~360 € | 1 pour 14 |
+| Baskets Emporio Armani | 55 € | ~280 € estimés | 1 pour 5 |
 | Jupe Sonia Rykiel | 43 € | ~500 € catalogue | 1 pour 11,6 |
 | Blazer Karl Lagerfeld | 45 € | 294,95 € | 1 pour 6,6 |
 | Predator Edge.1 TF | 20 €/paire | ~110 € | 1 pour 5,5 |
