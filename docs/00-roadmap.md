@@ -345,6 +345,44 @@ réservée) ou 6 (segment client).
 
 ---
 
+## Vente multicanale et stock unitaire
+
+Chaque article existe en un seul exemplaire. Le vendre simultanément sur
+plusieurs canaux crée un risque de double vente, et aucune synchronisation
+automatique n'existe entre Shopify, Leboncoin et Reverb.
+
+### Règle : un seul canal en achat immédiat
+
+- **Shopify est la source de vérité.** Stock à 1, retrait automatique de la fiche
+  à l'épuisement (étape 4, Shopify Flow). La deuxième commande est bloquée.
+- **Leboncoin** : désactiver le paiement sécurisé et la livraison intégrée.
+  L'acheteur passe par message, la disponibilité est vérifiée avant de conclure.
+- **Reverb** : fonctionne en achat immédiat. Sur un article à forte valeur,
+  choisir entre Reverb et l'achat direct sur la boutique — pas les deux. La fiche
+  Shopify peut rester en ligne en « nous contacter ».
+
+### Réflexe
+
+Dès qu'une vente est conclue quelque part, **supprimer les autres annonces avant
+d'emballer**, jamais après.
+
+### Si une double vente survient
+
+Rembourser immédiatement et intégralement, avec un message honnête. Priorité au
+premier arrivé, sauf si la commande marketplace est déjà payée : une annulation
+sur Reverb affecte la note vendeur, un remboursement sur la boutique ne laisse
+aucune trace publique.
+
+### Pourquoi les places de marché dès le lancement
+
+Une boutique neuve n'a aucun trafic et aucun historique ; un achat à plusieurs
+centaines d'euros chez un vendeur inconnu se heurte à un problème de confiance.
+Le site construit la marque, les places de marché font tourner la trésorerie. Au
+démarrage, la **rotation prime sur la marge** : 470 € encaissés en trois semaines
+valent mieux que 780 € en six mois, car le capital retourne au sourcing.
+
+---
+
 ## Ouverture à l'international
 
 Objectif retenu : une boutique perçue comme internationale, ouverte par paliers.
