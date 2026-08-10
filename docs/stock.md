@@ -22,6 +22,7 @@ livraison gratuite, le port est absorbé et se déduit en plus.
 | Baskets **adidas by Stella McCartney** UltraBoost 21 Metallic | 36 | Neuves avec étiquette et boîte | 35 € | **119 €** | 67 € | Boutique | reçues |
 | Short **ba&sh** Fegor, lightusedblue | 34 | Neuf avec étiquette | 55,40 € | **99 €** | 30 € | Boutique | reçu — **saisonnier** |
 | Robe asymétrique **Elisabetta Franchi** ivoire, viscose | 46 IT / 42 FR | Neuve avec étiquette | 26 € | **139 €** | 94 € | Boutique | reçue |
+| Robe bustier **Chiara Ferragni** noire, soirée | M | Neuve avec étiquette | 38 € | **89 €** | 39 € | Boutique + Leboncoin | reçue |
 | Robe droite **Pier Antonio Gaspari** bleu marine | 42 | Neuve | 30 € | **79 €** | 38 € | Boutique + Leboncoin | reçue |
 | Ballerines **Hogan** 186 Zeppa Fashion, crème et vernis turquoise | 36 | Neuves avec boîte | 15 € | **99 €** | 70 € | Boutique | reçues |
 | Ballerines **Massimo Dutti** cuir rouge à bride | 40 (IT) | Neuves avec étiquette et boîte | 25 € | **69 €** | 34 € | Leboncoin + eBay | reçues |
@@ -33,7 +34,7 @@ livraison gratuite, le port est absorbé et se déduit en plus.
 | **BMW** Overall ProRain | XL | Neuf | 82,61 € | **139 €** | 29 € | Leboncoin + Vinted | à recevoir |
 | **Adidas Yeezy** 700 V3 Mono Safflower | 38 | Occasion, portée | 75,24 € | à établir | — | Vinted | authentification requise |
 
-**Capital engagé : ~849 €.** Marge attendue : environ **841 €** hors Yeezy.
+**Capital engagé : ~887 €.** Marge attendue : environ **880 €** hors Yeezy.
 
 ### Références pour les fiches
 
@@ -45,6 +46,7 @@ livraison gratuite, le port est absorbé et se déduit en plus.
 | Blazer Karl Lagerfeld | `AJW1404…`, coloris 999 Black, punto jersey | 21066525154 |
 | Ballerines Hogan | `HXW1860E290X72066F`, 186 Zeppa Fashion Ballerina Cinturino | à relever |
 | Robe Elisabetta Franchi | `AB-040-76E4`, coloris 360 Avorio, TG 46 | à relever |
+| Robe Chiara Ferragni | `20AI-CFDR040`, Evening Dress, Nero/Black, M | 8059011477201 |
 | adidas by Stella McCartney | `H00099`, aSMC UltraBOOST 21 Metallic | à relever sur la boîte |
 | New Balance GS 1906 | `G19064IK` — **version GS, pas la `U19063EN` adulte** | à relever |
 | Adidas Predator Edge.1 TF | `GZ6448`, Champions Code | à relever |
@@ -82,6 +84,12 @@ livraison gratuite, le port est absorbé et se déduit en plus.
   **Manipulation** : l'ivoire marque. Mains propres, papier de soie à l'envoi.
   La coupe asymétrique accroche l'œil — bonne candidate pour la photo de page
   d'accueil.
+- **Robe Chiara Ferragni** — Femme → Vêtements, niveau *Créateurs*. **Première
+  pièce de soirée du catalogue** : ouvre une occasion d'usage absente jusqu'ici.
+  Forme intemporelle, aucune saisonnalité, taille M la plus courante.
+  Prix contenu à 89 € : la marque est soldée partout (jusqu'à −80 % sur YOOX)
+  depuis la sanction de l'autorité de la concurrence italienne fin 2023, et la
+  pièce date de la collection automne-hiver 2020.
 - **Robe Pier Antonio Gaspari** — Femme → Vêtements, niveau *Créateurs*. Maison
   italienne distribuée sur YOOX. **Orthographe exacte : Pier ANTONIO, pas
   Antonia** — l'annonce de la maison de vente comportait la faute, et une fiche
@@ -165,6 +173,13 @@ dessous, la marge dépend trop du prix de vente exact.
 | Ballerines Massimo Dutti | 25 € | ~70-100 € | 1 pour 3,4 |
 | Short ba&sh | 55 € | 150 € | 1 pour 2,7 |
 | Salomon X Ultra 5 Mid GTX | 65 € | 116 € | **1 pour 1,8** ⚠️ |
+
+### Une marque en difficulté ne tient pas sa valeur
+
+Troisième critère, après le ratio et la notoriété. Chiara Ferragni conserve des
+prix catalogue élevés mais se solde partout depuis sa crise de réputation : le
+prix affiché ne dit rien du prix obtenu. Vérifier la santé commerciale d'une
+marque avant de miser dessus.
 
 ### La notoriété de la marque compte autant que le ratio
 
