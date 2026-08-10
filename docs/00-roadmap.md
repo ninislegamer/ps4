@@ -85,6 +85,29 @@ Dans Gandi → *Nom de domaine* → *Enregistrements DNS* :
 
 ---
 
+## État d'avancement
+
+Domaine : **maison-nsaia.fr** (Gandi, DNS pointés vers Shopify).
+Boutique technique : `n0v0ux-pn.myshopify.com`.
+Thème retenu : **Dawn**.
+
+| Point | État |
+|-------|------|
+| Statut juridique / SIRET | ✅ obtenu |
+| Compte Shopify + boutique | ✅ créé |
+| Domaine connecté (`@`, `www`, principal) | ✅ connecté |
+| Shopify Payments — acceptation | ✅ active |
+| Shopify Payments — versements | ⏸️ IBAN manquant, en attente du RIB |
+| PayPal Business | ⏸️ en attente du RIB |
+| Domaine des comptes clients | 🔄 à basculer sur maison-nsaia.fr |
+| Thème Dawn installé et réglé | ⬜ à faire sur ordinateur |
+| Photos produits harmonisées | ⬜ plus tard |
+
+À retenir : l'éditeur de thème Shopify est inutilisable confortablement sur
+téléphone. Tout le reste de l'admin passe bien en mobile.
+
+---
+
 ## Phases suivantes (accompagnées, une étape à la fois)
 
 | # | Étape | Livrable |
