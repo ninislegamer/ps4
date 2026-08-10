@@ -21,6 +21,7 @@ livraison gratuite, le port est absorbé et se déduit en plus.
 | Robe **Sandro** blanche | 40 | Neuve avec étiquette | 50,04 € | **99 €** | 35 € | Boutique | reçue, à retirer de Vinted |
 | Baskets **adidas by Stella McCartney** UltraBoost 21 Metallic | 36 | Neuves avec étiquette et boîte | 35 € | **119 €** | 67 € | Boutique | reçues |
 | Short **ba&sh** Fegor, lightusedblue | 34 | Neuf avec étiquette | 55,40 € | **99 €** | 30 € | Boutique | reçu — **saisonnier** |
+| Robe droite **Pier Antonio Gaspari** bleu marine | 42 | Neuve | 30 € | **79 €** | 38 € | Boutique + Leboncoin | reçue |
 | Ballerines **Hogan** 186 Zeppa Fashion, crème et vernis turquoise | 36 | Neuves avec boîte | 15 € | **99 €** | 70 € | Boutique | reçues |
 | Ballerines **Massimo Dutti** cuir rouge à bride | 40 (IT) | Neuves avec étiquette et boîte | 25 € | **69 €** | 34 € | Leboncoin + eBay | reçues |
 | **Forma** Legacy Waterproof | 45 | Neuve | ~76 € | **159 €** | 53 € | Boutique + Vinted + Leboncoin | à recevoir |
@@ -31,7 +32,7 @@ livraison gratuite, le port est absorbé et se déduit en plus.
 | **BMW** Overall ProRain | XL | Neuf | 82,61 € | **139 €** | 29 € | Leboncoin + Vinted | à recevoir |
 | **Adidas Yeezy** 700 V3 Mono Safflower | 38 | Occasion, portée | 75,24 € | à établir | — | Vinted | authentification requise |
 
-**Capital engagé : ~793 €.** Marge attendue : environ **709 €** hors Yeezy.
+**Capital engagé : ~823 €.** Marge attendue : environ **747 €** hors Yeezy.
 
 ### Références pour les fiches
 
@@ -70,6 +71,10 @@ livraison gratuite, le port est absorbé et se déduit en plus.
   aucune urgence sur le prix. Indiquer les deux tailles, 36 FR et IT 40.
 - **Robe Sandro** — Femme → Vêtements, niveau *Créateurs*. Badges *100 %
   Authentique* et *Neuf avec étiquette*.
+- **Robe Pier Antonio Gaspari** — Femme → Vêtements, niveau *Créateurs*. Maison
+  italienne distribuée sur YOOX. **Orthographe exacte : Pier ANTONIO, pas
+  Antonia** — l'annonce de la maison de vente comportait la faute, et une fiche
+  mal orthographiée reste introuvable.
 - **adidas by Stella McCartney UltraBoost 21** — Femme → Baskets, niveau
   *Créateurs* (pas Sportswear : c'est une collaboration de créatrice). Taille 36,
   la plus courante.
@@ -148,6 +153,20 @@ dessous, la marge dépend trop du prix de vente exact.
 | Ballerines Massimo Dutti | 25 € | ~70-100 € | 1 pour 3,4 |
 | Short ba&sh | 55 € | 150 € | 1 pour 2,7 |
 | Salomon X Ultra 5 Mid GTX | 65 € | 116 € | **1 pour 1,8** ⚠️ |
+
+### La notoriété de la marque compte autant que le ratio
+
+Sandro, ba&sh, Karl Lagerfeld, Sonia Rykiel, Hogan, Stella McCartney sont des
+noms que les acheteurs tapent dans une barre de recherche : c'est ainsi que les
+fiches sont trouvées sur Vinted et Leboncoin. Pier Antonio Gaspari est connue en
+Italie, pas en France — la robe ne sera trouvée qu'en parcourant une catégorie.
+
+**À ratio égal, privilégier une marque connue.** Une robe Sandro à 50 € vaut
+mieux qu'une robe italienne inconnue à 30 €.
+
+Sur la boutique en revanche, la pénalité est faible : les visiteurs parcourent le
+catalogue au lieu de chercher une marque. Une marque peu connue y garde donc sa
+place, à condition qu'elle tienne le niveau.
 
 Et toujours comparer au **prix pratiqué aujourd'hui**, pas au prix de lancement :
 la Stella McCartney est sortie à 250 € mais se trouve à 110 € en neuf.
