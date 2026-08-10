@@ -17,6 +17,7 @@ livraison gratuite, le port est absorbé et se déduit en plus.
 | Pièce | Taille | État | Coût réel | Prix | Marge | Canal | Statut |
 |-------|--------|------|-----------|------|-------|-------|--------|
 | Jupe **Sonia Rykiel** midi twill cerises, baby blue | 34 | Neuve avec étiquette | 42,80 € | **129 €** | 68 € | Boutique | reçue |
+| Blazer **Karl Lagerfeld** punto noir | 36 FR (IT 40) | Neuf avec étiquette | 45 € | **139 €** | 75 € | Boutique | reçu |
 | Robe **Sandro** blanche | 40 | Neuve avec étiquette | 50,04 € | **99 €** | 35 € | Boutique | reçue, à retirer de Vinted |
 | Baskets **adidas by Stella McCartney** UltraBoost 21 Metallic | 36 | Neuves avec étiquette et boîte | 35 € | **119 €** | 67 € | Boutique | reçues |
 | Short **ba&sh** Fegor, lightusedblue | 34 | Neuf avec étiquette | 55,40 € | **99 €** | 30 € | Boutique | reçu — **saisonnier** |
@@ -27,7 +28,7 @@ livraison gratuite, le port est absorbé et se déduit en plus.
 | **BMW** Overall ProRain | XL | Neuf | 82,61 € | **139 €** | 29 € | Leboncoin + Vinted | à recevoir |
 | **Adidas Yeezy** 700 V3 Mono Safflower | 38 | Occasion, portée | 75,24 € | à établir | — | Vinted | authentification requise |
 
-**Capital engagé : ~563 €.** Marge attendue : environ **469 €** hors Yeezy.
+**Capital engagé : ~608 €.** Marge attendue : environ **544 €** hors Yeezy.
 
 ### Références pour les fiches
 
@@ -36,6 +37,7 @@ livraison gratuite, le port est absorbé et se déduit en plus.
 | Jupe Sonia Rykiel | `23E12J25`, coloris B01 Baby Blue | 7630438808812 |
 | Robe Sandro | `R20662E`, modèle Noaim, blanc | 3607171478927 |
 | Short ba&sh | `1H24FEGO`, Fegor lightusedblue — **150 € prix boutique imprimé sur l'étiquette** | 3664784178749 |
+| Blazer Karl Lagerfeld | `AJW1404…`, coloris 999 Black, punto jersey | 21066525154 |
 | adidas by Stella McCartney | `H00099`, aSMC UltraBOOST 21 Metallic | à relever sur la boîte |
 | New Balance GS 1906 | `G19064IK` — **version GS, pas la `U19063EN` adulte** | à relever |
 | Adidas Predator Edge.1 TF | `GZ6448`, Champions Code | à relever |
@@ -50,6 +52,11 @@ livraison gratuite, le port est absorbé et se déduit en plus.
   du stock : 43 € payés pour une pièce à ~500 € de prix catalogue. Vérifier la
   composition sur l'étiquette : la ligne est en soie, et « twill de soie » vaut
   beaucoup mieux que « twill » dans la description.
+- **Blazer Karl Lagerfeld** — Femme → Vêtements, niveau *Créateurs*. Composition
+  à mettre en avant : **punto jersey**, 60 % viscose / 35 % polyamide / 5 %
+  élasthanne — souple et extensible, la ligne d'un blazer avec le confort d'une
+  maille. **Aucune saisonnalité** : un blazer noir se vend toute l'année, donc
+  aucune urgence sur le prix. Indiquer les deux tailles, 36 FR et IT 40.
 - **Robe Sandro** — Femme → Vêtements, niveau *Créateurs*. Badges *100 %
   Authentique* et *Neuf avec étiquette*.
 - **adidas by Stella McCartney UltraBoost 21** — Femme → Baskets, niveau
@@ -100,6 +107,7 @@ dessous, la marge dépend trop du prix de vente exact.
 | Pièce | Payé | Marché | Ratio |
 |-------|------|--------|-------|
 | Jupe Sonia Rykiel | 43 € | ~500 € catalogue | 1 pour 11,6 |
+| Blazer Karl Lagerfeld | 45 € | 294,95 € | 1 pour 6,6 |
 | Predator Edge.1 TF | 20 €/paire | ~110 € | 1 pour 5,5 |
 | Robe Sandro | 50 € | ~250 € | 1 pour 5 |
 | adidas Stella McCartney | 35 € | ~110 € actuel | 1 pour 3,1 |
