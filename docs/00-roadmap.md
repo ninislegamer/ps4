@@ -363,23 +363,38 @@ même si la livraison reste limitée à la zone ouverte du moment.
 
 ## Structure des catégories (étape 2)
 
+Deux univers séparés dans la navigation, une seule promesse : **pièce rare
+authentifiée**.
+
 ```
-Femme
-  ├─ Vêtements
-  ├─ Baskets
-  └─ Sandales
-Homme
-  ├─ Vêtements
-  ├─ Baskets
-  └─ Sandales
-Cartes Pokémon
-  ├─ Boosters scellés
-  └─ Displays scellés
-Jouets & Divers
+MODE                          COLLECTION
+├─ Femme                      ├─ Cartes Pokémon
+│   ├─ Vêtements              │   ├─ Boosters scellés
+│   ├─ Baskets                │   └─ Displays scellés
+│   └─ Sandales               └─ Objets de collection
+└─ Homme
+    ├─ Vêtements
+    ├─ Baskets
+    └─ Sandales
 ```
 
-Collections transverses : *Nouveautés*, *Pièces rares*, *Neuf avec étiquette*,
-*Dernière pièce*.
+Un visiteur venu pour des sandales ne tombe pas sur des cartes, et inversement.
+
+**« Objets de collection » remplace « Jouets & Divers ».** « Divers » signale
+l'absence de ligne éditoriale. N'y entre que ce qui tient la promesse : scellé,
+série limitée, hors production. Un article qui n'y répond pas n'a pas sa place
+sur Maison Nsaia — les cartes scellées oui, un jouet de grande surface non.
+
+### Collections transverses
+
+- *Nouveautés*
+- *Pièces d'exception* — les « grosses pièces » à 100 € de marge minimum. Le
+  seuil économique devient une vitrine.
+- *Dernière pièce*
+- Par état : *Neuf avec étiquette*, *Neuf sans étiquette*, *Très bon état*
+
+L'état est un métachamp (étape 2) : il alimente à la fois les filtres de
+navigation et les badges de la fiche produit.
 
 ---
 
