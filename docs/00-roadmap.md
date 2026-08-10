@@ -271,9 +271,17 @@ Objectif retenu : une boutique perçue comme internationale, ouverte par paliers
 
 | Phase | Zone | Déclencheur |
 |-------|------|-------------|
-| 1 | France | ouverture |
-| 2 | Belgique, Luxembourg, puis Allemagne, Espagne, Italie | emballage, délais et retours rodés |
+| 1 | France, Belgique, Luxembourg | ouverture |
+| 2 | Allemagne, Espagne, Italie, Pays-Bas | deux ou trois envois faits sans accroc |
 | 3 | Hors UE (Royaume-Uni, Suisse, États-Unis) | volume qui justifie la complexité |
+
+À l'intérieur de l'UE il n'y a ni douane, ni déclaration, ni frais surprise pour
+le client : ouvrir aux pays francophones voisins dès le premier jour ne coûte
+rien en complexité. La difficulté commence **hors UE**, pas dans l'UE.
+
+**Condition unique :** des tarifs de livraison distincts par zone. Un colis vers
+Berlin coûte plus cher qu'un colis vers Toulouse — un tarif unique reviendrait à
+absorber la différence sur la marge.
 
 ### À vérifier avec le comptable avant la phase 2
 
@@ -298,7 +306,9 @@ comptable — à poser en même temps que la question des seuils (voir 0.1).
 Indépendant des phases ci-dessus, et activable dès l'ouverture :
 
 - **Shopify Markets** (inclus) pour l'affichage multi-devises.
-- **Translate & Adapt** (app Shopify gratuite) pour une version anglaise.
+- **Translate & Adapt** (app Shopify gratuite) pour les traductions. Français +
+  anglais couvre l'essentiel ; espagnol et allemand peuvent suivre. Vérifier le
+  nombre de langues autorisé sur le forfait Basic au moment de la configuration.
 
 Un visiteur étranger voit alors une boutique professionnelle dans sa langue,
 même si la livraison reste limitée à la zone ouverte du moment.
