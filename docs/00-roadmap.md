@@ -482,20 +482,39 @@ rôle d'acquisition, en quantité maîtrisée, pas parce qu'il porte la marge.
 Hors périmètre au lancement. Conditions à réunir avant de rouvrir le sujet :
 première boutique sortie, premières ventes faites, emballage rodé.
 
-**Vintage uniquement, jamais de neuf.** Le neuf place la boutique face à Thomann,
-Amazon ou Woodbrass, qui achètent par volumes inaccessibles — marge écrasée, et
-aucune prime à l'authentification puisque personne ne doute d'un appareil neuf.
-Le vintage recherché (platines, matériel de studio hors production) relève au
-contraire pleinement de la thèse : marché actif, prix opaques, rareté réelle.
+**Neuf uniquement, acheté en vente aux enchères** (liquidation, invendus,
+redressement judiciaire). Jamais d'occasion sur cette famille : l'occasion est
+réservée aux pièces de créateurs.
+
+L'objection habituelle — impossible de battre Thomann ou Amazon sur du neuf —
+tombe dès lors que l'acquisition se fait sous le prix de gros. C'est le seul
+angle qui rend la stratégie de prix bas applicable sur des produits comparables :
+neuf, code-barres, référencé sur Google Shopping, et moins cher parce que le
+coût d'entrée est plus bas, pas parce que la marge est sacrifiée.
 
 Contraintes propres à cette famille de produits :
 
+- **Garantie légale de conformité de 2 ans**, portée par le vendeur. Sur du
+  matériel acheté en liquidation, aucun recours vers la marque faute d'être
+  revendeur agréé : une panne au bout de quatorze mois est à la charge de la
+  boutique.
 - **Port** : lourd et fragile, 20-30 € d'expédition et assurance obligatoire. Un
-  colis cassé efface la marge de dix ventes.
-- **Test** : capacité à vérifier le fonctionnement d'un appareil d'occasion et à
-  le décrire honnêtement.
+  colis cassé efface la marge de plusieurs ventes.
 - **Retour** : 14 jours de rétractation sur une pièce à plusieurs centaines
   d'euros, qui peut revenir abîmée.
+- **État déclaré** : neuf réel ou ex-démonstration. Un carton ouvert interdit la
+  mention « neuf », sur la fiche comme sur Google Shopping.
+- **Origine du stock** : liquidation, retours clients ou import parallèle — cela
+  détermine ce qui peut être affirmé.
+
+### Seuil de marge sur les articles à forte valeur
+
+Un seuil fixe perd son sens quand la valeur monte : 100 € sur un manteau à 400 €
+représentent 25 %, contre 6 % sur une platine à 1 700 € — où une seule panne sous
+garantie efface la marge de cinq ventes.
+
+**Au-delà de 1 000 € de prix de revente, viser 12 à 15 % de marge** plutôt qu'un
+montant fixe.
 
 Deux points juridiques s'appliqueront :
 
