@@ -104,6 +104,7 @@ Thème retenu : **Dawn**.
 | DMARC | ✅ `_dmarc` TXT `v=DMARC1; p=none` |
 | Taxes (franchise en base) | ✅ vérifié — 0 %, aucune inscription fiscale |
 | Double authentification | ✅ active (SMS) — passer à une appli + codes de secours |
+| Forfait | ✅ Basic, promo **1 €/mois jusqu'au 10/11/2026** |
 | Domaine des comptes clients | 🔄 à basculer sur maison-nsaia.fr |
 | Thème Dawn installé et réglé | ⬜ à faire sur ordinateur |
 | Photos produits harmonisées | ⬜ plus tard |
@@ -134,12 +135,20 @@ PayPal est un moyen de paiement supplémentaire, pas un remplacement.
 
 ### À faire avant l'ouverture de la boutique
 
-- **Forfait** — choisir Basic (annuel) avant la fin de l'essai.
 - **Expédition et livraison** — transporteurs, tarifs, et **limiter les
   livraisons à la France** au démarrage (évite les questions de TVA et de
   douane à l'international).
 - **Confidentialité des clients** — RGPD, bandeau cookies.
 - **Politiques** — CGV, mentions légales, retours (dépend de 0.1).
+
+**Forfait : ne rien changer avant novembre 2026.** La boutique est sur Basic avec
+une promo à 1 €/mois jusqu'au 10/11/2026 (tarif plein 36 €). Basculer en annuel
+maintenant ferait perdre la promo — environ 80 € de surcoût sur les trois mois
+pour économiser 25 % sur un tarif plein. **Rappel à poser au 1er novembre 2026 :
+passer en facturation annuelle juste avant la fin de la promo.**
+
+Taux de carte Shopify Payments sur ce forfait : **1,5 % + 0,25 €** en ligne. À
+intégrer au calcul de marge de l'étape 7 si l'on veut la marge nette réelle.
 
 **Taxes : rien à faire.** Shopify applique 0 % faute d'inscription fiscale, ce
 qui correspond exactement à la franchise en base. Ne jamais ajouter de numéro de
