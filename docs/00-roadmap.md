@@ -263,6 +263,48 @@ absorber la différence.
 
 ---
 
+## Ouverture à l'international
+
+Objectif retenu : une boutique perçue comme internationale, ouverte par paliers.
+
+### Déploiement par phases
+
+| Phase | Zone | Déclencheur |
+|-------|------|-------------|
+| 1 | France | ouverture |
+| 2 | Belgique, Luxembourg, puis Allemagne, Espagne, Italie | emballage, délais et retours rodés |
+| 3 | Hors UE (Royaume-Uni, Suisse, États-Unis) | volume qui justifie la complexité |
+
+### À vérifier avec le comptable avant la phase 2
+
+Sous le régime de la **franchise en base**, aucune TVA n'est collectée. Les
+ventes à des particuliers dans d'autres pays de l'UE sont soumises à un **seuil
+annuel de l'ordre de 10 000 €** de ventes transfrontalières, au-delà duquel
+l'enregistrement au guichet **OSS** et l'application de la TVA du pays du client
+entrent en jeu. L'articulation exacte avec la franchise en base relève du
+comptable — à poser en même temps que la question des seuils (voir 0.1).
+
+### Contraintes hors UE (phase 3)
+
+- Déclarations douanières (CN22 / CN23) sur chaque colis.
+- Le client peut recevoir une facture de douane à la livraison : très mauvaise
+  expérience sur une pièce à plusieurs centaines d'euros. Shopify permet de
+  collecter droits et taxes à la commande, moyennant **0,5 % par transaction**.
+- Coût d'un retour depuis un pays lointain, à arbitrer dans la politique de
+  retour.
+
+### Paraître international sans livrer partout
+
+Indépendant des phases ci-dessus, et activable dès l'ouverture :
+
+- **Shopify Markets** (inclus) pour l'affichage multi-devises.
+- **Translate & Adapt** (app Shopify gratuite) pour une version anglaise.
+
+Un visiteur étranger voit alors une boutique professionnelle dans sa langue,
+même si la livraison reste limitée à la zone ouverte du moment.
+
+---
+
 ## Phases suivantes (accompagnées, une étape à la fois)
 
 | # | Étape | Livrable |
