@@ -16,14 +16,28 @@ livraison gratuite, le port est absorbé et se déduit en plus.
 
 | Pièce | Taille | État | Coût réel | Prix | Marge | Canal | Statut |
 |-------|--------|------|-----------|------|-------|-------|--------|
-| Robe **Sandro** blanche | 40 | Neuve avec étiquette | 50,04 € | **99 €** | 35 € | Boutique + Vinted | en ligne à 80 €, à repositionner |
+| Jupe **Sonia Rykiel** midi twill cerises, baby blue | 34 | Neuve avec étiquette | 42,80 € | **129 €** | 68 € | Boutique | reçue |
+| Robe **Sandro** blanche | 40 | Neuve avec étiquette | 50,04 € | **99 €** | 35 € | Boutique | reçue, à retirer de Vinted |
+| Baskets **adidas by Stella McCartney** UltraBoost 21 Metallic | 36 | Neuves avec étiquette et boîte | 35 € | **119 €** | 67 € | Boutique | reçues |
+| Short **ba&sh** Fegor, lightusedblue | 34 | Neuf avec étiquette | 55,40 € | **99 €** | 30 € | Boutique | reçu — **saisonnier** |
 | **Forma** Legacy Waterproof | 45 | Neuve | ~76 € | **159 €** | 53 € | Boutique + Vinted + Leboncoin | à recevoir |
 | **New Balance** GS 1906 Alkaline Green | 38½ | Neuve avec boîte | 80,60 € | **139 €** | 39 € | Boutique + Vinted | à recevoir |
-| **Adidas** Predator Edge.1 TF ×2 | 48⅔ | Neuves avec boîte | 40 € les deux | **89 €/paire** | 57 €/paire | eBay + Leboncoin + Vinted | en ligne à 65 €, à repositionner |
+| **Adidas** Predator Edge.1 TF ×2 | 48⅔ | Neuves avec boîte | 40 € les deux | **89 €/paire** | 57 €/paire | eBay + Leboncoin | reçues, à retirer de Vinted |
 | **BMW** Overall ProRain | XL | Neuf | 82,61 € | **139 €** | 29 € | Leboncoin + Vinted | à recevoir |
 | **Adidas Yeezy** 700 V3 Mono Safflower | 38 | Occasion, portée | 75,24 € | à établir | — | Vinted | authentification requise |
 
-**Capital engagé : ~405 €.** Marge attendue : environ **270 €** hors Yeezy.
+**Capital engagé : ~538 €.** Marge attendue : environ **435 €** hors Yeezy.
+
+### Références pour les fiches
+
+| Pièce | Référence | EAN |
+|-------|-----------|-----|
+| Jupe Sonia Rykiel | `23E12J25`, coloris B01 Baby Blue | 7630438808812 |
+| Robe Sandro | `R20662E`, modèle Noaim, blanc | 3607171478927 |
+| Short ba&sh | `1H24FEGO`, Fegor lightusedblue — **150 € prix boutique imprimé sur l'étiquette** | 3664784178749 |
+| adidas by Stella McCartney | `H00099`, aSMC UltraBOOST 21 Metallic | à relever sur la boîte |
+| New Balance GS 1906 | `G19064IK` — **version GS, pas la `U19063EN` adulte** | à relever |
+| Adidas Predator Edge.1 TF | `GZ6448`, Champions Code | à relever |
 
 ---
 
@@ -31,8 +45,19 @@ livraison gratuite, le port est absorbé et se déduit en plus.
 
 ### Vont sur la boutique
 
+- **Jupe Sonia Rykiel** — Femme → Vêtements, niveau *Créateurs*. Meilleur ratio
+  du stock : 43 € payés pour une pièce à ~500 € de prix catalogue. Vérifier la
+  composition sur l'étiquette : la ligne est en soie, et « twill de soie » vaut
+  beaucoup mieux que « twill » dans la description.
 - **Robe Sandro** — Femme → Vêtements, niveau *Créateurs*. Badges *100 %
-  Authentique* et *Neuf avec étiquette*. La pièce qui définit le mieux la marque.
+  Authentique* et *Neuf avec étiquette*.
+- **adidas by Stella McCartney UltraBoost 21** — Femme → Baskets, niveau
+  *Créateurs* (pas Sportswear : c'est une collaboration de créatrice). Taille 36,
+  la plus courante.
+- **Short ba&sh Fegor** — Femme → Vêtements, niveau *Créateurs*. **Pièce
+  saisonnière** : quatre à six semaines de saison restantes. S'il n'est pas parti
+  fin septembre, le stocker jusqu'au printemps plutôt que de le brader — perdre
+  30 € pour libérer 55 € de trésorerie n'en vaut pas la peine.
 - **New Balance GS 1906** — Femme → Baskets, niveau *Sportswear*. Un 38½ GS
   correspond à une taille femme courante : viser ce public, pas les enfants.
   **Préciser « modèle GS », référence `G19064IK`** — la version adulte est
@@ -46,6 +71,24 @@ livraison gratuite, le port est absorbé et se déduit en plus.
 - **Predator Edge.1 TF** — crampons de football.
 - **Yeezy 700 V3** — état insuffisant (portée) au regard de la règle « occasion
   uniquement en très bon état », et risque de contrefaçon non levé.
+
+---
+
+## Règle de sourcing : le ratio
+
+Viser **1 pour 4 minimum** entre le prix payé et le prix de marché actuel. En
+dessous, la marge dépend trop du prix de vente exact.
+
+| Pièce | Payé | Marché | Ratio |
+|-------|------|--------|-------|
+| Jupe Sonia Rykiel | 43 € | ~500 € catalogue | 1 pour 11,6 |
+| Predator Edge.1 TF | 20 €/paire | ~110 € | 1 pour 5,5 |
+| Robe Sandro | 50 € | ~250 € | 1 pour 5 |
+| adidas Stella McCartney | 35 € | ~110 € actuel | 1 pour 3,1 |
+| Short ba&sh | 55 € | 150 € | 1 pour 2,7 |
+
+Et toujours comparer au **prix pratiqué aujourd'hui**, pas au prix de lancement :
+la Stella McCartney est sortie à 250 € mais se trouve à 110 € en neuf.
 
 ---
 
@@ -80,9 +123,10 @@ ne fait pas apparaître des acheteurs qui ne voient pas l'annonce.
 
 ## À faire
 
-- [ ] Repositionner la Sandro à 99 €, republier avec photos et mesures à plat
-- [ ] Repositionner les Predator à 89 €, **une annonce par paire**, ouvrir un
-      compte eBay
+- [ ] Retirer la Sandro et les Predator de Vinted (articles neufs : hors
+      périmètre Vinted Pro)
+- [ ] Ouvrir un compte eBay pour les Predator — **une annonce par paire**, 89 €
+- [ ] Vérifier la composition de la jupe Sonia Rykiel sur l'étiquette intérieure
 - [ ] Mettre en ligne les pièces déjà en possession (baskets homme et femme,
       robes, short en jean) pour remplir le dressing
 - [ ] Authentifier la Yeezy avant toute mise en vente (10-20 €), puis fixer son
