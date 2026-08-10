@@ -24,11 +24,11 @@ livraison gratuite, le port est absorbé et se déduit en plus.
 | Robe asymétrique **Elisabetta Franchi** ivoire, viscose | 46 IT / 42 FR | Neuve avec étiquette | 26 € | **139 €** | 94 € | Boutique | reçue |
 | Robe bustier **Chiara Ferragni** noire, soirée | M | Neuve avec étiquette | 38 € | **89 €** | 39 € | Boutique + Leboncoin | reçue |
 | Robe droite **Pier Antonio Gaspari** bleu marine | 42 | Neuve | 30 € | **79 €** | 38 € | Boutique + Leboncoin | reçue |
-| Baskets **Emporio Armani** bleu lavande / blanc | 36 | Neuves avec étiquette et boîte | 55 € | **129 €** | 56 € | Boutique | reçues — **prix marché à confirmer** |
+| Baskets **Emporio Armani** bleu lavande / blanc | 36 | Neuves avec étiquette et boîte | 55 € | **99 €** | 30 € | Boutique | reçues |
 | Ballerines **Hogan** 186 Zeppa Fashion, crème et vernis turquoise | 36 | Neuves avec boîte | 15 € | **99 €** | 70 € | Boutique | reçues |
 | Ballerines **Massimo Dutti** cuir rouge à bride | 40 (IT) | Neuves avec étiquette et boîte | 25 € | **69 €** | 34 € | Leboncoin + eBay | reçues |
-| Baskets **Geox** gris / argent | 35 | Neuves avec boîte | 25 € | **69 €** | 34 € | Leboncoin + eBay | reçues — **prix marché à confirmer** |
-| **New Balance** BB80 blanc / bleu marine | 38 | Neuves avec boîte | 45 € | **79 €** | 23 € | Boutique + Leboncoin | reçues — **prix marché à confirmer** |
+| Baskets **Geox** gris / argent | 35 | Neuves avec boîte | 25 € | **59 €** | 26 € | Leboncoin + eBay | reçues |
+| **New Balance** BB80 blanc / bleu marine | 38 | Neuves avec boîte | 45 € | **59 €** | 6 € | Boutique + Leboncoin | reçues — **lot raté** |
 | **Forma** Legacy Waterproof | 45 | Neuve | ~76 € | **159 €** | 53 € | Boutique + Vinted + Leboncoin | à recevoir |
 | **New Balance** GS 1906 Alkaline Green | 38½ | Neuve avec boîte | 80,60 € | **139 €** | 39 € | Boutique + Vinted | à recevoir |
 | **Adidas** Predator Edge.1 TF ×2 | 48⅔ | Neuves avec boîte | 40 € les deux | **89 €/paire** | 57 €/paire | eBay + Leboncoin | reçues, à retirer de Vinted |
@@ -37,7 +37,7 @@ livraison gratuite, le port est absorbé et se déduit en plus.
 | **BMW** Overall ProRain | XL | Neuf | 82,61 € | **139 €** | 29 € | Leboncoin + Vinted | à recevoir |
 | **Adidas Yeezy** 700 V3 Mono Safflower | 38 | Occasion, portée | 75,24 € | à établir | — | Vinted | authentification requise |
 
-**Capital engagé : ~1 012 €.** Marge attendue : environ **993 €** hors Yeezy.
+**Capital engagé : ~1 012 €.** Marge attendue : environ **942 €** hors Yeezy.
 
 ### Références pour les fiches
 
@@ -97,10 +97,9 @@ livraison gratuite, le port est absorbé et se déduit en plus.
   italienne distribuée sur YOOX. **Orthographe exacte : Pier ANTONIO, pas
   Antonia** — l'annonce de la maison de vente comportait la faute, et une fiche
   mal orthographiée reste introuvable.
-- **Baskets Emporio Armani** — Femme → Baskets, niveau *Créateurs*. **Prix marché
-  à confirmer** (~220-320 € estimés en boutique, 100-160 € en outlet ; non
-  vérifiés, quota de recherche épuisé) — contrôler sur YOOX, Zalando et Vestiaire
-  Collective. Seuil d'équilibre 64 €, plancher de marge atteint à 93 €.
+- **Baskets Emporio Armani** — Femme → Baskets, niveau *Créateurs*. Marché
+  vérifié : **62 à 102 €** en neuf sur eBay, jusqu'à −60 % sur Stylight. Prix
+  ramené de 129 € à **99 €**, marge 30 €. Seuil d'équilibre 64 €.
   Le coloris bleu lavande et blanc est féminin et actuel, pas un basique noir :
   bonne candidate pour une photo de page d'accueil.
 - **adidas by Stella McCartney UltraBoost 21** — Femme → Baskets, niveau
@@ -111,11 +110,10 @@ livraison gratuite, le port est absorbé et se déduit en plus.
   fin septembre, le stocker jusqu'au printemps plutôt que de le brader — perdre
   30 € pour libérer 55 € de trésorerie n'en vaut pas la peine.
 - **New Balance BB80 blanc / bleu marine** — Femme → Baskets, niveau
-  *Sportswear*. Basket de garde-robe qui complète bien les pièces créateur.
-  **Prix marché à confirmer** (~90-100 € estimés, non vérifiés : quota de
-  recherche épuisé) — vérifier chez New Balance, Courir, JD Sports.
-  **Marge serrée : 23 € à 79 €, 14 € à 69 €. Aucune marge de négociation** — ne
-  pas brader. Ratio de 1 pour 2,1, sous la règle du 1 pour 4.
+  *Sportswear*. **Lot raté** : payées 45 € alors que le modèle se trouve neuf à
+  partir de **54,99 €** (fourchette 55-97 € selon marchands). Point mort à 53 €.
+  Prix ramené à 59 € pour récupérer la mise, marge résiduelle de 6 €. Ne pas
+  espérer mieux : au-delà de 69 €, l'acheteur trouve du neuf moins cher.
 - **New Balance GS 1906** — Femme → Baskets, niveau *Sportswear*. Un 38½ GS
   correspond à une taille femme courante : viser ce public, pas les enfants.
   **Préciser « modèle GS », référence `G19064IK`** — la version adulte est
@@ -133,10 +131,10 @@ livraison gratuite, le port est absorbé et se déduit en plus.
   du groupe Inditex : ni sportswear, ni créateur. Vendues sur Leboncoin et eBay,
   **pas sur Vinted** puisqu'elles sont neuves.
 - **Baskets Geox** — marque italienne grand public positionnée sur le confort,
-  même cas que Massimo Dutti : hors des trois niveaux. **Prix marché à
-  confirmer** (~90-120 € estimés, non vérifiés). Seuil d'équilibre 29 €, plancher
-  de marge atteint à 58 €. **Pointure 35** : la plus petite taille adulte
-  courante, donc la plus lente à écouler. Aucune urgence, 25 € immobilisés.
+  même cas que Massimo Dutti : hors des trois niveaux. Marché vérifié :
+  **55 à 110 €**, avec des modèles soldés à 55 €. Prix ramené de 69 € à **59 €**,
+  marge 26 €. **Pointure 35** : la plus petite taille adulte courante, donc la
+  plus lente à écouler. Aucune urgence, 25 € immobilisés.
 - **Havaianas Slim ×10** — vendues à l'unité, **port à la charge de l'acheteur**.
   Un envoi coûte ~5 € en Mondial Relay : à 14 € port inclus, chaque paire serait
   vendue à perte (−3,45 €). L'écart entre 14 € et 19,90 € représente **50 € pour
@@ -185,7 +183,7 @@ dessous, la marge dépend trop du prix de vente exact.
 |-------|------|--------|-------|
 | Ballerines Hogan | 15 € | ~300 € catalogue d'origine | 1 pour 20 |
 | Robe Elisabetta Franchi | 26 € | ~360 € | 1 pour 14 |
-| Baskets Emporio Armani | 55 € | ~280 € estimés | 1 pour 5 |
+| Baskets Emporio Armani | 55 € | 62-102 € vérifiés | 1 pour 1,5 ⚠️ |
 | Jupe Sonia Rykiel | 43 € | ~500 € catalogue | 1 pour 11,6 |
 | Blazer Karl Lagerfeld | 45 € | 294,95 € | 1 pour 6,6 |
 | Predator Edge.1 TF | 20 €/paire | ~110 € | 1 pour 5,5 |
@@ -227,6 +225,21 @@ place, à condition qu'elle tienne le niveau.
 
 Et toujours comparer au **prix pratiqué aujourd'hui**, pas au prix de lancement :
 la Stella McCartney est sortie à 250 € mais se trouve à 110 € en neuf.
+
+### Ne jamais fixer un prix sur une estimation de mémoire
+
+Trois pièces ont été chiffrées de mémoire faute de vérification possible, et les
+trois estimations étaient trop hautes :
+
+| Pièce | Estimé | Vérifié |
+|-------|--------|---------|
+| New Balance BB80 | 90-100 € | 55-97 € |
+| Emporio Armani | 220-320 € | 62-102 € |
+| Geox | 90-120 € | 55-110 € |
+
+Écart total sur la marge attendue : **−51 €**. Toujours vérifier la référence
+exacte avant de fixer un prix, y compris sur une marque prestigieuse : le nom ne
+dit rien du prix pratiqué.
 
 ### Salomon : plafonner à l'estimation basse
 
