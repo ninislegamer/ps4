@@ -137,9 +137,9 @@ PayPal est un moyen de paiement supplémentaire, pas un remplacement.
 
 ### À faire avant l'ouverture de la boutique
 
-- **Expédition et livraison** — transporteurs, tarifs, et **limiter les
-  livraisons à la France** au démarrage (évite les questions de TVA et de
-  douane à l'international).
+- **Expédition et livraison** — choisir l'agrégateur, puis créer les zones
+  **France, Belgique, Luxembourg** avec des tarifs distincts par zone
+  (voir « Ouverture à l'international »).
 - **Confidentialité des clients** — RGPD, bandeau cookies.
 - **Politiques** — CGV, mentions légales, retours (dépend de 0.1).
 
