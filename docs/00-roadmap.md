@@ -263,6 +263,43 @@ absorber la différence.
 
 ---
 
+## Visibilité et acquisition
+
+**Le prix bas ne génère pas de trafic.** Il améliore la conversion une fois le
+visiteur arrivé, mais aucun moteur de recherche ne classe par prix.
+
+### Ce qui ne fonctionne pas
+
+Le référencement naturel dépend de la pertinence, de l'ancienneté du domaine, du
+contenu et des liens entrants. Un domaine neuf n'a aucune autorité : être le
+moins cher du marché ne le fera pas remonter dans les résultats.
+
+### Google Shopping : utile mais étroit
+
+Les fiches gratuites de Google Shopping (via Merchant Center, canal
+« Google & YouTube » gratuit dans Shopify) tiennent compte du prix. À activer,
+puisque c'est sans coût.
+
+Limite structurelle : le mécanisme repose sur la comparaison de produits
+identifiés par code-barres.
+
+- **Pièces uniques** — aucun équivalent à comparer, le levier ne s'applique pas.
+- **Produits scellés standardisés** — le levier fonctionne, mais ce sont ceux qui
+  placent la boutique en guerre de prix (voir le critère d'admission).
+
+### Les canaux qui comptent réellement
+
+1. **Requêtes précises.** Personne ne cherche « manteau pas cher » ; quelqu'un
+   cherche « Margiela veste laine taille 48 occasion ». Peu de concurrence, et
+   une fiche bien rédigée peut ressortir. C'est la raison du format de titre
+   imposé dans `brief-ia.md` : Marque + Modèle + Caractéristique + Taille.
+2. **Instagram et TikTok.** Premier canal sur la revente de pièces rares, loin
+   devant la recherche. Une pièce filmée, bien éclairée.
+3. **Newsletter.** Le seul canal réellement possédé, indépendant de tout
+   algorithme.
+
+---
+
 ## Newsletter
 
 Canal prioritaire pour ce modèle : les pièces sont uniques, une pièce se vend une
