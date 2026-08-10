@@ -158,6 +158,36 @@ le seuil de franchise est dépassé — avec le comptable.
 
 ---
 
+## Ce qui sera codé plutôt qu'acheté
+
+Objectif : aucun abonnement d'application récurrent.
+
+| Fonction | Solution retenue | Coût |
+|----------|------------------|------|
+| Facture PDF avec mention art. 293 B | Order Printer (gratuit) + template Liquid sur mesure | 0 € |
+| Favoris / wishlist | code thème + métachamps client | 0 € |
+| Badges « 100 % Authentique », « Neuf avec étiquette », « Origine vérifiée » | Liquid sur la fiche produit | 0 € |
+| Retrait automatique du stock à 0 | Shopify Flow (inclus) | 0 € |
+| Suivi de commande | natif Shopify | 0 € |
+| Dashboard de marge | app admin développée ici | 0 € |
+| Génération IA des titres/descriptions | app admin + clé API Anthropic | usage réel |
+| Bon de livraison de marque | template imprimable | 0 € |
+
+**Ce qui reste irréductiblement payant :** l'affranchissement des colis et la
+consommation de l'API pour la génération IA.
+
+**Étiquettes d'expédition : non générables.** Le code-barres encode un numéro de
+suivi réel émis et payé auprès du transporteur ; un fichier fabriqué ne scanne
+pas. Comparer **Boxtal** et **Sendcloud** (tarifs Colissimo / Mondial Relay
+souvent meilleurs que Shopify Shipping, qui n'est de toute façon pas disponible
+partout en France).
+
+**Contrepartie du sur-mesure :** une mise à jour majeure du thème peut casser une
+personnalisation, et il n'y a pas de support éditeur derrière. Arbitrage assumé
+au volume actuel.
+
+---
+
 ## Phases suivantes (accompagnées, une étape à la fois)
 
 | # | Étape | Livrable |
