@@ -21,6 +21,7 @@ livraison gratuite, le port est absorbé et se déduit en plus.
 | Robe **Sandro** blanche | 40 | Neuve avec étiquette | 50,04 € | **99 €** | 35 € | Boutique | reçue, à retirer de Vinted |
 | Baskets **adidas by Stella McCartney** UltraBoost 21 Metallic | 36 | Neuves avec étiquette et boîte | 35 € | **119 €** | 67 € | Boutique | reçues |
 | Short **ba&sh** Fegor, lightusedblue | 34 | Neuf avec étiquette | 55,40 € | **99 €** | 30 € | Boutique | reçu — **saisonnier** |
+| Robe asymétrique **Elisabetta Franchi** ivoire, viscose | 46 IT / 42 FR | Neuve avec étiquette | 26 € | **139 €** | 94 € | Boutique | reçue |
 | Robe droite **Pier Antonio Gaspari** bleu marine | 42 | Neuve | 30 € | **79 €** | 38 € | Boutique + Leboncoin | reçue |
 | Ballerines **Hogan** 186 Zeppa Fashion, crème et vernis turquoise | 36 | Neuves avec boîte | 15 € | **99 €** | 70 € | Boutique | reçues |
 | Ballerines **Massimo Dutti** cuir rouge à bride | 40 (IT) | Neuves avec étiquette et boîte | 25 € | **69 €** | 34 € | Leboncoin + eBay | reçues |
@@ -32,7 +33,7 @@ livraison gratuite, le port est absorbé et se déduit en plus.
 | **BMW** Overall ProRain | XL | Neuf | 82,61 € | **139 €** | 29 € | Leboncoin + Vinted | à recevoir |
 | **Adidas Yeezy** 700 V3 Mono Safflower | 38 | Occasion, portée | 75,24 € | à établir | — | Vinted | authentification requise |
 
-**Capital engagé : ~823 €.** Marge attendue : environ **747 €** hors Yeezy.
+**Capital engagé : ~849 €.** Marge attendue : environ **841 €** hors Yeezy.
 
 ### Références pour les fiches
 
@@ -43,6 +44,7 @@ livraison gratuite, le port est absorbé et se déduit en plus.
 | Short ba&sh | `1H24FEGO`, Fegor lightusedblue — **150 € prix boutique imprimé sur l'étiquette** | 3664784178749 |
 | Blazer Karl Lagerfeld | `AJW1404…`, coloris 999 Black, punto jersey | 21066525154 |
 | Ballerines Hogan | `HXW1860E290X72066F`, 186 Zeppa Fashion Ballerina Cinturino | à relever |
+| Robe Elisabetta Franchi | `AB-040-76E4`, coloris 360 Avorio, TG 46 | à relever |
 | adidas by Stella McCartney | `H00099`, aSMC UltraBOOST 21 Metallic | à relever sur la boîte |
 | New Balance GS 1906 | `G19064IK` — **version GS, pas la `U19063EN` adulte** | à relever |
 | Adidas Predator Edge.1 TF | `GZ6448`, Champions Code | à relever |
@@ -71,6 +73,15 @@ livraison gratuite, le port est absorbé et se déduit en plus.
   aucune urgence sur le prix. Indiquer les deux tailles, 36 FR et IT 40.
 - **Robe Sandro** — Femme → Vêtements, niveau *Créateurs*. Badges *100 %
   Authentique* et *Neuf avec étiquette*.
+- **Robe Elisabetta Franchi** — Femme → Vêtements, niveau *Créateurs*. Marque
+  recherchée en France, contrairement à Pier Antonio Gaspari.
+  **Indiquer les deux tailles : 46 IT / 42 FR.** Une acheteuse française qui lit
+  « 46 » croit à une grande taille et passe son chemin.
+  **Défroisser avant les photos** : la robe est très marquée par le pliage, et
+  sur un blanc ivoire les plis donnent une impression de bas de gamme.
+  **Manipulation** : l'ivoire marque. Mains propres, papier de soie à l'envoi.
+  La coupe asymétrique accroche l'œil — bonne candidate pour la photo de page
+  d'accueil.
 - **Robe Pier Antonio Gaspari** — Femme → Vêtements, niveau *Créateurs*. Maison
   italienne distribuée sur YOOX. **Orthographe exacte : Pier ANTONIO, pas
   Antonia** — l'annonce de la maison de vente comportait la faute, et une fiche
@@ -145,6 +156,7 @@ dessous, la marge dépend trop du prix de vente exact.
 | Pièce | Payé | Marché | Ratio |
 |-------|------|--------|-------|
 | Ballerines Hogan | 15 € | ~300 € catalogue d'origine | 1 pour 20 |
+| Robe Elisabetta Franchi | 26 € | ~360 € | 1 pour 14 |
 | Jupe Sonia Rykiel | 43 € | ~500 € catalogue | 1 pour 11,6 |
 | Blazer Karl Lagerfeld | 45 € | 294,95 € | 1 pour 6,6 |
 | Predator Edge.1 TF | 20 €/paire | ~110 € | 1 pour 5,5 |
