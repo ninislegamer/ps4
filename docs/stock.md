@@ -26,11 +26,12 @@ livraison gratuite, le port est absorbé et se déduit en plus.
 | **Forma** Legacy Waterproof | 45 | Neuve | ~76 € | **159 €** | 53 € | Boutique + Vinted + Leboncoin | à recevoir |
 | **New Balance** GS 1906 Alkaline Green | 38½ | Neuve avec boîte | 80,60 € | **139 €** | 39 € | Boutique + Vinted | à recevoir |
 | **Adidas** Predator Edge.1 TF ×2 | 48⅔ | Neuves avec boîte | 40 € les deux | **89 €/paire** | 57 €/paire | eBay + Leboncoin | reçues, à retirer de Vinted |
+| **Havaianas** Slim fuchsia ×10 paires | 35/36 | Neuves avec boîte | 10,50 €/paire | **19,90 €/paire** | 6,63 €/paire | Leboncoin | reçues — **saisonnier, urgent** |
 | **Salomon** X Ultra 5 Mid GTX | 44 | Neuves | 65 € | **109 €** | 29 € | Leboncoin | reçues |
 | **BMW** Overall ProRain | XL | Neuf | 82,61 € | **139 €** | 29 € | Leboncoin + Vinted | à recevoir |
 | **Adidas Yeezy** 700 V3 Mono Safflower | 38 | Occasion, portée | 75,24 € | à établir | — | Vinted | authentification requise |
 
-**Capital engagé : ~688 €.** Marge attendue : environ **643 €** hors Yeezy.
+**Capital engagé : ~793 €.** Marge attendue : environ **709 €** hors Yeezy.
 
 ### Références pour les fiches
 
@@ -92,6 +93,15 @@ livraison gratuite, le port est absorbé et se déduit en plus.
 - **Ballerines Massimo Dutti** — article très demandé, mais Massimo Dutti relève
   du groupe Inditex : ni sportswear, ni créateur. Vendues sur Leboncoin et eBay,
   **pas sur Vinted** puisqu'elles sont neuves.
+- **Havaianas Slim ×10** — vendues à l'unité, **port à la charge de l'acheteur**.
+  Un envoi coûte ~5 € en Mondial Relay : à 14 € port inclus, chaque paire serait
+  vendue à perte (−3,45 €). L'écart entre 14 € et 19,90 € représente **50 € pour
+  le même travail**.
+  **Saisonnalité critique** : quatre à six semaines de saison restantes, et dix
+  exemplaires. Mettre en ligne immédiatement ; ce qui reste fin septembre part au
+  stockage jusqu'en mai (105 € immobilisés, sans gravité).
+  Pas sur la boutique : une tong à 20 € à côté d'un blazer à 139 € brouille le
+  positionnement.
 - **Salomon X Ultra 5 Mid GTX** — chaussure technique de randonnée, pas de la
   mode. Leboncoin, où se trouve le public randonnée. Deux points favorables : la
   pointure 44 est la plus courante chez les hommes, et la saison des chaussures
@@ -118,6 +128,14 @@ Sonia Rykiel cohabitent sous l'étiquette « Créateurs », le mot perd son sens
 
 Viser **1 pour 4 minimum** entre le prix payé et le prix de marché actuel. En
 dessous, la marge dépend trop du prix de vente exact.
+
+**Le plancher de marge dépend du type de lot :**
+
+- **Pièces uniques** — plancher en euros : 20-25 € minimum, 100 € sur les grosses
+  pièces. Chaque vente demande une fiche, des photos, un emballage.
+- **Lots en volume** — plancher en pourcentage. Les Havaianas ne rapportent que
+  6,63 € par paire, mais 86 % de rendement et ~66 € au total pour une seule
+  fiche et une seule série de photos. Le temps par euro gagné est bon.
 
 | Pièce | Payé | Marché | Ratio |
 |-------|------|--------|-------|
