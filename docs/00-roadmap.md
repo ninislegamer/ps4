@@ -105,6 +105,7 @@ Thème retenu : **Dawn**.
 | Taxes (franchise en base) | ✅ vérifié — 0 %, aucune inscription fiscale |
 | Double authentification | ✅ active (SMS) — passer à une appli + codes de secours |
 | Forfait | ✅ Basic, promo **1 €/mois jusqu'au 10/11/2026** |
+| POS Pro | ✅ désinstallé — essai qui aurait bascule à ~89 €/mois |
 | Domaine des comptes clients | 🔄 à basculer sur maison-nsaia.fr |
 | Thème Dawn installé et réglé | ⬜ à faire sur ordinateur |
 | Photos produits harmonisées | ⬜ plus tard |
