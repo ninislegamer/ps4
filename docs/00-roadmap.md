@@ -381,9 +381,39 @@ MODE                          COLLECTION
 Un visiteur venu pour des sandales ne tombe pas sur des cartes, et inversement.
 
 **« Objets de collection » remplace « Jouets & Divers ».** « Divers » signale
-l'absence de ligne éditoriale. N'y entre que ce qui tient la promesse : scellé,
-série limitée, hors production. Un article qui n'y répond pas n'a pas sa place
-sur Maison Nsaia — les cartes scellées oui, un jouet de grande surface non.
+l'absence de ligne éditoriale.
+
+### Critère d'admission d'un produit
+
+Un seul test, valable pour toutes les catégories présentes et futures :
+
+> **Ce produit est-il comparable en un clic ?**
+>
+> - **Oui** — référence connue, disponible ailleurs → guerre de prix. L'acheteur
+>   compare en dix secondes et prend le moins cher. Avec une marge plancher de
+>   25 €, la boutique est structurellement plus chère qu'un vendeur au volume.
+>   **N'a pas sa place.**
+> - **Non** — pièce unique, scellé hors production, vintage → aucune comparaison
+>   possible. C'est ce qui justifie la marge. **C'est du Maison Nsaia.**
+
+Conséquences concrètes :
+
+- **Cartes et displays** : privilégier le scellé **hors production** (sets
+  anciens, éditions limitées). Un display du set en cours peut se vendre s'il
+  tombe entre les mains, mais ne fera jamais vivre la boutique.
+- **Matériel DJ / audio** (piste évoquée pour plus tard) : le neuf modèle actuel
+  est en concurrence frontale avec les grandes enseignes, sans prime à
+  l'authentification. Le matériel rare, vintage ou hors production entre au
+  contraire parfaitement dans la promesse.
+
+### Vendre du neuf : deux points juridiques
+
+- **Garantie légale de conformité de 2 ans** sur le neuf vendu par un
+  professionnel, contre 12 mois sur l'occasion. Sur de l'électronique, l'écart
+  n'est pas anodin.
+- **Éco-participation (DEEE)** sur les équipements électriques et électroniques :
+  à vérifier avec le comptable, en particulier en cas d'import de neuf depuis
+  l'étranger.
 
 ### Collections transverses
 
