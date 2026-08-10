@@ -106,6 +106,27 @@ Thème retenu : **Dawn**.
 À retenir : l'éditeur de thème Shopify est inutilisable confortablement sur
 téléphone. Tout le reste de l'admin passe bien en mobile.
 
+### À faire à la prochaine session (sur ordinateur)
+
+1. **URL des comptes clients** → basculer sur `compte.maison-nsaia.fr`.
+   *Paramètres* → *Comptes client* → section **URL** → *Gérer*.
+   Le DNS est déjà en place (CNAME `compte` → `shops.myshopify.com.`), il ne
+   manque que la sélection du domaine. Le sélecteur ne s'affiche pas sur mobile.
+2. **Thème Dawn** → installation et réglages (voir `01-theme.md`).
+
+### À faire dès réception du RIB
+
+3. **Shopify Payments — IBAN.** *Paramètres* → *Paiements* → **Ajouter un
+   compte**. Sans ça, l'encaissement fonctionne mais les versements restent
+   suspendus.
+4. **PayPal Business.** Créer le compte sur paypal.com (possible dès maintenant
+   sans RIB : e-mail + SIRET suffisent, le compte bancaire se rattache plus
+   tard), puis Shopify → *Paiements* → *Moyens de paiement supplémentaires* →
+   PayPal → relier le compte.
+
+Rappel : carte, Apple Pay et Google Pay sont déjà couverts par Shopify Payments.
+PayPal est un moyen de paiement supplémentaire, pas un remplacement.
+
 ---
 
 ## Phases suivantes (accompagnées, une étape à la fois)
