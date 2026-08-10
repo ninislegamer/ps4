@@ -102,6 +102,7 @@ Thème retenu : **Dawn**.
 | Boîte e-mail contact@maison-nsaia.fr | ✅ créée (Gandi) |
 | E-mail expéditeur Shopify | ✅ authentifié (6 CNAME DKIM) |
 | DMARC | ✅ `_dmarc` TXT `v=DMARC1; p=none` |
+| Taxes (franchise en base) | ✅ vérifié — 0 %, aucune inscription fiscale |
 | Domaine des comptes clients | 🔄 à basculer sur maison-nsaia.fr |
 | Thème Dawn installé et réglé | ⬜ à faire sur ordinateur |
 | Photos produits harmonisées | ⬜ plus tard |
@@ -129,6 +130,21 @@ téléphone. Tout le reste de l'admin passe bien en mobile.
 
 Rappel : carte, Apple Pay et Google Pay sont déjà couverts par Shopify Payments.
 PayPal est un moyen de paiement supplémentaire, pas un remplacement.
+
+### À faire avant l'ouverture de la boutique
+
+- **Forfait** — choisir Basic (annuel) avant la fin de l'essai.
+- **Utilisateurs → Sécurité** — activer la double authentification.
+- **Expédition et livraison** — transporteurs, tarifs, et **limiter les
+  livraisons à la France** au démarrage (évite les questions de TVA et de
+  douane à l'international).
+- **Confidentialité des clients** — RGPD, bandeau cookies.
+- **Politiques** — CGV, mentions légales, retours (dépend de 0.1).
+
+**Taxes : rien à faire.** Shopify applique 0 % faute d'inscription fiscale, ce
+qui correspond exactement à la franchise en base. Ne jamais ajouter de numéro de
+TVA sur cet écran tant que le régime s'applique. À revoir uniquement le jour où
+le seuil de franchise est dépassé — avec le comptable.
 
 ---
 
