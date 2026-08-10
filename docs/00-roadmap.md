@@ -263,6 +263,38 @@ absorber la différence.
 
 ---
 
+## Newsletter
+
+Canal prioritaire pour ce modèle : les pièces sont uniques, une pièce se vend une
+fois, et l'e-mail est le seul moyen de prévenir les intéressés avant qu'elle
+parte.
+
+### Outils (aucun abonnement)
+
+- **Formulaire d'inscription** : bloc natif de Dawn, à activer dans le pied de
+  page. Aucun code, aucune app.
+- **Shopify Email** : inclus, quota mensuel gratuit largement suffisant au
+  volume de départ. Vérifier le quota exact à la configuration.
+- **Lien de désinscription** : automatique, conforme au RGPD. Mentionner la
+  newsletter dans la politique de confidentialité.
+
+### Rythme retenu
+
+Pas d'envoi automatique à chaque fiche publiée : techniquement bricolable, mais
+un e-mail par pièce ajoutée fait fuir les abonnés.
+
+**Campagne « Nouvelles pièces »** hebdomadaire ou bimensuelle, 5 à 10 articles
+bien photographiés, préparée dans Shopify Email.
+
+### Mécanique à mettre en place
+
+**Accès prioritaire abonnés** : les nouveautés sont visibles 24 h avant leur mise
+en ligne publique. Donne une raison concrète de s'inscrire, crée de l'urgence sur
+des pièces uniques, et ne coûte rien. À implémenter à l'étape 2 (collection
+réservée) ou 6 (segment client).
+
+---
+
 ## Ouverture à l'international
 
 Objectif retenu : une boutique perçue comme internationale, ouverte par paliers.
