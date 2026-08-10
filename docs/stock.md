@@ -29,6 +29,8 @@ livraison gratuite, le port est absorbé et se déduit en plus.
 | Ballerines **Massimo Dutti** cuir rouge à bride | 40 (IT) | Neuves avec étiquette et boîte | 25 € | **69 €** | 34 € | Leboncoin + eBay | reçues |
 | Baskets **Geox** gris / argent | 35 | Neuves avec boîte | 25 € | **59 €** | 26 € | Leboncoin + eBay | reçues |
 | **New Balance** BB80 blanc / bleu marine | 38 | Neuves avec boîte | 45 € | **59 €** | 6 € | Boutique + Leboncoin | reçues — **lot raté** |
+| **New Balance** 650 blanche montante | 44 | Neuves avec boîte | 55 € | **79 €** | 13 € | Boutique + Leboncoin | reçues — marge faible |
+| **Tommy Jeans** baskets basses noir / blanc | 40 | Neuves avec étiquette et boîte | 55 € | **79 €** | 13 € | Leboncoin + eBay | reçues — marge faible |
 | **Forma** Legacy Waterproof | 45 | Neuve | ~76 € | **159 €** | 53 € | Boutique + Vinted + Leboncoin | à recevoir |
 | **New Balance** GS 1906 Alkaline Green | 38½ | Neuve avec boîte | 80,60 € | **139 €** | 39 € | Boutique + Vinted | à recevoir |
 | **Adidas** Predator Edge.1 TF ×2 | 48⅔ | Neuves avec boîte | 40 € les deux | **89 €/paire** | 57 €/paire | eBay + Leboncoin | reçues, à retirer de Vinted |
@@ -37,7 +39,7 @@ livraison gratuite, le port est absorbé et se déduit en plus.
 | **BMW** Overall ProRain | XL | Neuf | 82,61 € | **139 €** | 29 € | Leboncoin + Vinted | à recevoir |
 | **Adidas Yeezy** 700 V3 Mono Safflower | 38 | Occasion, portée | 75,24 € | à établir | — | Vinted | authentification requise |
 
-**Capital engagé : ~1 012 €.** Marge attendue : environ **942 €** hors Yeezy.
+**Capital engagé : ~1 122 €.** Marge attendue : environ **968 €** hors Yeezy.
 
 ### Références pour les fiches
 
@@ -193,14 +195,36 @@ dessous, la marge dépend trop du prix de vente exact.
 | Short ba&sh | 55 € | 150 € | 1 pour 2,7 |
 | Salomon X Ultra 5 Mid GTX | 65 € | 116 € | **1 pour 1,8** ⚠️ |
 
-### Les marques de sport grand public ne laissent pas de marge
+### Les marques de sport et grand public ne laissent pas de marge
 
-Motif observé trois fois — Salomon XA Pro 3D, Salomon X Ultra 5, New Balance
-BB80. Largement distribuées, systématiquement démarquées, et donc payées trop
-cher dès que l'enchère dépasse l'estimation basse.
+Motif observé cinq fois. Largement distribuées, systématiquement démarquées, et
+donc payées trop cher dès que l'enchère dépasse l'estimation basse.
 
-Les bons coups sont ailleurs : Hogan (1 pour 20), Elisabetta Franchi (1 pour 14),
-Sonia Rykiel (1 pour 11,6) — des maisons qui tiennent leur valeur.
+| Lot | Investi | Marge |
+|-----|---------|-------|
+| New Balance BB80 | 45 € | 6 € |
+| New Balance 650 | 55 € | 13 € |
+| Tommy Jeans | 55 € | 13 € |
+| Salomon X Ultra 5 | 65 € | 29 € |
+| Geox | 25 € | 26 € |
+| **Total** | **245 €** | **87 €** |
+
+À comparer avec la seule robe Elisabetta Franchi : **26 € investis, 94 € de
+marge.** 245 € de sport rapportent moins qu'une robe à 26 €.
+
+Ces modèles affichent des prix d'origine élevés — 170 € pour la 650, 190 € pour
+la Salomon — mais se vendent 61 € et 116 € en réalité.
+
+**Décision : arrêter le sport et le grand public.** Concentrer le capital sur les
+maisons dont le prix affiché correspond au prix pratiqué : Hogan (1 pour 20),
+Elisabetta Franchi (1 pour 14), Sonia Rykiel (1 pour 11,6), Karl Lagerfeld
+(1 pour 6,6).
+
+### Méthode de vérification des prix
+
+Relever le meilleur prix sur **idealo.fr** avant de fixer quoi que ce soit. C'est
+le comparateur qui a donné les chiffres les plus fiables : 54,99 € sur les BB80,
+61 € sur les 650, 101,99 € sur la Salomon XA Pro.
 
 ### Une marque en difficulté ne tient pas sa valeur
 
