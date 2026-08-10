@@ -413,69 +413,82 @@ même si la livraison reste limitée à la zone ouverte du moment.
 
 ## Structure des catégories (étape 2)
 
-Deux univers séparés dans la navigation, une seule promesse : **pièce rare
-authentifiée**.
+**Un seul univers : la mode.** Les cartes Pokémon, boosters et displays sortent
+du périmètre. Les produits déjà en ligne qui en relèvent (cartes, Beyblade) sont
+à dépublier lors de cette étape.
+
+Navigation principale par genre et catégorie — c'est ainsi qu'un client cherche
+un vêtement. Les niveaux de gamme sont des **sélections**, pas des rayons : ils
+se croisent avec les catégories au lieu de les dupliquer.
 
 ```
-MODE                          COLLECTION
-├─ Femme                      ├─ Cartes Pokémon
-│   ├─ Vêtements              │   ├─ Boosters scellés
-│   ├─ Baskets                │   └─ Displays scellés
-│   └─ Sandales               └─ Objets de collection
-└─ Homme
-    ├─ Vêtements
-    ├─ Baskets
-    └─ Sandales
+FEMME                HOMME                SÉLECTIONS
+├─ Vêtements         ├─ Vêtements         ├─ Pièces d'exception
+├─ Baskets           ├─ Baskets           ├─ Créateurs
+└─ Sandales          └─ Sandales          ├─ Sportswear
+                                          ├─ Nouveautés
+                                          ├─ Neuf avec étiquette
+                                          ├─ Très bon état
+                                          └─ Dernière pièce
 ```
 
-Un visiteur venu pour des sandales ne tombe pas sur des cartes, et inversement.
+### Les trois niveaux de gamme
 
-**« Objets de collection » remplace « Jouets & Divers ».** « Divers » signale
-l'absence de ligne éditoriale.
+| Niveau | Contenu | Rôle économique |
+|--------|---------|-----------------|
+| **Sportswear** | Nike, New Balance, adidas… | acquisition : produits connus, panier d'entrée |
+| **Créateurs** | maisons et créateurs établis | cœur de l'offre |
+| **Pièces d'exception** | haut du panier, 100 € de marge minimum | marge |
+
+Côté client, ne jamais employer « marques courantes » ou « entrée de gamme » :
+personne ne navigue dans un rayon qui s'annonce comme le moins prestigieux.
+**Sportswear** est descriptif et neutre.
+
+**À savoir sur le Sportswear :** une paire de Nike neuve est le produit le plus
+comparable qui soit — référence connue, disponible partout, prix vérifiable en
+dix secondes. C'est donc le niveau où la marge sera la plus mince. Il se justifie
+comme porte d'entrée et pour le référencement, pas comme centre de profit. Ne pas
+y immobiliser l'essentiel de la trésorerie.
+
+### Règle sur l'état
+
+**Le « très bon état » est réservé aux créateurs et aux pièces d'exception.**
+
+Sur du sportswear, uniquement du neuf : une paire de baskets courantes portée est
+une commodité, comparable et sans prime. Sur du créateur, la même logique
+s'inverse — une pièce d'occasion en très bon état est une trouvaille, et
+l'authentification prend toute sa valeur.
+
+États retenus : *Neuf avec étiquette*, *Neuf sans étiquette*, *Très bon état*.
+L'état est un métachamp : il alimente les filtres de navigation et les badges de
+la fiche produit.
 
 ### Critère d'admission d'un produit
 
-Un seul test, valable pour toutes les catégories présentes et futures :
+Un seul test, valable pour toute catégorie présente ou future :
 
 > **Ce produit est-il comparable en un clic ?**
 >
 > - **Oui** — référence connue, disponible ailleurs → guerre de prix. L'acheteur
->   compare en dix secondes et prend le moins cher. Avec une marge plancher de
->   25 €, la boutique est structurellement plus chère qu'un vendeur au volume.
->   **N'a pas sa place.**
-> - **Non** — pièce unique, scellé hors production, vintage → aucune comparaison
->   possible. C'est ce qui justifie la marge. **C'est du Maison Nsaia.**
+>   compare en dix secondes et prend le moins cher.
+> - **Non** — pièce unique, occasion en très bon état, série épuisée → aucune
+>   comparaison possible. C'est ce qui justifie la marge.
 
-Conséquences concrètes :
+Le sportswear neuf tombe volontairement du côté « oui » : il est admis pour son
+rôle d'acquisition, en quantité maîtrisée, pas parce qu'il porte la marge.
 
-- **Cartes et displays** : privilégier le scellé **hors production** (sets
-  anciens, éditions limitées). Un display du set en cours peut se vendre s'il
-  tombe entre les mains, mais ne fera jamais vivre la boutique.
-- **Matériel DJ / audio** (piste évoquée pour plus tard) : le neuf modèle actuel
-  est en concurrence frontale avec les grandes enseignes, sans prime à
-  l'authentification. Le matériel rare, vintage ou hors production entre au
-  contraire parfaitement dans la promesse.
+### Piste écartée pour l'instant
 
-### Vendre du neuf : deux points juridiques
+Le **matériel DJ / audio** évoqué reste hors périmètre. S'il est rouvert un jour,
+deux points juridiques s'appliqueront :
 
 - **Garantie légale de conformité de 2 ans** sur le neuf vendu par un
-  professionnel, contre 12 mois sur l'occasion. Sur de l'électronique, l'écart
-  n'est pas anodin.
-- **Éco-participation (DEEE)** sur les équipements électriques et électroniques :
-  à vérifier avec le comptable, en particulier en cas d'import de neuf depuis
-  l'étranger.
+  professionnel, contre 12 mois sur l'occasion — sensible sur de l'électronique.
+- **Éco-participation (DEEE)** sur les équipements électriques et électroniques,
+  à vérifier avec le comptable en cas d'import de neuf.
 
-### Collections transverses
-
-- *Nouveautés*
-- *Pièces d'exception* — les « grosses pièces » à 100 € de marge minimum. Le
-  seuil économique devient une vitrine.
-- *Dernière pièce*
-- Par état : *Neuf avec étiquette*, *Neuf sans étiquette*, *Très bon état*
-
-L'état est un métachamp (étape 2) : il alimente à la fois les filtres de
-navigation et les badges de la fiche produit.
-
+La garantie légale de 2 ans sur le neuf s'applique de toute façon dès maintenant
+aux pièces neuves avec étiquette.
 ---
 
 ## Règle de marge (étape 7)
