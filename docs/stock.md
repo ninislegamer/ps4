@@ -25,10 +25,11 @@ livraison gratuite, le port est absorbé et se déduit en plus.
 | **Forma** Legacy Waterproof | 45 | Neuve | ~76 € | **159 €** | 53 € | Boutique + Vinted + Leboncoin | à recevoir |
 | **New Balance** GS 1906 Alkaline Green | 38½ | Neuve avec boîte | 80,60 € | **139 €** | 39 € | Boutique + Vinted | à recevoir |
 | **Adidas** Predator Edge.1 TF ×2 | 48⅔ | Neuves avec boîte | 40 € les deux | **89 €/paire** | 57 €/paire | eBay + Leboncoin | reçues, à retirer de Vinted |
+| **Salomon** X Ultra 5 Mid GTX | 44 | Neuves | 65 € | **109 €** | 29 € | Leboncoin | reçues |
 | **BMW** Overall ProRain | XL | Neuf | 82,61 € | **139 €** | 29 € | Leboncoin + Vinted | à recevoir |
 | **Adidas Yeezy** 700 V3 Mono Safflower | 38 | Occasion, portée | 75,24 € | à établir | — | Vinted | authentification requise |
 
-**Capital engagé : ~608 €.** Marge attendue : environ **544 €** hors Yeezy.
+**Capital engagé : ~673 €.** Marge attendue : environ **573 €** hors Yeezy.
 
 ### Références pour les fiches
 
@@ -82,6 +83,11 @@ livraison gratuite, le port est absorbé et se déduit en plus.
 - **Ballerines Massimo Dutti** — article très demandé, mais Massimo Dutti relève
   du groupe Inditex : ni sportswear, ni créateur. Vendues sur Leboncoin et eBay,
   **pas sur Vinted** puisqu'elles sont neuves.
+- **Salomon X Ultra 5 Mid GTX** — chaussure technique de randonnée, pas de la
+  mode. Leboncoin, où se trouve le public randonnée. Deux points favorables : la
+  pointure 44 est la plus courante chez les hommes, et la saison des chaussures
+  de randonnée court de septembre à novembre. **Port facturé au client** : en
+  l'absorbant, la marge tomberait à 21 € et passerait sous le plancher.
 
 ---
 
@@ -113,9 +119,20 @@ dessous, la marge dépend trop du prix de vente exact.
 | adidas Stella McCartney | 35 € | ~110 € actuel | 1 pour 3,1 |
 | Ballerines Massimo Dutti | 25 € | ~70-100 € | 1 pour 3,4 |
 | Short ba&sh | 55 € | 150 € | 1 pour 2,7 |
+| Salomon X Ultra 5 Mid GTX | 65 € | 116 € | **1 pour 1,8** ⚠️ |
 
 Et toujours comparer au **prix pratiqué aujourd'hui**, pas au prix de lancement :
 la Stella McCartney est sortie à 250 € mais se trouve à 110 € en neuf.
+
+### Salomon : plafonner à l'estimation basse
+
+Deux lots Salomon ont posé le même problème. La marque affiche des prix
+conseillés élevés (169,90 € sur la XA Pro 3D, ~190 € sur la X Ultra 5) mais se
+brade massivement : 102 € et 116 € respectivement chez les meilleurs marchands.
+
+La X Ultra 5 était estimée 40-50 € par la maison de vente ; adjugée 60 €, elle
+tombe à un ratio de 1 pour 1,8. **Sur du Salomon, ne pas dépasser l'estimation
+basse.**
 
 ---
 
