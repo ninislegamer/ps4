@@ -20,7 +20,7 @@ livraison gratuite, le port est absorbé et se déduit en plus.
 | Robe **Sandro** blanche | 40 | Neuve avec étiquette | 50,04 € | **99 €** | 35 € | Boutique | reçue, à retirer de Vinted |
 | Baskets **adidas by Stella McCartney** UltraBoost 21 Metallic | 36 | Neuves avec étiquette et boîte | 35 € | **119 €** | 67 € | Boutique | reçues |
 | Short **ba&sh** Fegor, lightusedblue | 34 | Neuf avec étiquette | 55,40 € | **99 €** | 30 € | Boutique | reçu — **saisonnier** |
-| Ballerines **Massimo Dutti** cuir rouge à bride | 40 (IT) | Neuves avec étiquette et boîte | 25 € | **69 €** | 34 € | Boutique | reçues |
+| Ballerines **Massimo Dutti** cuir rouge à bride | 40 (IT) | Neuves avec étiquette et boîte | 25 € | **69 €** | 34 € | Leboncoin + eBay | reçues |
 | **Forma** Legacy Waterproof | 45 | Neuve | ~76 € | **159 €** | 53 € | Boutique + Vinted + Leboncoin | à recevoir |
 | **New Balance** GS 1906 Alkaline Green | 38½ | Neuve avec boîte | 80,60 € | **139 €** | 39 € | Boutique + Vinted | à recevoir |
 | **Adidas** Predator Edge.1 TF ×2 | 48⅔ | Neuves avec boîte | 40 € les deux | **89 €/paire** | 57 €/paire | eBay + Leboncoin | reçues, à retirer de Vinted |
@@ -59,9 +59,6 @@ livraison gratuite, le port est absorbé et se déduit en plus.
   saisonnière** : quatre à six semaines de saison restantes. S'il n'est pas parti
   fin septembre, le stocker jusqu'au printemps plutôt que de le brader — perdre
   30 € pour libérer 55 € de trésorerie n'en vaut pas la peine.
-- **Ballerines Massimo Dutti** — Femme → Chaussures. Article très demandé
-  (retour de la ballerine), mais **Massimo Dutti relève du groupe Inditex, pas
-  du créateur** : ne pas la classer au même niveau qu'une Sonia Rykiel.
 - **New Balance GS 1906** — Femme → Baskets, niveau *Sportswear*. Un 38½ GS
   correspond à une taille femme courante : viser ce public, pas les enfants.
   **Préciser « modèle GS », référence `G19064IK`** — la version adulte est
@@ -75,23 +72,23 @@ livraison gratuite, le port est absorbé et se déduit en plus.
 - **Predator Edge.1 TF** — crampons de football.
 - **Yeezy 700 V3** — état insuffisant (portée) au regard de la règle « occasion
   uniquement en très bon état », et risque de contrefaçon non levé.
+- **Ballerines Massimo Dutti** — article très demandé, mais Massimo Dutti relève
+  du groupe Inditex : ni sportswear, ni créateur. Vendues sur Leboncoin et eBay,
+  **pas sur Vinted** puisqu'elles sont neuves.
 
 ---
 
-## Niveaux de gamme — proposition en attente d'arbitrage
+## Niveaux de gamme — arbitrage retenu
 
-Les trois niveaux actuels (*Sportswear*, *Créateurs*, *Pièces d'exception*) ne
-logent pas les marques accessibles non sportives, type Massimo Dutti. Proposition
-à quatre niveaux, plus proche de l'intention initiale :
+**La boutique conserve trois niveaux** : *Sportswear*, *Créateurs*, *Pièces
+d'exception*. Aucun quatrième rayon n'est créé.
 
-| Niveau | Marques | Pièces du stock |
-|--------|---------|-----------------|
-| **Essentiels** | Nike, New Balance, Massimo Dutti | NB GS 1906, ballerines Massimo Dutti |
-| **Créateurs** | Sandro, ba&sh, Maje, Stella McCartney | robe Sandro, short ba&sh, UltraBoost Stella |
-| **Pièces d'exception** | maisons de couture | jupe Sonia Rykiel |
+Ce qui n'entre dans aucun des trois se vend **hors boutique** — Leboncoin, eBay,
+ou Vinted pour la seconde main. C'est le cas des marques accessibles non
+sportives type Massimo Dutti.
 
-Enjeu : si Massimo Dutti et Sonia Rykiel cohabitent sous l'étiquette
-« Créateurs », le mot perd son sens et le niveau haut perd sa valeur.
+Raison : un rayon fourre-tout diluerait le niveau haut. Si Massimo Dutti et
+Sonia Rykiel cohabitent sous l'étiquette « Créateurs », le mot perd son sens.
 
 ---
 
