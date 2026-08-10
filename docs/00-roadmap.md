@@ -477,10 +477,27 @@ Un seul test, valable pour toute catégorie présente ou future :
 Le sportswear neuf tombe volontairement du côté « oui » : il est admis pour son
 rôle d'acquisition, en quantité maîtrisée, pas parce qu'il porte la marge.
 
-### Piste écartée pour l'instant
+### Piste écartée pour l'instant : audio, hi-fi, instruments
 
-Le **matériel DJ / audio** évoqué reste hors périmètre. S'il est rouvert un jour,
-deux points juridiques s'appliqueront :
+Hors périmètre au lancement. Conditions à réunir avant de rouvrir le sujet :
+première boutique sortie, premières ventes faites, emballage rodé.
+
+**Vintage uniquement, jamais de neuf.** Le neuf place la boutique face à Thomann,
+Amazon ou Woodbrass, qui achètent par volumes inaccessibles — marge écrasée, et
+aucune prime à l'authentification puisque personne ne doute d'un appareil neuf.
+Le vintage recherché (platines, matériel de studio hors production) relève au
+contraire pleinement de la thèse : marché actif, prix opaques, rareté réelle.
+
+Contraintes propres à cette famille de produits :
+
+- **Port** : lourd et fragile, 20-30 € d'expédition et assurance obligatoire. Un
+  colis cassé efface la marge de dix ventes.
+- **Test** : capacité à vérifier le fonctionnement d'un appareil d'occasion et à
+  le décrire honnêtement.
+- **Retour** : 14 jours de rétractation sur une pièce à plusieurs centaines
+  d'euros, qui peut revenir abîmée.
+
+Deux points juridiques s'appliqueront :
 
 - **Garantie légale de conformité de 2 ans** sur le neuf vendu par un
   professionnel, contre 12 mois sur l'occasion — sensible sur de l'électronique.
