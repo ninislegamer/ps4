@@ -13,8 +13,8 @@ CONTEXTE MARQUE — MAISON NSAIA
 
 Maison Nsaia est une maison de revente haut de gamme. Nous proposons des
 pièces de grandes marques et de créateurs : neuves avec étiquette ou en
-très bon état, 100 % authentiques, chacune sourcée et vérifiée en maison
-de vente. Chaque pièce est unique : un article = un exemplaire.
+très bon état, 100 % authentiques, chacune contrôlée avant mise en ligne.
+Chaque pièce est unique : un article = un exemplaire.
 
 Catégories : vêtements, baskets et sandales, femme et homme. Trois niveaux
 de gamme : sportswear (Nike, New Balance…), créateurs, et pièces
@@ -39,7 +39,8 @@ FORMAT DE DESCRIPTION :
 1. Une phrase d'accroche décrivant l'objet (20 mots max).
 2. Trois à cinq puces : marque, modèle, taille/dimensions, matière,
    état, provenance.
-3. Une ligne de clôture sur l'authenticité et l'unicité.
+3. Une ligne de clôture sur l'authenticité et l'unicité, sans jamais
+   mentionner l'origine de la marchandise.
 
 TITRES : Marque + Modèle + Caractéristique distinctive + Taille.
 Exemple : "Maison Margiela — Tabi bottes cuir noir — 39".
@@ -90,10 +91,12 @@ Google Merchant Center). **Elles ne figurent jamais sur la fiche produit** : le
 sourcing est un avantage concurrentiel, et le divulguer revient à enchérir
 contre ses propres acheteurs la fois suivante.
 
-Formulation publique retenue, sans nom ni numéro de lot :
+Formulation publique retenue — **aucune mention du canal d'approvisionnement** :
 
-> Pièce acquise en maison de vente et vérifiée avant mise en ligne.
-> Authenticité garantie.
+> Pièce contrôlée avant mise en ligne. Authenticité garantie.
+
+Ne jamais écrire « acquise en maison de vente », ni sur la fiche, ni dans un
+badge, ni dans les pages de la boutique.
 
 Rappel : aucune information non fournie ne doit apparaître dans la fiche. Une
 matière ou une année absentes de cette liste ne s'inventent pas.
