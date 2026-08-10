@@ -103,6 +103,7 @@ Thème retenu : **Dawn**.
 | E-mail expéditeur Shopify | ✅ authentifié (6 CNAME DKIM) |
 | DMARC | ✅ `_dmarc` TXT `v=DMARC1; p=none` |
 | Taxes (franchise en base) | ✅ vérifié — 0 %, aucune inscription fiscale |
+| Double authentification | ✅ active (SMS) — passer à une appli + codes de secours |
 | Domaine des comptes clients | 🔄 à basculer sur maison-nsaia.fr |
 | Thème Dawn installé et réglé | ⬜ à faire sur ordinateur |
 | Photos produits harmonisées | ⬜ plus tard |
@@ -134,7 +135,6 @@ PayPal est un moyen de paiement supplémentaire, pas un remplacement.
 ### À faire avant l'ouverture de la boutique
 
 - **Forfait** — choisir Basic (annuel) avant la fin de l'essai.
-- **Utilisateurs → Sécurité** — activer la double authentification.
 - **Expédition et livraison** — transporteurs, tarifs, et **limiter les
   livraisons à la France** au démarrage (évite les questions de TVA et de
   douane à l'international).
