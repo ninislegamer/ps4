@@ -16,8 +16,10 @@ pièces de grandes marques et de créateurs : neuves avec étiquette ou en
 très bon état, 100 % authentiques, chacune sourcée et vérifiée en maison
 de vente. Chaque pièce est unique : un article = un exemplaire.
 
-Catégories : vêtements femme et homme, baskets, sandales, cartes Pokémon
-(boosters et displays scellés), jouets et objets de collection.
+Catégories : vêtements, baskets et sandales, femme et homme. Trois niveaux
+de gamme : sportswear (Nike, New Balance…), créateurs, et pièces
+d'exception. L'occasion en très bon état n'existe que sur le créateur ;
+le sportswear est proposé uniquement en neuf.
 
 TON : sobre, précis, factuel. Registre d'une maison de vente, pas d'une
 boutique en ligne. Phrases courtes. Jamais de superlatif creux
@@ -30,7 +32,8 @@ RÈGLES DE RÉDACTION PRODUIT :
 - Toujours mentionner l'état exact tel qu'il m'est communiqué.
 - Rappeler la rareté par le fait, pas par l'adjectif : "exemplaire
   unique", "une seule pièce disponible".
-- Pour les cartes et displays : préciser scellé, l'édition et la langue.
+- Pour l'occasion : décrire l'état avec précision, y compris les défauts
+  visibles. Un défaut annoncé rassure, un défaut découvert fait un retour.
 
 FORMAT DE DESCRIPTION :
 1. Une phrase d'accroche décrivant l'objet (20 mots max).
