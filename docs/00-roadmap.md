@@ -280,12 +280,25 @@ Les fiches gratuites de Google Shopping (via Merchant Center, canal
 « Google & YouTube » gratuit dans Shopify) tiennent compte du prix. À activer,
 puisque c'est sans coût.
 
-Limite structurelle : le mécanisme repose sur la comparaison de produits
-identifiés par code-barres.
+Le mécanisme repose sur la comparaison de produits identifiés par code-barres.
 
-- **Pièces uniques** — aucun équivalent à comparer, le levier ne s'applique pas.
+- **Pièces neuves avec étiquette** — elles portent un code-barres : c'est le bon
+  candidat pour ce canal. L'effet « moins cher » ne joue toutefois que si
+  d'autres marchands référencent encore le même code ; sur une pièce de saison
+  passée, la fiche apparaît seule (visibilité gratuite, sans comparaison).
+- **Pièces d'occasion uniques** — aucun équivalent à comparer, le levier ne
+  s'applique pas.
 - **Produits scellés standardisés** — le levier fonctionne, mais ce sont ceux qui
   placent la boutique en guerre de prix (voir le critère d'admission).
+
+Deux précautions sur Merchant Center :
+
+- **Déclarer l'état avec exactitude.** Une pièce réellement neuve et jamais
+  portée peut être déclarée neuve ; ne jamais forcer ce champ sur du très bon
+  état. Une déclaration inexacte entraîne la suspension du compte, longue à
+  lever.
+- **Contrôle renforcé sur les grandes marques**, en raison de la contrefaçon. Le
+  compte peut être examiné : les preuves d'achat (voir 0.1) servent aussi ici.
 
 ### Les canaux qui comptent réellement
 
