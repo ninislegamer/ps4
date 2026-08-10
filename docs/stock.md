@@ -220,6 +220,38 @@ maisons dont le prix affiché correspond au prix pratiqué : Hogan (1 pour 20),
 Elisabetta Franchi (1 pour 14), Sonia Rykiel (1 pour 11,6), Karl Lagerfeld
 (1 pour 6,6).
 
+### Sur les lots en volume, vérifier le transport AVANT d'enchérir
+
+Le lot de 20 paires de sandales (Relife, Tommy Jeans, Chattawak, mules Malabar)
+a été adjugé 45 €, mais l'expédition sur palette est annoncée à 80 € — soit 59 %
+du coût total. C'est la première fois que le transport dépasse la marchandise.
+
+```
+45 € × 1,26 = 56,70 €
++ 80 € de transport palette
+= 136,70 € pour 20 paires, soit 6,84 €/paire
+```
+
+Point mort sur l'ensemble : **159 €**. Valeur boutique du lot : ~400 €, mais ce
+sont des chaussures de grande distribution (12,99 € à 24,99 € l'unité).
+
+**Contre-mesure : demander une expédition en colis plutôt qu'en palette.** Vingt
+boîtes à chaussures pèsent 25-30 kg, soit deux ou trois colis à 15-18 € — 45 €
+au lieu de 80, ce qui fait passer la marge de 35 € à 70 € sur une revente en lot
+à 199 €.
+
+**Revendre en lot, jamais à l'unité.** Vingt ventes à 12 € rapportent 70 € au
+total, soit 3,50 € par vente — sous tout seuil acceptable. Une annonce Leboncoin
+à 199 € ciblant vendeurs de marchés et brocanteurs rapporte 35 à 70 € pour une
+seule transaction.
+
+**Saisonnalité :** sandales et tongs se vendent en avril-mai. Stocker jusqu'au
+printemps.
+
+Le retrait sur place aurait divisé le coût par plus de deux, mais la maison est à
+Lyon et l'activité à Toulouse : 1 080 km aller-retour plus la location d'un
+utilitaire, soit 300 € minimum. Exclu.
+
 ### Méthode de vérification des prix
 
 Relever le meilleur prix sur **idealo.fr** avant de fixer quoi que ce soit. C'est
