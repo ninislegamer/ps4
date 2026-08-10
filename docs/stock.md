@@ -27,6 +27,7 @@ livraison gratuite, le port est absorbé et se déduit en plus.
 | Baskets **Emporio Armani** bleu lavande / blanc | 36 | Neuves avec étiquette et boîte | 55 € | **129 €** | 56 € | Boutique | reçues — **prix marché à confirmer** |
 | Ballerines **Hogan** 186 Zeppa Fashion, crème et vernis turquoise | 36 | Neuves avec boîte | 15 € | **99 €** | 70 € | Boutique | reçues |
 | Ballerines **Massimo Dutti** cuir rouge à bride | 40 (IT) | Neuves avec étiquette et boîte | 25 € | **69 €** | 34 € | Leboncoin + eBay | reçues |
+| Baskets **Geox** gris / argent | 35 | Neuves avec boîte | 25 € | **69 €** | 34 € | Leboncoin + eBay | reçues — **prix marché à confirmer** |
 | **New Balance** BB80 blanc / bleu marine | 38 | Neuves avec boîte | 45 € | **79 €** | 23 € | Boutique + Leboncoin | reçues — **prix marché à confirmer** |
 | **Forma** Legacy Waterproof | 45 | Neuve | ~76 € | **159 €** | 53 € | Boutique + Vinted + Leboncoin | à recevoir |
 | **New Balance** GS 1906 Alkaline Green | 38½ | Neuve avec boîte | 80,60 € | **139 €** | 39 € | Boutique + Vinted | à recevoir |
@@ -36,7 +37,7 @@ livraison gratuite, le port est absorbé et se déduit en plus.
 | **BMW** Overall ProRain | XL | Neuf | 82,61 € | **139 €** | 29 € | Leboncoin + Vinted | à recevoir |
 | **Adidas Yeezy** 700 V3 Mono Safflower | 38 | Occasion, portée | 75,24 € | à établir | — | Vinted | authentification requise |
 
-**Capital engagé : ~987 €.** Marge attendue : environ **959 €** hors Yeezy.
+**Capital engagé : ~1 012 €.** Marge attendue : environ **993 €** hors Yeezy.
 
 ### Références pour les fiches
 
@@ -131,6 +132,11 @@ livraison gratuite, le port est absorbé et se déduit en plus.
 - **Ballerines Massimo Dutti** — article très demandé, mais Massimo Dutti relève
   du groupe Inditex : ni sportswear, ni créateur. Vendues sur Leboncoin et eBay,
   **pas sur Vinted** puisqu'elles sont neuves.
+- **Baskets Geox** — marque italienne grand public positionnée sur le confort,
+  même cas que Massimo Dutti : hors des trois niveaux. **Prix marché à
+  confirmer** (~90-120 € estimés, non vérifiés). Seuil d'équilibre 29 €, plancher
+  de marge atteint à 58 €. **Pointure 35** : la plus petite taille adulte
+  courante, donc la plus lente à écouler. Aucune urgence, 25 € immobilisés.
 - **Havaianas Slim ×10** — vendues à l'unité, **port à la charge de l'acheteur**.
   Un envoi coûte ~5 € en Mondial Relay : à 14 € port inclus, chaque paire serait
   vendue à perte (−3,45 €). L'écart entre 14 € et 19,90 € représente **50 € pour
