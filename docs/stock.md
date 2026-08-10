@@ -26,6 +26,7 @@ livraison gratuite, le port est absorbé et se déduit en plus.
 | Robe droite **Pier Antonio Gaspari** bleu marine | 42 | Neuve | 30 € | **79 €** | 38 € | Boutique + Leboncoin | reçue |
 | Ballerines **Hogan** 186 Zeppa Fashion, crème et vernis turquoise | 36 | Neuves avec boîte | 15 € | **99 €** | 70 € | Boutique | reçues |
 | Ballerines **Massimo Dutti** cuir rouge à bride | 40 (IT) | Neuves avec étiquette et boîte | 25 € | **69 €** | 34 € | Leboncoin + eBay | reçues |
+| **New Balance** BB80 blanc / bleu marine | 38 | Neuves avec boîte | 45 € | **79 €** | 23 € | Boutique + Leboncoin | reçues — **prix marché à confirmer** |
 | **Forma** Legacy Waterproof | 45 | Neuve | ~76 € | **159 €** | 53 € | Boutique + Vinted + Leboncoin | à recevoir |
 | **New Balance** GS 1906 Alkaline Green | 38½ | Neuve avec boîte | 80,60 € | **139 €** | 39 € | Boutique + Vinted | à recevoir |
 | **Adidas** Predator Edge.1 TF ×2 | 48⅔ | Neuves avec boîte | 40 € les deux | **89 €/paire** | 57 €/paire | eBay + Leboncoin | reçues, à retirer de Vinted |
@@ -34,7 +35,7 @@ livraison gratuite, le port est absorbé et se déduit en plus.
 | **BMW** Overall ProRain | XL | Neuf | 82,61 € | **139 €** | 29 € | Leboncoin + Vinted | à recevoir |
 | **Adidas Yeezy** 700 V3 Mono Safflower | 38 | Occasion, portée | 75,24 € | à établir | — | Vinted | authentification requise |
 
-**Capital engagé : ~887 €.** Marge attendue : environ **880 €** hors Yeezy.
+**Capital engagé : ~932 €.** Marge attendue : environ **903 €** hors Yeezy.
 
 ### Références pour les fiches
 
@@ -101,6 +102,12 @@ livraison gratuite, le port est absorbé et se déduit en plus.
   saisonnière** : quatre à six semaines de saison restantes. S'il n'est pas parti
   fin septembre, le stocker jusqu'au printemps plutôt que de le brader — perdre
   30 € pour libérer 55 € de trésorerie n'en vaut pas la peine.
+- **New Balance BB80 blanc / bleu marine** — Femme → Baskets, niveau
+  *Sportswear*. Basket de garde-robe qui complète bien les pièces créateur.
+  **Prix marché à confirmer** (~90-100 € estimés, non vérifiés : quota de
+  recherche épuisé) — vérifier chez New Balance, Courir, JD Sports.
+  **Marge serrée : 23 € à 79 €, 14 € à 69 €. Aucune marge de négociation** — ne
+  pas brader. Ratio de 1 pour 2,1, sous la règle du 1 pour 4.
 - **New Balance GS 1906** — Femme → Baskets, niveau *Sportswear*. Un 38½ GS
   correspond à une taille femme courante : viser ce public, pas les enfants.
   **Préciser « modèle GS », référence `G19064IK`** — la version adulte est
@@ -173,6 +180,15 @@ dessous, la marge dépend trop du prix de vente exact.
 | Ballerines Massimo Dutti | 25 € | ~70-100 € | 1 pour 3,4 |
 | Short ba&sh | 55 € | 150 € | 1 pour 2,7 |
 | Salomon X Ultra 5 Mid GTX | 65 € | 116 € | **1 pour 1,8** ⚠️ |
+
+### Les marques de sport grand public ne laissent pas de marge
+
+Motif observé trois fois — Salomon XA Pro 3D, Salomon X Ultra 5, New Balance
+BB80. Largement distribuées, systématiquement démarquées, et donc payées trop
+cher dès que l'enchère dépasse l'estimation basse.
+
+Les bons coups sont ailleurs : Hogan (1 pour 20), Elisabetta Franchi (1 pour 14),
+Sonia Rykiel (1 pour 11,6) — des maisons qui tiennent leur valeur.
 
 ### Une marque en difficulté ne tient pas sa valeur
 
