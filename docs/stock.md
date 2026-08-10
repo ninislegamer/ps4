@@ -20,13 +20,14 @@ livraison gratuite, le port est absorbé et se déduit en plus.
 | Robe **Sandro** blanche | 40 | Neuve avec étiquette | 50,04 € | **99 €** | 35 € | Boutique | reçue, à retirer de Vinted |
 | Baskets **adidas by Stella McCartney** UltraBoost 21 Metallic | 36 | Neuves avec étiquette et boîte | 35 € | **119 €** | 67 € | Boutique | reçues |
 | Short **ba&sh** Fegor, lightusedblue | 34 | Neuf avec étiquette | 55,40 € | **99 €** | 30 € | Boutique | reçu — **saisonnier** |
+| Ballerines **Massimo Dutti** cuir rouge à bride | 40 (IT) | Neuves avec étiquette et boîte | 25 € | **69 €** | 34 € | Boutique | reçues |
 | **Forma** Legacy Waterproof | 45 | Neuve | ~76 € | **159 €** | 53 € | Boutique + Vinted + Leboncoin | à recevoir |
 | **New Balance** GS 1906 Alkaline Green | 38½ | Neuve avec boîte | 80,60 € | **139 €** | 39 € | Boutique + Vinted | à recevoir |
 | **Adidas** Predator Edge.1 TF ×2 | 48⅔ | Neuves avec boîte | 40 € les deux | **89 €/paire** | 57 €/paire | eBay + Leboncoin | reçues, à retirer de Vinted |
 | **BMW** Overall ProRain | XL | Neuf | 82,61 € | **139 €** | 29 € | Leboncoin + Vinted | à recevoir |
 | **Adidas Yeezy** 700 V3 Mono Safflower | 38 | Occasion, portée | 75,24 € | à établir | — | Vinted | authentification requise |
 
-**Capital engagé : ~538 €.** Marge attendue : environ **435 €** hors Yeezy.
+**Capital engagé : ~563 €.** Marge attendue : environ **469 €** hors Yeezy.
 
 ### Références pour les fiches
 
@@ -58,6 +59,9 @@ livraison gratuite, le port est absorbé et se déduit en plus.
   saisonnière** : quatre à six semaines de saison restantes. S'il n'est pas parti
   fin septembre, le stocker jusqu'au printemps plutôt que de le brader — perdre
   30 € pour libérer 55 € de trésorerie n'en vaut pas la peine.
+- **Ballerines Massimo Dutti** — Femme → Chaussures. Article très demandé
+  (retour de la ballerine), mais **Massimo Dutti relève du groupe Inditex, pas
+  du créateur** : ne pas la classer au même niveau qu'une Sonia Rykiel.
 - **New Balance GS 1906** — Femme → Baskets, niveau *Sportswear*. Un 38½ GS
   correspond à une taille femme courante : viser ce public, pas les enfants.
   **Préciser « modèle GS », référence `G19064IK`** — la version adulte est
@@ -74,6 +78,23 @@ livraison gratuite, le port est absorbé et se déduit en plus.
 
 ---
 
+## Niveaux de gamme — proposition en attente d'arbitrage
+
+Les trois niveaux actuels (*Sportswear*, *Créateurs*, *Pièces d'exception*) ne
+logent pas les marques accessibles non sportives, type Massimo Dutti. Proposition
+à quatre niveaux, plus proche de l'intention initiale :
+
+| Niveau | Marques | Pièces du stock |
+|--------|---------|-----------------|
+| **Essentiels** | Nike, New Balance, Massimo Dutti | NB GS 1906, ballerines Massimo Dutti |
+| **Créateurs** | Sandro, ba&sh, Maje, Stella McCartney | robe Sandro, short ba&sh, UltraBoost Stella |
+| **Pièces d'exception** | maisons de couture | jupe Sonia Rykiel |
+
+Enjeu : si Massimo Dutti et Sonia Rykiel cohabitent sous l'étiquette
+« Créateurs », le mot perd son sens et le niveau haut perd sa valeur.
+
+---
+
 ## Règle de sourcing : le ratio
 
 Viser **1 pour 4 minimum** entre le prix payé et le prix de marché actuel. En
@@ -85,6 +106,7 @@ dessous, la marge dépend trop du prix de vente exact.
 | Predator Edge.1 TF | 20 €/paire | ~110 € | 1 pour 5,5 |
 | Robe Sandro | 50 € | ~250 € | 1 pour 5 |
 | adidas Stella McCartney | 35 € | ~110 € actuel | 1 pour 3,1 |
+| Ballerines Massimo Dutti | 25 € | ~70-100 € | 1 pour 3,4 |
 | Short ba&sh | 55 € | 150 € | 1 pour 2,7 |
 
 Et toujours comparer au **prix pratiqué aujourd'hui**, pas au prix de lancement :
