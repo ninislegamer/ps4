@@ -433,18 +433,56 @@ navigation et les badges de la fiche produit.
 Charges micro-entreprise achat-revente : **12,4 %** du chiffre d'affaires
 (12,3 % cotisations + 0,1 % formation professionnelle).
 
+Frais de carte Shopify Payments : **1,5 % + 0,25 €** par transaction.
+
 ```
-marge = prix_vente − prix_achat − (0,124 × prix_vente)
-      = 0,876 × prix_vente − prix_achat
+marge = prix_vente − prix_achat − (0,124 × prix_vente) − (0,015 × prix_vente + 0,25)
+      = 0,861 × prix_vente − prix_achat − 0,25
 ```
 
 Prix de vente minimum pour une marge cible `M` :
 
 ```
-prix_min = (prix_achat + M) / 0,876
+prix_min = (prix_achat + M + 0,25) / 0,861
 ```
 
 Seuils : `M = 25 €` en standard, `M = 100 €` sur les grosses pièces.
 
-Les frais de paiement (~1,4 % + 0,25 €) et le port ne sont pas inclus dans cette
-formule — option à activer dans le dashboard si l'on veut une marge nette réelle.
+Le port n'entre pas dans la formule : il est refacturé au client.
+
+## Doctrine de prix
+
+Stratégie retenue : **vendre moins cher que le moins cher, tout en tenant la
+marge plancher.**
+
+Cette stratégie ne se joue pas à la mise en ligne mais **à l'achat**. Avec la
+formule ci-dessus, tenir 25 € de marge sous le prix marché suppose d'acheter aux
+alentours de **60-65 % du prix marché**. Atteignable en maison de vente, sur des
+lots ou en liquidation ; impossible au prix boutique.
+
+Exemple, sur un article dont le prix marché est 140 € :
+
+| Prix d'achat | Prix plancher | Verdict |
+|--------------|---------------|---------|
+| 89 € | 133 € | sous le marché, marge tenue |
+| 110 € | 157 € | au-dessus du marché, invendable |
+
+### Nuance selon l'univers
+
+- **Collection (scellé)** — l'authenticité ne fait aucun doute, le moins cher
+  gagne. La stratégie s'applique pleinement.
+- **Mode de créateur** — un prix nettement sous le marché éveille le soupçon de
+  contrefaçon et fait fuir l'acheteur visé. Ce qui vend ici, c'est la preuve :
+  photos des étiquettes, mention de la maison de vente, description précise de
+  l'état. Rester dans le marché, pas en dessous.
+
+### Conséquence pour le dashboard (étape 7)
+
+Afficher pour chaque pièce, à partir du prix d'achat saisi :
+
+- le **prix plancher** (marge minimum atteinte) ;
+- la **marge réelle** si le prix marché constaté est saisi ;
+- un verdict vendable / non vendable à ce prix d'achat.
+
+L'objectif est de trancher à l'achat, avant d'immobiliser de la trésorerie sur
+une pièce invendable à la marge visée.
