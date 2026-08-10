@@ -78,8 +78,22 @@ Pour rédiger un titre et une description, il faut au minimum :
 **Utile**
 
 - Matière (étiquette intérieure)
-- Provenance : maison de vente, lot, achat particulier
-- Prix d'achat, pour calculer le prix de vente et la marge
+
+**Interne, jamais publié**
+
+- Provenance précise : maison de vente, numéro de lot, date
+- Prix d'achat
+
+Ces informations servent à calibrer la fiche et le prix, et à satisfaire les
+obligations de conservation (facture, registre, justificatif en cas de contrôle
+Google Merchant Center). **Elles ne figurent jamais sur la fiche produit** : le
+sourcing est un avantage concurrentiel, et le divulguer revient à enchérir
+contre ses propres acheteurs la fois suivante.
+
+Formulation publique retenue, sans nom ni numéro de lot :
+
+> Pièce acquise en maison de vente et vérifiée avant mise en ligne.
+> Authenticité garantie.
 
 Rappel : aucune information non fournie ne doit apparaître dans la fiche. Une
 matière ou une année absentes de cette liste ne s'inventent pas.
