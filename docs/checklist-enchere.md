@@ -53,7 +53,40 @@ Sur un lot à 26 % de frais, avec 12 € de transport :
   **revendre en lot**, jamais à l'unité — 3,50 € par vente ne vaut pas le
   travail.
 
-## 6. Les pièges déjà rencontrés
+## 6. B2C ou B2B : deux calendriers opposés
+
+**B2C** — vente à celui qui va porter la pièce. Prix fort, une pièce à la fois,
+beaucoup de colis. Canaux : boutique, Vinted, Leboncoin particuliers. Droit de
+rétractation de 14 jours obligatoire. **On vend pendant la saison.**
+
+**B2B** — vente à un professionnel qui va revendre. Prix bas, tout le lot d'un
+coup, une seule transaction. Canaux : revendeurs, brocanteurs, déstockeurs.
+Pas de droit de rétractation entre professionnels. **On vend juste avant la
+saison**, quand l'acheteur constitue son stock.
+
+**Règle de prix en B2B : le prix doit laisser sa marge à l'acheteur.** Un lot de
+20 sandales valant 400 € en boutique s'écoule à 15 € la paire, soit 300 €. À
+280 € le revendeur refuse ; à 199 € il gagne 100 € et il accepte.
+
+Conséquence : deux marchandises saisonnières peuvent avoir des calendriers
+inverses. Les Havaianas se vendent à des particuliers **cet été**, le lot de
+sandales à un professionnel **en février-mars**, quand il prépare l'été suivant.
+
+## 7. Lots d'articles identiques : à éviter
+
+Vinted et Leboncoin n'autorisent pas plusieurs annonces identiques en parallèle —
+c'est détecté et sanctionné. Un lot de dix articles **identiques** n'est donc pas
+dix ventes rapides mais **dix ventes en file d'attente**, chacune attendant la
+précédente. Sur un produit saisonnier, c'est rédhibitoire.
+
+Un lot de dix articles **différents** n'a pas ce problème : dix annonces
+distinctes, publiables en parallèle.
+
+**Avant d'enchérir sur un lot en volume : les articles sont-ils identiques ou
+variés ?** Le lot de 20 sandales (tailles et modèles variés) est vendable ; les
+10 Havaianas fuchsia en 35/36 ne le sont pas.
+
+## 8. Les pièges déjà rencontrés
 
 - **Marques de sport grand public** — Nike, New Balance, Salomon, Adidas, Tommy.
   Prix catalogue élevés, prix réels effondrés. 245 € investis, 87 € de marge.
@@ -70,7 +103,7 @@ Sur un lot à 26 % de frais, avec 12 € de transport :
 - **Palette** — un lot à 45 € peut coûter 80 € à rapatrier. Demander une
   expédition en colis.
 
-## 7. Ce qui marche
+## 9. Ce qui marche
 
 Les maisons dont le prix affiché correspond au prix pratiqué :
 
