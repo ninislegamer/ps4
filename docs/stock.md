@@ -22,9 +22,51 @@ baisse, jamais la marge qu'on ampute.
 trouvé » porte la source. Une case « non vérifié » signifie que le prix est une
 hypothèse, pas un prix — à confirmer avant publication.
 
-Marge calculée à `0,861 × prix − coût`, soit le cas boutique (charges micro
-12,4 % + 1,5 % de carte). Hors boutique — Leboncoin, Vinted, remise en main
-propre — il n'y a pas de frais de carte et la marge réelle est ~1,5 % plus haute.
+Marge calculée à `0,861 × prix − coût`.
+
+### Ce que le coefficient 0,861 couvre
+
+```
+0,861 = 1 − 12,3 %  cotisations sociales URSSAF (achat-revente BIC)
+            − 0,1 %  CFP, contribution à la formation professionnelle
+            − 1,5 %  commission carte Shopify Payments
+```
+
+Hors boutique — Leboncoin, Vinted, remise en main propre — il n'y a pas de frais
+de carte et la marge réelle est ~1,5 % plus haute.
+
+**À vérifier sur l'espace URSSAF : le taux de 12,3 % pour l'achat-revente.** Il
+est stable depuis des années, mais les taux micro ont bougé sur d'autres
+catégories. S'il change, tout le tableau bouge.
+
+### Ce que le coefficient ne couvre PAS
+
+Sur les ~2 178 € de chiffre d'affaires que représente le stock :
+
+| Poste | Montant | Nature |
+|-------|---------|--------|
+| Impôt sur le revenu, si versement libératoire | ~22 € (1 % du CA) | par vente |
+| Emballage | ~60 € (2 € × ~30 colis) | par vente |
+| Frais fixe carte Shopify | ~4 € (0,25 € par transaction) | par vente |
+| **Total** | **~86 €** | |
+
+**Marge réelle du stock : ~605 €, pas 690 €.**
+
+Et deux charges fixes indépendantes des ventes :
+
+- **CFE** — exonérée la première année, puis **200 à 600 €/an** selon la commune.
+  Elle arrive en 2027.
+- **Abonnement Shopify** — 1 €/mois jusqu'au 10/11/2026, puis **36 €/mois**, soit
+  432 €/an.
+
+### Impôt sur le revenu : deux cas, à trancher
+
+- **Avec versement libératoire** : 1 % du CA en plus, prélevé avec les
+  cotisations. Le coefficient devient **0,851**.
+- **Sans** : abattement de 71 % sur le CA, les 29 % restants s'ajoutent au revenu
+  du foyer au barème. Non chiffrable ici — dépend des autres revenus.
+
+**À confirmer sur la déclaration de début d'activité**, puis figer le coefficient.
 
 | Pièce | Taille | Coût | Moins cher trouvé | Prix | Marge | Canal |
 |-------|--------|------|-------------------|------|-------|-------|
