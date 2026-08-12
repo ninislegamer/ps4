@@ -88,9 +88,17 @@ variés ?** Le lot de 20 sandales (tailles et modèles variés) est vendable ; l
 
 ## 8. Les pièges déjà rencontrés
 
+- **Marques en déstockage permanent** — une marque qui solde à −70 % toute
+  l'année n'a pas de prix de référence : l'étiquette affiche 155 €, le marché est
+  à 50. **Gérard Darel** (outlet à −80 %, occasion dès 36 €), Salomon, New
+  Balance, Guess, Geox. Vérifier systématiquement si la marque a un outlet
+  permanent avant d'enchérir.
 - **Marques de sport grand public** — Nike, New Balance, Salomon, Adidas, Tommy.
   Prix catalogue élevés, prix réels effondrés. 245 € investis, 87 € de marge.
   **Ne plus en acheter.**
+- **Parfums** — prix effondrés (Madame Grès 100 ml à 14,50 € quand l'étiquette
+  officielle annonce 85 €), et l'alcool est une matière réglementée à
+  l'expédition : Mondial Relay l'interdit, Colissimo le limite.
 - **Salomon en particulier** — ne jamais dépasser l'estimation basse.
 - **Marques massivement contrefaites** — Yeezy, Jordan, Louis Vuitton. Sans
   authentification, le risque de réputation dépasse la marge.
