@@ -502,7 +502,9 @@ ne fait pas apparaître des acheteurs qui ne voient pas l'annonce.
 
 ### Urgent — fin de saison estivale, deux à trois semaines
 
-- [ ] **Havaianas ×10** : publier l'annonce du lot à 139 € sur Leboncoin
+- [ ] **Havaianas ×10** : publier l'annonce du lot à 139 € sur Leboncoin —
+      **texte prêt dans `annonces.md`**, plancher 129 €. Poster aussi sur
+      Facebook Marketplace. Angle principal : le panier de tongs de mariage.
 - [ ] **Mrs.Ertha ×4** : publier deux annonces (un modèle de chaque) à **19 €**
       l'unité sur Leboncoin et Vinted, rubrique puériculture. Republier la
       seconde du même modèle dès qu'une part. **Au 1er septembre, solder le
