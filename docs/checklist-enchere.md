@@ -52,14 +52,27 @@ Sur un lot à 26 % de frais, avec 12 € de transport :
 | 199 € | 126 € |
 | 299 € | 194 € |
 
-## 5. Les planchers de marge
+## 5. La mise à prix passe avant tout
+
+On ne peut pas enchérir sous la **première enchère demandée**. Le plafond n'est
+donc pas un objectif, c'est un **mur** :
+
+1. Ouvrir « Déposer une enchère » et lire la première enchère possible
+2. La comparer au plafond
+3. **Première enchère > plafond → passer, sans calculer plus loin**
+
+L'estimation affichée ne sert à rien pour ça — c'est la mise à prix qu'il faut
+lire. Un lot dont la mise à prix dépasse le mur n'existe pas : il ne va ni dans
+la liste, ni dans le budget de la vacation.
+
+## 6. Les planchers de marge
 
 - **Pièce unique** : 25 € minimum. Au-delà de 1 000 € de revente, viser 12-15 %.
 - **Lot en volume** : raisonner en pourcentage et en total, pas par unité. Mais
   **revendre en lot**, jamais à l'unité — 3,50 € par vente ne vaut pas le
   travail.
 
-## 6. B2C ou B2B : deux calendriers opposés
+## 7. B2C ou B2B : deux calendriers opposés
 
 **B2C** — vente à celui qui va porter la pièce. Prix fort, une pièce à la fois,
 beaucoup de colis. Canaux : boutique, Vinted, Leboncoin particuliers. Droit de
@@ -78,7 +91,7 @@ Conséquence : deux marchandises saisonnières peuvent avoir des calendriers
 inverses. Les Havaianas se vendent à des particuliers **cet été**, le lot de
 sandales à un professionnel **en février-mars**, quand il prépare l'été suivant.
 
-## 7. Lots d'articles identiques : à éviter
+## 8. Lots d'articles identiques : à éviter
 
 Vinted et Leboncoin n'autorisent pas plusieurs annonces identiques en parallèle —
 c'est détecté et sanctionné. Un lot de dix articles **identiques** n'est donc pas
@@ -106,7 +119,7 @@ pas d'affaire — et aucun calcul plus fin ne la fera apparaître.
 **Si la réponse est « non, je le revends en lot » : passer son tour sans
 calculer**, sauf ratio de départ exceptionnel (cas des 20 sandales).
 
-## 8. Les pièges déjà rencontrés
+## 9. Les pièges déjà rencontrés
 
 - **Marques en déstockage permanent** — une marque qui solde à −70 % toute
   l'année n'a pas de prix de référence : l'étiquette affiche 155 €, le marché est
@@ -132,7 +145,7 @@ calculer**, sauf ratio de départ exceptionnel (cas des 20 sandales).
 - **Palette** — un lot à 45 € peut coûter 80 € à rapatrier. Demander une
   expédition en colis.
 
-## 9. Ce qui marche
+## 10. Ce qui marche
 
 Les maisons dont le prix affiché correspond au prix pratiqué :
 
