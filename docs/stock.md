@@ -33,26 +33,26 @@ propre — il n'y a pas de frais de carte et la marge réelle est ~1,5 % plus ha
 | **Adidas** Predator Edge.1 TF ×2 | 48⅔ | 20 €/paire | ~110 € | **89 €/paire** | **57 €/paire** | eBay + Leboncoin |
 | Ballerines **Hogan** 186 Zeppa | 36 | 15 € | 83 € Lyst | **79 €** | **53 €** | Boutique |
 | Jupe **Sonia Rykiel** twill cerises | 34 | 42,80 € | Jaiio −80 % | **99 €** | **42 €** | Boutique |
-| Robe **Pier Antonio Gaspari** marine | 42 | 30 € | ⚠️ non vérifié | **79 €** | **38 €** | Boutique + Leboncoin |
+| Robe **Pier Antonio Gaspari** marine | 42 | 30 € | YOOX −69 %, Joli Closet −70 % | **59 €** | **21 €** | Boutique + Leboncoin |
 | **BMW** Overall ProRain | XL | 82,61 € | 170 € (noir) | **139 €** | **37 €** | Leboncoin + Vinted |
 | Baskets **adidas by Stella McCartney** UB21 | 36 | 35 € | **94 €** eBay.de | **79 €** | **33 €** | Boutique |
 | Blazer **Karl Lagerfeld** punto noir | 36 FR / IT 40 | 45 € | Otrium, Lyst dès 50 € | **89 €** | **32 €** | Boutique |
-| Short **ba&sh** Fegor | 34 | 55,40 € | ⚠️ non vérifié | **99 €** | **30 €** | Boutique — saisonnier |
+| Short **ba&sh** Fegor | 34 | 55,40 € | **~75 €** Modz −50 % | **75 €** | **9 €** | Boutique — saisonnier |
 | **Salomon** X Ultra 5 Mid GTX | 44 | 65 € | 116 € | **109 €** | **29 €** | Leboncoin |
 | Robe **Sandro** blanche | 40 | 50,04 € | Once Again −90 % | **89 €** | **27 €** | Boutique |
 | **Mrs.Ertha** gilets flottaison ×4 | 3-6 ans | 9,45 €/gilet | 20 € Decathlon | **19 €/gilet** | **6,91 €/gilet** | Leboncoin + Vinted |
 | Ballerines **Massimo Dutti** rouge | 40 IT | 25 € | 70 € | **59 €** | **26 €** | Leboncoin + eBay |
 | Robe **Chiara Ferragni** bustier | M | 38 € | YOOX −85 % | **69 €** | **21 €** | Boutique + Leboncoin |
 | Baskets **Geox** gris / argent | 35 | 25 € | **55 €** | **49 €** | **17 €** | Leboncoin + eBay |
-| **Havaianas** Slim fuchsia ×10 | 35/36 | 10,50 €/paire | ⚠️ ~20 €, non vérifié | **17,90 €/paire** | **4,91 €/paire** | Leboncoin |
+| **Havaianas** Slim fuchsia ×10 | 35/36 | 105 € le lot | **15-20 €/paire** | **139 € le lot** | **15 €** | Leboncoin, en lot |
 | **New Balance** GS 1906 Alkaline | 38½ | 80,60 € | **87 €** StockX | **99 €** | **4,64 €** | Leboncoin |
 | Baskets **Emporio Armani** lavande | 36 | 55 € | **62 €** eBay | **69 €** | **4,41 €** | Leboncoin |
-| **Tommy Jeans** baskets basses | 40 | 55 € | ⚠️ non vérifié | **69 €** | **4,41 €** | Leboncoin + eBay |
+| **Tommy Jeans** baskets basses | 40 | 55 € | **60 €** Stylight, 41 € officiel | **65 €** | **0,97 €** | Leboncoin + eBay |
 | **New Balance** BB80 | 38 | 45 € | **54,99 €** idealo | **54 €** | **1,49 €** | Leboncoin |
 | **New Balance** 650 blanche | 44 | 55 € | **61 €** idealo | **65 €** | **0,97 €** | Leboncoin |
 | **Adidas Yeezy** 700 V3, portée | 38 | 75,24 € | à établir | — | — | Vinted, authentification |
 
-**Capital engagé : 1 159 €.** Marge attendue : **~711 €** hors Yeezy.
+**Capital engagé : 1 159 €.** Marge attendue : **~635 €** hors Yeezy.
 
 Frais acheteur ADN : **26 %**, sauf exception rare — le BMW ProRain a été à
 14,28 %, seul cas rencontré. La mention « TVA Récupérable » portée par certains
@@ -82,20 +82,43 @@ Deux faits découverts à cette occasion :
   (`outlet.elisabettafranchi.com`). Elle reste la meilleure pièce du stock, mais
   à 99 €, pas 139 €.
 
-### Cinq lots ne rapporteront rien
+### Sept lots ne rapporteront rien
 
-**Emporio Armani, NB BB80, NB 650, NB GS 1906, Tommy Jeans** : **290,60 €
-investis pour ~16 € de marge** une fois alignés sous le marché. Ce ne sont pas
-des erreurs de prix mais des **erreurs d'achat** — des marques de sport et grand
-public payées au-dessus de leur prix de rue.
+| Lot | Investi | Marge |
+|-----|---------|-------|
+| Emporio Armani | 55 € | 4,41 € |
+| New Balance BB80 | 45 € | 1,49 € |
+| New Balance 650 | 55 € | 0,97 € |
+| New Balance GS 1906 | 80,60 € | 4,64 € |
+| Tommy Jeans | 55 € | 0,97 € |
+| ba&sh Fegor | 55,40 € | 9 € |
+| Havaianas ×10 | 105 € | 15 € |
+| **Total** | **451 €** | **~46 €** |
 
-**Sur ces cinq-là : vendre pour récupérer la trésorerie, pas pour la marge.**
+**39 % du capital pour 7 % de la marge.** Ce ne sont pas des erreurs de prix mais
+des **erreurs d'achat** — marques de sport, grand public, ou en déstockage
+permanent, payées au-dessus de leur prix de rue.
 
-### Prix restant à vérifier
+**Sur ces sept-là : vendre pour récupérer la trésorerie, pas pour la marge.**
+Les 635 € viennent presque entièrement des huit pièces de créateurs.
 
-`ba&sh`, `Pier Antonio Gaspari`, `Tommy Jeans`, `Havaianas` — chiffres actuels
-posés sans source. À confirmer sur idealo.fr et sur les **articles vendus** de
-Vinted avant publication.
+### Vérification du 12 août — les quatre prix manquants
+
+- **ba&sh** est sur **Modz à −50 % minimum toute l'année**, dispose de sa propre
+  plateforme d'occasion officielle (`seconde-main.ba-sh.com`) et Once Again la
+  solde à −80/−90 %. L'étiquette annonce 150 € ; le prix de rue est à ~75 € en
+  neuf démarqué. Ratio d'achat 1 pour 1,35.
+- **Pier Antonio Gaspari** : YOOX solde à −69 %, Joli Closet −70 %, Poshmark et
+  ThredUp −90 %.
+- **Tommy Jeans** : Stylight dès 60 € en noir, 83 € en blanc ; site officiel dès
+  41 € en soldes. À 59 € la vente serait à perte de 4 €.
+- **Havaianas** : 15-20 € neuve (Walmart 16,98 $, Cdiscount, Sarenza, Spartoo).
+  **La vente à l'unité est impossible** — dix articles identiques ne peuvent pas
+  être publiés en parallèle sur Vinted ni Leboncoin. Seul le lot est réaliste :
+  139 € → 15 € de marge, 129 € → 6 €, 119 € → perte. Ne pas descendre sous 129 €.
+
+Le calcul précédent des Havaianas s'appuyait sur une vente à l'unité que la règle
+des annonces identiques rend impossible : 49 € de marge annoncés, 15 € réels.
 
 ### Références pour les fiches
 
