@@ -672,6 +672,23 @@ fonctionnel (flotteur et débit vérifiés). Vendue avec sa boîte.
 C'est vrai, vérifiable, et ça rassure davantage qu'un « neuf » que la boîte
 ouverte contredit.
 
+### À l'unité, pas en lot
+
+| | Prix | URSSAF | **Marge** |
+|---|------|--------|-----------|
+| **À l'unité, 42 € ×2** | 84 € | 10,42 € | **28,58 €** |
+| En lot à 75 € | 75 € | 9,30 € | 20,70 € |
+| En lot à 69 € | 69 € | 8,56 € | 15,44 € |
+
+Le lot ferait perdre 8 à 13 € **pour toucher un public vingt fois plus étroit** :
+un particulier a une cave à vider, pas deux. Le lot de deux ne parle qu'aux
+plombiers, loueurs et revendeurs.
+
+**Publier la première à 42 €, la seconde quand elle est vendue.** Si rien ne
+bouge en trois semaines, regrouper à 75 € — à ce moment-là on a la preuve que le
+canal individuel ne fonctionne pas, et 20,70 € tout de suite valent mieux que
+28,58 € en février.
+
 ### Remise en main propre uniquement
 
 ```

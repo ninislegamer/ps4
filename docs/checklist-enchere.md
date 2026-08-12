@@ -136,6 +136,24 @@ distinctes, publiables en parallèle.
 variés ?** Le lot de 20 sandales (tailles et modèles variés) est vendable ; les
 10 Havaianas fuchsia en 35/36 ne le sont pas.
 
+### Le seuil : sous 4-5 exemplaires, vendre à l'unité
+
+C'est le moment où la file d'attente devient plus coûteuse que la décote du lot.
+
+**Dix articles identiques** — la vente à l'unité est impossible : dix ventes en
+file d'attente sur une saison de trois semaines. Le lot est la seule issue.
+
+**Deux articles identiques** — la file ne fait que deux crans. On publie le
+premier, il part, on publie le second. Deux à quatre semaines au total, et chaque
+annonce touche le marché large.
+
+Et surtout, **le lot de deux s'adresse à un public vingt fois plus étroit**. Un
+particulier a une cave à vider, pas deux. Sur les pompes Robby, le lot coûterait
+8 à 13 € de marge pour toucher moins d'acheteurs : perdant sur les deux tableaux.
+
+**Repli** : si le premier exemplaire ne part pas en trois semaines, regrouper —
+à ce moment-là on a la preuve que le canal individuel ne fonctionne pas.
+
 ### Et surtout : ai-je l'intention de le découper ?
 
 Un lot en volume n'a d'intérêt que si on le **revend à l'unité**. Il est bon
