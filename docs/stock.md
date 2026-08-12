@@ -622,3 +622,26 @@ ne fait pas apparaître des acheteurs qui ne voient pas l'annonce.
 - [ ] Authentifier la Yeezy avant toute mise en vente (10-20 €), puis fixer son
       prix d'après les ventes réalisées en taille 38
 - [ ] Relever les codes-barres (EAN) de chaque pièce pour les fiches Shopify
+
+---
+
+## Classeur Excel
+
+`exports/maison-nsaia-stock.xlsx` — même contenu que ce document, mais **avec des
+formules vivantes**. Cinq feuilles : Synthèse, Pièces uniques, Lots multiples,
+Paramètres, Légende.
+
+Les colonnes URSSAF, frais de carte et marge sont calculées. Changer un prix de
+vente met à jour toute la chaîne jusqu'à la ligne « ce qui reste ». Changer un
+taux dans **Paramètres** répercute sur les 26 lignes d'un coup.
+
+Code couleur : **bleu** = saisie, **jaune** = hypothèse à ajuster, **noir** =
+formule à ne pas écraser.
+
+Les deux cellules jaunes qui comptent : la **tranche marginale d'imposition**
+(11 % par défaut) et le **taux URSSAF** (12,3 %, à confirmer sur l'espace
+URSSAF).
+
+Le classeur est réglé pour se recalculer à l'ouverture. Les cellules de formule
+apparaissent vides tant qu'Excel ou LibreOffice ne l'a pas ouvert une première
+fois — c'est normal.
