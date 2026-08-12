@@ -37,9 +37,10 @@ livraison gratuite, le port est absorbé et se déduit en plus.
 | **Havaianas** Slim fuchsia ×10 paires | 35/36 | Neuves avec boîte | 10,50 €/paire | **19,90 €/paire** | 6,63 €/paire | Leboncoin | reçues — **saisonnier, urgent** |
 | **Salomon** X Ultra 5 Mid GTX | 44 | Neuves | 65 € | **109 €** | 29 € | Leboncoin | reçues |
 | **BMW** Overall ProRain | XL | Neuf | 82,61 € | **139 €** | 29 € | Leboncoin + Vinted | à recevoir |
+| **Mrs.Ertha** gilets de flottaison 3-6 ans ×4 | 3-6 ans | Neufs | 9,45 €/gilet | **27 €/gilet** | 14,20 €/gilet | Leboncoin + Vinted | reçus — **saisonnier, urgent** |
 | **Adidas Yeezy** 700 V3 Mono Safflower | 38 | Occasion, portée | 75,24 € | à établir | — | Vinted | authentification requise |
 
-**Capital engagé : ~1 122 €.** Marge attendue : environ **968 €** hors Yeezy.
+**Capital engagé : ~1 160 €.** Marge attendue : environ **1 025 €** hors Yeezy.
 
 Frais acheteur ADN : **26 %**, sauf exception rare — le BMW ProRain a été à
 14,28 %, seul cas rencontré. La mention « TVA Récupérable » portée par certains
@@ -344,6 +345,20 @@ ne fait pas apparaître des acheteurs qui ne voient pas l'annonce.
 ---
 
 ## À faire
+
+### Urgent — fin de saison estivale, deux à trois semaines
+
+- [ ] **Havaianas ×10** : publier l'annonce du lot à 139 € sur Leboncoin
+- [ ] **Mrs.Ertha ×4** : publier deux annonces (un modèle de chaque) à 27 €
+      l'unité sur Leboncoin et Vinted, rubrique puériculture. Republier la
+      seconde du même modèle dès qu'une part. **Au 1er septembre, solder le
+      reste en lot à 59-69 €** — mieux vaut 20 € maintenant que 56 € en mai.
+- [ ] **Mrs.Ertha — avant publication** : vérifier le marquage **CE**, la notice
+      en français et la tranche de poids/âge sur chaque gilet. C'est un
+      équipement de sécurité enfant soumis à la norme **EN 13138-1** ; sans
+      notice, ne pas vendre comme neuf conforme.
+
+### Le reste
 
 - [ ] Retirer la Sandro et les Predator de Vinted (articles neufs : hors
       périmètre Vinted Pro)
