@@ -41,10 +41,10 @@ livraison gratuite, le port est absorbé et se déduit en plus.
 
 **Capital engagé : ~1 122 €.** Marge attendue : environ **968 €** hors Yeezy.
 
-Frais acheteur ADN : **26 %**, sauf exception rare (le BMW ProRain a été à
-14,28 %). La mention « TVA Récupérable » de
-certains lots ne s'applique pas — en franchise en base (art. 293 B), il n'y a
-rien à récupérer.
+Frais acheteur ADN : **26 %**, sauf exception rare — le BMW ProRain a été à
+14,28 %, seul cas rencontré. La mention « TVA Récupérable » portée par certains
+lots ne s'applique pas : en franchise en base (art. 293 B), il n'y a rien à
+récupérer, et elle ne réduit le coût d'aucun euro.
 
 ### Références pour les fiches
 
