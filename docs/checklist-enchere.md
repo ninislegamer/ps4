@@ -179,6 +179,11 @@ calculer**, sauf ratio de départ exceptionnel (cas des 20 sandales).
   Acheter en octobre pour vendre en avril, jamais l'inverse.
 - **État sur les photos** — semelle, doublure, plis. Tout est visible avant
   d'enchérir.
+- **Poids** — un article lourd et bon marché **ne s'expédie pas**. Une pompe de
+  4,8 kg vendue 39 € coûte 12 € de port : l'acheteur paierait 51 € pour de
+  l'occasion sans garantie contre 54,90 € pour du neuf garanti, et la
+  comparaison s'effondre. Quand le port dépasse un quart du prix de vente,
+  prévoir la **remise en main propre** — ou passer son tour.
 - **Palette** — un lot à 45 € peut coûter 90 € à rapatrier. **Écrire à la maison
   de vente pour demander une expédition en colis plutôt qu'en palette** : sur le
   lot de 20 sandales, la réponse a fait passer le transport de **90 € à 44 €**,
