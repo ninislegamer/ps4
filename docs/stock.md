@@ -94,24 +94,50 @@ Et deux charges fixes indépendantes des ventes :
 | **New Balance** BB80 | 38 | 45 € | **54,99 €** idealo | **54 €** | 6,70 € | 0,81 € | **1,49 €** | Leboncoin |
 | **Tommy Jeans** baskets basses | 40 | 55 € | **60 €** Stylight, 41 € officiel | **65 €** | 8,06 € | 0,98 € | **0,97 €** | Leboncoin + eBay |
 | **New Balance** 650 blanche | 44 | 55 € | **61 €** idealo | **65 €** | 8,06 € | 0,98 € | **0,97 €** | Leboncoin |
+| **Lot 20 sandales et tongs** (Relife, Tommy Jeans, Chattawak, Malabar) | variées | 100,70 € | ~400 € valeur boutique | **199 € le lot** | 24,68 € | 2,99 € | **70,63 €** | Leboncoin B2B — **février-mars** |
 | **Adidas Yeezy** 700 V3, portée | 38 | 75,24 € | à établir | — | — | — | — | Vinted, authentification |
-| **TOTAL** hors Yeezy | | **1 186 €** | | **2 178 €** | **270 €** | **33 €** | **689 €** | |
+| **TOTAL** hors Yeezy | | **1 287 €** | | **2 377 €** | **295 €** | **36 €** | **760 €** | |
 
-### Des 689 € aux 603 € réels
+### Des 760 € aux ~618 € réels
 
 | | |
 |---|---|
-| Marge après URSSAF et carte | **689 €** |
-| − Impôt sur le revenu (1 % du CA, si versement libératoire) | −22 € |
-| − Emballage (~2 € × 30 colis) | −60 € |
+| Marge après URSSAF et carte | **760 €** |
+| − Emballage (~2 € × 31 colis) | −62 € |
 | − Frais fixe carte (0,25 € par transaction) | −4 € |
-| **= Marge réelle** | **~603 €** |
+| **= Marge avant impôt** | **~694 €** |
+| − Impôt sur le revenu, tranche estimée 11 % | ~−76 € |
+| **= Ce qui reste** | **~618 €** |
 
-**270 € d'URSSAF, soit 45 % de ce qui reste vraiment.** C'est la deuxième charge
-après la marchandise. Pour chaque euro gardé, 45 centimes partent en cotisations.
+**295 € d'URSSAF, soit 48 % de ce qui reste vraiment.** C'est la deuxième charge
+après la marchandise. Pour chaque euro gardé, près de 50 centimes partent en
+cotisations.
 
 C'est aussi ce qui condamne les six lots du bas : sur les New Balance 650, 65 €
 encaissés, 55 € payés, 8 € d'URSSAF — il reste **97 centimes**.
+
+### Impôt sur le revenu : pas de versement libératoire
+
+**Option non retenue à la déclaration de début d'activité.** L'impôt suit donc le
+régime de droit commun :
+
+```
+CA 2 377 €  −  abattement 71 %  =  689 € de base imposable
+```
+
+Ces 689 € s'ajoutent au revenu du foyer, au barème.
+
+| Tranche | Impôt sur cette activité |
+|---------|--------------------------|
+| 0 % | 0 € |
+| 11 % | ~76 € |
+| 30 % | ~207 € |
+
+Tranche à 11 % retenue par défaut (activité salariée à côté). **C'est le seul
+chiffre du tableau qui dépend du foyer et non de l'activité.**
+
+**L'impôt n'est pas prélevé au fil des ventes, il tombe l'année suivante.** À
+provisionner au fur et à mesure.
 
 **Capital engagé : 1 261 €.** Marge attendue : **~685 €** hors Yeezy.
 
@@ -432,22 +458,31 @@ Elisabetta Franchi (1 pour 14), Sonia Rykiel (1 pour 11,6), Karl Lagerfeld
 ### Sur les lots en volume, vérifier le transport AVANT d'enchérir
 
 Le lot de 20 paires de sandales (Relife, Tommy Jeans, Chattawak, mules Malabar)
-a été adjugé 45 €, mais l'expédition sur palette est annoncée à 80 € — soit 59 %
-du coût total. C'est la première fois que le transport dépasse la marchandise.
+a été adjugé 45 €, mais l'expédition sur palette était annoncée à **90 €** — plus
+que la marchandise elle-même.
+
+**Contre-mesure appliquée, et elle a fonctionné : un e-mail à la maison de vente
+demandant une expédition en colis plutôt qu'en palette.** Réponse obtenue :
+**44 €**.
 
 ```
-45 € × 1,26 = 56,70 €
-+ 80 € de transport palette
-= 136,70 € pour 20 paires, soit 6,84 €/paire
+avant : 45 € × 1,26 + 90 € de palette = 146,70 €  →  7,34 €/paire
+après : 45 € × 1,26 + 44 € de colis   = 100,70 €  →  5,04 €/paire
 ```
 
-Point mort sur l'ensemble : **159 €**. Valeur boutique du lot : ~400 €, mais ce
-sont des chaussures de grande distribution (12,99 € à 24,99 € l'unité).
+| | Avant | Après |
+|---|-------|-------|
+| Coût réel | 146,70 € | **100,70 €** |
+| Point mort | 171 € | **117 €** |
+| Prix de vente en lot | 199 € | 199 € |
+| **Marge** | 25 € | **71 €** |
 
-**Contre-mesure : demander une expédition en colis plutôt qu'en palette.** Vingt
-boîtes à chaussures pèsent 25-30 kg, soit deux ou trois colis à 15-18 € — 45 €
-au lieu de 80, ce qui fait passer la marge de 35 € à 70 € sur une revente en lot
-à 199 €.
+**46 € économisés pour un e-mail** — plus que la marge des New Balance, Tommy
+Jeans et Emporio Armani réunies. À faire systématiquement dès qu'une palette
+apparaît.
+
+Valeur boutique du lot : ~400 €, mais ce sont des chaussures de grande
+distribution (12,99 € à 24,99 € l'unité).
 
 **Revendre en lot, jamais à l'unité.** Vingt ventes à 12 € rapportent 70 € au
 total, soit 3,50 € par vente — sous tout seuil acceptable. Une annonce Leboncoin

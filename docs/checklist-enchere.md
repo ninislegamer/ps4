@@ -179,8 +179,11 @@ calculer**, sauf ratio de départ exceptionnel (cas des 20 sandales).
   Acheter en octobre pour vendre en avril, jamais l'inverse.
 - **État sur les photos** — semelle, doublure, plis. Tout est visible avant
   d'enchérir.
-- **Palette** — un lot à 45 € peut coûter 80 € à rapatrier. Demander une
-  expédition en colis.
+- **Palette** — un lot à 45 € peut coûter 90 € à rapatrier. **Écrire à la maison
+  de vente pour demander une expédition en colis plutôt qu'en palette** : sur le
+  lot de 20 sandales, la réponse a fait passer le transport de **90 € à 44 €**,
+  soit 46 € gagnés pour un e-mail et une marge multipliée par près de trois. À
+  faire systématiquement.
 
 ## 10. Ce qui marche
 
