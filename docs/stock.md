@@ -628,12 +628,23 @@ ne fait pas apparaître des acheteurs qui ne voient pas l'annonce.
 ## Classeur Excel
 
 `exports/maison-nsaia-stock.xlsx` — même contenu que ce document, mais **avec des
-formules vivantes**. Quatre feuilles : **Stock complet** (les 26 lignes en un
-seul tableau, triées par marge), Synthèse, Paramètres, Légende.
+formules vivantes**. Cinq feuilles :
 
-La feuille Stock complet porte toutes les colonnes de prix : coût total, coût par
-article, prix marché, source, prix de vente, prix par article, **écart au
-marché**, URSSAF, frais de carte, marge, marge par article, rendement.
+| Feuille | Contenu |
+|---------|---------|
+| **Prix** | Vue courte à 4 colonnes : pièce, coût, prix de vente, marge. Lisible sur téléphone. |
+| **Stock complet** | Tout le détail, 21 colonnes. Les 4 essentielles sont en tête. |
+| **Synthèse** | Totaux, charges, impôt, rendement. |
+| **Paramètres** | Les taux. Une cellule modifiée répercute sur tout. |
+| **Légende** | Mode d'emploi et règles de prix. |
+
+Ordre des colonnes de « Stock complet » : **Pièce · Coût total · PRIX DE VENTE ·
+Marge nette · Rendement**, puis le détail (nb, coût et prix par article, prix
+marché, écart au marché, URSSAF, carte, type, taille, état, source, canal, mode,
+statut, priorité).
+
+Les quatre premières colonnes sont volontairement en tête : sur un écran de
+téléphone, seules les premières colonnes sont visibles.
 
 **Quatre cellules s'affichent en rouge dans la colonne « Écart au marché »** :
 New Balance GS 1906, Emporio Armani, Tommy Jeans, New Balance 650. Ce ne sont pas
