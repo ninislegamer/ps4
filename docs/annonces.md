@@ -11,7 +11,7 @@
 ### Titre
 
 ```
-Lot 10 paires Havaianas Slim fuchsia neuves 33/34 et 35/36
+Lot 10 paires Havaianas Slim fuchsia neuves 35/36
 ```
 
 ### Description
@@ -20,7 +20,7 @@ Lot 10 paires Havaianas Slim fuchsia neuves 33/34 et 35/36
 10 paires de tongs HAVAIANAS Slim, coloris fuchsia, NEUVES dans leur
 boîte d'origine. Jamais portées, jamais essayées.
 
-Tailles 33/34 et 35/36 (voir photo des étiquettes).
+Taille 35/36 sur les dix paires.
 
 Le modèle Slim est la version fine et féminine de la Havaianas
 classique. Prix boutique entre 26 et 30 € la paire, soit plus de 260 €
@@ -53,17 +53,19 @@ litige.
 
 ### L'angle qui vend
 
-Les dix paires étant en **33/34 et 35/36**, deux pointures proches, **l'angle
-revendeur passe devant l'angle mariage**. Ça reste vendable pour une soirée — le
-35-37 couvre une grande part des pointures féminines — mais dix paires dans deux
-pointures voisines, c'est d'abord un lot de déstockage.
+**Dix paires identiques, même coloris, même pointure : c'est un lot de
+déstockage.** L'acheteur principal est un revendeur — marché, vide-grenier,
+petite boutique. Les angles groupe et événement viennent après : le 35/36 est
+l'une des pointures féminines les plus courantes et couvre aussi le public
+adolescent, donc une association ou une colonie reste un acheteur plausible.
 
 ### Photos — ne jamais utiliser celles du site d'enchères
 
-**La photo d'ADN montre des boîtes qui ne sont pas dans le lot** (on y voit du
-39/40). Un acheteur qui commande sur cette photo et reçoit autre chose ouvre un
-litige, et avec le paiement sécurisé Leboncoin il gagne. C'est aussi la photo
-d'ADN, pas la nôtre. **Toujours reprendre ses propres photos.**
+La photo de la maison de vente **ne montre pas la marchandise réellement
+vendue** : on y voit des boîtes en 39/40 qui ne font pas partie du lot. Un
+acheteur qui commande sur cette photo et reçoit autre chose ouvre un litige, et
+avec le paiement sécurisé Leboncoin il gagne. C'est aussi la photo d'ADN, pas la
+nôtre. **Toujours reprendre ses propres photos.**
 
 Fond clair et uni, lumière du jour près d'une fenêtre, jamais de flash.
 
