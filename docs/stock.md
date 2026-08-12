@@ -39,6 +39,7 @@ propre — il n'y a pas de frais de carte et la marge réelle est ~1,5 % plus ha
 | Blazer **Karl Lagerfeld** punto noir | 36 FR / IT 40 | 45 € | Otrium, Lyst dès 50 € | **89 €** | **32 €** | Boutique |
 | Short **ba&sh** Fegor | 34 | 55,40 € | **~75 €** Modz −50 % | **75 €** | **9 €** | Boutique — saisonnier |
 | **Salomon** X Ultra 5 Mid GTX | 44 | 65 € | 116 € | **109 €** | **29 €** | Leboncoin |
+| **Plein Sport** montante blanc / violet | 40 | 62 € | **~100 €** Stylight −63 % | **99 € → 89 €** | **15 €** | Leboncoin + eBay |
 | Robe **Sandro** blanche | 40 | 50,04 € | Once Again −90 % | **89 €** | **27 €** | Boutique |
 | **Mrs.Ertha** gilets flottaison ×4 | 3-6 ans | 9,45 €/gilet | 20 € Decathlon | **19 €/gilet** | **6,91 €/gilet** | Leboncoin + Vinted |
 | Ballerines **Massimo Dutti** rouge | 40 IT | 25 € | 70 € | **59 €** | **26 €** | Leboncoin + eBay |
@@ -52,7 +53,7 @@ propre — il n'y a pas de frais de carte et la marge réelle est ~1,5 % plus ha
 | **New Balance** 650 blanche | 44 | 55 € | **61 €** idealo | **65 €** | **0,97 €** | Leboncoin |
 | **Adidas Yeezy** 700 V3, portée | 38 | 75,24 € | à établir | — | — | Vinted, authentification |
 
-**Capital engagé : 1 159 €.** Marge attendue : **~635 €** hors Yeezy.
+**Capital engagé : 1 221 €.** Marge attendue : **~650 €** hors Yeezy.
 
 Frais acheteur ADN : **26 %**, sauf exception rare — le BMW ProRain a été à
 14,28 %, seul cas rencontré. La mention « TVA Récupérable » portée par certains
@@ -101,6 +102,33 @@ permanent, payées au-dessus de leur prix de rue.
 
 **Sur ces sept-là : vendre pour récupérer la trésorerie, pas pour la marge.**
 Les 635 € viennent presque entièrement des huit pièces de créateurs.
+
+### Plein Sport montante blanc / violet, 40 — ADN Lyon n°159
+
+Coût **62 € tout compris**. Ligne diffusion de Philipp Plein, soldée en
+permanence : **−63/−64 % chez Stylight**, −50 % en ventes privées, −40 % chez
+SoPicks. Fourchette observée 100-230 €, le moins cher du net autour de **100 €**.
+
+**Ratio d'achat 1 pour 1,6**, très en dessous du seuil de 1 pour 4. Marge de 15 €
+à 89 €, sous le plancher de 25 €. Ce n'est pas une perte, mais c'est le motif
+« prix catalogue élevé, prix réel effondré » une fois de plus.
+
+**Stratégie de prix : 99 € pendant deux semaines** (23 € de marge, encore sous le
+moins cher du net), **puis 89 €** si rien ne bouge. Ne pas descendre plus bas.
+
+**La pointure 40 est un atout ici.** Petite pour un homme — le marché est en
+42-44 — mais ce coloris et cette silhouette parlent aussi aux femmes, pour qui le
+40 est courant. C'est la pointure charnière qui garde les deux publics.
+**Titre d'annonce sans mention homme ou femme**, et publication dans les deux
+rubriques Leboncoin : restreindre au rayon homme diviserait l'audience par deux.
+
+Canal : **Leboncoin et eBay, pas Vinted** (article neuf, hors périmètre Vinted
+Pro). **Pas sur la boutique** : une montante blanc et violet à logo doré ne sert
+pas le positionnement épuré, même dans le niveau Sportswear.
+
+Philipp Plein est massivement contrefait, mais la pièce vient d'une maison de
+vente — la garantie de la section 11 de la checklist s'applique, pas de prime de
+risque.
 
 ### Vérification du 12 août — les quatre prix manquants
 
