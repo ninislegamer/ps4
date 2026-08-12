@@ -92,8 +92,23 @@ contre ses propres acheteurs la fois suivante.
 
 Formulation publique retenue :
 
-> Pièce acquise en maison de vente et vérifiée avant mise en ligne.
-> Authenticité garantie.
+> Pièce authentifiée en maison de vente.
+
+**Ne jamais écrire « acquise ».** Le mot dit à l'acheteur qu'on a acheté la pièce
+pour la revendre, et ramène la conversation sur le prix payé. « Authentifiée »
+dit ce qui l'intéresse, lui : la pièce est vraie, et quelqu'un d'autre que le
+vendeur en répond.
+
+La formulation est fondée : une maison de vente aux enchères volontaires est
+**légalement responsable de l'authenticité de ce qu'elle décrit**. Ce n'est pas
+un argument commercial, c'est une garantie réelle qu'on répercute.
+
+Deux conditions pour qu'elle tienne :
+
+- **Conserver la facture de la vente** pour chaque pièce. C'est la seule preuve.
+- Si un acheteur demande un certificat, répondre qu'il n'y en a pas de séparé :
+  c'est la maison de vente qui répond de la description. Ne jamais laisser croire
+  à l'existence d'un document qu'on n'a pas.
 
 La mention générique « maison de vente » est publique — c'est l'argument
 d'authenticité. Ce qui reste confidentiel, c'est **le nom de la maison, le

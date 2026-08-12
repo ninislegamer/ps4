@@ -186,8 +186,9 @@ Deux conséquences :
    remplie ici. **Ne pas appliquer de prime de risque d'authenticité sur un lot de
    maison de vente.**
 2. **C'est l'argument de vente**, et il est déjà rédigé dans `brief-ia.md` :
-   « Pièce acquise en maison de vente et vérifiée avant mise en ligne.
-   Authenticité garantie. » Cette phrase tient juridiquement grâce à ça.
+   « **Pièce authentifiée en maison de vente.** » Jamais « acquise » — le mot dit
+   à l'acheteur qu'on revend et ramène la conversation sur le prix payé. Cette
+   phrase tient juridiquement grâce à la responsabilité de l'opérateur.
    **Conserver la facture de la vente** : c'est elle qui la fonde.
 
 Ce qui reste, et qui n'est pas un risque d'authenticité : **l'acheteur, lui, ne
