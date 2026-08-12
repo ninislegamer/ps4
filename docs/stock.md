@@ -79,7 +79,7 @@ Et deux charges fixes indépendantes des ventes :
 | **BMW** Overall ProRain | XL | 82,61 € | 170 € (noir) | **139 €** | 17,24 € | 2,09 € | **37,07 €** | Leboncoin + Vinted |
 | Baskets **adidas by Stella McCartney** UB21 | 36 | 35 € | **94 €** eBay.de | **79 €** | 9,80 € | 1,19 € | **33,02 €** | Boutique |
 | Blazer **Karl Lagerfeld** punto noir | 36 FR / IT 40 | 45 € | Otrium, Lyst dès 50 € | **89 €** | 11,04 € | 1,34 € | **31,63 €** | Boutique |
-| ~~**Salomon** X Ultra 5 Mid GTX~~ | 44 | 65 € | 116 € | **VENDUE 100 €** | 12,40 € | — | **20,60 €** | ✅ Vinted, 12 août |
+| ✅ **Salomon** X Ultra 5 Mid GTX | 44 | 65 € | 116 € | **VENDUE 100 €** | 12,40 € | 0 € | **22,60 €** | Vinted, 12 août |
 | **Mrs.Ertha** gilets flottaison ×4 | 3-6 ans | 37,80 € | 20 € Decathlon | 19 €/gilet | 9,42 € | 1,14 € | **27,64 €** | Leboncoin + Vinted |
 | Robe **Sandro** blanche | 40 | 50,04 € | Once Again −90 % | **89 €** | 11,04 € | 1,34 € | **26,59 €** | Boutique |
 | Ballerines **Massimo Dutti** rouge | 40 IT | 25 € | 70 € | **59 €** | 7,32 € | 0,89 € | **25,80 €** | Leboncoin + eBay |
@@ -629,12 +629,22 @@ ne fait pas apparaître des acheteurs qui ne voient pas l'annonce.
 
 ## Ventes réalisées
 
-| Date | Pièce | Canal | Prix | Coût | URSSAF | Emballage | **Marge** |
-|------|-------|-------|------|------|--------|-----------|-----------|
-| 12 août 2026 | Salomon X Ultra 5 Mid GTX, 44 | Vinted, acheteur en Italie | 100 € | 65 € | 12,40 € | 2 € | **20,60 €** |
+| Date | Pièce | Canal | Prix | Coût | URSSAF | **Marge** |
+|------|-------|-------|------|------|--------|-----------|
+| 12 août 2026 | Salomon X Ultra 5 Mid GTX, 44 | Vinted, acheteur en Italie | 100 € | 65 € | 12,40 € | **22,60 €** |
 
-**Première vente de Maison Nsaia.** Prix prévu 109 €, obtenu 100 € — l'écart de
-9 € se retrouve intégralement dans la marge (28,85 € prévus, 20,60 € réels).
+**Première vente de Maison Nsaia.** Prix prévu 109 €, obtenu 100 €. Pas de
+commission carte sur Vinted, donc la marge de ligne est de 22,60 € ; l'emballage
+(~2 €) est compté globalement dans les frais de vente, comme sur toutes les
+lignes.
+
+### Où en est le stock
+
+| | Réalisé | Reste à faire | Total |
+|---|---------|---------------|-------|
+| Chiffre d'affaires | **100 €** | 2 268 € | 2 368 € |
+| Marge | **22,60 €** | 730,80 € | 753,40 € |
+| Capital | 65 € libérés | **1 297 €** immobilisés | 1 362 € |
 
 ### Le compte utilisé ne change pas la nature de l'opération
 
