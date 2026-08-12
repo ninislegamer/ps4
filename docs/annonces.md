@@ -11,7 +11,7 @@
 ### Titre
 
 ```
-Lot 10 paires Havaianas Slim fuchsia neuves 35/36
+Lot 10 paires Havaianas Slim fuchsia neuves 33/34 et 35/36
 ```
 
 ### Description
@@ -20,7 +20,7 @@ Lot 10 paires Havaianas Slim fuchsia neuves 35/36
 10 paires de tongs HAVAIANAS Slim, coloris fuchsia, NEUVES dans leur
 boîte d'origine. Jamais portées, jamais essayées.
 
-Taille 35/36 sur les dix paires.
+Tailles 33/34 et 35/36 (voir photo des étiquettes).
 
 Le modèle Slim est la version fine et féminine de la Havaianas
 classique. Prix boutique entre 26 et 30 € la paire, soit plus de 260 €
@@ -29,9 +29,9 @@ pour l'ensemble.
 LE LOT DES 10 PAIRES : 139 €, soit 13,90 € la paire.
 
 Parfait pour :
+- une revente sur les marchés, en boutique ou en vide-grenier
 - un mariage, un anniversaire, une soirée — le panier de tongs pour
   la piste de danse, quand les invitées quittent leurs talons
-- une revente sur les marchés, en boutique ou en vide-grenier
 - une famille, un groupe d'amies, une association
 
 Remise en main propre à Toulouse, ou envoi Mondial Relay / Colissimo
@@ -42,19 +42,38 @@ Paiement sécurisé Leboncoin accepté.
 Lot vendu en une seule fois. Pas de vente à l'unité, merci.
 ```
 
+**Si une boîte est abîmée**, ajouter en fin de description :
+
+```
+Une boîte légèrement abîmée, les tongs sont intactes et jamais portées.
+```
+
+Un défaut annoncé ne pose jamais de problème ; un défaut découvert ouvre un
+litige.
+
 ### L'angle qui vend
 
-**Dix paires fuchsia dans une seule taille, en août, c'est un panier de tongs de
-mariage.** Les invitées quittent leurs talons sur la piste de danse — c'est un
-usage courant, saisonnier maintenant, et c'est vraisemblablement l'acheteur le
-plus rapide. Il passe avant le revendeur.
+Les dix paires étant en **33/34 et 35/36**, deux pointures proches, **l'angle
+revendeur passe devant l'angle mariage**. Ça reste vendable pour une soirée — le
+35-37 couvre une grande part des pointures féminines — mais dix paires dans deux
+pointures voisines, c'est d'abord un lot de déstockage.
 
-### Photos, dans cet ordre
+### Photos — ne jamais utiliser celles du site d'enchères
 
-1. Les 10 boîtes empilées ensemble — la quantité doit se voir immédiatement
-2. Une paire sortie de sa boîte, à plat, sur fond clair
-3. L'étiquette de taille en gros plan
-4. Le semelage neuf vu de dessous — preuve qu'elles n'ont jamais été portées
+**La photo d'ADN montre des boîtes qui ne sont pas dans le lot** (on y voit du
+39/40). Un acheteur qui commande sur cette photo et reçoit autre chose ouvre un
+litige, et avec le paiement sécurisé Leboncoin il gagne. C'est aussi la photo
+d'ADN, pas la nôtre. **Toujours reprendre ses propres photos.**
+
+Fond clair et uni, lumière du jour près d'une fenêtre, jamais de flash.
+
+1. **Les 10 boîtes alignées, étiquettes de taille face à l'objectif et
+   lisibles** — c'est la plus importante : elle prouve la quantité *et* les
+   tailles d'un seul coup d'œil
+2. Une paire à plat sur fond clair
+3. Gros plan sur une étiquette de boîte : taille + nom du modèle
+4. Le semelage vu de dessous, neuf, sans usure
+5. La boîte abîmée s'il y en a une, photographiée franchement
 
 ### Diffusion
 

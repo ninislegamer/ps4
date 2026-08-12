@@ -46,7 +46,7 @@ propre — il n'y a pas de frais de carte et la marge réelle est ~1,5 % plus ha
 | Ballerines **Massimo Dutti** rouge | 40 IT | 25 € | 70 € | **59 €** | **26 €** | Leboncoin + eBay |
 | Robe **Chiara Ferragni** bustier | M | 38 € | YOOX −85 % | **69 €** | **21 €** | Boutique + Leboncoin |
 | Baskets **Geox** gris / argent | 35 | 25 € | **55 €** | **49 €** | **17 €** | Leboncoin + eBay |
-| **Havaianas** Slim fuchsia ×10 | 35/36 | 105 € le lot | **15-20 €/paire** | **139 € le lot** | **15 €** | Leboncoin, en lot |
+| **Havaianas** Slim fuchsia ×10 | 33/34 et 35/36 | 105 € le lot | **15-20 €/paire** | **139 € le lot** | **15 €** | Leboncoin, en lot |
 | **New Balance** GS 1906 Alkaline | 38½ | 80,60 € | **87 €** StockX | **99 €** | **4,64 €** | Leboncoin |
 | Baskets **Emporio Armani** lavande | 36 | 55 € | **62 €** eBay | **69 €** | **4,41 €** | Leboncoin |
 | **Tommy Jeans** baskets basses | 40 | 55 € | **60 €** Stylight, 41 € officiel | **65 €** | **0,97 €** | Leboncoin + eBay |
