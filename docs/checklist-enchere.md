@@ -185,9 +185,16 @@ calculer**, sauf ratio de départ exceptionnel (cas des 20 sandales).
   s'effondre. Quand le port dépasse un quart du prix de vente, prévoir la
   **remise en main propre** — ou passer son tour.
 - **Vendre du neuf engage plus que vendre de l'occasion** — garantie légale de
-  **2 ans** au lieu de 12 mois, portée seul, et **DEEE** (éco-participation,
-  inscription à un éco-organisme) sur les équipements électriques. Provisionner
-  4 à 5 € par appareil.
+  **2 ans** au lieu de 12 mois, portée seul faute d'être revendeur agréé.
+  Provisionner 4 à 5 € par appareil électrique.
+  **Mais la durée découle de l'état réel, pas de la case cochée** : requalifier
+  du neuf en occasion pour raccourcir la garantie ne tient pas. Quand l'état est
+  ambigu, **décrire les faits** plutôt que choisir une catégorie — « jamais
+  utilisée, emballage ouvert, testée et fonctionnelle » vaut mieux qu'un « neuf »
+  que la boîte ouverte contredit.
+  **Le DEEE, lui, ne s'applique pas** : l'éco-participation pèse sur le
+  producteur — fabricant, importateur, ou premier metteur sur le marché
+  français. Revendre des biens déjà commercialisés fait de nous un distributeur.
 - **Palette** — un lot à 45 € peut coûter 90 € à rapatrier. **Écrire à la maison
   de vente pour demander une expédition en colis plutôt qu'en palette** : sur le
   lot de 20 sandales, la réponse a fait passer le transport de **90 € à 44 €**,
