@@ -25,6 +25,12 @@ Vinted, *last sale* sur StockX. Le prix demandé ne prouve rien.
 **Vérifier le taux dans le titre du lot** — il varie : 14,28 % sur certains,
 26 % sur la plupart. Ajouter le transport annoncé.
 
+**Le port se règle par expédition, pas par lot.** Sur une vacation où l'on vise
+plusieurs lots, seul le premier porte le transport ; les suivants ne coûtent que
+quelques euros de port marginal. Sur une petite pièce légère, c'est le port qui
+tue la marge — le grouper peut faire remonter le plafond de 25 %. Raisonner en
+**budget global de vacation**, pas lot par lot.
+
 ## 4. La formule
 
 ```
