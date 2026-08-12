@@ -139,7 +139,8 @@ calculer**, sauf ratio de départ exceptionnel (cas des 20 sandales).
   l'expédition : Mondial Relay l'interdit, Colissimo le limite.
 - **Salomon en particulier** — ne jamais dépasser l'estimation basse.
 - **Marques massivement contrefaites** — Yeezy, Jordan, Louis Vuitton. Sans
-  authentification, le risque de réputation dépasse la marge.
+  authentification, le risque de réputation dépasse la marge. **Ne s'applique pas
+  aux lots de maison de vente** : voir la section 11.
 - **Pointures extrêmes** — un 48⅔ ou un 35 s'adresse à une personne sur
   cinquante. Décoter fortement.
 - **Saisonnalité** — sandales, tongs, shorts : la saison finit fin septembre.
@@ -163,3 +164,28 @@ Les maisons dont le prix affiché correspond au prix pratiqué :
 **Et les accessoires sans taille** — montres, sacs, foulards, bijoux. Une montre
 s'adresse à 100 % des acheteuses ; une chaussure en 38 à une fraction. Léger,
 expédié pour 5 €, ni froissable ni périssable.
+
+## 11. La garantie de la maison de vente
+
+Une maison de vente aux enchères volontaires est **légalement responsable de
+l'authenticité de ce qu'elle décrit**. Un lot vendu comme « Yves Saint Laurent »
+qui se révélerait faux ouvre un recours contre l'opérateur — action en nullité
+pour erreur sur la substance. C'est encadré par le Conseil des maisons de vente.
+
+Deux conséquences :
+
+1. **Le risque de contrefaçon n'est pas seulement faible, il est transférable.**
+   Sur Vinted ou eBay, un faux est une perte sèche. Sur un lot d'enchères, il y a
+   un recours. Le piège « marques massivement contrefaites » de la section 9 vise
+   les achats hors enchères — sa condition (« sans authentification ») n'est pas
+   remplie ici. **Ne pas appliquer de prime de risque d'authenticité sur un lot de
+   maison de vente.**
+2. **C'est l'argument de vente**, et il est déjà rédigé dans `brief-ia.md` :
+   « Pièce acquise en maison de vente et vérifiée avant mise en ligne.
+   Authenticité garantie. » Cette phrase tient juridiquement grâce à ça.
+   **Conserver la facture de la vente** : c'est elle qui la fonde.
+
+Ce qui reste, et qui n'est pas un risque d'authenticité : **l'acheteur, lui, ne
+sait pas d'où vient la pièce.** Sur une pièce à plusieurs centaines d'euros,
+c'est son doute à lui qu'il faut lever — seul vrai argument pour passer par
+Vestiaire Collective malgré la commission.
