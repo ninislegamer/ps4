@@ -125,8 +125,12 @@ calculer**, sauf ratio de départ exceptionnel (cas des 20 sandales).
   l'année n'a pas de prix de référence : l'étiquette affiche 155 €, le marché est
   à 50. **Gérard Darel** (outlet à −80 %, occasion dès 36 €), **Morgan** (groupe
   Beaumanoir : −50 % toute l'année chez Modz, −70 % chez Espace des Marques,
-  occasion à −80 % chez Once Again), Salomon, New Balance, Guess, Geox. Vérifier
-  systématiquement si la marque a un outlet permanent avant d'enchérir.
+  occasion à −80 % chez Once Again), **Christina Paris** (−80 % chez Modz),
+  Salomon, New Balance, Guess, Geox.
+
+  **Le test Modz** — taper `modz.fr <la marque>`. Si la marque a une page chez
+  eux, l'étiquette est une fiction et le marché est à −60/−80 %. Dix secondes,
+  et ça a écarté trois lots sur trois de la vacation du 16 août.
 - **Marques de sport grand public** — Nike, New Balance, Salomon, Adidas, Tommy.
   Prix catalogue élevés, prix réels effondrés. 245 € investis, 87 € de marge.
   **Ne plus en acheter.**
