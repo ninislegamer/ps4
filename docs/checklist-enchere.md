@@ -86,13 +86,28 @@ distinctes, publiables en parallèle.
 variés ?** Le lot de 20 sandales (tailles et modèles variés) est vendable ; les
 10 Havaianas fuchsia en 35/36 ne le sont pas.
 
+### Et surtout : ai-je l'intention de le découper ?
+
+Un lot en volume n'a d'intérêt que si on le **revend à l'unité**. Il est bon
+marché aux enchères précisément parce que personne ne veut faire les dix
+annonces — c'est ce désagrément qu'on achète, et le découpage est le seul levier
+de marge. Revendu tel quel, on paie le prix de gros et on revend au prix de gros.
+
+Un acheteur de lot paie **50 à 60 %** de la valeur unitaire totale. Si ce
+pourcentage ne couvre pas l'enchère plus les frais plus le transport, il n'y a
+pas d'affaire — et aucun calcul plus fin ne la fera apparaître.
+
+**Si la réponse est « non, je le revends en lot » : passer son tour sans
+calculer**, sauf ratio de départ exceptionnel (cas des 20 sandales).
+
 ## 8. Les pièges déjà rencontrés
 
 - **Marques en déstockage permanent** — une marque qui solde à −70 % toute
   l'année n'a pas de prix de référence : l'étiquette affiche 155 €, le marché est
-  à 50. **Gérard Darel** (outlet à −80 %, occasion dès 36 €), Salomon, New
-  Balance, Guess, Geox. Vérifier systématiquement si la marque a un outlet
-  permanent avant d'enchérir.
+  à 50. **Gérard Darel** (outlet à −80 %, occasion dès 36 €), **Morgan** (groupe
+  Beaumanoir : −50 % toute l'année chez Modz, −70 % chez Espace des Marques,
+  occasion à −80 % chez Once Again), Salomon, New Balance, Guess, Geox. Vérifier
+  systématiquement si la marque a un outlet permanent avant d'enchérir.
 - **Marques de sport grand public** — Nike, New Balance, Salomon, Adidas, Tommy.
   Prix catalogue élevés, prix réels effondrés. 245 € investis, 87 € de marge.
   **Ne plus en acheter.**
