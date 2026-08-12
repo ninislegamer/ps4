@@ -36,12 +36,13 @@ livraison gratuite, le port est absorbé et se déduit en plus.
 | **Adidas** Predator Edge.1 TF ×2 | 48⅔ | Neuves avec boîte | 40 € les deux | **89 €/paire** | 57 €/paire | eBay + Leboncoin | reçues, à retirer de Vinted |
 | **Havaianas** Slim fuchsia ×10 paires | 35/36 | Neuves avec boîte | 10,50 €/paire | **19,90 €/paire** | 6,63 €/paire | Leboncoin | reçues — **saisonnier, urgent** |
 | **Salomon** X Ultra 5 Mid GTX | 44 | Neuves | 65 € | **109 €** | 29 € | Leboncoin | reçues |
-| **BMW** Overall ProRain | XL | Neuf | 89,64 € | **139 €** | 22 € | Leboncoin + Vinted | à recevoir |
+| **BMW** Overall ProRain | XL | Neuf | 82,61 € | **139 €** | 29 € | Leboncoin + Vinted | à recevoir |
 | **Adidas Yeezy** 700 V3 Mono Safflower | 38 | Occasion, portée | 75,24 € | à établir | — | Vinted | authentification requise |
 
-**Capital engagé : ~1 129 €.** Marge attendue : environ **961 €** hors Yeezy.
+**Capital engagé : ~1 122 €.** Marge attendue : environ **968 €** hors Yeezy.
 
-Frais acheteur ADN : **26 %, sans exception**. La mention « TVA Récupérable » de
+Frais acheteur ADN : **26 %**, sauf exception rare (le BMW ProRain a été à
+14,28 %). La mention « TVA Récupérable » de
 certains lots ne s'applique pas — en franchise en base (art. 293 B), il n'y a
 rien à récupérer.
 

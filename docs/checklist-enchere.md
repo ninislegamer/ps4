@@ -22,8 +22,9 @@ Vinted, *last sale* sur StockX. Le prix demandé ne prouve rien.
 
 ## 3. Les frais
 
-**Chez ADN Enchères, les frais sont de 26 %, sans exception.** Le taux ne varie
-pas d'un lot à l'autre ni d'une vacation à l'autre. Ajouter le transport annoncé.
+**Chez ADN Enchères, les frais sont de 26 %.** C'est la règle, on calcule avec
+ce taux par défaut. Une exception est possible mais rare — un seul cas rencontré
+à ce jour, le BMW ProRain à 14,28 %. Ajouter le transport annoncé.
 
 **La mention « TVA Récupérable » ne s'applique pas.** En franchise en base de TVA
 (art. 293 B du CGI), il n'y a rien à récupérer : elle ne réduit le coût d'aucun
