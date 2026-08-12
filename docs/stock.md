@@ -40,6 +40,7 @@ propre — il n'y a pas de frais de carte et la marge réelle est ~1,5 % plus ha
 | Short **ba&sh** Fegor | 34 | 55,40 € | **~75 €** Modz −50 % | **75 €** | **9 €** | Boutique — saisonnier |
 | **Salomon** X Ultra 5 Mid GTX | 44 | 65 € | 116 € | **109 €** | **29 €** | Leboncoin |
 | **Plein Sport** montante blanc / violet | 40 | 62 € | **~100 €** Stylight −63 % | **99 € → 89 €** | **15 €** | Leboncoin + eBay |
+| **Morgan** ×6 vêtements femme | 40 et L | 40 € le lot | Modz −50 %, Once Again −80 % | **92 € à l'unité** | **32-39 €** | Leboncoin + eBay |
 | Robe **Sandro** blanche | 40 | 50,04 € | Once Again −90 % | **89 €** | **27 €** | Boutique |
 | **Mrs.Ertha** gilets flottaison ×4 | 3-6 ans | 9,45 €/gilet | 20 € Decathlon | **19 €/gilet** | **6,91 €/gilet** | Leboncoin + Vinted |
 | Ballerines **Massimo Dutti** rouge | 40 IT | 25 € | 70 € | **59 €** | **26 €** | Leboncoin + eBay |
@@ -53,7 +54,7 @@ propre — il n'y a pas de frais de carte et la marge réelle est ~1,5 % plus ha
 | **New Balance** 650 blanche | 44 | 55 € | **61 €** idealo | **65 €** | **0,97 €** | Leboncoin |
 | **Adidas Yeezy** 700 V3, portée | 38 | 75,24 € | à établir | — | — | Vinted, authentification |
 
-**Capital engagé : 1 221 €.** Marge attendue : **~650 €** hors Yeezy.
+**Capital engagé : 1 261 €.** Marge attendue : **~685 €** hors Yeezy.
 
 Frais acheteur ADN : **26 %**, sauf exception rare — le BMW ProRain a été à
 14,28 %, seul cas rencontré. La mention « TVA Récupérable » portée par certains
@@ -129,6 +130,48 @@ pas le positionnement épuré, même dans le niveau Sportswear.
 Philipp Plein est massivement contrefait, mais la pièce vient d'une maison de
 vente — la garantie de la section 11 de la checklist s'applique, pas de prime de
 risque.
+
+### Morgan ×6 vêtements femme, tailles 40 et L — ADN Le Mans n°279
+
+Adjugé 30 €, **coût annoncé 40 € tout compris**, soit **6,67 € la pièce**. Six
+pièces neuves avec étiquette : jean bleu clair T.40, pantalon blanc T.40, jupe
+marron, polo rouge à écusson doré L, polo blanc L, top camel lurex L.
+
+**Bon achat, contrairement au lot n°31 écarté le même jour.** La différence n'est
+pas la marque mais le prix : le n°31 revenait à 8,80 € la pièce pour une
+estimation à 60-80 €, au-dessus du plafond de 33 €. Ici 6,67 € la pièce avec des
+étiquettes plus hautes. **Ce n'est pas Morgan le problème, c'est Morgan payé trop
+cher.**
+
+Morgan est soldée à −50 % toute l'année chez Modz, −70 % chez Espace des Marques,
+occasion à −80 % chez Once Again : les étiquettes de 30-34 € valent 10-20 € réels.
+
+| Pièce | Prix |
+|-------|------|
+| Jean bleu clair, T.40 | 19 € |
+| Jupe marron | 19 € |
+| Pantalon blanc, T.40 | 15 € |
+| Polo rouge à écusson doré, L | 15 € |
+| Top camel lurex, L | 12 € |
+| Polo blanc, L | 12 € |
+| **Total** | **92 €** |
+
+```
+0,861 × 92 − 40 = 39 €
+```
+
+Trois points favorables : les six pièces sont **différentes**, donc six annonces
+publiables **en parallèle** sans file d'attente ; les tailles **40 et L sont les
+plus courantes** ; et pas d'urgence saisonnière — jean, jupe marron et polos
+passent l'automne.
+
+**À vérifier sur la facture : le transport est-il dans les 40 € ?** Le lot est à
+retirer à Décines-Charpieu (69150) et l'activité est à Toulouse. 30 × 1,26 fait
+37,80 €, donc 40 € ressemble à un montant **sans transport**. Si la livraison
+s'ajoute (~12 €), la marge tombe de 39 € à **27 €**.
+
+Canal : **Leboncoin et eBay, pas Vinted** (neuf, hors périmètre Vinted Pro). Pas
+sur la boutique : Morgan n'entre dans aucun des trois niveaux.
 
 ### Vérification du 12 août — les quatre prix manquants
 
