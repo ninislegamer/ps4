@@ -18,38 +18,84 @@ baisse, jamais la marge qu'on ampute.
 
 ## En stock
 
-| Pièce | Taille | État | Coût réel | Prix | Marge | Canal | Statut |
-|-------|--------|------|-----------|------|-------|-------|--------|
-| Jupe **Sonia Rykiel** midi twill cerises, baby blue | 34 | Neuve avec étiquette | 42,80 € | **129 €** | 68 € | Boutique | reçue |
-| Blazer **Karl Lagerfeld** punto noir | 36 FR (IT 40) | Neuf avec étiquette | 45 € | **139 €** | 75 € | Boutique | reçu |
-| Robe **Sandro** blanche | 40 | Neuve avec étiquette | 50,04 € | **99 €** | 35 € | Boutique | reçue, à retirer de Vinted |
-| Baskets **adidas by Stella McCartney** UltraBoost 21 Metallic | 36 | Neuves avec étiquette et boîte | 35 € | **119 €** | 67 € | Boutique | reçues |
-| Short **ba&sh** Fegor, lightusedblue | 34 | Neuf avec étiquette | 55,40 € | **99 €** | 30 € | Boutique | reçu — **saisonnier** |
-| Robe asymétrique **Elisabetta Franchi** ivoire, viscose | 46 IT / 42 FR | Neuve avec étiquette | 26 € | **139 €** | 94 € | Boutique | reçue |
-| Robe bustier **Chiara Ferragni** noire, soirée | M | Neuve avec étiquette | 38 € | **89 €** | 39 € | Boutique + Leboncoin | reçue |
-| Robe droite **Pier Antonio Gaspari** bleu marine | 42 | Neuve | 30 € | **79 €** | 38 € | Boutique + Leboncoin | reçue |
-| Baskets **Emporio Armani** bleu lavande / blanc | 36 | Neuves avec étiquette et boîte | 55 € | **99 €** | 30 € | Boutique | reçues |
-| Ballerines **Hogan** 186 Zeppa Fashion, crème et vernis turquoise | 36 | Neuves avec boîte | 15 € | **99 €** | 70 € | Boutique | reçues |
-| Ballerines **Massimo Dutti** cuir rouge à bride | 40 (IT) | Neuves avec étiquette et boîte | 25 € | **69 €** | 34 € | Leboncoin + eBay | reçues |
-| Baskets **Geox** gris / argent | 35 | Neuves avec boîte | 25 € | **59 €** | 26 € | Leboncoin + eBay | reçues |
-| **New Balance** BB80 blanc / bleu marine | 38 | Neuves avec boîte | 45 € | **59 €** | 6 € | Boutique + Leboncoin | reçues — **lot raté** |
-| **New Balance** 650 blanche montante | 44 | Neuves avec boîte | 55 € | **79 €** | 13 € | Boutique + Leboncoin | reçues — marge faible |
-| **Tommy Jeans** baskets basses noir / blanc | 40 | Neuves avec étiquette et boîte | 55 € | **79 €** | 13 € | Leboncoin + eBay | reçues — marge faible |
-| **Forma** Legacy Waterproof | 45 | Neuve | ~76 € | **159 €** | 53 € | Boutique + Vinted + Leboncoin | à recevoir |
-| **New Balance** GS 1906 Alkaline Green | 38½ | Neuve avec boîte | 80,60 € | **139 €** | 39 € | Boutique + Vinted | à recevoir |
-| **Adidas** Predator Edge.1 TF ×2 | 48⅔ | Neuves avec boîte | 40 € les deux | **89 €/paire** | 57 €/paire | eBay + Leboncoin | reçues, à retirer de Vinted |
-| **Havaianas** Slim fuchsia ×10 paires | 35/36 | Neuves avec boîte | 10,50 €/paire | **19,90 €/paire** | 6,63 €/paire | Leboncoin | reçues — **saisonnier, urgent** |
-| **Salomon** X Ultra 5 Mid GTX | 44 | Neuves | 65 € | **109 €** | 29 € | Leboncoin | reçues |
-| **BMW** Overall ProRain | XL | Neuf | 82,61 € | **139 €** | 29 € | Leboncoin + Vinted | à recevoir |
-| **Mrs.Ertha** gilets de flottaison 3-6 ans ×4 | 3-6 ans | Neufs | 9,45 €/gilet | **19 €/gilet** | 7,19 €/gilet | Leboncoin + Vinted | reçus — **saisonnier, urgent** |
-| **Adidas Yeezy** 700 V3 Mono Safflower | 38 | Occasion, portée | 75,24 € | à établir | — | Vinted | authentification requise |
+**Règle de prix : toujours sous le moins cher du net.** La colonne « Moins cher
+trouvé » porte la source. Une case « non vérifié » signifie que le prix est une
+hypothèse, pas un prix — à confirmer avant publication.
 
-**Capital engagé : ~1 160 €.** Marge attendue : environ **997 €** hors Yeezy.
+Marge calculée à `0,861 × prix − coût`, soit le cas boutique (charges micro
+12,4 % + 1,5 % de carte). Hors boutique — Leboncoin, Vinted, remise en main
+propre — il n'y a pas de frais de carte et la marge réelle est ~1,5 % plus haute.
+
+| Pièce | Taille | Coût | Moins cher trouvé | Prix | Marge | Canal |
+|-------|--------|------|-------------------|------|-------|-------|
+| Robe **Elisabetta Franchi** ivoire | 46 IT / 42 FR | 26 € | outlet officiel −80 % | **99 €** | **59 €** | Boutique |
+| Bottes **Forma** Legacy | 45 | 76 € | 172,49 € Dafy Moto | **159 €** | **61 €** | Boutique |
+| **Adidas** Predator Edge.1 TF ×2 | 48⅔ | 20 €/paire | ~110 € | **89 €/paire** | **57 €/paire** | eBay + Leboncoin |
+| Ballerines **Hogan** 186 Zeppa | 36 | 15 € | 83 € Lyst | **79 €** | **53 €** | Boutique |
+| Jupe **Sonia Rykiel** twill cerises | 34 | 42,80 € | Jaiio −80 % | **99 €** | **42 €** | Boutique |
+| Robe **Pier Antonio Gaspari** marine | 42 | 30 € | ⚠️ non vérifié | **79 €** | **38 €** | Boutique + Leboncoin |
+| **BMW** Overall ProRain | XL | 82,61 € | 170 € (noir) | **139 €** | **37 €** | Leboncoin + Vinted |
+| Baskets **adidas by Stella McCartney** UB21 | 36 | 35 € | **94 €** eBay.de | **79 €** | **33 €** | Boutique |
+| Blazer **Karl Lagerfeld** punto noir | 36 FR / IT 40 | 45 € | Otrium, Lyst dès 50 € | **89 €** | **32 €** | Boutique |
+| Short **ba&sh** Fegor | 34 | 55,40 € | ⚠️ non vérifié | **99 €** | **30 €** | Boutique — saisonnier |
+| **Salomon** X Ultra 5 Mid GTX | 44 | 65 € | 116 € | **109 €** | **29 €** | Leboncoin |
+| Robe **Sandro** blanche | 40 | 50,04 € | Once Again −90 % | **89 €** | **27 €** | Boutique |
+| **Mrs.Ertha** gilets flottaison ×4 | 3-6 ans | 9,45 €/gilet | 20 € Decathlon | **19 €/gilet** | **6,91 €/gilet** | Leboncoin + Vinted |
+| Ballerines **Massimo Dutti** rouge | 40 IT | 25 € | 70 € | **59 €** | **26 €** | Leboncoin + eBay |
+| Robe **Chiara Ferragni** bustier | M | 38 € | YOOX −85 % | **69 €** | **21 €** | Boutique + Leboncoin |
+| Baskets **Geox** gris / argent | 35 | 25 € | **55 €** | **49 €** | **17 €** | Leboncoin + eBay |
+| **Havaianas** Slim fuchsia ×10 | 35/36 | 10,50 €/paire | ⚠️ ~20 €, non vérifié | **17,90 €/paire** | **4,91 €/paire** | Leboncoin |
+| **New Balance** GS 1906 Alkaline | 38½ | 80,60 € | **87 €** StockX | **99 €** | **4,64 €** | Leboncoin |
+| Baskets **Emporio Armani** lavande | 36 | 55 € | **62 €** eBay | **69 €** | **4,41 €** | Leboncoin |
+| **Tommy Jeans** baskets basses | 40 | 55 € | ⚠️ non vérifié | **69 €** | **4,41 €** | Leboncoin + eBay |
+| **New Balance** BB80 | 38 | 45 € | **54,99 €** idealo | **54 €** | **1,49 €** | Leboncoin |
+| **New Balance** 650 blanche | 44 | 55 € | **61 €** idealo | **65 €** | **0,97 €** | Leboncoin |
+| **Adidas Yeezy** 700 V3, portée | 38 | 75,24 € | à établir | — | — | Vinted, authentification |
+
+**Capital engagé : 1 159 €.** Marge attendue : **~711 €** hors Yeezy.
 
 Frais acheteur ADN : **26 %**, sauf exception rare — le BMW ProRain a été à
 14,28 %, seul cas rencontré. La mention « TVA Récupérable » portée par certains
 lots ne s'applique pas : en franchise en base (art. 293 B), il n'y a rien à
 récupérer, et elle ne réduit le coût d'aucun euro.
+
+### Correction du 12 août : −286 € de marge attendue
+
+Les prix précédents avaient été calés sur des **prix catalogue**. Vérification
+faite, presque toutes ces marques ont un **outlet permanent**, et cinq pièces
+étaient affichées **au-dessus du moins cher du net** :
+
+| Pièce | Prix affiché | Moins cher réel |
+|-------|--------------|-----------------|
+| adidas Stella McCartney | 119 € | 94 € |
+| New Balance GS 1906 | 139 € | 87 € |
+| Emporio Armani | 99 € | 62 € |
+| New Balance 650 | 79 € | 61 € |
+| New Balance BB80 | 59 € | 55 € |
+
+Deux faits découverts à cette occasion :
+
+- **Sonia Rykiel a été liquidée en 2019** avant relance. Critère « marque en
+  difficulté » : le prix catalogue de 500 € ne vaut plus rien, la marque se solde
+  à −80 % sur Jaiio.
+- **Elisabetta Franchi a un outlet officiel permanent à −80 %**
+  (`outlet.elisabettafranchi.com`). Elle reste la meilleure pièce du stock, mais
+  à 99 €, pas 139 €.
+
+### Cinq lots ne rapporteront rien
+
+**Emporio Armani, NB BB80, NB 650, NB GS 1906, Tommy Jeans** : **290,60 €
+investis pour ~16 € de marge** une fois alignés sous le marché. Ce ne sont pas
+des erreurs de prix mais des **erreurs d'achat** — des marques de sport et grand
+public payées au-dessus de leur prix de rue.
+
+**Sur ces cinq-là : vendre pour récupérer la trésorerie, pas pour la marge.**
+
+### Prix restant à vérifier
+
+`ba&sh`, `Pier Antonio Gaspari`, `Tommy Jeans`, `Havaianas` — chiffres actuels
+posés sans source. À confirmer sur idealo.fr et sur les **articles vendus** de
+Vinted avant publication.
 
 ### Références pour les fiches
 
@@ -267,6 +313,16 @@ utilitaire, soit 300 € minimum. Exclu.
 Relever le meilleur prix sur **idealo.fr** avant de fixer quoi que ce soit. C'est
 le comparateur qui a donné les chiffres les plus fiables : 54,99 € sur les BB80,
 61 € sur les 650, 101,99 € sur la Salomon XA Pro.
+
+**Aucun prix sans sa source.** Un prix ne s'inscrit dans le tableau qu'accompagné
+du chiffre qui le fonde, dans la colonne « Moins cher trouvé ». Sans source, la
+case dit « non vérifié ». Le prix catalogue n'est pas un prix ; le prix de rue en
+est un.
+
+**Et vérifier si la marque a un outlet permanent.** C'est le point qui a coûté
+286 € de marge attendue le 12 août : Elisabetta Franchi, Karl Lagerfeld, Sandro,
+Chiara Ferragni, Sonia Rykiel ont toutes un canal de déstockage officiel ou une
+présence massive à −70/−90 % sur les plateformes d'occasion.
 
 ### Une marque en difficulté ne tient pas sa valeur
 

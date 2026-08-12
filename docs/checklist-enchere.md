@@ -35,6 +35,16 @@ produit et il n'y a pas d'équivalent générique.
 **Se positionner 20 à 30 % sous le moins cher du net.** Assez bas pour gagner la
 comparaison, pas assez pour faire douter de l'authenticité.
 
+### Aucun prix sans sa source
+
+Un prix ne s'inscrit dans le tableau **qu'accompagné du chiffre qui le fonde**,
+noté à côté de lui. Sans source, la case dit « non vérifié » — jamais un nombre
+qui a l'air solide.
+
+Le 12 août, cinq pièces étaient affichées au-dessus du moins cher du net parce
+qu'elles avaient été chiffrées sur des prix catalogue : **−286 € de marge
+attendue**. Le prix catalogue n'est pas un prix. Le prix de rue en est un.
+
 ## 3. Les frais
 
 **Chez ADN Enchères, les frais sont de 26 %.** C'est la règle, on calcule avec
