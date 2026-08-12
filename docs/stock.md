@@ -68,33 +68,50 @@ Et deux charges fixes indépendantes des ventes :
 
 **À confirmer sur la déclaration de début d'activité**, puis figer le coefficient.
 
-| Pièce | Taille | Coût | Moins cher trouvé | Prix | Marge | Canal |
-|-------|--------|------|-------------------|------|-------|-------|
-| Robe **Elisabetta Franchi** ivoire | 46 IT / 42 FR | 26 € | outlet officiel −80 % | **99 €** | **59 €** | Boutique |
-| Bottes **Forma** Legacy | 45 | 76 € | 172,49 € Dafy Moto | **159 €** | **61 €** | Boutique |
-| **Adidas** Predator Edge.1 TF ×2 | 48⅔ | 20 €/paire | ~110 € | **89 €/paire** | **57 €/paire** | eBay + Leboncoin |
-| Ballerines **Hogan** 186 Zeppa | 36 | 15 € | 83 € Lyst | **79 €** | **53 €** | Boutique |
-| Jupe **Sonia Rykiel** twill cerises | 34 | 42,80 € | Jaiio −80 % | **99 €** | **42 €** | Boutique |
-| Robe **Pier Antonio Gaspari** marine | 42 | 30 € | YOOX −69 %, Joli Closet −70 % | **59 €** | **21 €** | Boutique + Leboncoin |
-| **BMW** Overall ProRain | XL | 82,61 € | 170 € (noir) | **139 €** | **37 €** | Leboncoin + Vinted |
-| Baskets **adidas by Stella McCartney** UB21 | 36 | 35 € | **94 €** eBay.de | **79 €** | **33 €** | Boutique |
-| Blazer **Karl Lagerfeld** punto noir | 36 FR / IT 40 | 45 € | Otrium, Lyst dès 50 € | **89 €** | **32 €** | Boutique |
-| Short **ba&sh** Fegor | 34 | 55,40 € | **~75 €** Modz −50 % | **75 €** | **9 €** | Boutique — saisonnier |
-| **Salomon** X Ultra 5 Mid GTX | 44 | 65 € | 116 € | **109 €** | **29 €** | Leboncoin |
-| **Plein Sport** montante blanc / violet | 40 | 62 € | **~100 €** Stylight −63 % | **99 € → 89 €** | **15 €** | Leboncoin + eBay |
-| **Morgan** ×6 vêtements femme | 40 et L | 40 € le lot | Modz −50 %, Once Again −80 % | **92 € à l'unité** | **32-39 €** | Leboncoin + eBay |
-| Robe **Sandro** blanche | 40 | 50,04 € | Once Again −90 % | **89 €** | **27 €** | Boutique |
-| **Mrs.Ertha** gilets flottaison ×4 | 3-6 ans | 9,45 €/gilet | 20 € Decathlon | **19 €/gilet** | **6,91 €/gilet** | Leboncoin + Vinted |
-| Ballerines **Massimo Dutti** rouge | 40 IT | 25 € | 70 € | **59 €** | **26 €** | Leboncoin + eBay |
-| Robe **Chiara Ferragni** bustier | M | 38 € | YOOX −85 % | **69 €** | **21 €** | Boutique + Leboncoin |
-| Baskets **Geox** gris / argent | 35 | 25 € | **55 €** | **49 €** | **17 €** | Leboncoin + eBay |
-| **Havaianas** Slim fuchsia ×10 | 35/36 | 105 € le lot | **15-20 €/paire** | **139 € le lot** | **15 €** | Leboncoin, en lot |
-| **New Balance** GS 1906 Alkaline | 38½ | 80,60 € | **87 €** StockX | **99 €** | **4,64 €** | Leboncoin |
-| Baskets **Emporio Armani** lavande | 36 | 55 € | **62 €** eBay | **69 €** | **4,41 €** | Leboncoin |
-| **Tommy Jeans** baskets basses | 40 | 55 € | **60 €** Stylight, 41 € officiel | **65 €** | **0,97 €** | Leboncoin + eBay |
-| **New Balance** BB80 | 38 | 45 € | **54,99 €** idealo | **54 €** | **1,49 €** | Leboncoin |
-| **New Balance** 650 blanche | 44 | 55 € | **61 €** idealo | **65 €** | **0,97 €** | Leboncoin |
-| **Adidas Yeezy** 700 V3, portée | 38 | 75,24 € | à établir | — | — | Vinted, authentification |
+| Pièce | Taille | Coût | Moins cher trouvé | Prix | − URSSAF | − Carte | **Marge** | Canal |
+|-------|--------|------|-------------------|------|----------|---------|-----------|-------|
+| **Adidas** Predator Edge.1 TF ×2 | 48⅔ | 40 € | ~110 € | 89 €/paire | 22,07 € | 2,67 € | **113,26 €** | eBay + Leboncoin |
+| Bottes **Forma** Legacy | 45 | 76 € | 172,49 € Dafy Moto | **159 €** | 19,72 € | 2,39 € | **60,90 €** | Boutique |
+| Robe **Elisabetta Franchi** ivoire | 46 IT / 42 FR | 26 € | outlet officiel −80 % | **99 €** | 12,28 € | 1,49 € | **59,24 €** | Boutique |
+| Ballerines **Hogan** 186 Zeppa | 36 | 15 € | 83 € Lyst | **79 €** | 9,80 € | 1,19 € | **53,02 €** | Boutique |
+| Jupe **Sonia Rykiel** twill cerises | 34 | 42,80 € | Jaiio −80 % | **99 €** | 12,28 € | 1,49 € | **42,44 €** | Boutique |
+| **Morgan** ×6 vêtements femme | 40 et L | 40 € | Modz −50 %, Once Again −80 % | **92 €** | 11,41 € | 1,38 € | **39,21 €** | Leboncoin + eBay |
+| **BMW** Overall ProRain | XL | 82,61 € | 170 € (noir) | **139 €** | 17,24 € | 2,09 € | **37,07 €** | Leboncoin + Vinted |
+| Baskets **adidas by Stella McCartney** UB21 | 36 | 35 € | **94 €** eBay.de | **79 €** | 9,80 € | 1,19 € | **33,02 €** | Boutique |
+| Blazer **Karl Lagerfeld** punto noir | 36 FR / IT 40 | 45 € | Otrium, Lyst dès 50 € | **89 €** | 11,04 € | 1,34 € | **31,63 €** | Boutique |
+| **Salomon** X Ultra 5 Mid GTX | 44 | 65 € | 116 € | **109 €** | 13,52 € | 1,64 € | **28,85 €** | Leboncoin |
+| **Mrs.Ertha** gilets flottaison ×4 | 3-6 ans | 37,80 € | 20 € Decathlon | 19 €/gilet | 9,42 € | 1,14 € | **27,64 €** | Leboncoin + Vinted |
+| Robe **Sandro** blanche | 40 | 50,04 € | Once Again −90 % | **89 €** | 11,04 € | 1,34 € | **26,59 €** | Boutique |
+| Ballerines **Massimo Dutti** rouge | 40 IT | 25 € | 70 € | **59 €** | 7,32 € | 0,89 € | **25,80 €** | Leboncoin + eBay |
+| Robe **Chiara Ferragni** bustier | M | 38 € | YOOX −85 % | **69 €** | 8,56 € | 1,04 € | **21,41 €** | Boutique + Leboncoin |
+| Robe **Pier Antonio Gaspari** marine | 42 | 30 € | YOOX −69 %, Joli Closet −70 % | **59 €** | 7,32 € | 0,89 € | **20,80 €** | Boutique + Leboncoin |
+| Baskets **Geox** gris / argent | 35 | 25 € | **55 €** | **49 €** | 6,08 € | 0,74 € | **17,19 €** | Leboncoin + eBay |
+| **Havaianas** Slim fuchsia ×10 | 35/36 | 105 € | **15-20 €/paire** | **139 € le lot** | 17,24 € | 2,09 € | **14,68 €** | Leboncoin, en lot |
+| **Plein Sport** montante blanc / violet | 40 | 62 € | **~100 €** Stylight −63 % | **99 € → 89 €** | 11,04 € | 1,34 € | **14,63 €** | Leboncoin + eBay |
+| Short **ba&sh** Fegor | 34 | 55,40 € | **~75 €** Modz −50 % | **75 €** | 9,30 € | 1,13 € | **9,18 €** | Boutique — saisonnier |
+| **New Balance** GS 1906 Alkaline | 38½ | 80,60 € | **87 €** StockX | **99 €** | 12,28 € | 1,49 € | **4,64 €** | Leboncoin |
+| Baskets **Emporio Armani** lavande | 36 | 55 € | **62 €** eBay | **69 €** | 8,56 € | 1,04 € | **4,41 €** | Leboncoin |
+| **New Balance** BB80 | 38 | 45 € | **54,99 €** idealo | **54 €** | 6,70 € | 0,81 € | **1,49 €** | Leboncoin |
+| **Tommy Jeans** baskets basses | 40 | 55 € | **60 €** Stylight, 41 € officiel | **65 €** | 8,06 € | 0,98 € | **0,97 €** | Leboncoin + eBay |
+| **New Balance** 650 blanche | 44 | 55 € | **61 €** idealo | **65 €** | 8,06 € | 0,98 € | **0,97 €** | Leboncoin |
+| **Adidas Yeezy** 700 V3, portée | 38 | 75,24 € | à établir | — | — | — | — | Vinted, authentification |
+| **TOTAL** hors Yeezy | | **1 186 €** | | **2 178 €** | **270 €** | **33 €** | **689 €** | |
+
+### Des 689 € aux 603 € réels
+
+| | |
+|---|---|
+| Marge après URSSAF et carte | **689 €** |
+| − Impôt sur le revenu (1 % du CA, si versement libératoire) | −22 € |
+| − Emballage (~2 € × 30 colis) | −60 € |
+| − Frais fixe carte (0,25 € par transaction) | −4 € |
+| **= Marge réelle** | **~603 €** |
+
+**270 € d'URSSAF, soit 45 % de ce qui reste vraiment.** C'est la deuxième charge
+après la marchandise. Pour chaque euro gardé, 45 centimes partent en cotisations.
+
+C'est aussi ce qui condamne les six lots du bas : sur les New Balance 650, 65 €
+encaissés, 55 € payés, 8 € d'URSSAF — il reste **97 centimes**.
 
 **Capital engagé : 1 261 €.** Marge attendue : **~685 €** hors Yeezy.
 
