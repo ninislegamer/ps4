@@ -7,8 +7,12 @@ marge = 0,861 × prix_vente − coût réel
 ```
 
 Le coefficient 0,861 couvre 12,4 % de charges micro-entreprise et 1,5 % de frais
-de carte. Sur les produits standardisés vendus face à des concurrents en
-livraison gratuite, le port est absorbé et se déduit en plus.
+de carte.
+
+**Le port est toujours payé par l'acheteur, sans exception** — y compris sur les
+produits standardisés dont les concurrents annoncent la livraison gratuite. Si
+la comparaison de prix devient défavorable, c'est le **prix affiché** qu'on
+baisse, jamais la marge qu'on ampute.
 
 ---
 

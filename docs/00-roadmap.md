@@ -230,7 +230,10 @@ les mêmes données de commande.
 
 ## Frais de livraison
 
-**Refacturés au client**, jamais absorbés par la marge.
+**Refacturés au client, jamais absorbés par la marge. Sans exception**, y compris
+sur les produits standardisés dont les concurrents annoncent la livraison
+gratuite. Si la comparaison devient défavorable, c'est le **prix affiché** qu'on
+baisse, jamais la marge qu'on ampute.
 
 À arbitrer à l'étape « Expédition » :
 
