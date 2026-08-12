@@ -81,7 +81,7 @@ Et deux charges fixes indépendantes des ventes :
 | Blazer **Karl Lagerfeld** punto noir | 36 FR / IT 40 | 45 € | Otrium, Lyst dès 50 € | **89 €** | 11,04 € | 1,34 € | **31,63 €** | Boutique |
 | ✅ **Salomon** X Ultra 5 Mid GTX | 44 | 65 € | 116 € | **VENDUE 100 €** | 12,40 € | 0 € | **22,60 €** | Vinted, 12 août |
 | **Mrs.Ertha** gilets flottaison ×4 | 3-6 ans | 37,80 € | 20 € Decathlon | 19 €/gilet | 9,42 € | 1,14 € | **27,64 €** | Leboncoin + Vinted |
-| **Robby** VP550W pompes immergées ×2 | — | 45 € le lot | **54,90 €** neuve, idealo | **39 €/pompe** | 9,67 € | 0 € | **23,33 €** | Leboncoin, main propre |
+| **Robby** VP550W pompes immergées ×2 — **NEUVES** | — | 45 € le lot | **54,90 €** neuve, idealo | **44 €/pompe** | 10,91 € | 0 € | **32,09 €** | Leboncoin, main propre |
 | Robe **Sandro** blanche | 40 | 50,04 € | Once Again −90 % | **89 €** | 11,04 € | 1,34 € | **26,59 €** | Boutique |
 | Ballerines **Massimo Dutti** rouge | 40 IT | 25 € | 70 € | **59 €** | 7,32 € | 0,89 € | **25,80 €** | Leboncoin + eBay |
 | Robe **Chiara Ferragni** bustier | M | 38 € | YOOX −85 % | **69 €** | 8,56 € | 1,04 € | **21,41 €** | Boutique + Leboncoin |
@@ -140,8 +140,8 @@ chiffre du tableau qui dépend du foyer et non de l'activité.**
 **L'impôt n'est pas prélevé au fil des ventes, il tombe l'année suivante.** À
 provisionner au fur et à mesure.
 
-**Capital engagé : 1 407,19 €.** Chiffre d'affaires attendu : **2 446 €**.
-Marge brute : **776,73 €** — dont 100 € de CA et 22,60 € de marge déjà réalisés.
+**Capital engagé : 1 407,19 €.** Chiffre d'affaires attendu : **2 456 €**.
+Marge brute : **785,49 €** — dont 100 € de CA et 22,60 € de marge déjà réalisés.
 
 Frais acheteur ADN : **26 %**, sauf exception rare — le BMW ProRain a été à
 14,28 %, seul cas rencontré. La mention « TVA Récupérable » portée par certains
@@ -640,29 +640,46 @@ commission carte sur Vinted, donc la marge de ligne est de 22,60 € ; l'emballa
 (~2 €) est compté globalement dans les frais de vente, comme sur toutes les
 lignes.
 
-### Robby VP550W — deux pompes immergées, occasion
+### Robby VP550W — deux pompes immergées, **neuves**
 
 Lot de 2 adjugé **45 € tout compris**, soit **22,50 € la pompe**. Neuve, la
 VP550W se trouve à **54,90 €** (idealo), distribuée partout : Leclerc, Fnac,
 Darty, Cdiscount, Bricomarché, Manomano.
 
-| Prix à l'unité | Total | URSSAF | **Marge** |
-|----------------|-------|--------|-----------|
-| **39 €** | 78 € | 9,67 € | **23,33 €** |
-| 35 € | 70 € | 8,68 € | 16,32 € |
-| 29 € — plancher | 58 € | 7,19 € | 5,81 € |
+| Prix à l'unité | Total | URSSAF | **Marge brute** |
+|----------------|-------|--------|-----------------|
+| 49 € — prix de test | 98 € | 12,15 € | **40,85 €** |
+| **44 €** — retenu | 88 € | 10,91 € | **32,09 €** |
+| 35 € — plancher | 70 € | 8,68 € | 16,32 € |
 
-**52 % de rendement à 39 €**, pour deux annonces seulement. Mieux que les trois
-New Balance, le Tommy Jeans et l'Emporio Armani réunis.
+**Stratégie : 49 € pendant dix jours, puis 44 €.** À 44 € l'acheteur économise
+20 % sur du neuf, ce qui est franc ; à 49 € seulement 11 %, ce qui ne suffit
+généralement pas à faire bouger quelqu'un.
 
-**Remise en main propre uniquement.** La pompe pèse 4,8 kg : expédiée, le port
-coûte 10-12 €, et l'acheteur paierait 51 € pour de l'occasion sans garantie
-contre 54,90 € pour du neuf garanti. La comparaison s'effondre. Sans port, 39 €
-contre 54,90 €, c'est 29 % d'économie — et là ça se vend.
+**Remise en main propre uniquement — et c'est encore plus vrai en neuf.**
 
-**Tester les deux pompes avant publication** : flotteur et débit. Garantie légale
-de conformité de **12 mois** sur l'occasion vendue en professionnel. Mentionner
-« occasion, testée et fonctionnelle » dans l'annonce.
+```
+pompe neuve 44 € + 12 € de port         = 56 €
+pompe neuve garantie, retrait en magasin = 54,90 €
+```
+
+Expédiée, l'offre est **plus chère que le neuf en magasin**. Sans port, elle est
+20 % en dessous. Le port décide, pas l'état.
+
+### Vendre du neuf engage plus que vendre de l'occasion
+
+- **Garantie légale de conformité : 2 ans**, contre 12 mois sur l'occasion. Et
+  elle est portée seul — pas de statut de revendeur agréé Robby.
+  **Provisionner 4 à 5 € par pompe** : marge nette ~24 € au lieu de 32 €.
+- **DEEE** : la mise sur le marché d'équipements électriques neufs par un
+  professionnel déclenche l'éco-participation et l'inscription à un
+  éco-organisme. L'occasion, non.
+
+**La maison de vente les avait décrites « PRODUIT D'OCCASION ».** Décrire
+exactement ce qui est constaté en main : emballage d'origine scellé → « neuf » ;
+déballé mais jamais servi → « neuf, jamais utilisé ». Jamais « neuf sous
+emballage » si la boîte est ouverte. **Conserver la facture de la maison de
+vente.**
 
 ### Nouveau piège : un article lourd et bon marché ne s'expédie pas
 
