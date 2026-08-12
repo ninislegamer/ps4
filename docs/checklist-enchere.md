@@ -22,8 +22,13 @@ Vinted, *last sale* sur StockX. Le prix demandé ne prouve rien.
 
 ## 3. Les frais
 
-**Vérifier le taux dans le titre du lot** — il varie : 14,28 % sur certains,
-26 % sur la plupart. Ajouter le transport annoncé.
+**Chez ADN Enchères, les frais sont de 26 %, sans exception.** Le taux ne varie
+pas d'un lot à l'autre ni d'une vacation à l'autre. Ajouter le transport annoncé.
+
+**La mention « TVA Récupérable » ne s'applique pas.** En franchise en base de TVA
+(art. 293 B du CGI), il n'y a rien à récupérer : elle ne réduit le coût d'aucun
+euro. Elle intéresse les acheteurs assujettis. **Ne jamais la compter comme une
+remise.**
 
 **Le port se règle par expédition, pas par lot.** Sur une vacation où l'on vise
 plusieurs lots, seul le premier porte le transport ; les suivants ne coûtent que
