@@ -20,6 +20,21 @@ annoncé par quelqu'un.
 Sur l'occasion : filtre **« objets vendus »** sur eBay, annonces vendues sur
 Vinted, *last sale* sur StockX. Le prix demandé ne prouve rien.
 
+**Une seule source ne suffit jamais.** Un prix vu chez un seul revendeur peut
+être le prix plein d'une marque soldée partout ailleurs — cas des gilets
+Mrs.Ertha, relevés à 39,99 € chez un revendeur alors que la marque est en
+déstockage à ~20 € et que le Decathlon équivalent est à 20 €.
+
+**Et chercher le concurrent, pas seulement la marque.** Sur un produit
+fonctionnel — gilet de nage, sac de sport, casque —, l'acheteur ne compare pas
+avec la même marque : il compare avec **l'équivalent Decathlon ou Amazon**. C'est
+ce prix-là qui est le mur, pas le prix boutique de la marque. Le raisonnement ne
+vaut que pour le fonctionnel : sur une pièce de créateur, la marque *est* le
+produit et il n'y a pas d'équivalent générique.
+
+**Se positionner 20 à 30 % sous le moins cher du net.** Assez bas pour gagner la
+comparaison, pas assez pour faire douter de l'authenticité.
+
 ## 3. Les frais
 
 **Chez ADN Enchères, les frais sont de 26 %.** C'est la règle, on calcule avec
