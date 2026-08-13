@@ -16,7 +16,7 @@ Aucune ligne de code n'est utile tant que 0.1 à 0.5 ne sont pas faits.
 
 - Créer / confirmer le statut (micro-entreprise en achat-revente, activité
   commerciale) et obtenir le **SIRET**. Guichet unique INPI.
-- Vérifier avec un comptable / l'URSSAF :
+- Vérifier auprès de l'URSSAF (3698) ou de la CCI :
   - le régime **franchise en base de TVA (art. 293 B du CGI)** et les seuils en
     vigueur — ils ont bougé récemment, ne pas se fier à un chiffre trouvé en ligne ;
   - le **registre des objets mobiliers** ("livre de police"), obligatoire pour les
@@ -155,7 +155,7 @@ intégrer au calcul de marge de l'étape 7 si l'on veut la marge nette réelle.
 **Taxes : rien à faire.** Shopify applique 0 % faute d'inscription fiscale, ce
 qui correspond exactement à la franchise en base. Ne jamais ajouter de numéro de
 TVA sur cet écran tant que le régime s'applique. À revoir uniquement le jour où
-le seuil de franchise est dépassé — avec le comptable.
+le seuil de franchise est dépassé — auprès de l'URSSAF ou de la CCI.
 
 ---
 
@@ -411,14 +411,14 @@ rien en complexité. La difficulté commence **hors UE**, pas dans l'UE.
 Berlin coûte plus cher qu'un colis vers Toulouse — un tarif unique reviendrait à
 absorber la différence sur la marge.
 
-### À vérifier avec le comptable avant la phase 2
+### À vérifier auprès de l'URSSAF ou de la CCI avant la phase 2
 
 Sous le régime de la **franchise en base**, aucune TVA n'est collectée. Les
 ventes à des particuliers dans d'autres pays de l'UE sont soumises à un **seuil
 annuel de l'ordre de 10 000 €** de ventes transfrontalières, au-delà duquel
 l'enregistrement au guichet **OSS** et l'application de la TVA du pays du client
 entrent en jeu. L'articulation exacte avec la franchise en base relève du
-comptable — à poser en même temps que la question des seuils (voir 0.1).
+l'URSSAF — à poser en même temps que la question des seuils (voir 0.1).
 
 ### Contraintes hors UE (phase 3)
 
@@ -454,6 +454,38 @@ même si la livraison reste limitée à la zone ouverte du moment.
 | 5 | Paiements | Carte / PayPal / Apple Pay / Google Pay + checkout |
 | 6 | Espace client | Compte, suivi, favoris, facture PDF (art. 293 B) |
 | 7 | Dashboard admin | App de calcul de marge automatique |
+
+---
+
+## Où vérifier — pas de comptable, c'est normal
+
+En micro-entreprise il n'y a **ni bilan, ni compte de résultat, ni
+expert-comptable obligatoire**. La comptabilité est tenue soi-même.
+
+| Question | Où |
+|----------|-----|
+| Cotisations, taux, déclarations | **autoentrepreneur.urssaf.fr** · tél. **3698** |
+| Obligations légales d'un commerçant | **entreprendre.service-public.fr** |
+| CGV, rétractation, information du consommateur | **DGCCRF** — `economie.gouv.fr/dgccrf` |
+| Liste des médiateurs agréés | **CECMC**, sur `economie.gouv.fr` |
+| Impôt, abattement, déclaration | **impots.gouv.fr** |
+
+Et le plus utile, souvent oublié : **la Chambre de Commerce et d'Industrie**. Les
+conseillers CCI reçoivent gratuitement les commerçants et répondent précisément
+sur les CGV, les registres et les obligations. Un rendez-vous vaut mieux que dix
+heures de recherche.
+
+### Les trois registres obligatoires
+
+| Registre | Obligation |
+|----------|-----------|
+| **Livre des recettes** | toute micro-entreprise — date, client, montant, mode de paiement |
+| **Registre des achats** | dès qu'il y a achat-revente — les factures des maisons de vente y vont |
+| **Registre des objets mobiliers** | achat-revente de biens d'occasion, art. 321-7 du code pénal — tenue numérique admise depuis 2020 |
+
+Le classeur `exports/maison-nsaia-stock.xlsx` en contient déjà la matière : coûts,
+dates, provenances. **À transformer en feuilles dédiées** plutôt que d'y revenir
+en catastrophe.
 
 ---
 
@@ -814,7 +846,7 @@ Deux points juridiques s'appliqueront :
 - **Garantie légale de conformité de 2 ans** sur le neuf vendu par un
   professionnel, contre 12 mois sur l'occasion — sensible sur de l'électronique.
 - **Éco-participation (DEEE)** sur les équipements électriques et électroniques,
-  à vérifier avec le comptable en cas d'import de neuf.
+  à vérifier auprès de la CCI en cas d'import de neuf.
 
 La garantie légale de 2 ans sur le neuf s'applique de toute façon dès maintenant
 aux pièces neuves avec étiquette.

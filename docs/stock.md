@@ -708,7 +708,7 @@ l'éco-contribution. Revendre des biens **déjà commercialisés** fait de nous 
 **distributeur**, pas un producteur.
 
 **L'obligation ne s'applique donc pas**, ni en neuf ni en occasion. À faire
-confirmer par le comptable, mais le raisonnement tient.
+confirmer auprès de la DGCCRF ou de la CCI, mais le raisonnement tient.
 
 ### Où en est le stock
 
