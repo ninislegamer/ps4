@@ -471,21 +471,85 @@ signale un magasin qui ne tient pas ses promesses.
 On part donc étroit et on élargit au fil du stock. **Chaque rayon nouveau doit
 être justifié par le stock existant, jamais par une intention.**
 
-### Structure au lancement — 10 références
+### Structure au lancement — 18 références
 
 ```
 BOUTIQUE
-├─ Vêtements      7 réf.  Elisabetta Franchi · Sonia Rykiel · Karl Lagerfeld
-│                         Sandro · Chiara Ferragni · Pier Antonio Gaspari · ba&sh
-└─ Chaussures     3 réf.  Hogan · adidas by Stella McCartney · Forma Legacy
+├─ Vêtements       7 réf.  Elisabetta Franchi · Sonia Rykiel · Karl Lagerfeld
+│                          Sandro · Chiara Ferragni · Pier Antonio Gaspari · ba&sh
+└─ Chaussures     11 réf.  Hogan · adidas by Stella McCartney · Forma Legacy
+                           Massimo Dutti · New Balance BB80 · New Balance 650
+                           New Balance GS 1906 · Tommy Jeans · Emporio Armani
+                           Geox · Plein Sport
 
 SÉLECTIONS (collections automatiques, pas des rayons)
 ├─ Nouveautés
 └─ Dernière pièce
 ```
 
-Pas de séparation Femme / Homme au départ : une seule référence homme (Forma) ne
-justifie pas un rayon. Elle s'ouvrira à cinq références masculines.
+Pas de séparation Femme / Homme au départ : deux références homme ne justifient
+pas un rayon. Elle s'ouvrira à cinq références masculines.
+
+### Le sportswear a une fonction : faire entrer du monde
+
+Les New Balance, Tommy Jeans, Emporio Armani et Geox ont une marge quasi nulle —
+0,97 € à 4,64 €. Ce n'est pas leur rôle. Leur rôle est celui qui était déjà écrit
+dans le tableau des niveaux de gamme : **acquisition, produits connus, panier
+d'entrée**.
+
+Quelqu'un tape « New Balance 650 » dans une barre de recherche et tombe sur la
+fiche. Personne ne tape « Pier Antonio Gaspari ». **Le sportswear amène le
+trafic, les créateurs font la marge.**
+
+La commission carte de 1,5 % coûte ~1 € sur ces fiches, soit l'essentiel de leur
+marge. C'est le meilleur euro de publicité de la boutique : il paie un visiteur
+qui découvre le reste du catalogue.
+
+### Plancher de prix boutique : 49 €
+
+En dessous, places de marché. Cette règle exclut proprement les Morgan (12-19 €),
+les Mrs.Ertha (19 €), les Havaianas (13,90 €) et les pompes Robby (42 €) sans
+avoir à arbitrer au cas par cas.
+
+Le catalogue tient ainsi dans une bande de **49 à 159 €**, cohérente. Ce qui
+cassait le positionnement n'était pas le sportswear — c'étaient les articles à
+moins de 20 €.
+
+### Une fiche vendue ne se supprime jamais
+
+**Le stock passe à zéro, la fiche reste en ligne avec la mention « Vendue ».**
+C'est ce que font les maisons de vente avec leurs résultats, et ça sert trois
+choses :
+
+1. **Le site n'est jamais vide.** 18 pièces en vente plus 20 vendues font un
+   catalogue de 38 fiches.
+2. **Ça prouve que la boutique fonctionne.** Un visiteur qui voit des pièces
+   vendues sait qu'il n'est pas le premier client.
+3. **Ça montre ce qui est sourcé.** Quelqu'un qui cherche du Sonia Rykiel et voit
+   qu'il y en a déjà eu revient à la prochaine.
+
+Ajouter un bouton **« Prévenez-moi des pièces similaires »** sur les fiches
+vendues : il alimente la liste de diffusion.
+
+**C'est probablement ce que la boutique fera de mieux la première année** — pas
+vendre, mais collecter les adresses de gens qui ont vu des pièces qu'ils auraient
+voulues.
+
+### Cumuler boutique et places de marché sans double vente
+
+Le seul risque est de vendre deux fois le même article. Il n'existe que sur les
+canaux à **achat immédiat non désactivable**.
+
+| Canal | Achat immédiat | Cumulable avec la boutique |
+|-------|----------------|----------------------------|
+| **Leboncoin** sans paiement sécurisé | non — l'acheteur contacte | **oui, sans risque** |
+| Leboncoin avec paiement sécurisé | oui | non |
+| **Vinted** | oui, non désactivable | **non** |
+| **eBay** | oui | non |
+
+**Règle : Vinted et eBay sont réservés aux pièces qui ne sont pas sur la
+boutique.** Tout le reste va sur la boutique **et** sur Leboncoin sans paiement
+sécurisé.
 
 ### Structure cible, à mesure que le stock grossit
 
