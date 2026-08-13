@@ -560,40 +560,68 @@ L'état est du bon état, pas du très bon état — semelle sale, intérieur ma
 Canal : Vinted, pas la boutique.
 
 ---
-
 # 7. VENDU
 
-| Date | Article | Canal | Prix | Coût réel | URSSAF | **Marge** |
-|------|---------|-------|------|-----------|--------|-----------|
-| 12/08/2026 | SALOMON X Ultra 5 Mid GTX P.44 | Vinted, Italie | 100 € | 79,05 € | 12,40 € | **+8,55 €** |
-| à compléter | Veste en jean ARMANI EXCHANGE T.S | — | 35 € | 27,57 € | 4,34 € | **+3,09 €** |
-| à compléter | HAVAIANAS Slim — 2 paires à 14 € | — | 28 € | 21,53 € | 3,47 € | **+3,00 €** |
-| à compléter | LACOSTE sneakers P.42 | — | 70 € | 59,88 € | 8,68 € | **+1,44 €** |
-| à compléter | Sac demi-lune KARL LAGERFELD JEANS | — | 60 € | 52,77 € | 7,44 € | **−0,21 €** |
-| à compléter | Baskets NIKE Air Max Moto 2K P.44.5 | — | 60 € | 52,77 € | 7,44 € | **−0,21 €** |
-| à compléter | Baskets HOKA P.37 1/3 | — | 70 € | 65,37 € | 8,68 € | **−4,05 €** |
-| à compléter | T-shirt BALENCIAGA T.2 | — | 125 € | 115,77 € | 15,50 € | **−6,27 €** |
-| | **TOTAL** | | **548 €** | **474,71 €** | **67,95 €** | **+5,34 €** |
+| Article | Prix | Coût réel | Seuil | URSSAF | **Marge** | Encaissé |
+|---------|------|-----------|-------|--------|-----------|----------|
+| T-shirt BALENCIAGA T.2 | 135 € | 115,77 € | 132,15 € | 16,74 € | **+2,49 €** | oui |
+| Baskets HOKA P.37 1/3 | 80 € | 65,37 € | 74,62 € | 9,92 € | **+4,71 €** | oui |
+| Sac demi-lune KARL LAGERFELD JEANS | 70 € | 52,77 € | 60,24 € | 8,68 € | **+8,55 €** | oui |
+| Baskets NIKE Air Max Moto 2K P.44.5 | 70 € | 52,77 € | 60,24 € | 8,68 € | **+8,55 €** | oui |
+| LACOSTE sneakers P.42 | 70 € | 59,88 € | 68,35 € | 8,68 € | **+1,44 €** | oui |
+| Veste en jean ARMANI EXCHANGE T.S | 40 € | 27,57 € | 31,47 € | 4,96 € | **+7,47 €** | oui |
+| SALOMON X Ultra 5 Mid GTX P.44 | 100 € | 79,05 € | 90,24 € | 12,40 € | **+8,55 €** | **non** ¹ |
+| HAVAIANAS Slim — 2 paires à 14 € | 28 € | 21,53 € | 24,58 € | 3,47 € | **+2,99 €** | **non** |
+| **TOTAL** | **593 €** | **474,69 €** | | **73,53 €** | **+44,78 €** | |
 
-**548 € encaissés, 5,34 € de marge.** Quatre de ces huit ventes sont passées sous
-le seuil d'équilibre.
+¹ *Vinted retient le paiement jusqu'à validation de la réception par l'acheteur.
+Client en Italie, compter 5 à 8 jours.*
 
-### Ce qu'il reste à compléter
+**Les huit ventes sont positives.** Deux restent minces : le Balenciaga à
++2,49 € — vendu 3 € au-dessus de son seuil — et la Lacoste à +1,44 €.
+
+## Position de trésorerie
+
+| | |
+|---|---|
+| Encaissé à ce jour | **465,00 €** |
+| Réinvesti sur Interenchères | **−386,75 €** |
+| **Solde de caisse** | **78,25 €** |
+| URSSAF due sur les 465 € encaissés | **−57,66 €** |
+| **Trésorerie réellement libre** | **20,59 €** |
+
+**Point de vigilance.** 83 % de ce qui est rentré est déjà reparti en achats, et
+l'URSSAF n'a pas été mise de côté. Sur 78,25 € en caisse, **57,66 € sont dus**.
+
+À encaisser prochainement : **128 €** (Salomon 100 € + Havaianas 28 €), dont
+15,87 € d'URSSAF. Soit 112,13 € nets qui remonteront la trésorerie libre à
+**132,72 €**.
+
+**Réflexe à prendre : virer l'URSSAF sur un second compte à chaque encaissement.**
+Pas au trimestre — au fil de l'eau. C'est la cause numéro un de mortalité des
+micro-entreprises en achat-revente.
+
+## Nouveaux achats Interenchères — 386,75 €
+
+Lot non encore intégré au stock. **Envoyer la facture** pour que les articles
+entrent au tableau, aux registres et aux annonces.
+
+## Ce qu'il reste à compléter
 
 - **Les dates** de sept ventes sur huit, pour le livre des recettes
 - **Le canal** de chacune — boutique, Leboncoin, Vinted, main propre, famille
 - **Lesquelles sont des ventes à la famille**, s'il y en a parmi elles
 
-### La cause, en une ligne
+## La règle qui a servi
 
-**L'URSSAF se calcule sur le prix de vente, pas sur la marge.** Sur le
-Balenciaga : 125 € encaissés, 115,77 € de coût, donc 9,23 € de marge apparente —
-mais 15,50 € d'URSSAF sur les 125 €, soit une perte de 6,27 €.
+**L'URSSAF se calcule sur le prix de vente, pas sur la marge.** Le seuil
+d'équilibre est `coût ÷ 0,876` : en dessous, la vente coûte de l'argent.
 
-Le seuil d'équilibre est `coût ÷ 0,876`. Il fallait **133 € minimum** sur le
-Balenciaga, et 160 € pour gagner quelque chose.
+Sur le Balenciaga, le seuil était à 132,15 € et la vente s'est faite à 135 € —
+2,49 € de marge sur une pièce à 116 € de coût. Il fallait viser 160 € pour que
+l'opération ait un sens.
 
-### Les ventes à la famille
+## Les ventes à la famille
 
 Décision prise : **la famille paie désormais le prix plancher**, pas le prix
 coûtant. Vendre à prix coûtant n'est pas neutre, ça coûte 12,4 %.
