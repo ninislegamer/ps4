@@ -14,7 +14,7 @@ de lui confirmer.
 
 ## Havaianas Slim fuchsia ×12 — Leboncoin
 
-**199 € le lot** · plancher 159 € · coût 120,21 € · marge 19 € à 159 €
+**199 € le lot** · plancher 159 € · coût **103,77 €** · marge **35,51 €** à 159 €
 
 > Depuis la facture : *« Lot de 12 paires de tongs HAVAIANAS - FUCHSIA - 35/36 -
 > Possibilité de coloris supplémentaires dans certains lots ou tailles variées -
@@ -52,7 +52,7 @@ Lot vendu en une seule fois. Pas de vente à l'unité, merci.
 
 ## Mrs.Ertha — gilets de flottaison 3-6 ans ×4 — Leboncoin + Vinted
 
-**19 € l'unité** · coût 11,07 €/gilet · marge 22,31 € sur les quatre
+**19 € l'unité** · coût **12,42 €/gilet** · marge **16,89 €** sur les quatre
 
 Deux modèles, deux exemplaires chacun. Une annonce par modèle ; le second
 exemplaire se publie quand le premier est vendu.
@@ -107,7 +107,7 @@ Pièce authentifiée en maison de vente.
 
 ## Robe ELISABETTA FRANCHI T.46 IT / 42 FR — 99 €
 
-*coût 22,07 € · marge 63,17 € · meilleure marge du stock*
+*coût **23,42 €** · marge **61,82 €***
 
 ```
 ELISABETTA FRANCHI - Robe à manches et bas de robe asymétriques en
@@ -130,7 +130,7 @@ les plis du pliage donnent une impression de bas de gamme.
 
 ## Jupe midi SONIA RYKIEL T.34 — 99 €
 
-*coût 39,42 € · marge 45,82 €*
+*coût **40,77 €** · marge **44,47 €***
 
 ```
 Jupe midi SONIA RYKIEL T.34 - NEUVE
@@ -150,7 +150,7 @@ beaucoup mieux que « twill » dans la description.
 
 ## Robe SANDRO T.40 — 89 €
 
-*coût 39,42 € · marge 37,21 €*
+*coût **40,77 €** · marge **35,86 €***
 
 ```
 Robe SANDRO blanche T.40 - NEUVE
@@ -168,7 +168,7 @@ Pièce authentifiée en maison de vente.
 
 ## Blazer KARL LAGERFELD T.36 FR — 89 €
 
-*coût 52,02 € · marge 24,61 €*
+*coût **53,37 €** · marge **23,26 €***
 
 ```
 Blazer noir KARL LAGERFELD T.36 FR - NEUF avec étiquette
@@ -189,7 +189,7 @@ prix.
 
 ## Chaussures HOGAN P.36 — 79 €
 
-*coût 14,22 € · marge 53,80 €*
+*coût **15,57 €** · marge **52,45 €***
 
 ```
 Ballerines HOGAN 186 Zeppa Fashion P.36
@@ -212,7 +212,7 @@ annoncé ne pose jamais de problème.
 
 ## ADIDAS x STELLA McCARTNEY Ultraboost 21 P.36 — 79 €
 
-*coût 39,42 € · marge 28,60 €*
+*coût **40,77 €** · marge **27,25 €***
 
 ```
 adidas by Stella McCartney ASMC Ultraboost 21 Metallic P.36
@@ -231,7 +231,7 @@ Pièce authentifiée en maison de vente.
 
 ## Robe CHIARA FERRAGNI T.M — 69 €
 
-*coût 33,57 € · marge 25,84 €*
+*coût **34,92 €** · marge **24,49 €***
 
 ```
 Robe bustier CHIARA FERRAGNI noire T.M - NEUVE
@@ -250,7 +250,7 @@ Pièce authentifiée en maison de vente.
 
 ## Robe PIER ANTONIO GASPARI T.42 — 59 €
 
-*coût 27,18 € · marge 23,62 €*
+*coût **28,53 €** · marge **22,27 €***
 
 ```
 Robe droite PIER ANTONIO GASPARI bleu marine T.42 - NEUVE
@@ -270,7 +270,7 @@ faute ; une fiche mal orthographiée reste introuvable.
 
 ## Demi-bottes FORMA Legacy Waterproof T.45 — 159 €
 
-*coût 64,62 € · marge 72,28 €*
+*coût **65,97 €** · marge **70,93 €***
 
 ```
 Demi-bottes FORMA Legacy Waterproof T.45 noir - NEUVES
@@ -294,7 +294,7 @@ français et la documentation de conformité doivent être dans la boîte.
 
 ## Lot de 20 paires de sandales et tongs — 199 €, en lot
 
-*coût 89,05 € · marge 85,27 € · **à publier en février-mars***
+*coût **59,67 €** · marge **114,65 €** · **à publier en février-mars***
 
 ```
 Lot 20 paires sandales et tongs NEUVES - Relife Tommy Jeans
@@ -315,7 +315,7 @@ collection d'été. Publier maintenant, c'est vendre à un acheteur qui n'existe
 
 ## Lot de 2 paires ADIDAS Predator Edge P.48⅔ — 89 € la paire
 
-*coût 41,04 € les deux · marge 114,89 € · meilleure marge du stock*
+*coût **43,74 €** les deux · marge **112,18 €***
 
 **Une annonce par paire.** eBay en priorité : la pointure 48⅔ trouve preneur en
 Allemagne ou aux Pays-Bas, pas à Toulouse.
@@ -334,7 +334,7 @@ Expédition France et international.
 
 ## Lot de 6 vêtements femme MORGAN T.40 et L — 92 € au total
 
-*coût 47,51 € · marge 33,09 € · **six annonces séparées***
+*coût **55,63 €** · marge **24,96 €** · **six annonces séparées***
 
 | Pièce | Prix |
 |-------|------|
@@ -413,7 +413,7 @@ PLUSIEURS LOTS DISPONIBLES — commandez la quantité souhaitée.
 
 ## Ballerines MASSIMO DUTTI P.41 — 59 €
 
-*coût 26,82 € · marge 24,87 €*
+*coût **28,17 €** · marge **23,51 €***
 
 ```
 Ballerines MASSIMO DUTTI cuir rouge P.41
@@ -425,7 +425,7 @@ Pointure 41. Traces d'essayage, jamais portées à l'extérieur.
 
 ## Baskets GEOX P.35 — 49 €
 
-*coût 23,35 € · marge 19,58 €*
+*coût **24,70 €** · marge **18,22 €***
 
 ```
 Baskets GEOX gris argent P.35 - NEUVES avec boîte
@@ -433,7 +433,7 @@ Baskets GEOX gris argent P.35 - NEUVES avec boîte
 
 ## PHILIPP PLEIN SPORT baskets montantes P.40 — 89 €
 
-*coût 59,13 € · marge 18,84 €*
+*coût **60,48 €** · marge **17,48 €***
 
 **Titre sans mention homme ou femme** — le 40 est la pointure charnière, publier
 dans les deux rubriques Leboncoin.
@@ -450,7 +450,7 @@ Pointure 40. NEUVES avec boîte.
 
 ## Combinaison de pluie BMW ProRain XL — 139 €
 
-*coût 70,19 € · marge 51,58 €*
+*coût **71,54 €** · marge **50,22 €***
 
 Leboncoin, rubrique **Équipement moto** — c'est là que sont les acheteurs.
 
@@ -469,16 +469,16 @@ Neuve en boutique : 150 à 215 € selon coloris.
 
 # 4. LIQUIDER — récupérer la trésorerie, pas la marge
 
-Six lots, **355 € immobilisés pour 41 € de marge**. Vendre vite, ne pas
+Six lots, **363 € immobilisés pour 33 € de marge**. Vendre vite, ne pas
 surinvestir en temps de rédaction.
 
 | Article | Prix | Coût | Marge |
 |---------|------|------|-------|
-| NEW BALANCE G19064IK Alkaline Green P.38½ | 99 € | 77,22 € | 9,51 € |
-| EMPORIO ARMANI baskets P.36 | 69 € | 52,74 € | 7,71 € |
-| NEW BALANCE sneakers P.38 | 54 € | 39,96 € | 7,35 € |
-| NEW BALANCE baskets montantes P.44 | 65 € | 52,74 € | 4,20 € |
-| TOMMY JEANS baskets basses P.40 | 65 € | 54,02 € | 2,92 € |
+| NEW BALANCE G19064IK Alkaline Green P.38½ | 99 € | 78,57 € | 8,15 € |
+| EMPORIO ARMANI baskets P.36 | 69 € | 54,09 € | 6,35 € |
+| NEW BALANCE sneakers P.38 | 54 € | 41,31 € | 5,99 € |
+| NEW BALANCE baskets montantes P.44 | 65 € | 54,09 € | 2,85 € |
+| TOMMY JEANS baskets basses P.40 | 65 € | 55,37 € | 1,57 € |
 
 Modèle unique, à décliner :
 
@@ -502,15 +502,15 @@ Pas d'annonce tant que le prix marché n'est pas vérifié.
 
 | Article | Coût réel |
 |---------|-----------|
-| T-shirt BALENCIAGA T.2 — neuf | **115,02 €** |
-| Baskets HOKA P.37 1/3 — neuves | 64,62 € |
-| ADIDAS Yeezy 700 V3 Mono Safflower T.38 — occasion | 64,62 € |
-| LACOSTE sneakers P.42 — neuves | 59,13 € |
-| Sac demi-lune nylon noir KARL LAGERFELD JEANS | 52,02 € |
-| Baskets NIKE Air Max Moto 2K P.44.5 — neuves | 52,02 € |
-| Lot de 4 toupies BEYBLADE HASBRO | 44,81 € |
-| Veste en jean ARMANI EXCHANGE T.S — neuve | 26,82 € |
-| Lot de 4 toupies BEYBLADE HASBRO | 25,64 € |
+| T-shirt BALENCIAGA T.2 — neuf | **116,37 €** |
+| Baskets HOKA P.37 1/3 — neuves | 65,97 € |
+| ADIDAS Yeezy 700 V3 Mono Safflower T.38 — occasion | 65,97 € |
+| LACOSTE sneakers P.42 — neuves | 60,48 € |
+| Sac demi-lune nylon noir KARL LAGERFELD JEANS | 53,37 € |
+| Baskets NIKE Air Max Moto 2K P.44.5 — neuves | 53,37 € |
+| Lot de 4 toupies BEYBLADE HASBRO | 41,31 € |
+| Veste en jean ARMANI EXCHANGE T.S — neuve | 28,17 € |
+| Lot de 4 toupies BEYBLADE HASBRO | 22,14 € |
 
 **Commencer par le Balenciaga** : c'est la pièce la plus chère du stock et la
 seule qui puisse à elle seule changer le résultat de l'année.
@@ -521,7 +521,7 @@ seule qui puisse à elle seule changer le résultat de l'année.
 
 | Date | Article | Canal | Prix | Coût | Marge |
 |------|---------|-------|------|------|-------|
-| 12/08/2026 | SALOMON X Ultra 5 Mid GTX P.44 | Vinted, Italie | 100 € | 78,30 € | **9,30 €** |
+| 12/08/2026 | SALOMON X Ultra 5 Mid GTX P.44 | Vinted, Italie | 100 € | 79,65 € | **7,95 €** |
 
 **Ventes à la famille sans bénéfice** : à consigner ici au fur et à mesure, avec
 le prix réellement encaissé. Elles restent du chiffre d'affaires à déclarer, même
