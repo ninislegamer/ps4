@@ -156,6 +156,20 @@ distinctes, publiables en parallèle.
 variés ?** Le lot de 20 sandales (tailles et modèles variés) est vendable ; les
 10 Havaianas fuchsia en 35/36 ne le sont pas.
 
+### Un lot identique revient plus loin ? Attendre le second
+
+**Dans une même vacation, deux lots identiques peuvent partir du simple au
+double.** Le 3 août, deux lots de 4 toupies Beyblade au contenu strictement
+identique sont partis à **15 €** (lot n°159) et **30 €** (lot n°299) — même
+marchandise, même vente, même journée.
+
+Les enchérisseurs se concentrent sur le premier lot qui passe ; le second trouve
+une salle déjà servie et part souvent moins cher.
+
+**Avant d'enchérir, parcourir le reste du catalogue à la recherche d'un lot
+jumeau.** Attendre ne coûte rien et peut diviser le prix par deux. Si le premier
+part au-dessus du plafond, le second est une seconde chance.
+
 ### Le seuil : sous 4-5 exemplaires, vendre à l'unité
 
 C'est le moment où la file d'attente devient plus coûteuse que la décote du lot.
