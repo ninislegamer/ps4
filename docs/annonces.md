@@ -96,3 +96,66 @@ Fond clair et uni, lumière du jour près d'une fenêtre, jamais de flash.
 Ce qui remonte une annonce, c'est le **titre**, seul champ réellement indexé, et
 la **fraîcheur** de la publication. Les mots-clés doivent donc être dans le titre
 et dans le corps du texte, pas dans une liste en fin d'annonce.
+
+---
+
+## Mrs.Ertha — gilets de flottaison ×4 — Leboncoin + Vinted
+
+**Statut :** à publier. Urgent, fin de saison estivale.
+
+**Catégorie :** Équipement bébé → Puériculture
+**Prix :** 19 € l'unité
+**Coût :** 9,45 €/gilet · **marge 6,91 €** par gilet, 27,64 € sur les quatre
+
+Deux modèles, deux exemplaires chacun. **Publier une annonce par modèle**, puis
+le second exemplaire du même modèle quand le premier est vendu — les annonces
+identiques ne sont pas autorisées en parallèle.
+
+### Titre
+
+```
+Gilet de flottaison enfant MRS.ERTHA 3-6 ans - NEUF
+```
+
+### Description
+
+```
+Gilet de nage MRS.ERTHA, taille 3-6 ans. NEUF, jamais utilisé.
+
+Marque de puériculture au design épuré, distribuée en boutiques
+spécialisées. Mousse haute densité, entièrement réglable dans le dos,
+maintien vertical de l'enfant dans l'eau — bien plus stable que des
+brassards.
+
+Coloris écru uni.
+
+19 €. Remise en main propre à Toulouse, ou envoi Mondial Relay aux
+frais de l'acheteur.
+```
+
+Pour le second modèle : remplacer la ligne de coloris par **« Coloris vichy
+gris »** et adapter le titre.
+
+### À vérifier avant publication
+
+**Marquage CE, notice en français, tranche de poids ou d'âge** sur chaque gilet.
+C'est un équipement de sécurité enfant soumis à la norme **EN 13138-1**. Sans
+notice, ne pas annoncer comme neuf conforme.
+
+### Prix
+
+Vérifier le prix courant du gilet sur prettywire.fr et sundays-kids-store.com
+avant de publier. À 39,99 € plein tarif partout, monter à 24 € ; s'il se trouve
+à 20-25 €, rester à 17-19 €. Le concurrent réel est le **Decathlon Nabaiji à
+~20 €**, pas une autre Mrs.Ertha.
+
+### Photos
+
+Fond clair, lumière du jour. Le gilet à plat déplié, l'étiquette de taille en
+gros plan, et le marquage CE lisible — sur un article de sécurité enfant, c'est
+lui qui rassure.
+
+### Au 1er septembre
+
+Si tout n'est pas parti, regrouper le reste en lot à **45-55 €**. Mieux vaut
+15 € maintenant que 29 € en mai.
