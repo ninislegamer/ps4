@@ -462,6 +462,33 @@ Navigation principale par genre et catégorie — c'est ainsi qu'un client cherc
 un vêtement. Les niveaux de gamme sont des **sélections**, pas des rayons : ils
 se croisent avec les catégories au lieu de les dupliquer.
 
+### La règle d'ouverture : cinq références minimum
+
+**Une catégorie ne s'ouvre qu'à partir de cinq ou six références.** Une catégorie
+vide, ou à deux articles, fait plus de mal qu'une catégorie absente : elle
+signale un magasin qui ne tient pas ses promesses.
+
+On part donc étroit et on élargit au fil du stock. **Chaque rayon nouveau doit
+être justifié par le stock existant, jamais par une intention.**
+
+### Structure au lancement — 10 références
+
+```
+BOUTIQUE
+├─ Vêtements      7 réf.  Elisabetta Franchi · Sonia Rykiel · Karl Lagerfeld
+│                         Sandro · Chiara Ferragni · Pier Antonio Gaspari · ba&sh
+└─ Chaussures     3 réf.  Hogan · adidas by Stella McCartney · Forma Legacy
+
+SÉLECTIONS (collections automatiques, pas des rayons)
+├─ Nouveautés
+└─ Dernière pièce
+```
+
+Pas de séparation Femme / Homme au départ : une seule référence homme (Forma) ne
+justifie pas un rayon. Elle s'ouvrira à cinq références masculines.
+
+### Structure cible, à mesure que le stock grossit
+
 ```
 FEMME                HOMME                SÉLECTIONS
 ├─ Vêtements         ├─ Vêtements         ├─ Pièces d'exception
@@ -472,6 +499,33 @@ FEMME                HOMME                SÉLECTIONS
                                           ├─ Très bon état
                                           └─ Dernière pièce
 ```
+
+### Élargissement hors mode : différé, pas exclu
+
+La question s'est posée d'ouvrir la boutique à tout ce qui est sourcé en vente
+aux enchères — son et image, maison et jardin, collection — parce que les pièces
+de créateurs sont rares : **sur une vingtaine de lots examinés le 12 août, un
+seul passait les quatre filtres**, et 19 des 27 lignes du stock ne rentrent dans
+aucun rayon actuel.
+
+**Décision : différé.** On n'ouvre pas de rayon pour du stock qu'on n'a pas
+encore. Les pompes Robby, les tongs, les New Balance et les Morgan se vendent sur
+Leboncoin, Vinted et eBay.
+
+Si l'élargissement se fait un jour, il devra changer le principe organisateur du
+site : ce qui unit les articles ne sera plus le **niveau de gamme** mais la
+**provenance et le prix** — « des pièces sourcées en maison de vente, vérifiées,
+vendues sous leur prix de marché ». Cette phrase couvre une robe YSL comme une
+pompe. Elle transforme la boutique en **maison de vente en ligne** plutôt qu'en
+boutique de luxe, ce qui est plus proche de la réalité de l'activité.
+
+Quatre conditions si cela se fait :
+
+1. Jamais de mélange de prix sur une même page — les rayons restent étanches.
+2. La page d'accueil montre le haut du panier et donne le ton.
+3. Une seule charte photo pour tout, de la robe à la pompe. C'est elle qui tient
+   visuellement un site généraliste.
+4. La mention de provenance sur chaque fiche, sans exception.
 
 ### Les trois niveaux de gamme
 
