@@ -277,6 +277,11 @@ Le référencement naturel dépend de la pertinence, de l'ancienneté du domaine
 contenu et des liens entrants. Un domaine neuf n'a aucune autorité : être le
 moins cher du marché ne le fera pas remonter dans les résultats.
 
+**Compter six à douze mois avant que `maison-nsaia.fr` apparaisse dans les
+résultats**, quoi qu'on fasse sur les prix. Les six premiers mois, le trafic
+viendra de **Leboncoin, Vinted et eBay** — ils ont déjà l'audience. C'est
+d'ailleurs là que s'est faite la première vente.
+
 ### Google Shopping : utile mais étroit
 
 Les fiches gratuites de Google Shopping (via Merchant Center, canal
@@ -550,6 +555,42 @@ canaux à **achat immédiat non désactivable**.
 **Règle : Vinted et eBay sont réservés aux pièces qui ne sont pas sur la
 boutique.** Tout le reste va sur la boutique **et** sur Leboncoin sans paiement
 sécurisé.
+
+### La boutique est la source de vérité
+
+Le danger du double affichage n'est pas la fiche, c'est le **décalage**. Une
+pièce vendue sur Leboncoin à 14h et mise à jour le lendemain peut être achetée et
+payée entre-temps sur la boutique. Il faut alors annuler et rembourser — mauvaise
+expérience, et les annulations répétées pénalisent un compte Shopify Payments.
+
+> **Dès qu'un acheteur Leboncoin dit oui, premier geste : stock à 0 sur Shopify.
+> Ensuite seulement, confirmer à l'acheteur.** Jamais l'inverse.
+
+C'est ce qui rend le double affichage totalement sûr, et c'est possible parce que
+Leboncoin est **sans paiement sécurisé** : la vente passe par une conversation,
+il y a toujours le temps de faire la manœuvre. Sur Vinted et eBay, l'acheteur
+paie sans prévenir — d'où leur exclusion des pièces de boutique.
+
+### Deux états plutôt qu'un
+
+| Moment | Fiche boutique |
+|--------|----------------|
+| L'acheteur Leboncoin dit « je le prends » | **Réservée** — stock à 0 |
+| Il a payé et récupéré | **Vendue** |
+
+Un désistement — fréquent sur Leboncoin — se règle en remettant le stock à 1.
+Rien n'est perdu.
+
+### La manœuvre, sur Shopify
+
+1. **Stock à 0**, et vérifier que « Continuer la vente en rupture de stock » est
+   **désactivé**
+2. **Ne pas dépublier, ne pas supprimer** — l'URL reste vivante et Google
+   continue de l'indexer
+3. Shopify affiche « Épuisé » par défaut : **remplacer ce mot par « Vendue »**
+   dans les traductions du thème
+
+Trente secondes par vente.
 
 ### Structure cible, à mesure que le stock grossit
 
