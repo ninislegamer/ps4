@@ -496,33 +496,108 @@ version adulte est `U19063EN`, et un acheteur qui se trompe ouvre un litige.
 
 ---
 
-# 5. PRIX À ÉTABLIR — 9 lots, 507 € de capital
+---
 
-Pas d'annonce tant que le prix marché n'est pas vérifié.
+# 5. TOUPIES BEYBLADE — deux lots de quatre
 
-| Article | Coût réel |
-|---------|-----------|
-| T-shirt BALENCIAGA T.2 — neuf | **116,37 €** |
-| Baskets HOKA P.37 1/3 — neuves | 65,97 € |
-| ADIDAS Yeezy 700 V3 Mono Safflower T.38 — occasion | 65,97 € |
-| LACOSTE sneakers P.42 — neuves | 60,48 € |
-| Sac demi-lune nylon noir KARL LAGERFELD JEANS | 53,37 € |
-| Baskets NIKE Air Max Moto 2K P.44.5 — neuves | 53,37 € |
-| Lot de 4 toupies BEYBLADE HASBRO | 41,31 € |
-| Veste en jean ARMANI EXCHANGE T.S — neuve | 28,17 € |
-| Lot de 4 toupies BEYBLADE HASBRO | 22,14 € |
+**49 € le lot** · deux annonces identiques, donc **en file d'attente** : publier
+le premier, puis le second quand il est vendu.
 
-**Commencer par le Balenciaga** : c'est la pièce la plus chère du stock et la
-seule qui puisse à elle seule changer le résultat de l'année.
+| Lot | Coût réel | Seuil | Plancher | **Marge à 49 €** |
+|-----|-----------|-------|----------|------------------|
+| n°159 | 21,54 € | 24,59 € | 32 € | **21,38 €** |
+| n°299 | 40,71 € | 46,47 € | 61 € | **2,21 €** |
+
+Le second a été payé **le double du premier pour un contenu identique**, dans la
+même vacation. Il ne rapportera presque rien — à son plancher de 61 € on demande
+le prix du neuf en magasin.
+
+**Titre**
+```
+Lot 4 toupies BEYBLADE BURST QuadDrive Hasbro - NEUVES
+```
+
+**Description**
+```
+Lot de 4 toupies BEYBLADE BURST QuadDrive, Hasbro. NEUVES.
+
+- Guilty Luinor L7
+- Astral Spryzen S7
+- Vanish Fafnir F7
+- Cyclone Roktavor R7
+
+Starter Packs QuadDrive, lanceur inclus. Quatre modèles différents,
+compatibles entre eux pour les combats.
+
+Prix boutique environ 15 € la toupie, soit 60 € les quatre.
+LE LOT : 49 €.
+
+Remise en main propre, ou envoi Mondial Relay aux frais de l'acheteur.
+```
+
+**Ne pas regrouper les deux lots en un lot de 8** : ils contiennent les mêmes
+quatre modèles, un lot de 8 serait deux fois la même chose. Si rien ne bouge en
+trois semaines, alors seulement regrouper à 89 €.
+
+**Vérifier le prix sur Leboncoin en « articles vendus »** avant de publier — les
+prix relevés sont américains.
 
 ---
 
-# 6. VENDU
+# 6. PRIX À ÉTABLIR — 1 lot
 
-| Date | Article | Canal | Prix | Coût | Marge |
-|------|---------|-------|------|------|-------|
-| 12/08/2026 | SALOMON X Ultra 5 Mid GTX P.44 | Vinted, Italie | 100 € | 79,65 € | **7,95 €** |
+| Article | Coût réel |
+|---------|-----------|
+| ADIDAS Yeezy 700 V3 Mono Safflower T.38 — occasion | **65,37 €** |
 
-**Ventes à la famille sans bénéfice** : à consigner ici au fur et à mesure, avec
-le prix réellement encaissé. Elles restent du chiffre d'affaires à déclarer, même
-sans marge — le livre des recettes ne fait pas de différence.
+Seuil d'équilibre **74,62 €**, plancher **98 €**.
+
+**Authentification requise avant de fixer le prix.** Les Yeezy sont parmi les
+sneakers les plus contrefaites au monde. Compter 10 à 20 € d'authentification, ou
+passer par StockX qui authentifie avant transmission à l'acheteur.
+
+L'état est du bon état, pas du très bon état — semelle sale, intérieur marqué.
+Canal : Vinted, pas la boutique.
+
+---
+
+# 7. VENDU
+
+| Date | Article | Canal | Prix | Coût réel | URSSAF | **Marge** |
+|------|---------|-------|------|-----------|--------|-----------|
+| 12/08/2026 | SALOMON X Ultra 5 Mid GTX P.44 | Vinted, Italie | 100 € | 79,05 € | 12,40 € | **+8,55 €** |
+| à compléter | Veste en jean ARMANI EXCHANGE T.S | — | 35 € | 27,57 € | 4,34 € | **+3,09 €** |
+| à compléter | HAVAIANAS Slim — 2 paires à 14 € | — | 28 € | 21,53 € | 3,47 € | **+3,00 €** |
+| à compléter | LACOSTE sneakers P.42 | — | 70 € | 59,88 € | 8,68 € | **+1,44 €** |
+| à compléter | Sac demi-lune KARL LAGERFELD JEANS | — | 60 € | 52,77 € | 7,44 € | **−0,21 €** |
+| à compléter | Baskets NIKE Air Max Moto 2K P.44.5 | — | 60 € | 52,77 € | 7,44 € | **−0,21 €** |
+| à compléter | Baskets HOKA P.37 1/3 | — | 70 € | 65,37 € | 8,68 € | **−4,05 €** |
+| à compléter | T-shirt BALENCIAGA T.2 | — | 125 € | 115,77 € | 15,50 € | **−6,27 €** |
+| | **TOTAL** | | **548 €** | **474,71 €** | **67,95 €** | **+5,34 €** |
+
+**548 € encaissés, 5,34 € de marge.** Quatre de ces huit ventes sont passées sous
+le seuil d'équilibre.
+
+### Ce qu'il reste à compléter
+
+- **Les dates** de sept ventes sur huit, pour le livre des recettes
+- **Le canal** de chacune — boutique, Leboncoin, Vinted, main propre, famille
+- **Lesquelles sont des ventes à la famille**, s'il y en a parmi elles
+
+### La cause, en une ligne
+
+**L'URSSAF se calcule sur le prix de vente, pas sur la marge.** Sur le
+Balenciaga : 125 € encaissés, 115,77 € de coût, donc 9,23 € de marge apparente —
+mais 15,50 € d'URSSAF sur les 125 €, soit une perte de 6,27 €.
+
+Le seuil d'équilibre est `coût ÷ 0,876`. Il fallait **133 € minimum** sur le
+Balenciaga, et 160 € pour gagner quelque chose.
+
+### Les ventes à la famille
+
+Décision prise : **la famille paie désormais le prix plancher**, pas le prix
+coûtant. Vendre à prix coûtant n'est pas neutre, ça coûte 12,4 %.
+
+Et même sans bénéfice, une vente reste du **chiffre d'affaires à déclarer** : le
+livre des recettes ne distingue pas une vente à la famille d'une vente à un
+inconnu.
