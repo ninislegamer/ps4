@@ -83,7 +83,7 @@ conforme.
 
 ## Short BA&SH « Fegor » T.34 — Boutique + Leboncoin
 
-**75 €** · coût 52,02 € · marge 12,56 €
+**75 €** · coût **53,37 €** · marge **11,20 €**
 
 **Titre**
 ```
@@ -496,7 +496,7 @@ version adulte est `U19063EN`, et un acheteur qui se trompe ouvre un litige.
 
 ---
 
-# 5. PRIX À ÉTABLIR — 9 lots, 505 € de capital
+# 5. PRIX À ÉTABLIR — 9 lots, 507 € de capital
 
 Pas d'annonce tant que le prix marché n'est pas vérifié.
 
