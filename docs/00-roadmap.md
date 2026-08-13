@@ -457,6 +457,99 @@ même si la livraison reste limitée à la zone ouverte du moment.
 
 ---
 
+## Avant tout le reste : cinq chantiers, dans cet ordre
+
+Ces cinq points priment sur le logo, les couleurs et la personnalisation du
+thème. **Un beau site vide ne vend rien ; un site simple avec 18 fiches
+irréprochables, oui.**
+
+| Ordre | Chantier | Temps |
+|-------|----------|-------|
+| **1** | Les pages légales — bloquant | 1 h |
+| **2** | Les photos des 18 pièces | une demi-journée |
+| **3** | Les mesures réelles, en même temps que les photos | 30 s par pièce |
+| **4** | La page « À propos » | 20 min |
+| **5** | La mention « 1 exemplaire disponible » | 5 min |
+
+### 1. Les pages légales — c'est bloquant
+
+CGV, mentions légales, politique de confidentialité, politique de retour et de
+remboursement.
+
+Sans elles, **la vente est illégale** et **Google Merchant Center refuse le
+compte** — donc pas de Google Shopping, qui est pourtant la seule voie de trafic
+gratuit à court terme.
+
+Shopify génère des modèles dans **Paramètres → Politiques**. À adapter avec le
+SIRET et la mention « TVA non applicable, art. 293 B du CGI ».
+
+### 2. La photographie est le produit
+
+Sur une boutique de pièces uniques, **les photos ne sont pas l'illustration du
+produit, elles sont le produit**. Le client n'essaie pas, ne touche pas. Il n'a
+que ça.
+
+Un thème parfait avec des photos moyennes fait un site amateur. Un thème basique
+avec des photos rigoureuses fait un site sérieux. C'est le seul investissement
+dont le rendement est certain à ce stade.
+
+Protocole à tenir sur les 18 pièces **sans exception** :
+
+- **Un seul fond, un seul éclairage, un seul cadrage.** La cohérence entre les
+  fiches vaut plus que la beauté de chacune.
+- Lumière du jour, près d'une fenêtre, jamais de flash.
+- **Cinq vues par pièce** : face, dos, détail matière, **étiquette de marque**,
+  **étiquette de taille**.
+- Sur le neuf, l'étiquette en gros plan justifie le prix mieux qu'un paragraphe.
+
+### 3. Les mesures réelles sur chaque fiche
+
+Presque personne ne le fait, et c'est ce qui tue les ventes de vêtements en
+ligne.
+
+Mesurer à plat et publier : **épaules, poitrine, taille, longueur** sur un
+vêtement ; **longueur de semelle intérieure** sur une chaussure.
+
+```
+Mesures à plat
+Épaules 40 cm · Poitrine 48 cm · Longueur 92 cm
+```
+
+Deux effets : la **conversion monte** — l'acheteuse hésitante achète quand elle
+peut comparer avec un vêtement qu'elle possède — et les **retours s'effondrent**.
+Sur une pièce unique, un retour est une vente perdue et un article à
+reconditionner.
+
+Trente secondes par pièce avec un mètre de couturière.
+
+### 4. Une page « À propos » qui dit d'où viennent les pièces
+
+C'est le **seul avantage concurrentiel réel**, et il est enterré dans les fiches
+produit.
+
+La plupart des revendeurs ne peuvent pas dire d'où vient leur marchandise. Ici
+si : maisons de vente, avec facture, et un opérateur **légalement responsable de
+l'authenticité**. C'est un argument que Vinted ne peut pas offrir.
+
+Cinq lignes, à la première personne, sur une vraie page — **sans jamais nommer
+les maisons de vente**.
+
+### 5. « 1 exemplaire disponible » sur chaque fiche
+
+Toutes les boutiques fabriquent une fausse urgence. Celle-ci est vraie : il y a
+réellement un exemplaire de chaque chose.
+
+À afficher en clair sous le prix. Pas de compte à rebours, pas de « plus que 2 en
+stock » : juste le fait.
+
+```
+Pièce unique — 1 exemplaire disponible
+```
+
+C'est honnête, c'est rare, et c'est ce qui fait qu'on n'attend pas les soldes.
+
+---
+
 ## Structure des catégories (étape 2)
 
 **Un seul univers : la mode.** Les cartes Pokémon, boosters et displays sortent
