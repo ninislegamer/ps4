@@ -1,124 +1,68 @@
-# Annonces prêtes à publier
+# Annonces — textes prêts à publier
 
-## Havaianas Slim fuchsia ×10 — Leboncoin
+Intitulés repris des factures ADN : tailles, modèles et états y sont exacts.
+Coûts et prix : voir `exports/maison-nsaia-stock.xlsx`.
 
-**Statut :** à publier. Urgent, fin de saison estivale.
+**Règle de canal** — Vinted et eBay sont réservés aux pièces qui ne sont pas sur
+la boutique. Tout le reste va sur la boutique **et** sur Leboncoin sans paiement
+sécurisé. Dès qu'un acheteur Leboncoin dit oui : stock à 0 sur Shopify **avant**
+de lui confirmer.
 
-**Catégorie :** Mode → Chaussures → Femme
-**Prix :** 139 € · plancher de négociation **129 €**, pas en dessous
-**Coût :** 105 € · **marge 15 €** à 139 €, 6 € à 129 €
+---
 
-### Titre
+# 1. URGENT — fin de saison estivale
 
+## Havaianas Slim fuchsia ×12 — Leboncoin
+
+**199 € le lot** · plancher 159 € · coût 120,21 € · marge 19 € à 159 €
+
+> Depuis la facture : *« Lot de 12 paires de tongs HAVAIANAS - FUCHSIA - 35/36 -
+> Possibilité de coloris supplémentaires dans certains lots ou tailles variées -
+> Neuf »*. **Vérifier les boîtes : il y a 12 paires, et des coloris ou tailles
+> peuvent différer de l'annonce.**
+
+**Titre**
 ```
-Lot 10 paires Havaianas Slim fuchsia neuves 35/36
+Lot 12 paires Havaianas Slim fuchsia neuves 35/36
 ```
 
-### Description
-
+**Description**
 ```
-10 paires de tongs HAVAIANAS Slim, coloris fuchsia, NEUVES dans leur
+12 paires de tongs HAVAIANAS Slim, coloris fuchsia, NEUVES dans leur
 boîte d'origine. Jamais portées, jamais essayées.
 
-Taille 35/36 sur les dix paires.
+Taille 35/36.
 
 Le modèle Slim est la version fine et féminine de la Havaianas
-classique. Prix boutique entre 26 et 30 € la paire, soit plus de 260 €
+classique. Prix boutique entre 26 et 30 € la paire, soit plus de 310 €
 pour l'ensemble.
 
-LE LOT DES 10 PAIRES : 139 €, soit 13,90 € la paire.
+LE LOT DES 12 PAIRES : 199 €, soit 16,60 € la paire.
 
 Parfait pour :
 - une revente sur les marchés, en boutique ou en vide-grenier
-- un mariage, un anniversaire, une soirée — le panier de tongs pour
-  la piste de danse, quand les invitées quittent leurs talons
+- un mariage, un anniversaire, une soirée
 - une famille, un groupe d'amies, une association
 
-Remise en main propre à Toulouse, ou envoi Mondial Relay / Colissimo
-aux frais de l'acheteur.
-
-Paiement sécurisé Leboncoin accepté.
+Remise en main propre, ou envoi Mondial Relay / Colissimo aux frais
+de l'acheteur. Paiement sécurisé Leboncoin accepté.
 
 Lot vendu en une seule fois. Pas de vente à l'unité, merci.
 ```
 
-**Si une boîte est abîmée**, ajouter en fin de description :
+## Mrs.Ertha — gilets de flottaison 3-6 ans ×4 — Leboncoin + Vinted
 
-```
-Une boîte légèrement abîmée, les tongs sont intactes et jamais portées.
-```
+**19 € l'unité** · coût 11,07 €/gilet · marge 22,31 € sur les quatre
 
-Un défaut annoncé ne pose jamais de problème ; un défaut découvert ouvre un
-litige.
+Deux modèles, deux exemplaires chacun. Une annonce par modèle ; le second
+exemplaire se publie quand le premier est vendu.
 
-### L'angle qui vend
-
-**Dix paires identiques, même coloris, même pointure : c'est un lot de
-déstockage.** L'acheteur principal est un revendeur — marché, vide-grenier,
-petite boutique. Les angles groupe et événement viennent après : le 35/36 est
-l'une des pointures féminines les plus courantes et couvre aussi le public
-adolescent, donc une association ou une colonie reste un acheteur plausible.
-
-### Photos — ne jamais utiliser celles du site d'enchères
-
-La photo de la maison de vente **ne montre pas la marchandise réellement
-vendue** : on y voit des boîtes en 39/40 qui ne font pas partie du lot. Un
-acheteur qui commande sur cette photo et reçoit autre chose ouvre un litige, et
-avec le paiement sécurisé Leboncoin il gagne. C'est aussi la photo d'ADN, pas la
-nôtre. **Toujours reprendre ses propres photos.**
-
-Fond clair et uni, lumière du jour près d'une fenêtre, jamais de flash.
-
-1. **Les 10 boîtes alignées, étiquettes de taille face à l'objectif et
-   lisibles** — c'est la plus importante : elle prouve la quantité *et* les
-   tailles d'un seul coup d'œil
-2. Une paire à plat sur fond clair
-3. Gros plan sur une étiquette de boîte : taille + nom du modèle
-4. Le semelage vu de dessous, neuf, sans usure
-5. La boîte abîmée s'il y en a une, photographiée franchement
-
-### Diffusion
-
-- **Publier le soir entre 18h et 21h**, ou le dimanche après-midi : pic de trafic
-  Leboncoin.
-- **Republier tous les 4-5 jours** — supprimer puis recréer l'annonce la remet en
-  tête de liste. Seul levier de visibilité gratuit sur Leboncoin.
-- **Activer le paiement sécurisé.** Les paires ne sont sur aucun autre site en
-  achat immédiat, donc aucun risque de double vente, et l'acheteur peut être
-  partout en France.
-- **Poster aussi sur Facebook Marketplace**, gratuit. C'est là que se trouvent
-  les organisatrices de mariage, et les groupes locaux acceptent les mots-clés :
-  « mariage », « déstockage », « lot revendeur ».
-
-### Note sur les hashtags
-
-**Leboncoin n'a pas de hashtags** — ils n'existent que sur Instagram et Vinted.
-Ce qui remonte une annonce, c'est le **titre**, seul champ réellement indexé, et
-la **fraîcheur** de la publication. Les mots-clés doivent donc être dans le titre
-et dans le corps du texte, pas dans une liste en fin d'annonce.
-
----
-
-## Mrs.Ertha — gilets de flottaison ×4 — Leboncoin + Vinted
-
-**Statut :** à publier. Urgent, fin de saison estivale.
-
-**Catégorie :** Équipement bébé → Puériculture
-**Prix :** 19 € l'unité
-**Coût :** 9,45 €/gilet · **marge 6,91 €** par gilet, 27,64 € sur les quatre
-
-Deux modèles, deux exemplaires chacun. **Publier une annonce par modèle**, puis
-le second exemplaire du même modèle quand le premier est vendu — les annonces
-identiques ne sont pas autorisées en parallèle.
-
-### Titre
-
+**Titre**
 ```
 Gilet de flottaison enfant MRS.ERTHA 3-6 ans - NEUF
 ```
 
-### Description
-
+**Description**
 ```
 Gilet de nage MRS.ERTHA, taille 3-6 ans. NEUF, jamais utilisé.
 
@@ -129,33 +73,456 @@ brassards.
 
 Coloris écru uni.
 
-19 €. Remise en main propre à Toulouse, ou envoi Mondial Relay aux
-frais de l'acheteur.
+19 €. Remise en main propre, ou envoi Mondial Relay aux frais de
+l'acheteur.
 ```
 
-Pour le second modèle : remplacer la ligne de coloris par **« Coloris vichy
-gris »** et adapter le titre.
+**Avant de publier** : marquage **CE**, notice en français et tranche de poids
+sur chaque gilet — norme **EN 13138-1**. Sans notice, ne pas annoncer comme neuf
+conforme.
 
-### À vérifier avant publication
+## Short BA&SH « Fegor » T.34 — Boutique + Leboncoin
 
-**Marquage CE, notice en français, tranche de poids ou d'âge** sur chaque gilet.
-C'est un équipement de sécurité enfant soumis à la norme **EN 13138-1**. Sans
-notice, ne pas annoncer comme neuf conforme.
+**75 €** · coût 52,02 € · marge 12,56 €
 
-### Prix
+**Titre**
+```
+Short BA&SH Fegor T.34 - NEUF avec étiquette
+```
 
-Vérifier le prix courant du gilet sur prettywire.fr et sundays-kids-store.com
-avant de publier. À 39,99 € plein tarif partout, monter à 24 € ; s'il se trouve
-à 20-25 €, rester à 17-19 €. Le concurrent réel est le **Decathlon Nabaiji à
-~20 €**, pas une autre Mrs.Ertha.
+**Description**
+```
+Short BA&SH modèle Fegor, coloris lightusedblue, taille 34.
+NEUF avec étiquette, jamais porté.
 
-### Photos
+Référence 1H24FEGO. Prix boutique 150 € imprimé sur l'étiquette.
 
-Fond clair, lumière du jour. Le gilet à plat déplié, l'étiquette de taille en
-gros plan, et le marquage CE lisible — sur un article de sécurité enfant, c'est
-lui qui rassure.
+Pièce unique — un seul exemplaire disponible.
+Pièce authentifiée en maison de vente.
+```
 
-### Au 1er septembre
+---
 
-Si tout n'est pas parti, regrouper le reste en lot à **45-55 €**. Mieux vaut
-15 € maintenant que 29 € en mai.
+# 2. BOUTIQUE — les pièces de créateurs
+
+## Robe ELISABETTA FRANCHI T.46 IT / 42 FR — 99 €
+
+*coût 22,07 € · marge 63,17 € · meilleure marge du stock*
+
+```
+ELISABETTA FRANCHI - Robe à manches et bas de robe asymétriques en
+viscose - Taille 46 Italie (42 FR) - NEUVE
+```
+```
+Robe asymétrique ELISABETTA FRANCHI en viscose, coloris ivoire.
+Manches et bas de robe asymétriques.
+
+Taille 46 IT, soit 42 FR.
+NEUVE, jamais portée.
+
+Pièce unique — un seul exemplaire disponible.
+Pièce authentifiée en maison de vente.
+```
+
+**Indiquer les deux tailles** : une acheteuse française qui lit « 46 » croit à une
+grande taille et passe son chemin. **Défroisser avant les photos** — sur l'ivoire,
+les plis du pliage donnent une impression de bas de gamme.
+
+## Jupe midi SONIA RYKIEL T.34 — 99 €
+
+*coût 39,42 € · marge 45,82 €*
+
+```
+Jupe midi SONIA RYKIEL T.34 - NEUVE
+```
+```
+Jupe midi SONIA RYKIEL, twill imprimé cerises, coloris baby blue.
+Taille 34. NEUVE.
+
+Référence 23E12J25, coloris B01 Baby Blue.
+
+Pièce unique — un seul exemplaire disponible.
+Pièce authentifiée en maison de vente.
+```
+
+Vérifier la composition sur l'étiquette intérieure : « twill de soie » vaut
+beaucoup mieux que « twill » dans la description.
+
+## Robe SANDRO T.40 — 89 €
+
+*coût 39,42 € · marge 37,21 €*
+
+```
+Robe SANDRO blanche T.40 - NEUVE
+```
+```
+Robe SANDRO, modèle Noaim, coloris blanc. Taille 40. NEUVE.
+
+Référence R20662E.
+
+Pièce unique — un seul exemplaire disponible.
+Pièce authentifiée en maison de vente.
+```
+
+À retirer de Vinted d'abord : article neuf, hors périmètre Vinted Pro.
+
+## Blazer KARL LAGERFELD T.36 FR — 89 €
+
+*coût 52,02 € · marge 24,61 €*
+
+```
+Blazer noir KARL LAGERFELD T.36 FR - NEUF avec étiquette
+```
+```
+Blazer noir KARL LAGERFELD, taille 36 FR (IT 40).
+NEUF avec étiquette.
+
+Punto jersey : 60 % viscose, 35 % polyamide, 5 % élasthanne — souple
+et extensible, la ligne d'un blazer avec le confort d'une maille.
+
+Pièce unique — un seul exemplaire disponible.
+Pièce authentifiée en maison de vente.
+```
+
+Aucune saisonnalité : un blazer noir se vend toute l'année, aucune urgence sur le
+prix.
+
+## Chaussures HOGAN P.36 — 79 €
+
+*coût 14,22 € · marge 53,80 €*
+
+```
+Ballerines HOGAN 186 Zeppa Fashion P.36
+```
+```
+Ballerines compensées HOGAN, modèle 186 Zeppa Fashion Ballerina
+Cinturino. Crème et vernis turquoise, bride à la cheville.
+Pointure 36.
+
+Référence HXW1860E290X72066F.
+Traces d'essayage, jamais portées à l'extérieur.
+
+Maison italienne du groupe Tod's.
+Pièce unique — un seul exemplaire disponible.
+Pièce authentifiée en maison de vente.
+```
+
+**Mentionner les traces d'essayage** : c'est écrit sur la facture, un défaut
+annoncé ne pose jamais de problème.
+
+## ADIDAS x STELLA McCARTNEY Ultraboost 21 P.36 — 79 €
+
+*coût 39,42 € · marge 28,60 €*
+
+```
+adidas by Stella McCartney ASMC Ultraboost 21 Metallic P.36
+```
+```
+Baskets ADIDAS x STELLA McCARTNEY, modèle ASMC Ultraboost 21
+Metallic. Pointure 36.
+
+Référence H00099. Modèle d'exposition, pouvant présenter de légères
+traces.
+
+Collaboration de créatrice, pas une simple sneaker de sport.
+Pièce unique — un seul exemplaire disponible.
+Pièce authentifiée en maison de vente.
+```
+
+## Robe CHIARA FERRAGNI T.M — 69 €
+
+*coût 33,57 € · marge 25,84 €*
+
+```
+Robe bustier CHIARA FERRAGNI noire T.M - NEUVE
+```
+```
+Robe bustier courte CHIARA FERRAGNI, coloris noir. Taille M. NEUVE.
+
+Référence 20AI-CFDR040, Evening Dress.
+
+Première pièce de soirée du catalogue. Forme intemporelle, aucune
+saisonnalité.
+
+Pièce unique — un seul exemplaire disponible.
+Pièce authentifiée en maison de vente.
+```
+
+## Robe PIER ANTONIO GASPARI T.42 — 59 €
+
+*coût 27,18 € · marge 23,62 €*
+
+```
+Robe droite PIER ANTONIO GASPARI bleu marine T.42 - NEUVE
+```
+```
+Robe droite PIER ANTONIO GASPARI, coloris bleu marine. Taille 42.
+NEUVE.
+
+Maison italienne distribuée sur YOOX.
+
+Pièce unique — un seul exemplaire disponible.
+Pièce authentifiée en maison de vente.
+```
+
+**Orthographe exacte : Pier ANTONIO**, pas Antonia. La facture ADN comporte la
+faute ; une fiche mal orthographiée reste introuvable.
+
+## Demi-bottes FORMA Legacy Waterproof T.45 — 159 €
+
+*coût 64,62 € · marge 72,28 €*
+
+```
+Demi-bottes FORMA Legacy Waterproof T.45 noir - NEUVES
+```
+```
+Demi-bottes FORMA modèle Legacy Waterproof, coloris noir.
+Pointure 45. NEUVES.
+
+Cuir imperméable, look urbain rétro.
+
+Pièce unique — un seul exemplaire disponible.
+Pièce authentifiée en maison de vente.
+```
+
+**À vérifier à réception** : ce sont des **EPI certifiés CE**. La notice en
+français et la documentation de conformité doivent être dans la boîte.
+
+---
+
+# 3. LEBONCOIN ET EBAY — hors boutique
+
+## Lot de 20 paires de sandales et tongs — 199 €, en lot
+
+*coût 89,05 € · marge 85,27 € · **à publier en février-mars***
+
+```
+Lot 20 paires sandales et tongs NEUVES - Relife Tommy Jeans
+```
+```
+Lot de 20 paires de sandales et tongs NEUVES.
+Marques : RELIFE, TOMMY JEANS, CHATTAWAK, mules Malabar.
+Tailles et modèles variés.
+
+199 € le lot, soit 10 € la paire.
+
+Idéal revente : marchés, vide-greniers, petite boutique.
+Lot vendu en une seule fois.
+```
+
+**Ne pas publier avant février-mars** : c'est là qu'un revendeur constitue sa
+collection d'été. Publier maintenant, c'est vendre à un acheteur qui n'existe pas.
+
+## Lot de 2 paires ADIDAS Predator Edge P.48⅔ — 89 € la paire
+
+*coût 41,04 € les deux · marge 114,89 € · meilleure marge du stock*
+
+**Une annonce par paire.** eBay en priorité : la pointure 48⅔ trouve preneur en
+Allemagne ou aux Pays-Bas, pas à Toulouse.
+
+```
+Crampons ADIDAS Predator Edge.1 TF P.48 2/3 - NEUFS
+```
+```
+Chaussures de football ADIDAS Predator Edge.1 TF, semelle turf.
+Pointure 48 2/3 (UK 13). NEUVES avec boîte.
+
+Référence GZ6448, Champions Code.
+
+Expédition France et international.
+```
+
+## Lot de 6 vêtements femme MORGAN T.40 et L — 92 € au total
+
+*coût 47,51 € · marge 33,09 € · **six annonces séparées***
+
+| Pièce | Prix |
+|-------|------|
+| Jean bleu clair T.40 | 19 € |
+| Jupe marron | 19 € |
+| Pantalon blanc T.40 | 15 € |
+| Polo rouge à écusson doré L | 15 € |
+| Top camel lurex L | 12 € |
+| Polo blanc L | 12 € |
+
+Modèle de titre : `MORGAN [pièce] T.[taille] - NEUF avec étiquette`
+
+```
+[Pièce] MORGAN, taille [40 / L]. NEUF avec étiquette, jamais porté.
+```
+
+Six pièces différentes : les six annonces sont publiables **en parallèle**.
+
+## Lot de 2 pompes immergées ROBBY VP550W — 42 € l'unité
+
+*coût 22,50 €/pompe · marge 28,58 € sur les deux*
+
+**Remise en main propre uniquement.** Expédiée, l'offre dépasse le prix du neuf
+garanti en magasin (54,90 €).
+
+```
+Pompe immergée automatique ROBBY VP550W 550W - 10000 L/h
+```
+```
+Pompe immergée automatique à flotteur intégré ROBBY VP550W.
+Puissance 550 W, débit maximum 10 000 L/h, immersion jusqu'à 7 m,
+câble électrique de 10 m, particules jusqu'à 35 mm.
+
+Pompe jamais utilisée. Emballage ouvert, appareil testé et
+fonctionnel — flotteur et débit vérifiés. Vendue avec sa boîte.
+
+42 € — remise en main propre uniquement, pas d'expédition.
+Neuve en magasin : 54,90 €.
+```
+
+**Tester les deux pompes avant de publier.** Garantie légale de 12 mois sur
+l'occasion vendue en professionnel.
+
+## Pokémon MEGA Munikis Zero M3 — 5 boosters, 22 € le lot
+
+*coût 65 € la boîte de 30 · marge 50,63 € sur les six lots*
+
+eBay en principal — une seule annonce, **quantité 6**. Leboncoin en complément
+avec la mention « plusieurs lots disponibles ».
+
+**Titre eBay** (78 caractères)
+```
+Pokemon M3 Munikis Zero / Nihil Zero - 5 Boosters Japonais Scellés - Import JP
+```
+
+```
+LOT DE 5 BOOSTERS POKÉMON — MUNIKIS ZERO (NIHIL ZERO) M3
+
+5 boosters neufs et scellés, jamais ouverts.
+Chaque booster contient 5 cartes, soit 25 cartes au total.
+
+Munikis Zero / Nihil Zero, code M3, série MEGA — Mega Evolution.
+Sorti au Japon le 23 janvier 2026.
+80 cartes de base et 37 secrètes, soit 117 à collectionner.
+
+Têtes d'affiche : Mega Zygarde ex, première apparition dans le jeu
+de cartes, Mega Clefable ex, Mega Starmie ex et Meowth ex.
+
+Boosters importés directement du Japon. Version japonaise d'origine,
+non distribuée en Europe.
+
+Envoi sous 24 h ouvrées, en enveloppe matelassée avec suivi.
+
+PLUSIEURS LOTS DISPONIBLES — commandez la quantité souhaitée.
+```
+
+## Ballerines MASSIMO DUTTI P.41 — 59 €
+
+*coût 26,82 € · marge 24,87 €*
+
+```
+Ballerines MASSIMO DUTTI cuir rouge P.41
+```
+```
+Ballerines MASSIMO DUTTI en cuir rouge, bride à la cheville.
+Pointure 41. Traces d'essayage, jamais portées à l'extérieur.
+```
+
+## Baskets GEOX P.35 — 49 €
+
+*coût 23,35 € · marge 19,58 €*
+
+```
+Baskets GEOX gris argent P.35 - NEUVES avec boîte
+```
+
+## PHILIPP PLEIN SPORT baskets montantes P.40 — 89 €
+
+*coût 59,13 € · marge 18,84 €*
+
+**Titre sans mention homme ou femme** — le 40 est la pointure charnière, publier
+dans les deux rubriques Leboncoin.
+
+```
+Baskets montantes PHILIPP PLEIN SPORT blanc violet P.40 - NEUVES
+```
+```
+Baskets montantes PHILIPP PLEIN SPORT, blanc et violet, logo doré.
+Pointure 40. NEUVES avec boîte.
+
+99 € pendant deux semaines, puis 89 €.
+```
+
+## Combinaison de pluie BMW ProRain XL — 139 €
+
+*coût 70,19 € · marge 51,58 €*
+
+Leboncoin, rubrique **Équipement moto** — c'est là que sont les acheteurs.
+
+```
+Combinaison de pluie BMW Overall ProRain unisexe XL - NEUVE
+```
+```
+Combinaison de pluie moto BMW Overall ProRain, unisexe, taille XL,
+coloris noir. NEUVE.
+
+Référence 76 81 7 921 681, modèle 2021.
+Neuve en boutique : 150 à 215 € selon coloris.
+```
+
+---
+
+# 4. LIQUIDER — récupérer la trésorerie, pas la marge
+
+Six lots, **355 € immobilisés pour 41 € de marge**. Vendre vite, ne pas
+surinvestir en temps de rédaction.
+
+| Article | Prix | Coût | Marge |
+|---------|------|------|-------|
+| NEW BALANCE G19064IK Alkaline Green P.38½ | 99 € | 77,22 € | 9,51 € |
+| EMPORIO ARMANI baskets P.36 | 69 € | 52,74 € | 7,71 € |
+| NEW BALANCE sneakers P.38 | 54 € | 39,96 € | 7,35 € |
+| NEW BALANCE baskets montantes P.44 | 65 € | 52,74 € | 4,20 € |
+| TOMMY JEANS baskets basses P.40 | 65 € | 54,02 € | 2,92 € |
+
+Modèle unique, à décliner :
+
+```
+[Marque] [modèle] P.[pointure] - NEUVES avec boîte
+```
+```
+[Marque] [modèle], pointure [X]. NEUVES avec boîte, jamais portées.
+
+Pièce unique — un seul exemplaire disponible.
+```
+
+Sur la New Balance GS 1906 : **préciser « modèle GS », référence G19064IK**. La
+version adulte est `U19063EN`, et un acheteur qui se trompe ouvre un litige.
+
+---
+
+# 5. PRIX À ÉTABLIR — 9 lots, 505 € de capital
+
+Pas d'annonce tant que le prix marché n'est pas vérifié.
+
+| Article | Coût réel |
+|---------|-----------|
+| T-shirt BALENCIAGA T.2 — neuf | **115,02 €** |
+| Baskets HOKA P.37 1/3 — neuves | 64,62 € |
+| ADIDAS Yeezy 700 V3 Mono Safflower T.38 — occasion | 64,62 € |
+| LACOSTE sneakers P.42 — neuves | 59,13 € |
+| Sac demi-lune nylon noir KARL LAGERFELD JEANS | 52,02 € |
+| Baskets NIKE Air Max Moto 2K P.44.5 — neuves | 52,02 € |
+| Lot de 4 toupies BEYBLADE HASBRO | 44,81 € |
+| Veste en jean ARMANI EXCHANGE T.S — neuve | 26,82 € |
+| Lot de 4 toupies BEYBLADE HASBRO | 25,64 € |
+
+**Commencer par le Balenciaga** : c'est la pièce la plus chère du stock et la
+seule qui puisse à elle seule changer le résultat de l'année.
+
+---
+
+# 6. VENDU
+
+| Date | Article | Canal | Prix | Coût | Marge |
+|------|---------|-------|------|------|-------|
+| 12/08/2026 | SALOMON X Ultra 5 Mid GTX P.44 | Vinted, Italie | 100 € | 78,30 € | **9,30 €** |
+
+**Ventes à la famille sans bénéfice** : à consigner ici au fur et à mesure, avec
+le prix réellement encaissé. Elles restent du chiffre d'affaires à déclarer, même
+sans marge — le livre des recettes ne fait pas de différence.
