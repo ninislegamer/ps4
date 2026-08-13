@@ -96,7 +96,27 @@ L'estimation affichée ne sert à rien pour ça — c'est la mise à prix qu'il 
 lire. Un lot dont la mise à prix dépasse le mur n'existe pas : il ne va ni dans
 la liste, ni dans le budget de la vacation.
 
-## 6. Les planchers de marge
+## 6. Deux planchers, à ne pas confondre
+
+| Règle | Sert à décider | Formule |
+|-------|----------------|---------|
+| **Seuil de sourcing** | **d'acheter** | 25 € de marge minimum, 100 € sur les grosses pièces |
+| **Seuil d'équilibre** | de ne jamais vendre en dessous | `coût ÷ 0,876` |
+| **Prix plancher** | **de vendre**, négociation et famille comprises | `seuil d'équilibre × 1,30` |
+
+**L'URSSAF se calcule sur le prix de vente, pas sur la marge.** C'est le piège :
+une majoration de 8 % est une perte, parce que 12,4 % du prix affiché part en
+cotisations. Un article payé 116 € et vendu 125 € coûte 6 € au lieu d'en
+rapporter 9.
+
+**Sur du stock déjà payé, le seuil de sourcing ne s'applique plus.** Refuser 18 €
+parce qu'on visait 25 € n'a aucun sens : l'argent est déjà sorti. Seul le prix
+plancher compte à la revente.
+
+**La famille paie le prix plancher, pas le prix coûtant.** Vendre à prix coûtant
+n'est pas neutre : ça coûte 12,4 %.
+
+## 6 bis. Les planchers de marge à l'achat
 
 - **Pièce unique** : 25 € minimum. Au-delà de 1 000 € de revente, viser 12-15 %.
 - **Lot en volume** : raisonner en pourcentage et en total, pas par unité. Mais
