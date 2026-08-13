@@ -483,9 +483,29 @@ heures de recherche.
 | **Registre des achats** | dès qu'il y a achat-revente — les factures des maisons de vente y vont |
 | **Registre des objets mobiliers** | achat-revente de biens d'occasion, art. 321-7 du code pénal — tenue numérique admise depuis 2020 |
 
-Le classeur `exports/maison-nsaia-stock.xlsx` en contient déjà la matière : coûts,
-dates, provenances. **À transformer en feuilles dédiées** plutôt que d'y revenir
-en catastrophe.
+**Classeur dédié : `exports/maison-nsaia-registres.xlsx`.** Quatre feuilles —
+mode d'emploi, livre des recettes, registre des achats, objets mobiliers. 300
+lignes vierges prêtes, numérotation automatique, et le total du CA encaissé avec
+l'URSSAF à provisionner affichés en tête du livre des recettes.
+
+Il est **séparé du classeur de stock** volontairement : le stock change tous les
+jours, les registres sont des documents à écriture continue qu'on ne réordonne
+jamais.
+
+### Règles de tenue
+
+- **Ordre chronologique**, au fil de l'eau.
+- **Jamais de suppression ni de réordonnancement.** Une erreur se corrige par une
+  ligne rectificative, pas par un effacement.
+- **Numérotation continue**, sans rupture — elle se calcule seule dès qu'une date
+  est saisie.
+- **Conservation 5 ans**, factures des maisons de vente comprises : elles
+  justifient chaque ligne.
+
+### Ce qu'on déclare à l'URSSAF
+
+Le chiffre d'affaires **encaissé** sur la période, pas facturé. Une vente de
+décembre encaissée en janvier se déclare en janvier.
 
 ---
 
