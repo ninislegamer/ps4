@@ -679,11 +679,38 @@ choses :
    qu'il y en a déjà eu revient à la prochaine.
 
 Ajouter un bouton **« Prévenez-moi des pièces similaires »** sur les fiches
-vendues : il alimente la liste de diffusion.
+vendues : il alimente la liste de diffusion. C'est la seule chose qui transforme
+une archive en actif — quelqu'un tombe sur une pièce vendue, laisse son adresse,
+et devient un client pour la suivante.
 
 **C'est probablement ce que la boutique fera de mieux la première année** — pas
 vendre, mais collecter les adresses de gens qui ont vu des pièces qu'ils auraient
 voulues.
+
+### Photographier à réception, pas au moment de vendre
+
+**Une pièce partie ne se photographie plus.** Attendre la vente pour faire les
+photos, c'est perdre la fiche définitivement.
+
+Réflexe à prendre : **un colis arrive → tout est photographié immédiatement**,
+avant même de décider du canal. Cinq vues, même protocole, même fond. Cela vaut
+aussi pour ce qui part à la famille : on photographie, puis on donne.
+
+### Le prix affiché sur une fiche vendue
+
+| Cas | Ce qu'on affiche |
+|-----|------------------|
+| Vendue **au prix de la fiche** | le prix, avec la mention « Vendue » |
+| Vendue **hors marché** — famille, sans bénéfice | **« Vendue », sans prix** |
+
+Afficher 99 € sur une pièce partie à 40 € donne une fausse idée du niveau de
+prix, et la crédibilité n'y survit pas si quelqu'un le découvre. Les maisons de
+vente font de même : quand un lot part hors adjudication, elles publient le
+résultat, pas un chiffre inventé.
+
+**Rappel comptable : une vente sans bénéfice reste du chiffre d'affaires.** Le
+livre des recettes ne distingue pas une vente à la famille d'une vente à un
+inconnu — 40 € encaissés, c'est 40 € déclarés et 4,96 € d'URSSAF.
 
 ### Cumuler boutique et places de marché sans double vente
 
