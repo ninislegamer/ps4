@@ -479,18 +479,17 @@ un booster M3 en vaut 3,50 €.
 
 | Annonce | Coût réel | Seuil | Prix | URSSAF | **Marge** |
 |---------|-----------|-------|------|--------|-----------|
-| Lot de 5 boosters Nihil Zero ×6 | 11,54 €/lot | 13,17 € | **17 €** | 2,11 € | **+3,35 €** |
+| Lot de 15 boosters Nihil Zero ×2 | 34,62 €/lot | 39,52 € | **49 €** | 6,08 € | **+8,30 €** |
 | Lot de 2 boosters Storm Emeralda | 12,74 € | 14,54 € | **19 €** | 2,36 € | **+3,90 €** |
-| **Total — 7 annonces** | **81,98 €** | | **121 €** | **15,00 €** | **+24,02 €** |
+| **Total — 3 annonces** | **81,98 €** | | **117 €** | **14,51 €** | **+20,51 €** |
 
 Le booster High Class MEGA Dream ex est **prélevé pour usage personnel** : coût
 12,95 €, hors de ce calcul. Les 94,93 € de la facture se répartissent donc en
 81,98 € de stock à vendre et 12,95 € sortis du stock.
 
-**Leboncoin et remise en main propre, pas eBay.** À 19 € le lot de 5, eBay
-prélève 2,63 € de commission et la marge tombe de 5,10 € à 2,47 € — moins bien
-que 17 € sur Leboncoin sans commission. La commission eBay coûte plus cher que
-les deux euros de prix en plus qu'elle permet.
+**Leboncoin et remise en main propre, pas eBay.** Sur un lot à 49 €, eBay
+prélèverait 6,23 € de commission — les trois quarts de la marge. Sans commission,
+Leboncoin garde tout.
 
 ### TVA d'importation : réglé, rien à payer
 
@@ -515,26 +514,63 @@ vendeur pratique l'IOSS avant de commander ailleurs : sans IOSS, il faut ajouter
 20 % de TVA plus 8 à 15 € de frais de dossier au coût d'achat, ce qui suffit à
 effacer la marge.
 
-## Lot de 5 boosters Nihil Zero M3 — 17 €, six lots
+## Booster box Nihil Zero M3 — la décision à prendre avant tout
 
-*coût 11,54 € le lot · marge 3,35 € · 20,11 € sur les six*
+*coût 69,24 € · display scellé sous blister, 30 boosters de 5 cartes*
 
-17 €, c'est **3,40 € le booster**. Le moins cher trouvé en France est à 3,50 €
-chez Pikastore, et le display de 30 est à 89,99 € chez MagicFranco, soit 3,00 €
-l'unité. On est juste sous le détail, au-dessus du display — c'est la place
-correcte pour un lot de 5.
+**La box est encore scellée.** C'est une décision qui ne se reprend pas : une fois
+le blister ouvert, la box n'existe plus comme objet, il ne reste que 30 boosters.
 
-**Ne pas monter au-dessus de 18 €.** À 19 € on dépasse le prix du booster seul en
-boutique française, et l'annonce ne se vend plus.
+| Option | Recette | URSSAF | **Marge** | Annonces | **Marge / annonce** |
+|--------|---------|--------|-----------|----------|---------------------|
+| Box scellée entière à 89 € | 89 € | 11,04 € | +8,72 € | 1 | 8,72 € |
+| **2 lots de 15 à 49 €** | **98 €** | 12,15 € | **+16,61 €** | **2** | **8,30 €** |
+| 3 lots de 10 à 33 € | 99 € | 12,28 € | +17,48 € | 3 | 5,83 € |
+| 6 lots de 5 à 17 € | 102 € | 12,65 € | +20,11 € | 6 | 3,35 € |
+| 30 boosters à l'unité à 3,40 € | 102 € | 12,65 € | +20,11 € | 30 | 0,67 € |
+
+**Retenu : deux lots de 15 à 49 €.**
+
+Découper à l'infini ne rapporte presque rien de plus. Entre 2 annonces et 30, il y
+a **3,50 € de marge d'écart** — et 28 rendez-vous. La courbe s'aplatit tout de
+suite parce que l'URSSAF prend 12,4 % à chaque fois, quelle que soit la taille du
+lot.
+
+Vendre la box scellée à 89 € rapporterait presque autant par annonce, mais 89 €
+est le prix d'un revendeur avec garantie, pas d'un particulier sur Leboncoin. À
+82 €, le prix réaliste, il ne reste que 2,59 €. **La box scellée ne vaut le coup
+que si un collectionneur la paie plein tarif** — si quelqu'un propose 85 € ou
+plus sans marchander, prends-le et ne l'ouvre pas.
+
+49 € les 15 boosters, c'est **3,27 € l'unité**, sous les 3,50 € de Pikastore et
+au-dessus du prix au display. C'est la bonne place.
+
+### L'argument qui fait vendre : boosters non pesés
+
+Le marché des cartes est infesté de boosters **pesés ou triés** — le vendeur pèse
+les sachets pour retirer ceux qui contiennent une carte rare avant de revendre le
+reste. Un acheteur averti cherche cette garantie en premier.
+
+**Tu peux la donner honnêtement** : ta box vient scellée du Japon, tu l'ouvres
+devant témoin ou en vidéo, et tu ne touches à rien. Photographie le blister intact
+**avant** de l'ouvrir — c'est ta preuve.
+
+## Lot de 15 boosters Nihil Zero M3 — 49 €, deux lots
+
+*coût 34,62 € le lot · marge 8,30 €*
 
 ```
-Lot 5 boosters Pokémon Nihil Zero M3 japonais scellés - import Japon
+Lot 15 boosters Pokémon Nihil Zero M3 japonais scellés - display ouvert devant vous
 ```
 ```
-LOT DE 5 BOOSTERS POKÉMON — NIHIL ZERO (MUNIKIS ZERO) M3
+LOT DE 15 BOOSTERS POKÉMON — NIHIL ZERO (MUNIKIS ZERO) M3
 
-5 boosters neufs et scellés, jamais ouverts.
-Chaque booster contient 5 cartes, soit 25 cartes au total.
+15 boosters neufs et scellés, jamais ouverts.
+5 cartes par booster, soit 75 cartes au total.
+
+BOOSTERS NON PESÉS, NON TRIÉS. Ils sortent d'un display scellé
+importé directement du Japon, ouvert sans être fouillé. Photo du
+blister d'origine intact disponible.
 
 Nihil Zero, code M3, série MEGA — Méga-Évolution.
 Sorti au Japon le 23 janvier 2026.
@@ -542,11 +578,10 @@ Sorti au Japon le 23 janvier 2026.
 Têtes d'affiche : Mega Zygarde ex, première apparition dans le jeu
 de cartes, Mega Clefable ex, Mega Starmie ex et Meowth ex.
 
-Version japonaise d'origine, importée directement du Japon.
-Facture d'importation disponible sur demande.
+49 € le lot de 15, soit 3,27 € le booster.
+Prix boutique en France : 3,50 € l'unité.
 
-17 € le lot de 5. Plusieurs lots disponibles.
-Remise en main propre ou envoi suivi sous enveloppe matelassée.
+Deux lots disponibles. Remise en main propre ou envoi suivi.
 ```
 
 ## Booster High Class MEGA Dream ex M2a — PRÉLEVÉ, usage personnel
