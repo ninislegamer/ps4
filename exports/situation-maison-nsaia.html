@@ -1,0 +1,286 @@
+<title>Registre Maison Nsaia</title>
+<style>
+:root{
+  --creme:#FAF9F7; --papier:#FFFFFF; --encre:#1A1A1A; --trait:#E2DFDA;
+  --gris:#8A8580; --gris-pale:#B5B0A8;
+  --vert:#2F6F4F; --ambre:#9C6B18; --rouge:#A33A2C;
+  --barre:#C9C3B8; --barre-haut:#2F6F4F;
+  --serif:"Cormorant Garamond","Playfair Display",Georgia,"Times New Roman",serif;
+  --sans:"Assistant","Archivo",-apple-system,"Helvetica Neue",Arial,sans-serif;
+}
+@media (prefers-color-scheme:dark){
+  :root:not([data-theme="light"]){
+    --creme:#141310; --papier:#1C1B17; --encre:#F1EEE8; --trait:#34322C;
+    --gris:#9A958B; --gris-pale:#6E6A62;
+    --vert:#7FB894; --ambre:#D2A455; --rouge:#D9836F;
+    --barre:#3E3B34; --barre-haut:#7FB894;
+  }
+}
+:root[data-theme="dark"]{
+  --creme:#141310; --papier:#1C1B17; --encre:#F1EEE8; --trait:#34322C;
+  --gris:#9A958B; --gris-pale:#6E6A62;
+  --vert:#7FB894; --ambre:#D2A455; --rouge:#D9836F;
+  --barre:#3E3B34; --barre-haut:#7FB894;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--creme);color:var(--encre);
+  font-family:var(--sans);font-size:16px;line-height:1.6;
+  -webkit-font-smoothing:antialiased}
+.feuille{max-width:64rem;margin:0 auto;background:var(--papier);
+  padding:clamp(1.6rem,5vw,3.5rem) clamp(1.1rem,4vw,3rem) 4rem}
+.lab{font-size:.68rem;letter-spacing:.18em;text-transform:uppercase;
+  color:var(--gris);font-weight:600}
+h1{font-family:var(--serif);font-weight:400;font-size:clamp(1.9rem,7vw,2.9rem);
+  letter-spacing:.2em;text-transform:uppercase;margin:0;line-height:1.1;
+  text-wrap:balance}
+.entete{border-bottom:1px solid var(--encre);padding-bottom:1rem;margin-bottom:.9rem}
+.sous{display:flex;justify-content:space-between;gap:1.5rem;flex-wrap:wrap;
+  margin-bottom:3.2rem}
+section{margin-bottom:3.4rem}
+h2{font-family:var(--serif);font-weight:400;font-size:clamp(1.25rem,4vw,1.6rem);
+  letter-spacing:.05em;margin:0 0 .35rem;text-wrap:balance}
+.chapeau{color:var(--gris);font-size:.93rem;margin:0 0 1.4rem;max-width:60ch}
+hr{border:0;border-top:1px solid var(--trait);margin:0 0 1.4rem}
+
+/* --- chiffres clés --- */
+.cles{display:grid;grid-template-columns:repeat(2,1fr);
+  gap:1px;background:var(--trait);border-top:1px solid var(--trait);
+  border-bottom:1px solid var(--trait)}
+@media (min-width:46rem){.cles{grid-template-columns:repeat(4,1fr)}}
+.cle{background:var(--papier);padding:1.3rem 1.1rem}
+.cle .v{font-family:var(--serif);font-size:clamp(1.6rem,5.5vw,2.2rem);
+  line-height:1.15;display:block;margin:.35rem 0 .2rem;
+  font-variant-numeric:tabular-nums}
+.cle .n{font-size:.82rem;color:var(--gris);display:block}
+
+/* --- tables --- */
+.defile{overflow-x:auto;-webkit-overflow-scrolling:touch}
+table{width:100%;border-collapse:collapse;font-variant-numeric:tabular-nums;
+  min-width:34rem}
+thead th{border-top:1px solid var(--encre);border-bottom:1px solid var(--trait);
+  padding:.55rem .5rem;text-align:left;white-space:nowrap;
+  font-size:.68rem;letter-spacing:.13em;text-transform:uppercase;
+  color:var(--gris);font-weight:600}
+thead th.n{text-align:right}
+tbody td{padding:.62rem .5rem;border-bottom:1px solid var(--trait);
+  font-size:.9rem;vertical-align:baseline}
+tbody td.n{text-align:right;white-space:nowrap}
+td.art{padding-right:1.2rem}
+td.qui,td.dt{color:var(--gris);font-size:.83rem;white-space:nowrap}
+td.mg{font-weight:600}
+td.u{color:var(--rouge)}
+tr.haut td.mg{color:var(--vert)}
+tr.bas td.mg{color:var(--ambre)}
+td.bar{width:5.5rem;padding-left:.9rem}
+td.bar span{display:block;height:3px;background:var(--barre)}
+tr.haut td.bar span{background:var(--barre-haut)}
+tfoot td{padding:.75rem .5rem;border-top:1px solid var(--encre);
+  font-weight:600;font-size:.9rem}
+tfoot td.n{text-align:right;white-space:nowrap}
+
+/* --- trésorerie --- */
+.compte{border-top:1px solid var(--encre);max-width:32rem}
+.compte div{display:flex;justify-content:space-between;gap:1.5rem;
+  padding:.6rem 0;border-bottom:1px solid var(--trait);
+  font-variant-numeric:tabular-nums;font-size:.94rem}
+.compte div.fort{border-bottom:1px solid var(--encre);font-weight:600}
+.compte div.fort .m{font-family:var(--serif);font-size:1.35rem}
+.compte .m{white-space:nowrap}
+.compte .neg .m{color:var(--rouge)}
+.note{font-size:.86rem;color:var(--gris);margin:.9rem 0 0;max-width:58ch}
+
+/* --- échéances --- */
+ol.ech{list-style:none;margin:0;padding:0;border-top:1px solid var(--encre)}
+ol.ech li{display:grid;grid-template-columns:8.5rem 1fr;gap:.2rem 1.2rem;
+  padding:.85rem 0 .85rem .9rem;border-bottom:1px solid var(--trait);
+  border-left:3px solid var(--trait)}
+ol.ech li.critique{border-left-color:var(--rouge)}
+ol.ech li.chaud{border-left-color:var(--ambre)}
+.quand{font-size:.72rem;letter-spacing:.11em;text-transform:uppercase;
+  color:var(--gris);font-weight:600;padding-top:.2rem}
+.quoi{font-size:.98rem}
+.pourquoi{grid-column:2;font-size:.85rem;color:var(--gris)}
+@media (max-width:32rem){
+  ol.ech li{grid-template-columns:1fr}
+  .pourquoi{grid-column:1}
+}
+ul.regles{list-style:none;margin:0;padding:0}
+ul.regles li{padding:.9rem 0;border-bottom:1px solid var(--trait);
+  font-size:.94rem;max-width:66ch}
+ul.regles li strong{display:block}
+</style>
+
+<div class="feuille">
+
+<header class="entete">
+  <h1>Maison&nbsp;Nsaia</h1>
+</header>
+<div class="sous">
+  <span class="lab">Situation au 14 août 2026</span>
+  <span class="lab">Trois semaines d’activité</span>
+</div>
+
+<section>
+  <div class="cles">
+    <div class="cle"><span class="lab">Capital engagé</span>
+      <span class="v">1 943,68 €</span><span class="n">40 lots achetés</span></div>
+    <div class="cle"><span class="lab">Stock restant</span>
+      <span class="v">1 436,61 €</span><span class="n">au coût d’achat</span></div>
+    <div class="cle"><span class="lab">Marge à venir</span>
+      <span class="v">723,33 €</span><span class="n">si tout se vend au prix</span></div>
+    <div class="cle"><span class="lab">Encaissé</span>
+      <span class="v">343,00 €</span><span class="n">de clients réels</span></div>
+  </div>
+</section>
+
+<section>
+  <h2>Ce qui est vendu</h2>
+  <p class="chapeau">Six ventes encaissées, une facture émise. La Salomon est vendue
+  mais l’argent n’est pas arrivé : elle n’entre au livre des recettes qu’au virement.</p>
+  <div class="defile"><table>
+    <thead><tr>
+      <th>Article</th><th>Client</th><th>Encaissé</th>
+      <th class="n">Coût</th><th class="n">Prix</th><th class="n">URSSAF</th><th class="n">Marge</th>
+    </tr></thead>
+    <tbody><tr><td class="art">T-shirt BALENCIAGA T.2</td><td class="qui">Mme Aouimeur Siham</td><td class="dt">09/08</td><td class="n">115,77 €</td><td class="n">135 €</td><td class="n u">−16,74 €</td><td class="n mg">2,49 €</td></tr>
+<tr><td class="art">Sac demi-lune KARL LAGERFELD JEANS</td><td class="qui">Mme Aouimeur Siham</td><td class="dt">09/08</td><td class="n">52,77 €</td><td class="n">70 €</td><td class="n u">−8,68 €</td><td class="n mg">8,55 €</td></tr>
+<tr><td class="art">LACOSTE sneakers P.42</td><td class="qui">Mme Aouimeur Siham</td><td class="dt">09/08</td><td class="n">59,88 €</td><td class="n">70 €</td><td class="n u">−8,68 €</td><td class="n mg">1,44 €</td></tr>
+<tr><td class="art">Veste en jean ARMANI EXCHANGE T.S</td><td class="qui">Mme Aouimeur Siham</td><td class="dt">09/08</td><td class="n">27,57 €</td><td class="n">40 €</td><td class="n u">−4,96 €</td><td class="n mg">7,47 €</td></tr>
+<tr><td class="art">HAVAIANAS Slim 35/36</td><td class="qui">Natalie Gulitz · Vinted</td><td class="dt">10/08</td><td class="n">10,77 €</td><td class="n">14 €</td><td class="n u">−1,74 €</td><td class="n mg">1,49 €</td></tr>
+<tr><td class="art">HAVAIANAS Slim 35/36</td><td class="qui">colline_dvl · Vinted</td><td class="dt">10/08</td><td class="n">10,77 €</td><td class="n">14 €</td><td class="n u">−1,74 €</td><td class="n mg">1,49 €</td></tr></tbody>
+    <tfoot><tr>
+      <td colspan="3">Total encaissé</td>
+      <td class="n">277,53 €</td><td class="n">343 €</td>
+      <td class="n">−42,53 €</td><td class="n">22,94 €</td>
+    </tr></tfoot>
+  </table></div>
+  <p class="note"><strong>En attente :</strong> Salomon X Ultra 5 Mid GTX P.44, vendue
+  100 € sur Vinted à un client italien le 12 août. Fonds retenus jusqu’à validation
+  de la réception. Marge attendue : 8,55 €.</p>
+</section>
+
+<section>
+  <h2>Ce que tu as gardé</h2>
+  <p class="chapeau">Quatre articles repris pour usage personnel. Un micro-entrepreneur
+  ne peut pas se vendre à lui-même : aucune recette, aucune URSSAF — mais une ligne
+  de sortie au registre des objets mobiliers.</p>
+  <div class="defile"><table>
+    <thead><tr><th>Article</th><th>Motif</th><th class="n">Coût</th></tr></thead>
+    <tbody><tr><td class="art">Baskets HOKA P.37 ⅓</td><td class="qui">Gardées le 09/08</td><td class="n">65,37 €</td></tr>
+<tr><td class="art">NIKE Air Max Moto 2K P.44,5</td><td class="qui">Gardées le 09/08</td><td class="n">52,77 €</td></tr>
+<tr><td class="art">Pompe ROBBY VP550W — ligne 131</td><td class="qui">Mode automatique seul</td><td class="n">19,41 €</td></tr>
+<tr><td class="art">Booster High Class MEGA Dream ex</td><td class="qui">Coût égal au marché</td><td class="n">12,95 €</td></tr></tbody>
+    <tfoot><tr><td colspan="2">Sorti du stock sans recette</td>
+      <td class="n">150,50 €</td></tr></tfoot>
+  </table></div>
+  <p class="note">Couverts par un apport personnel de 150,50 € versé sur le compte
+  professionnel, libellé « apport personnel ». Ce n’est pas du chiffre d’affaires.</p>
+</section>
+
+<section>
+  <h2>Le compte professionnel</h2>
+  <hr>
+  <div class="compte">
+    <div><span>Ventes à des clients réels</span><span class="m">343,00 €</span></div>
+    <div><span>Apport personnel — tes 4 prélèvements</span><span class="m">150,50 €</span></div>
+    <div class="fort"><span>Total crédité</span><span class="m">493,50 €</span></div>
+    <div class="neg"><span>URSSAF à mettre de côté — 12,4 % sur 343 €</span><span class="m">−42,53 €</span></div>
+    <div class="fort"><span>Réellement disponible</span><span class="m">450,97 €</span></div>
+  </div>
+  <p class="note"><strong>Seuls 343 € sont du chiffre d’affaires.</strong> C’est ce
+  montant-là qui se déclare avant le 31 octobre — pas 493,50 €. Le reste, ce sont tes
+  propres fonds, qui ne doivent rien à personne.</p>
+</section>
+
+<section>
+  <h2>Le stock, classé par ce qu’il rapporte</h2>
+  <p class="chapeau">30 lots encore à vendre. 2 604 € de chiffre attendu pour
+  896,40 € de marge brute — 723,33 € une fois l’emballage, les frais de carte et
+  l’impôt déduits. La barre à droite donne le poids de chaque lot.</p>
+  <div class="defile"><table>
+    <thead><tr>
+      <th>Lot</th><th class="n">Coût</th><th class="n">Prix</th>
+      <th class="n">Marge</th><th></th>
+    </tr></thead>
+    <tbody><tr class="haut"><td class="art">Lot de 20 paires de sandales et tongs RELIFE / TOMMY JEANS — neuf</td><td class="n">59,07 €</td><td class="n">199 €</td><td class="n mg">115,26 €</td><td class="bar"><span style="width:100.0%"></span></td></tr>
+<tr class="haut"><td class="art">Lot de 2 paires ADIDAS Predator Edge P.48 2/3 — neuves</td><td class="n">42,53 €</td><td class="n">178 €</td><td class="n mg">113,39 €</td><td class="bar"><span style="width:98.4%"></span></td></tr>
+<tr class="haut"><td class="art">Demi-bottes FORMA Legacy Waterproof T.45 noir — neuves</td><td class="n">65,37 €</td><td class="n">159 €</td><td class="n mg">71,53 €</td><td class="bar"><span style="width:62.1%"></span></td></tr>
+<tr class="haut"><td class="art">ELISABETTA FRANCHI robe asymétrique viscose T.46 IT — neuve</td><td class="n">22,82 €</td><td class="n">99 €</td><td class="n mg">62,42 €</td><td class="bar"><span style="width:54.2%"></span></td></tr>
+<tr class="haut"><td class="art">Chaussures HOGAN P.36 — traces d'essayage</td><td class="n">14,97 €</td><td class="n">79 €</td><td class="n mg">53,05 €</td><td class="bar"><span style="width:46.0%"></span></td></tr>
+<tr class="haut"><td class="art">Combinaison de pluie BMW Overall ProRain unisexe XL — neuve</td><td class="n">70,94 €</td><td class="n">139 €</td><td class="n mg">50,83 €</td><td class="bar"><span style="width:44.1%"></span></td></tr>
+<tr class="haut"><td class="art">HAVAIANAS Slim fuchsia 35/36 — 10 paires restantes</td><td class="n">107,67 €</td><td class="n">180 €</td><td class="n mg">50,01 €</td><td class="bar"><span style="width:43.4%"></span></td></tr>
+<tr class="haut"><td class="art">Jupe midi SONIA RYKIEL T.34 — neuve</td><td class="n">40,17 €</td><td class="n">99 €</td><td class="n mg">45,07 €</td><td class="bar"><span style="width:39.1%"></span></td></tr>
+<tr class="moyen"><td class="art">Robe SANDRO T.40 — neuve</td><td class="n">40,17 €</td><td class="n">89 €</td><td class="n mg">36,46 €</td><td class="bar"><span style="width:31.6%"></span></td></tr>
+<tr class="moyen"><td class="art">Lot de 6 vêtements femme MORGAN T.40 et L — neuf</td><td class="n">52,00 €</td><td class="n">92 €</td><td class="n mg">28,59 €</td><td class="bar"><span style="width:24.8%"></span></td></tr>
+<tr class="moyen"><td class="art">ADIDAS x STELLA McCARTNEY ASMC Ultraboost 21 P.36 — modèle d'expositio</td><td class="n">40,17 €</td><td class="n">79 €</td><td class="n mg">27,85 €</td><td class="bar"><span style="width:24.2%"></span></td></tr>
+<tr class="moyen"><td class="art">CHIARA FERRAGNI robe bustier courte T.M — neuve</td><td class="n">34,32 €</td><td class="n">69 €</td><td class="n mg">25,09 €</td><td class="bar"><span style="width:21.8%"></span></td></tr>
+<tr class="moyen"><td class="art">Ballerines MASSIMO DUTTI P.41 — traces d'essayage</td><td class="n">27,57 €</td><td class="n">59 €</td><td class="n mg">24,12 €</td><td class="bar"><span style="width:20.9%"></span></td></tr>
+<tr class="moyen"><td class="art">Blazer noir KARL LAGERFELD T.36 FR — neuf avec étiquette</td><td class="n">52,77 €</td><td class="n">89 €</td><td class="n mg">23,86 €</td><td class="bar"><span style="width:20.7%"></span></td></tr>
+<tr class="moyen"><td class="art">PIER ANTONIO GASPARI robe droite bleu marine T.42 — neuve</td><td class="n">27,93 €</td><td class="n">59 €</td><td class="n mg">22,87 €</td><td class="bar"><span style="width:19.8%"></span></td></tr>
+<tr class="moyen"><td class="art">Lot de 4 toupies BEYBLADE HASBRO</td><td class="n">21,54 €</td><td class="n">49 €</td><td class="n mg">21,39 €</td><td class="bar"><span style="width:18.6%"></span></td></tr>
+<tr class="moyen"><td class="art">Lot de 4 gilets de flottaison MRS.ERTHA 3-6 ans — neuf</td><td class="n">47,27 €</td><td class="n">76 €</td><td class="n mg">19,31 €</td><td class="bar"><span style="width:16.8%"></span></td></tr>
+<tr class="moyen"><td class="art">GEOX baskets P.35 — neuves</td><td class="n">24,10 €</td><td class="n">49 €</td><td class="n mg">18,83 €</td><td class="bar"><span style="width:16.3%"></span></td></tr>
+<tr class="moyen"><td class="art">PHILIPP PLEIN SPORT baskets montantes P.40 — neuves</td><td class="n">59,88 €</td><td class="n">89 €</td><td class="n mg">18,09 €</td><td class="bar"><span style="width:15.7%"></span></td></tr>
+<tr class="moyen"><td class="art">1 booster box Pokémon MEGA Nihil Zero (Munikis Zero) M3 — 30 boosters </td><td class="n">69,24 €</td><td class="n">98 €</td><td class="n mg">16,61 €</td><td class="bar"><span style="width:14.4%"></span></td></tr>
+<tr class="bas"><td class="art">Short BA&SH Fegor T.34 — neuf</td><td class="n">52,77 €</td><td class="n">75 €</td><td class="n mg">11,81 €</td><td class="bar"><span style="width:10.2%"></span></td></tr>
+<tr class="bas"><td class="art">NEW BALANCE G19064IK Alkaline Green P.38½ — neuves avec boîte</td><td class="n">77,97 €</td><td class="n">99 €</td><td class="n mg">8,76 €</td><td class="bar"><span style="width:7.6%"></span></td></tr>
+<tr class="bas"><td class="art">EMPORIO ARMANI baskets P.36 — neuves</td><td class="n">53,49 €</td><td class="n">69 €</td><td class="n mg">6,96 €</td><td class="bar"><span style="width:6.0%"></span></td></tr>
+<tr class="bas"><td class="art">NEW BALANCE sneakers P.38 — neuves</td><td class="n">40,71 €</td><td class="n">54 €</td><td class="n mg">6,60 €</td><td class="bar"><span style="width:5.7%"></span></td></tr>
+<tr class="bas"><td class="art">2 boosters Pokémon MEGA Storm Emeralda M6 — 5 cartes chacun — set sort</td><td class="n">12,74 €</td><td class="n">19 €</td><td class="n mg">3,90 €</td><td class="bar"><span style="width:3.4%"></span></td></tr>
+<tr class="bas"><td class="art">Pompe immergée ROBBY VP550W noir et bleu — produit d'occasion</td><td class="n">35,90 €</td><td class="n">45 €</td><td class="n mg">3,52 €</td><td class="bar"><span style="width:3.1%"></span></td></tr>
+<tr class="bas"><td class="art">NEW BALANCE baskets montantes P.44 — neuves</td><td class="n">53,49 €</td><td class="n">65 €</td><td class="n mg">3,45 €</td><td class="bar"><span style="width:3.0%"></span></td></tr>
+<tr class="bas"><td class="art">Pompe immergée ROBBY VP550W noir/gris — comme neuf, SOCLE CASSÉ</td><td class="n">28,29 €</td><td class="n">35 €</td><td class="n mg">2,37 €</td><td class="bar"><span style="width:2.1%"></span></td></tr>
+<tr class="bas"><td class="art">Lot de 4 toupies BEYBLADE HASBRO</td><td class="n">40,71 €</td><td class="n">49 €</td><td class="n mg">2,22 €</td><td class="bar"><span style="width:1.9%"></span></td></tr>
+<tr class="bas"><td class="art">TOMMY JEANS baskets basses P.40 — neuves</td><td class="n">54,77 €</td><td class="n">65 €</td><td class="n mg">2,17 €</td><td class="bar"><span style="width:1.9%"></span></td></tr></tbody>
+    <tfoot><tr>
+      <td>30 lots</td><td class="n">1 371,34 €</td>
+      <td class="n">2 604 €</td><td class="n">896,40 €</td><td></td>
+    </tr></tfoot>
+  </table></div>
+  <p class="note"><strong>Les sept premières lignes portent la moitié de la marge.</strong>
+  Les sept dernières en portent 3 %. Publier dans cet ordre-là, pas dans l’ordre où les
+  cartons sont posés.</p>
+</section>
+
+<section>
+  <h2>Ce que la boutique coûte avant de vendre</h2>
+  <hr>
+  <div class="compte">
+    <div><span>Shopify — jusqu’au 10 novembre 2026</span><span class="m">1,00 €/mois</span></div>
+    <div><span>Shopify — à partir du 11 novembre</span><span class="m">36,00 €/mois</span></div>
+    <div><span>Claude</span><span class="m">22,00 €/mois</span></div>
+    <div class="fort"><span>Total à partir de novembre</span><span class="m">58,00 €/mois</span></div>
+    <div><span>Soit par an</span><span class="m">696 €</span></div>
+  </div>
+  <p class="note"><strong>Le seuil : 207 € de ventes par mois</strong> à partir de
+  novembre, au taux de marge nette de 27,8 %. En dessous, l’activité coûte de l’argent
+  même quand elle vend. Toute la marge du stock actuel couvre 12,5 mois de charges —
+  ce n’est pas un problème de marge, c’est un problème d’échelle.</p>
+</section>
+
+<section>
+  <h2>Ce qui arrive</h2>
+  <hr>
+  <ol class="ech"><li class="critique"><span class="quand">19 août</span><span class="quoi">Colisage Salomon avant 20h12</span><span class="pourquoi">100 € retenus par Vinted</span></li>
+<li class="chaud"><span class="quand">d’ici fin août</span><span class="quoi">Storm Emeralda, Havaianas, Mrs.Ertha</span><span class="pourquoi">Le set M6 a deux semaines, la saison ferme</span></li>
+<li class="chaud"><span class="quand">1ᵉʳ septembre</span><span class="quoi">Beyblade en ligne pour la rentrée</span><span class="pourquoi">98 € de chiffre, 23 € de marge</span></li>
+<li class="normal"><span class="quand">31 octobre</span><span class="quoi">Déclaration URSSAF du 3ᵉ trimestre</span><span class="pourquoi">343 € à déclarer, 42,53 € dus</span></li>
+<li class="normal"><span class="quand">10 novembre</span><span class="quoi">Shopify passe de 1 € à 36 €/mois</span><span class="pourquoi">Trancher : la boutique le vaut-elle ?</span></li>
+<li class="normal"><span class="quand">janvier 2027</span><span class="quoi">Relevé annuel Vinted</span><span class="pourquoi">À recouper avec le livre des recettes</span></li>
+<li class="normal"><span class="quand">2027</span><span class="quoi">Première CFE</span><span class="pourquoi">200 à 600 €/an selon la commune</span></li></ol>
+</section>
+
+<section>
+  <h2>Les trois règles acquises</h2>
+  <hr>
+  <ul class="regles">
+    <li><strong>L’URSSAF frappe le prix de vente, pas la marge.</strong>
+      Seuil d’équilibre = coût ÷ 0,876. En dessous, la vente coûte de l’argent.</li>
+    <li><strong>Ne jamais payer plus des deux tiers du prix le moins cher du net.</strong>
+      Sur une enchère, frais et port compris : la moitié du marché.</li>
+    <li><strong>Le port se lit avant d’enchérir.</strong>
+      24 € sur 47 € d’adjudication chez ERA. 13,77 € sur 81 € chez Meccha.</li>
+  </ul>
+</section>
+
+</div>
