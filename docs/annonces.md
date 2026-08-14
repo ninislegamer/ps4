@@ -239,9 +239,10 @@ Pièce authentifiée en maison de vente.
 
 ### Pourquoi pas « neuves »
 
-Le mot a un sens précis en droit de la consommation, et il **double ton exposition** :
-la présomption d'antériorité du défaut court **24 mois sur du neuf, 12 mois sur de
-l'occasion** vendue par un professionnel. Annoncer « neuves » des chaussures achetées
+Le mot a un sens précis en droit de la consommation, et il **double ta charge de
+preuve** : la présomption d'antériorité du défaut court **24 mois sur du neuf,
+12 mois sur de l'occasion**. Pendant cette période, c'est à toi de prouver qu'un
+défaut vient de l'usage et non de la livraison. Annoncer « neuves » des chaussures achetées
 en maison de vente avec la mention « traces d'essayage » au bordereau, c'est prendre
 un an de garantie en plus pour un mot.
 
