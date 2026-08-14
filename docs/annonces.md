@@ -562,20 +562,25 @@ Canal : Vinted, pas la boutique.
 ---
 # 7. VENDU
 
-| Article | Prix | Coût réel | Seuil | URSSAF | **Marge** | Encaissé |
-|---------|------|-----------|-------|--------|-----------|----------|
-| T-shirt BALENCIAGA T.2 | 135 € | 115,77 € | 132,15 € | 16,74 € | **+2,49 €** | oui |
-| Baskets HOKA P.37 1/3 | 80 € | 65,37 € | 74,62 € | 9,92 € | **+4,71 €** | oui |
-| Sac demi-lune KARL LAGERFELD JEANS | 70 € | 52,77 € | 60,24 € | 8,68 € | **+8,55 €** | oui |
-| Baskets NIKE Air Max Moto 2K P.44.5 | 70 € | 52,77 € | 60,24 € | 8,68 € | **+8,55 €** | oui |
-| LACOSTE sneakers P.42 | 70 € | 59,88 € | 68,35 € | 8,68 € | **+1,44 €** | oui |
-| Veste en jean ARMANI EXCHANGE T.S | 40 € | 27,57 € | 31,47 € | 4,96 € | **+7,47 €** | oui |
-| SALOMON X Ultra 5 Mid GTX P.44 | 100 € | 79,05 € | 90,24 € | 12,40 € | **+8,55 €** | **non** ¹ |
-| HAVAIANAS Slim — 2 paires à 14 € | 28 € | 21,53 € | 24,58 € | 3,47 € | **+2,99 €** | oui |
+| Article | Prix | Coût réel | Seuil | URSSAF | **Marge** | Encaissé le |
+|---------|------|-----------|-------|--------|-----------|-------------|
+| T-shirt BALENCIAGA T.2 | 135 € | 115,77 € | 132,15 € | 16,74 € | **+2,49 €** | 09/08/2026 |
+| Baskets HOKA P.37 1/3 | 80 € | 65,37 € | 74,62 € | 9,92 € | **+4,71 €** | 09/08/2026 |
+| Sac demi-lune KARL LAGERFELD JEANS | 70 € | 52,77 € | 60,24 € | 8,68 € | **+8,55 €** | 09/08/2026 |
+| Baskets NIKE Air Max Moto 2K P.44.5 | 70 € | 52,77 € | 60,24 € | 8,68 € | **+8,55 €** | 09/08/2026 |
+| LACOSTE sneakers P.42 | 70 € | 59,88 € | 68,35 € | 8,68 € | **+1,44 €** | 09/08/2026 |
+| Veste en jean ARMANI EXCHANGE T.S | 40 € | 27,57 € | 31,47 € | 4,96 € | **+7,47 €** | 09/08/2026 |
+| HAVAIANAS Slim — 2 paires à 14 € | 28 € | 21,53 € | 24,58 € | 3,47 € | **+2,99 €** | *date à préciser* |
+| SALOMON X Ultra 5 Mid GTX P.44 | 100 € | 79,05 € | 90,24 € | 12,40 € | **+8,55 €** | **en attente** ¹ |
 | **TOTAL** | **593 €** | **474,69 €** | | **73,53 €** | **+44,78 €** | |
 
 ¹ *Vinted retient le paiement jusqu'à validation de la réception par l'acheteur.
-Client en Italie, compter 5 à 8 jours.*
+Client en Italie, compter 5 à 8 jours. Tant que le virement n'est pas arrivé, la
+vente ne s'inscrit pas au livre des recettes — c'est l'encaissement qui compte,
+pas la vente.*
+
+Les 465 € du 09/08/2026 forment un seul encaissement de six ventes. Ils tombent
+donc **au troisième trimestre 2026**, à déclarer avant le 31 octobre.
 
 **Les huit ventes sont positives.** Deux restent minces : le Balenciaga à
 +2,49 € — vendu 3 € au-dessus de son seuil — et la Lacoste à +1,44 €.
@@ -617,9 +622,10 @@ empiler du stock avec de l'argent qui ne tourne pas.
 
 ## Ce qu'il reste à compléter
 
-- **Les dates** de sept ventes sur huit, pour le livre des recettes
-- **Le canal** de chacune — boutique, Leboncoin, Vinted, main propre, famille
+- **Le canal** de chaque vente — boutique, Leboncoin, Vinted, main propre, famille
+- **Le mode de règlement** — espèces, virement, carte, paiement de plateforme
 - **Lesquelles sont des ventes à la famille**, s'il y en a parmi elles
+- **La date d'encaissement des deux Havaianas**
 - **La facture du lot n°84** (2 pompes immergées ROBBY VP550W, 45 €) — seul
   achat sans justificatif, obligatoire au registre des achats
 
