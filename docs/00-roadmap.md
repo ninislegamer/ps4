@@ -1118,6 +1118,12 @@ près du prix du marché, ceux que la règle des deux tiers aurait écartés.
 Une transaction en cours sur un compte qu'on ferme, c'est l'argent qui se bloque.
 **100 € sont derrière.** Attendre la validation de réception par le client italien.
 
+> **Fait le 14/08.** Colis déposé en locker Mondial Relay, cinq jours avant
+> l'échéance du 19 août 20h12. Reste à attendre la livraison et la validation :
+> tant que le virement n'est pas arrivé, **la Salomon n'entre pas au livre des
+> recettes**. Conserver la preuve de dépôt jusqu'à l'encaissement — c'est la seule
+> défense si le client déclare une non-réception.
+
 ### 1. eBay en professionnel — cette semaine
 
 Gratuit, aucune contrepartie, aucune ambiguïté. C'est le geste qui sort du risque
@@ -1168,6 +1174,91 @@ il n'y a **aucune commission**.
 coût de vitrine : c'est le seul canal où l'on est en règle sans rien reverser.
 Comparé à 29 €/mois de Leboncoin Pro plus 5 % de Vinted plus 12 % d'eBay, la
 boutique devient l'option la moins chère, pas la plus chère.
+
+## PayPal Business — ce que ça change, et ce que ça ne change pas
+
+*Compte créé le 14/08/2026.*
+
+### Ce que c'est, et ce que ce n'est pas
+
+PayPal Business est un **compte de paiement**, pas un compte bancaire. Il ne
+remplace pas le compte professionnel : l'obligation de compte dédié ne se
+déclenche qu'au-dessus de **10 000 € de chiffre d'affaires deux années de suite**
+— on en est loin — mais l'argent qui dort chez PayPal n'est pas de la trésorerie
+disponible. **Virer le solde sur le compte pro régulièrement**, pas une fois par
+trimestre.
+
+### Le piège, c'est le même que sur Vinted
+
+**L'URSSAF se calcule sur le montant payé par le client, pas sur ce que PayPal
+verse.**
+
+Un client paie 89 €, PayPal en crédite ~86 € : le chiffre d'affaires déclaré est
+**89 €**, et les cotisations se calculent sur 89 €. Les 3 € de commission ne se
+déduisent nulle part — en micro-entreprise, **aucune charge n'est déductible**.
+Ils sortent directement de la marge.
+
+Au livre des recettes : montant brut, mode de règlement « PayPal », référence de
+la transaction. La commission n'est pas une ligne du registre.
+
+### Le coût réel, à relever sur ton propre compte
+
+Les sources publiques se contredisent — de 2,29 % à 3,49 %, et de 0,25 € à 0,49 €
+de frais fixe selon les pages. **Aucune n'est fiable pour ton contrat.** Le seul
+chiffre qui compte est dans ton espace : *Paramètres → Frais marchands*.
+
+Relève-le et reporte-le dans l'onglet **Paramètres** du classeur, lignes 39 à 41
+— elles sont en jaune, prêtes à recevoir le vrai taux.
+
+| Canal | Taux | Frais fixe | Coefficient de marge |
+|-------|------|------------|----------------------|
+| **Main propre, espèces** | 0 % | 0 € | **0,876** |
+| **Vinted** (compte particulier) | 0 % | 0 € | **0,876** |
+| **Shopify Payments** | 1,5 % | 0,25 € | **0,861** |
+| **PayPal** | ~2,9 % *(à confirmer)* | ~0,35 € *(à confirmer)* | **~0,847** |
+
+**PayPal coûte environ deux fois Shopify Payments.** Sur une vente à 89 €, l'écart
+est de ~1,35 € ; sur quarante ventes, une soixantaine d'euros — l'équivalent d'un
+mois de charges fixes.
+
+### Donc : deuxième bouton, pas premier
+
+La bonne configuration sur la boutique est **Shopify Payments en principal,
+PayPal en second**. L'écart de commission est réel, mais il ne se compare pas à
+une vente perdue : certains acheteurs ne saisissent pas leur carte sur une
+boutique qu'ils ne connaissent pas et paieront par PayPal, ou pas du tout. 1,35 €
+de commission en plus vaut mieux que 89 € de vente en moins.
+
+Là où PayPal gagne vraiment sa commission :
+
+- **les pièces à plus de 100 €**, où la protection acheteur lève l'hésitation —
+  Forma 159 €, BMW 139 €, Yeezy 105 € ;
+- **l'international**, où c'est souvent le seul moyen de paiement partagé.
+  Attention : un supplément s'applique hors zone euro, à relever aussi.
+
+### Deux règles à ne jamais enfreindre
+
+**Jamais de paiement « entre proches ».** Un acheteur proposera d'envoyer les
+fonds en *friends and family* pour éviter les frais. C'est une transaction
+commerciale déguisée : **aucune protection vendeur**, et PayPal peut restreindre
+le compte. Sur une vente professionnelle, c'est aussi une opération dissimulée.
+Refuser, sans exception.
+
+**Le compte est au nom de l'entreprise.** Enseigne Maison Nsaia, SIRET
+804 431 799 00027 — les mêmes coordonnées que sur les factures et les mentions
+légales. Un compte au nom personnel qui encaisse des ventes professionnelles
+rouvre exactement le problème qu'on est en train de fermer sur eBay et Vinted.
+
+### À faire cette semaine
+
+- [ ] Relever le taux exact dans *Paramètres → Frais marchands* et le reporter
+      dans le classeur
+- [ ] Vérifier que la raison sociale, le SIRET et l'adresse du compte
+      correspondent aux mentions légales
+- [ ] Brancher PayPal sur Shopify **en second moyen de paiement**
+- [ ] Programmer un virement du solde PayPal vers le compte pro, au minimum
+      mensuel
+- [ ] Ajouter « PayPal » aux modes de règlement du livre des recettes
 
 ## Les ventes déjà faites
 
