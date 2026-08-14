@@ -45,8 +45,13 @@ header{margin-bottom:2.6em}
 /* ---- lignes ---- */
 table.lignes{width:100%;border-collapse:collapse;margin-bottom:2em}
 table.lignes thead th{border-top:1px solid var(--encre);
-      border-bottom:1px solid var(--trait);padding:.65em 0 .6em;text-align:left}
+      border-bottom:1px solid var(--trait);padding:.65em 0 .6em;text-align:left;
+      letter-spacing:.12em;white-space:nowrap}
 table.lignes thead th.n{text-align:right}
+table.lignes th:first-child{width:52%}
+table.lignes th:nth-child(2){width:8%}
+table.lignes th:nth-child(3){width:20%}
+table.lignes th:nth-child(4){width:20%}
 table.lignes tbody td{padding:1em 0;border-bottom:1px solid var(--trait);
                       vertical-align:top;font-size:10pt}
 table.lignes tbody td.n{text-align:right;white-space:nowrap;
@@ -116,7 +121,7 @@ footer strong{color:var(--encre);font-weight:600}
     <p>2 rue du Levant<br>31700 Beauzelle<br>France</p>
     <p>+33 6 51 93 72 02<br>contact@maison-nsaia.fr<br>maison-nsaia.fr</p>
     <p class="mentions">
-      Enseigne de Nacim Izri — Entrepreneur individuel (EI)<br>
+      Enseigne de Nacim Izri — Entrepreneur individuel&nbsp;(EI)<br>
       SIRET 804 431 799 00027<br>RCS Toulouse 804 431 799
     </p>
   </div>
