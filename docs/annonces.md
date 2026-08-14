@@ -12,43 +12,70 @@ de lui confirmer.
 
 # 1. URGENT — fin de saison estivale
 
-## Havaianas Slim fuchsia ×12 — Leboncoin
+## Havaianas Slim fuchsia — 10 paires restantes, à 18 € l'unité
 
-**199 € le lot** · plancher 159 € · coût **103,77 €** · marge **35,51 €** à 159 €
+**18 € la paire** · coût **10,77 €** · seuil **12,29 €** · plancher **16 €**
+· marge **50,01 €** sur les dix
 
 > Depuis la facture : *« Lot de 12 paires de tongs HAVAIANAS - FUCHSIA - 35/36 -
 > Possibilité de coloris supplémentaires dans certains lots ou tailles variées -
-> Neuf »*. **Vérifier les boîtes : il y a 12 paires, et des coloris ou tailles
-> peuvent différer de l'annonce.**
+> Neuf »*. **Vérifier les boîtes** : coloris et tailles peuvent différer.
+
+### Deux paires vendues à 14 € : c'était trop bas
+
+| Prix unitaire | 10 paires | URSSAF | **Marge** | Marge/paire |
+|---------------|-----------|--------|-----------|-------------|
+| 14 € — prix pratiqué | 140 € | 17,36 € | +14,97 € | +1,50 € |
+| 16 € — prix plancher | 160 € | 19,84 € | +32,49 € | +3,25 € |
+| **18 € — retenu** | **180 €** | 22,32 € | **+50,01 €** | **+5,00 €** |
+| 20 € | 200 € | 24,80 € | +67,53 € | +6,75 € |
+
+Les deux premières sont parties vite, à 14 € — **la moitié du prix boutique**,
+qui est entre 26 et 30 € la paire. Une vente rapide au premier prix est le signal
+qu'on a laissé de l'argent sur la table.
+
+**Passer les dix restantes à 18 €.** C'est 35 % sous le neuf, ça reste une bonne
+affaire lisible pour l'acheteur, et ça multiplie la marge par plus de trois :
+50 € au lieu de 15 €.
+
+Le prix plancher est à 16 € : ne jamais descendre en dessous, même en négociation.
+
+### Vendre à l'unité, pas en lot
+
+En lot de 10 à 139 €, la marge tombe à **14,10 €**. À l'unité à 18 €, elle monte à
+**50,01 €**. Le lot ne se justifiait que pour économiser des transactions — mais
+la preuve est faite que les paires partent seules, et une paire de tongs neuve
+pèse 500 g, donc le port ne pose aucun problème.
+
+**Vinted marche pour ce produit** : les deux ventes y ont été faites, dont une en
+Allemagne. Sur un compte particulier, le vendeur ne paie pas de commission et
+l'acheteur paie le port — les 18 € sont encaissés en entier.
 
 **Titre**
 ```
-Lot 12 paires Havaianas Slim fuchsia neuves 35/36
+Tongs Havaianas Slim fuchsia 35/36 NEUVES en boîte
 ```
 
 **Description**
 ```
-12 paires de tongs HAVAIANAS Slim, coloris fuchsia, NEUVES dans leur
-boîte d'origine. Jamais portées, jamais essayées.
+Tongs HAVAIANAS Slim, coloris fuchsia, NEUVES dans leur boîte
+d'origine. Jamais portées, jamais essayées.
 
 Taille 35/36.
 
 Le modèle Slim est la version fine et féminine de la Havaianas
-classique. Prix boutique entre 26 et 30 € la paire, soit plus de 310 €
-pour l'ensemble.
+classique : bride plus étroite, semelle profilée.
+Prix boutique : 26 à 30 €.
 
-LE LOT DES 12 PAIRES : 199 €, soit 16,60 € la paire.
+18 € la paire.
 
-Parfait pour :
-- une revente sur les marchés, en boutique ou en vide-grenier
-- un mariage, un anniversaire, une soirée
-- une famille, un groupe d'amies, une association
-
-Remise en main propre, ou envoi Mondial Relay / Colissimo aux frais
-de l'acheteur. Paiement sécurisé Leboncoin accepté.
-
-Lot vendu en une seule fois. Pas de vente à l'unité, merci.
+Plusieurs paires disponibles.
+Remise en main propre, ou envoi suivi aux frais de l'acheteur.
 ```
+
+**Une annonce à la fois sur chaque plateforme.** Deux annonces identiques en
+parallèle sur Leboncoin se pénalisent l'une l'autre : publier la suivante quand
+la précédente est vendue.
 
 ## Mrs.Ertha — gilets de flottaison 3-6 ans ×4 — Leboncoin + Vinted
 
