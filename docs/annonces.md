@@ -571,7 +571,7 @@ Canal : Vinted, pas la boutique.
 | LACOSTE sneakers P.42 | 70 € | 59,88 € | 68,35 € | 8,68 € | **+1,44 €** | oui |
 | Veste en jean ARMANI EXCHANGE T.S | 40 € | 27,57 € | 31,47 € | 4,96 € | **+7,47 €** | oui |
 | SALOMON X Ultra 5 Mid GTX P.44 | 100 € | 79,05 € | 90,24 € | 12,40 € | **+8,55 €** | **non** ¹ |
-| HAVAIANAS Slim — 2 paires à 14 € | 28 € | 21,53 € | 24,58 € | 3,47 € | **+2,99 €** | **non** |
+| HAVAIANAS Slim — 2 paires à 14 € | 28 € | 21,53 € | 24,58 € | 3,47 € | **+2,99 €** | oui |
 | **TOTAL** | **593 €** | **474,69 €** | | **73,53 €** | **+44,78 €** | |
 
 ¹ *Vinted retient le paiement jusqu'à validation de la réception par l'acheteur.
@@ -584,22 +584,21 @@ Client en Italie, compter 5 à 8 jours.*
 
 | | |
 |---|---|
-| Encaissé à ce jour | **465,00 €** |
+| Encaissé à ce jour | **493,00 €** |
 | Réinvesti sur Interenchères | **−386,75 €** |
-| **Solde de caisse** | **78,25 €** |
-| URSSAF due sur les 465 € encaissés | **−57,66 €** |
-| **Trésorerie réellement libre** | **20,59 €** |
+| **Solde de caisse** | **106,25 €** |
+| URSSAF provisionnée sur les 493 € — *déjà mise de côté* | **−61,13 €** |
+| **Trésorerie réellement libre** | **45,12 €** |
 
-**Point de vigilance.** 83 % de ce qui est rentré est déjà reparti en achats, et
-l'URSSAF n'a pas été mise de côté. Sur 78,25 € en caisse, **57,66 € sont dus**.
+**L'URSSAF est provisionnée au fil de l'eau, sur un compte séparé.** C'est la
+discipline qui fait tenir une micro-entreprise en achat-revente : l'URSSAF frappe
+le prix de vente, pas la marge, donc elle est due même sur une vente à perte.
+Provision à virer à chaque encaissement : **12,4 %** (12,3 % cotisations
++ 0,1 % CFP).
 
-À encaisser prochainement : **128 €** (Salomon 100 € + Havaianas 28 €), dont
-15,87 € d'URSSAF. Soit 112,13 € nets qui remonteront la trésorerie libre à
-**132,72 €**.
-
-**Réflexe à prendre : virer l'URSSAF sur un second compte à chaque encaissement.**
-Pas au trimestre — au fil de l'eau. C'est la cause numéro un de mortalité des
-micro-entreprises en achat-revente.
+Reste à encaisser : **100 €** (Salomon, retenus par Vinted jusqu'à réception en
+Italie), dont 12,40 € d'URSSAF. Soit 87,60 € nets qui porteront la trésorerie
+libre à **132,72 €**.
 
 ## Nouveaux achats Interenchères — 386,75 €
 
