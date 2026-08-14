@@ -108,6 +108,16 @@ ul.regles{list-style:none;margin:0;padding:0}
 ul.regles li{padding:.9rem 0;border-bottom:1px solid var(--trait);
   font-size:.94rem;max-width:66ch}
 ul.regles li strong{display:block}
+@media print{
+  body{background:#fff}
+  .feuille{max-width:none;padding:0}
+  section{break-inside:avoid;margin-bottom:2.2rem}
+  tr,li{break-inside:avoid}
+  thead{display:table-header-group}
+  table{min-width:0}
+  .defile{overflow:visible}
+  @page{size:A4;margin:14mm}
+}
 </style>
 
 <div class="feuille">
