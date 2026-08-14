@@ -96,6 +96,30 @@ L'estimation affichée ne sert à rien pour ça — c'est la mise à prix qu'il 
 lire. Un lot dont la mise à prix dépasse le mur n'existe pas : il ne va ni dans
 la liste, ni dans le budget de la vacation.
 
+## 5 bis. L'enchère automatique ne prend que des paliers de 10 €
+
+**Contrainte de la plateforme : 30, 40, 50, 60…** Pas de 37, pas de 43. Le plafond
+calculé tombe presque toujours entre deux paliers.
+
+**La règle : prendre le palier immédiatement inférieur au plafond — sauf si le
+palier supérieur laisse encore 20 % de taux de marge.**
+
+Pourquoi ne pas arrondir systématiquement vers le bas : une enchère automatique ne
+paie pas le montant saisi, elle monte **jusqu'à** ce montant. Descendre d'un palier
+par prudence, c'est perdre des lots encore rentables au profit d'un concurrent —
+sans économiser un euro sur ceux qu'on remporte moins cher.
+
+| Taux de marge au palier supérieur | Décision |
+|-----------------------------------|----------|
+| **≥ 20 %** | Prendre le palier supérieur |
+| 15 à 20 % | Palier inférieur |
+| **< 15 %** | Palier inférieur, ou passer |
+
+**Exemple du 15/08/2026.** Plafonds calculés : 37 € sur la Salomon X Ultra Alpine,
+39 € sur l'ensemble Gérard Darel. Le palier 40 € laisse 21,7 % et 24,3 % de taux de
+marge — au-dessus du seuil. **Enchère retenue : 40 € sur les deux.** Le palier 50 €
+tombait à 8,4 % et 11,6 % : exclu.
+
 ## 6. Deux planchers, à ne pas confondre
 
 | Règle | Sert à décider | Formule |
