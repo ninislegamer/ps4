@@ -163,7 +163,7 @@ Une clause ne gagne pas un litige, une preuve si.
 
 ---
 
-## 5. Où l'information doit apparaître — et où elle n'a rien à faire
+## 4. Où l'information doit apparaître — et où elle n'a rien à faire
 
 **Aucune obligation d'afficher une durée en gros.** Ni sur l'annonce, ni sur la
 fiche produit, ni sur la page d'accueil. L'obligation porte sur **l'existence** des
@@ -220,7 +220,7 @@ garantie en gros caractères a l'air de se défendre, pas de vendre.
 
 ---
 
-## 4. Ce qu'il reste à faire
+## 5. Ce qu'il reste à faire
 
 - [ ] Intégrer les deux clauses aux CGV de la boutique
 - [ ] Ajouter un lien « Garanties et retours » au pied de page
