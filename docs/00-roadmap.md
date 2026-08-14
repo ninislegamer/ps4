@@ -996,3 +996,54 @@ Afficher pour chaque pièce, à partir du prix d'achat saisi :
 
 L'objectif est de trancher à l'achat, avant d'immobiliser de la trésorerie sur
 une pièce invendable à la marge visée.
+
+---
+
+## Les charges fixes : ce que la boutique coûte avant d'avoir vendu
+
+| Poste | Aujourd'hui | À partir du 11/11/2026 |
+|-------|-------------|------------------------|
+| Abonnement Shopify | 1 €/mois | **36 €/mois** |
+| Abonnement Claude | 22 €/mois | 22 €/mois |
+| **Total** | **23 €/mois** | **58 €/mois — 696 €/an** |
+
+Et à partir de 2027, la **CFE** s'ajoute : exonérée la première année, puis 200 à
+600 €/an selon la commune. Soit un plancher réaliste de **900 €/an** en 2027.
+
+### Le chiffre qui compte : le CA minimum
+
+Le stock restant représente **2 424 € de chiffre d'affaires attendu** pour
+**679 € de marge nette** après URSSAF, carte, emballage et impôt. Soit un taux de
+marge nette de **28 % du CA**.
+
+À ce taux :
+
+| | Charges | **CA mensuel nécessaire** |
+|---|---|---|
+| Aujourd'hui | 23 €/mois | **82 €** |
+| À partir du 11/11/2026 | 58 €/mois | **207 €** |
+
+**207 € de ventes par mois, c'est le seuil de survie de la boutique** à partir de
+novembre. En dessous, l'activité coûte de l'argent même quand elle vend.
+
+Ramené à ton stock : sur les 40 lots restants, il faut en écouler l'équivalent de
+**deux articles moyens par mois** pour rester à l'équilibre. C'est atteignable —
+mais ça suppose de publier, pas de sourcer.
+
+### Ce que tout le stock couvre
+
+Les 679 € de marge du stock entier couvrent **11,7 mois** de charges au tarif de
+novembre. Autrement dit : **tout ce que tu as en cartons paie à peine un an
+d'abonnements.**
+
+Ce n'est pas un problème de marge, c'est un problème d'échelle. Deux sorties
+possibles :
+
+1. **Vendre plus vite** — la marge est déjà là, elle attend d'être publiée.
+2. **Réduire la charge** — à 36 €/mois, Shopify n'est justifié que si la boutique
+   apporte des ventes que Leboncoin n'apporte pas. À vérifier en novembre, chiffres
+   en main : si la boutique n'a rien vendu en propre d'ici là, la question se pose
+   honnêtement.
+
+**Le rappel du 10 novembre 2026 doit être posé maintenant**, pas découvert sur un
+relevé bancaire en décembre.

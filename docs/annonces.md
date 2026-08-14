@@ -845,9 +845,11 @@ cotisations sur de l'argent qui est le tien depuis le début.
 |---------|------|-------|
 | Baskets HOKA P.37 1/3 | 65,37 € | Gardées le 09/08/2026 |
 | Baskets NIKE Air Max Moto 2K P.44.5 | 52,77 € | Gardées le 09/08/2026 |
-| Pompe ROBBY VP550W ligne 131 | 19,41 € | Ne marche qu'en mode auto |
-| Booster High Class MEGA Dream ex | 12,95 € | Coût égal au prix du marché |
+| Pompe ROBBY VP550W ligne 131 | 19,41 € | Ne marche qu'en mode auto — sortie au 26/07/2026 |
+| Booster High Class MEGA Dream ex | 12,95 € | Coût égal au prix du marché — sortie au 03/08/2026 |
 | **Total sorti du stock sans recette** | **150,50 €** | |
+
+*Convention retenue : le prélèvement est daté au jour de la facture d'achat.*
 
 Chacun a sa ligne de sortie au registre des objets mobiliers, mention « usage
 personnel ». Aucun au livre des recettes.
