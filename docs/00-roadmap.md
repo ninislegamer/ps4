@@ -1047,3 +1047,132 @@ possibles :
 
 **Le rappel du 10 novembre 2026 doit être posé maintenant**, pas découvert sur un
 relevé bancaire en décembre.
+
+---
+
+# Passer en professionnel sur les plateformes
+
+*Décidé le 14/08/2026. À exécuter sur deux semaines, pas en une soirée.*
+
+## Pourquoi ce n'est pas optionnel
+
+Se présenter comme un particulier quand on est immatriculé est une **pratique
+commerciale trompeuse** — l'article L121-4 11° du code de la consommation vise
+expressément le fait de « se présenter faussement comme un consommateur ».
+
+Le vrai enjeu n'est pas l'amende, c'est ce que ça retire à l'acheteur : la
+**garantie légale de conformité** et le **droit de rétractation de 14 jours** en
+vente à distance. C'est ça que la loi protège.
+
+Et l'anonymat est déjà illusoire : **Vinted et eBay déclarent leurs vendeurs au
+fisc** au-delà de 30 ventes ou 2 000 € par an (directive DAC7). Le relevé annuel
+de janvier 2027 portera le nom de l'exploitant.
+
+Le risque concret n'est pas le procureur, c'est l'acheteur : celui qui découvre le
+statut peut exiger rétroactivement la rétractation et la garantie. Les plateformes
+tranchent en faveur de l'acheteur.
+
+## La règle qui décide de tout : le taux de marge
+
+**Une commission se calcule sur le prix. Une marge se calcule sur le coût.** C'est
+tout le problème : un article cher à faible marge paie une grosse commission sur
+une petite marge.
+
+```
+taux de marge = marge ÷ prix de vente
+```
+
+| Canal | Commission | **Taux de marge minimum** |
+|-------|-----------|---------------------------|
+| Boutique, remise en main propre | 0 % | aucun |
+| Leboncoin sans paiement sécurisé | 0 % | aucun |
+| **Vinted Pro** | 5 % + 0,30 € | **5,5 %** |
+| **eBay pro** | ~12 % + 0,35 € | **13 %** |
+
+Appliqué au stock actuel : **27 lots sur 30 supportent Vinted Pro, 22 seulement
+supportent eBay.**
+
+### Les huit lots que eBay ferait passer en perte
+
+| Taux de marge | Marge | Prix | Lot |
+|---------------|-------|------|-----|
+| 3,3 % | +2,17 € | 65 € | Tommy Jeans baskets basses P.40 |
+| 4,5 % | +2,22 € | 49 € | Beyblade lot n°299 |
+| 5,3 % | +3,45 € | 65 € | New Balance montantes P.44 |
+| 6,8 % | +2,37 € | 35 € | Pompe Robby ligne 122 |
+| 7,8 % | +3,52 € | 45 € | Pompe Robby ligne 84 |
+| 8,8 % | +8,76 € | 99 € | New Balance GS 1906 |
+| 10,1 % | +6,96 € | 69 € | Emporio Armani P.36 |
+| 12,2 % | +6,60 € | 54 € | New Balance P.38 |
+
+Sur eBay, la Tommy Jeans à 65 € rapporterait **−5,98 €**. Ces huit lots vont sur
+**Leboncoin en main propre ou sur la boutique**, jamais sur eBay.
+
+C'est cohérent avec ce qu'ils sont : ce sont précisément les lots achetés trop
+près du prix du marché, ceux que la règle des deux tiers aurait écartés.
+
+## L'ordre des opérations
+
+### 0. Ne rien supprimer avant l'encaissement de la Salomon
+
+Une transaction en cours sur un compte qu'on ferme, c'est l'argent qui se bloque.
+**100 € sont derrière.** Attendre la validation de réception par le client italien.
+
+### 1. eBay en professionnel — cette semaine
+
+Gratuit, aucune contrepartie, aucune ambiguïté. C'est le geste qui sort du risque
+le plus vite pour le moins cher. À faire en premier.
+
+**Et republier seulement les 22 lots au-dessus de 13 % de taux de marge.**
+
+### 2. Vinted — vérifier avant de basculer
+
+Les CGU de Vinted Pro réservent la plateforme à la **revente de seconde main par
+des professionnels**. Le périmètre autorisé inclut cependant « les retours
+boutique, les fins de série déstockées par un professionnel » — **c'est exactement
+la nature d'un lot racheté en maison de vente**.
+
+Ce qui est exclu, c'est de vendre du neuf comme le ferait un magasin :
+approvisionnement en gros chez une marque, ou créations fabriquées par le vendeur.
+
+**À faire avant de basculer :**
+
+1. Lire `vinted.fr/pro-guide`, la source officielle.
+2. Si le texte reste ambigu, **écrire au support Vinted et garder la réponse** :
+   *« je rachète des lots de déstockage et de retours boutique en maison de vente
+   aux enchères, articles parfois neufs avec étiquette — sont-ils admis sur un
+   compte Pro ? »*
+
+Une réponse écrite protège en cas de retrait d'annonces sur signalement. Deux jours
+d'attente contre le risque de perdre un compte qui a déjà fait trois ventes.
+
+### 3. Leboncoin — attendre
+
+L'offre Pro démarre à environ **29 €/mois**. Elle ferait passer les charges fixes
+de 58 à 87 €/mois à partir de novembre, soit **312 € de chiffre d'affaires mensuel
+nécessaire** pour être à l'équilibre, au taux de marge nette de 27,9 %.
+
+Ce n'est pas le volume actuel — 343 € en trois semaines. **À reconsidérer quand le
+chiffre mensuel dépasse 400 €**, pas avant.
+
+D'ici là : vérifier s'il existe une déclaration de statut professionnel gratuite ou
+à l'annonce dans la catégorie mode. C'est l'obligation légale, et elle est distincte
+de l'abonnement payant.
+
+### 4. La boutique devient le canal propre par construction
+
+Mentions légales, SIRET, CGV, garantie, rétractation : tout y est déjà conforme, et
+il n'y a **aucune commission**.
+
+**Ça change la décision du 10 novembre.** Les 36 €/mois de Shopify ne sont plus un
+coût de vitrine : c'est le seul canal où l'on est en règle sans rien reverser.
+Comparé à 29 €/mois de Leboncoin Pro plus 5 % de Vinted plus 12 % d'eBay, la
+boutique devient l'option la moins chère, pas la plus chère.
+
+## Les ventes déjà faites
+
+**Rien à rattraper.** Le fond est propre : huit ventes déclarées, URSSAF
+provisionnée, trois registres tenus, facture n° 2026-001 émise. C'est la forme du
+compte qui était fausse, et elle ne se corrige pas rétroactivement.
+
+La seule chose à faire est d'arrêter la pratique.
