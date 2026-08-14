@@ -374,26 +374,119 @@ Référence GZ6448, Champions Code.
 Expédition France et international.
 ```
 
-## Lot de 6 vêtements femme MORGAN T.40 et L — 92 € au total
+## MORGAN — six pièces, six annonces séparées
 
-*coût **55,63 €** · marge **24,96 €** · **six annonces séparées***
+*coût **8,67 € la pièce** · seuil **9,89 €** · plancher **12,86 €**
+· **98 €** au total · marge **33,85 €***
 
-| Pièce | Prix |
-|-------|------|
-| Jean bleu clair T.40 | 19 € |
-| Jupe marron | 19 € |
-| Pantalon blanc T.40 | 15 € |
-| Polo rouge à écusson doré L | 15 € |
-| Top camel lurex L | 12 € |
-| Polo blanc L | 12 € |
+Le lot de six a été acheté 52,00 € tout compris. Vendu en bloc, il partirait à
+55-60 € et ne rapporterait presque rien. À l'unité, chaque pièce trouve son
+acheteur et l'ensemble rapporte **33,85 €**.
 
-Modèle de titre : `MORGAN [pièce] T.[taille] - NEUF avec étiquette`
+| Pièce | Prix | **Marge** |
+|-------|------|-----------|
+| Jean bleu clair T.40 | 19 € | +7,98 € |
+| Jupe marron | 19 € | +7,98 € |
+| Pantalon blanc T.40 | 15 € | +4,47 € |
+| Polo rouge à écusson doré L | 15 € | +4,47 € |
+| Top camel lurex L | **15 €** | +4,47 € |
+| Polo blanc L | **15 €** | +4,47 € |
 
+**J'ai remonté les deux dernières de 12 € à 15 €.** À 12 € elles passaient sous
+ton prix plancher de 12,86 € — la règle dit de ne jamais descendre en dessous,
+même en négociation. Et 15 € pour un haut Morgan neuf avec étiquette reste très
+au-dessous du prix boutique. Ça fait **+5,26 €** sur l'ensemble, pour rien.
+
+**Les six annonces sont publiables en parallèle** — ce sont six pièces
+différentes, elles ne se concurrencent pas entre elles.
+
+### Jean bleu clair T.40 — 19 €
 ```
-[Pièce] MORGAN, taille [40 / L]. NEUF avec étiquette, jamais porté.
+Jean MORGAN bleu clair T.40 - NEUF avec étiquette
+```
+```
+Jean MORGAN, coloris bleu clair, taille 40.
+NEUF avec étiquette, jamais porté.
+
+Pièce authentifiée en maison de vente.
+Un seul exemplaire disponible.
+
+19 €. Remise en main propre, ou envoi suivi aux frais de l'acheteur.
 ```
 
-Six pièces différentes : les six annonces sont publiables **en parallèle**.
+### Jupe marron — 19 €
+```
+Jupe MORGAN marron - NEUVE avec étiquette
+```
+```
+Jupe MORGAN, coloris marron.
+NEUVE avec étiquette, jamais portée.
+
+Pièce authentifiée en maison de vente.
+Un seul exemplaire disponible.
+
+19 €. Remise en main propre, ou envoi suivi aux frais de l'acheteur.
+```
+
+### Pantalon blanc T.40 — 15 €
+```
+Pantalon MORGAN blanc T.40 - NEUF avec étiquette
+```
+```
+Pantalon MORGAN, coloris blanc, taille 40.
+NEUF avec étiquette, jamais porté.
+
+Pièce authentifiée en maison de vente.
+Un seul exemplaire disponible.
+
+15 €. Remise en main propre, ou envoi suivi aux frais de l'acheteur.
+```
+
+### Polo rouge à écusson doré T.L — 15 €
+```
+Polo MORGAN rouge écusson doré T.L - NEUF avec étiquette
+```
+```
+Polo MORGAN, coloris rouge, écusson doré brodé. Taille L.
+NEUF avec étiquette, jamais porté.
+
+Pièce authentifiée en maison de vente.
+Un seul exemplaire disponible.
+
+15 €. Remise en main propre, ou envoi suivi aux frais de l'acheteur.
+```
+
+### Top camel lurex T.L — 15 €
+```
+Top MORGAN camel lurex T.L - NEUF avec étiquette
+```
+```
+Top MORGAN, coloris camel, fils lurex. Taille L.
+NEUF avec étiquette, jamais porté.
+
+Pièce authentifiée en maison de vente.
+Un seul exemplaire disponible.
+
+15 €. Remise en main propre, ou envoi suivi aux frais de l'acheteur.
+```
+
+### Polo blanc T.L — 15 €
+```
+Polo MORGAN blanc T.L - NEUF avec étiquette
+```
+```
+Polo MORGAN, coloris blanc. Taille L.
+NEUF avec étiquette, jamais porté.
+
+Pièce authentifiée en maison de vente.
+Un seul exemplaire disponible.
+
+15 €. Remise en main propre, ou envoi suivi aux frais de l'acheteur.
+```
+
+**Avant de photographier : vérifier les tailles sur chaque étiquette.** La facture
+annonce « T.40 et L » pour l'ensemble ; la répartition pièce par pièce vient de
+mon relevé, pas du bordereau. Une taille fausse dans une annonce, c'est un retour.
 
 ## Pompes ROBBY VP550W — trois lots distincts, deux défauts déclarés
 
