@@ -404,31 +404,28 @@ prélève 2,63 € de commission et la marge tombe de 5,10 € à 2,47 € — m
 que 17 € sur Leboncoin sans commission. La commission eBay coûte plus cher que
 les deux euros de prix en plus qu'elle permet.
 
-### La question qui décide de tout : la TVA d'importation
+### TVA d'importation : réglé, rien à payer
 
-**La facture Meccha Japan ne porte aucune TVA.** « Total (HT) 94,93 € » et
-« Total 94,93 € » : les deux lignes sont identiques, aucune taxe n'a été
-collectée à l'achat.
+**Aucune TVA ni frais réclamés à la livraison.** Le coût s'arrête à 94,93 € et la
+marge tient à +25,08 €.
 
-Or depuis le 1ᵉʳ juillet 2021, **toute importation hors Union européenne est
-soumise à la TVA dès le premier euro**. Sous 150 €, pas de droits de douane —
-mais la TVA à 20 % reste due. Le régime de franchise en base n'y change rien :
-la franchise dispense de facturer la TVA aux clients, pas de la payer à
-l'importation. Et comme tu n'es pas assujetti, tu ne peux pas la récupérer.
+C'est le bon dénouement, et il s'explique : sous 150 €, le vendeur peut collecter
+la TVA en amont via le guichet **IOSS** — le colis traverse alors la douane sans
+retenue et sans frais de dossier. Meccha Japan pratique ce régime, ce qui
+explique l'absence de ligne de taxe séparée sur la facture.
 
-Deux cas possibles :
+**Ce qu'il faut en retenir pour la suite :**
 
-| | Coût réel | Marge sur les 137 € |
-|---|---|---|
-| Meccha Japan a collecté via l'IOSS | 94,93 € | **+25,08 €** |
-| La Poste réclame TVA 20 % + frais de dossier ~8 € | 121,92 € | **−1,90 €** |
+| Montant de commande | Ce qui s'applique |
+|---|---|
+| **Jusqu'à 150 €** | TVA collectée par le vendeur si IOSS, pas de droits de douane, rien à payer à la livraison |
+| **Au-delà de 150 €** | Droits de douane **en plus** de la TVA, et frais de dossier du transporteur |
 
-**Dis-moi si tu as payé quelque chose à la livraison.** Si oui, le montant entre
-au registre des achats et il faut remonter les prix — ou constater que
-l'opération est blanche.
-
-**Pour la suite :** au-delà de 150 €, une commande japonaise prend en plus les
-droits de douane. Le seuil des 150 € est le bon plafond de commande.
+**150 € est le bon plafond de commande japonaise.** Passer à 200 € pour
+« amortir le port » coûte plus cher que le port économisé. Et vérifier que le
+vendeur pratique l'IOSS avant de commander ailleurs : sans IOSS, il faut ajouter
+20 % de TVA plus 8 à 15 € de frais de dossier au coût d'achat, ce qui suffit à
+effacer la marge.
 
 ## Lot de 5 boosters Nihil Zero M3 — 17 €, six lots
 
@@ -730,20 +727,23 @@ ils sont déjà couverts par les onze factures ADN. Rien ne manque au tableau de
 stock. La position réelle n'est donc pas un solde de caisse, c'est un capital
 immobilisé.
 
+*Total mis à jour au 14/08/2026 : la facture Meccha Japan porte le total engagé
+de 1 875,15 € à 1 905,08 € — l'import Pokémon coûtait 94,93 € et non 65 €.*
+
 | | |
 |---|---|
-| Total engagé — marchandise, livraison, hors ADN | **1 875,15 €** |
+| Total engagé — marchandise, livraison, import Japon | **1 905,08 €** |
 | Coût des 8 articles vendus | **−474,71 €** |
-| **Stock restant, à son coût d'achat** | **1 400,44 €** |
+| **Stock restant, à son coût d'achat** | **1 430,37 €** |
 
 | | |
 |---|---|
 | Encaissé à ce jour | **493,00 €** |
 | URSSAF provisionnée — *déjà mise de côté* | **−61,13 €** |
 | **Revenu net en poche** | **431,87 €** |
-| **Capital personnel encore dehors** | **1 443,28 €** |
+| **Capital personnel encore dehors** | **1 473,21 €** |
 
-**23 % du capital est revenu.** Les 77 % restants sont en cartons.
+**22,7 % du capital est revenu.** Les 77 % restants sont en cartons.
 
 **L'URSSAF est provisionnée au fil de l'eau, sur un compte séparé.** C'est la
 discipline qui fait tenir une micro-entreprise en achat-revente : l'URSSAF frappe
@@ -764,8 +764,6 @@ empiler du stock avec de l'argent qui ne tourne pas.
 - **Lesquelles sont des ventes à la famille**, s'il y en a parmi elles
 - **La facture du lot n°84** (3 pompes Robby, 45 €) — dernier achat sans
   justificatif
-- **La TVA d'importation Meccha Japan** — as-tu payé quelque chose à la
-  livraison ? La réponse déplace la marge Pokémon de +25 € à −2 €
 - **Le prix du booster High Class MEGA Dream ex vendu seul**, sur deux sites
   français, avant de publier l'annonce à 16 €
 - **La facture du lot n°84** (2 pompes immergées ROBBY VP550W, 45 €) — seul
