@@ -160,6 +160,64 @@ Une clause ne gagne pas un litige, une preuve si.
   Une boîte d'origine abîmée par le transport, c'est une dépréciation qu'on ne
   peut plus imputer à l'acheteur.
 
+
+---
+
+## 5. Où l'information doit apparaître — et où elle n'a rien à faire
+
+**Aucune obligation d'afficher une durée en gros.** Ni sur l'annonce, ni sur la
+fiche produit, ni sur la page d'accueil. L'obligation porte sur **l'existence** des
+garanties, pas sur leur mise en avant.
+
+| Support | Ce qui est exigé |
+|---------|------------------|
+| Annonce, fiche produit | Une ligne discrète et un lien vers les CGV |
+| CGV | Le détail complet, plus l'encadré informatif normalisé |
+| Facture | Une mention en pied de page — déjà en place |
+| Accueil, bandeau | **Rien** |
+
+### La ligne suffisante sur une fiche produit
+
+```
+Vendu par un professionnel : garanties légales de conformité et contre
+les vices cachés applicables. Détail dans les conditions générales de vente.
+```
+
+C'est tout. Pas de chiffre, pas d'encadré, pas de bandeau.
+
+### Ne jamais écrire « garantie 12 mois »
+
+**C'est faux, et c'est une limitation illicite d'un droit légal.**
+
+La garantie légale de conformité dure **deux ans dans tous les cas**. Les 12 mois
+de l'occasion ne sont pas la durée de la garantie : c'est la durée de la
+**présomption d'antériorité**, un mécanisme de preuve interne au litige. Écrire
+« garantie 12 mois » revient à annoncer au client qu'il a moins de droits qu'il
+n'en a — exactement le type de clause réputée non écrite, et un signal de mauvaise
+foi devant un médiateur.
+
+**La bonne pratique : ne pas mettre de chiffre du tout dans les annonces.** Le mot
+« garanties légales » dit tout, sans risque de se tromper. Les durées et le
+mécanisme de présomption restent dans les CGV, à leur place.
+
+### L'encadré des CGV
+
+Depuis octobre 2022, les conditions générales d'un vendeur professionnel doivent
+comporter un **encadré informatif normalisé** sur la garantie légale de conformité,
+dont la rédaction est fixée par les textes.
+
+**Ne pas le rédiger soi-même** : le modèle officiel se reprend mot pour mot sur
+`economie.gouv.fr/dgccrf` ou `entreprendre.service-public.fr`. C'est un encadré
+discret en fin de CGV, pas une bannière.
+
+### Le retourner en argument de vente
+
+Un particulier sur Vinted n'offre aucune garantie. Toi si — c'est ce qui justifie
+qu'on achète chez toi plutôt qu'à un inconnu.
+
+Mais ça se dit une fois, sobrement, dans les mentions. Une boutique qui parle de
+garantie en gros caractères a l'air de se défendre, pas de vendre.
+
 ---
 
 ## 4. Ce qu'il reste à faire
