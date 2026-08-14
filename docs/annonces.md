@@ -386,37 +386,147 @@ Neuve en magasin : 54,90 €.
 **Tester les deux pompes avant de publier.** Garantie légale de 12 mois sur
 l'occasion vendue en professionnel.
 
-## Pokémon MEGA Munikis Zero M3 — 5 boosters, 22 € le lot
+# 5 bis. POKÉMON — import Meccha Japan, facture #FA429713
 
-*coût 65 € la boîte de 30 · marge 50,63 € sur les six lots*
+**Le vrai coût était 94,93 €, pas 65 €.** La facture donne 81,16 € de produits
+plus 13,77 € de port. Réparti sur les huit unités de vente, le port pèse 1,72 €
+par annonce. Les prix ci-dessous sont recalculés là-dessus.
 
-eBay en principal — une seule annonce, **quantité 6**. Leboncoin en complément
-avec la mention « plusieurs lots disponibles ».
+| Produit | Coût réel | Seuil | Prix | URSSAF | **Marge** |
+|---------|-----------|-------|------|--------|-----------|
+| Lot de 5 boosters Nihil Zero ×6 | 11,54 €/lot | 13,17 € | **17 €** | 2,11 € | **+3,35 €** |
+| Booster High Class MEGA Dream ex | 12,95 € | 14,78 € | **16 €** | 1,98 € | **+1,07 €** |
+| Lot de 2 boosters Storm Emeralda | 12,74 € | 14,54 € | **19 €** | 2,36 € | **+3,90 €** |
+| **Total** | **94,93 €** | | **137 €** | **16,99 €** | **+25,08 €** |
 
-**Titre eBay** (78 caractères)
+**Leboncoin et remise en main propre, pas eBay.** À 19 € le lot de 5, eBay
+prélève 2,63 € de commission et la marge tombe de 5,10 € à 2,47 € — moins bien
+que 17 € sur Leboncoin sans commission. La commission eBay coûte plus cher que
+les deux euros de prix en plus qu'elle permet.
+
+### La question qui décide de tout : la TVA d'importation
+
+**La facture Meccha Japan ne porte aucune TVA.** « Total (HT) 94,93 € » et
+« Total 94,93 € » : les deux lignes sont identiques, aucune taxe n'a été
+collectée à l'achat.
+
+Or depuis le 1ᵉʳ juillet 2021, **toute importation hors Union européenne est
+soumise à la TVA dès le premier euro**. Sous 150 €, pas de droits de douane —
+mais la TVA à 20 % reste due. Le régime de franchise en base n'y change rien :
+la franchise dispense de facturer la TVA aux clients, pas de la payer à
+l'importation. Et comme tu n'es pas assujetti, tu ne peux pas la récupérer.
+
+Deux cas possibles :
+
+| | Coût réel | Marge sur les 137 € |
+|---|---|---|
+| Meccha Japan a collecté via l'IOSS | 94,93 € | **+25,08 €** |
+| La Poste réclame TVA 20 % + frais de dossier ~8 € | 121,92 € | **−1,90 €** |
+
+**Dis-moi si tu as payé quelque chose à la livraison.** Si oui, le montant entre
+au registre des achats et il faut remonter les prix — ou constater que
+l'opération est blanche.
+
+**Pour la suite :** au-delà de 150 €, une commande japonaise prend en plus les
+droits de douane. Le seuil des 150 € est le bon plafond de commande.
+
+## Lot de 5 boosters Nihil Zero M3 — 17 €, six lots
+
+*coût 11,54 € le lot · marge 3,35 € · 20,11 € sur les six*
+
+17 €, c'est **3,40 € le booster**. Le moins cher trouvé en France est à 3,50 €
+chez Pikastore, et le display de 30 est à 89,99 € chez MagicFranco, soit 3,00 €
+l'unité. On est juste sous le détail, au-dessus du display — c'est la place
+correcte pour un lot de 5.
+
+**Ne pas monter au-dessus de 18 €.** À 19 € on dépasse le prix du booster seul en
+boutique française, et l'annonce ne se vend plus.
+
 ```
-Pokemon M3 Munikis Zero / Nihil Zero - 5 Boosters Japonais Scellés - Import JP
+Lot 5 boosters Pokémon Nihil Zero M3 japonais scellés - import Japon
 ```
-
 ```
-LOT DE 5 BOOSTERS POKÉMON — MUNIKIS ZERO (NIHIL ZERO) M3
+LOT DE 5 BOOSTERS POKÉMON — NIHIL ZERO (MUNIKIS ZERO) M3
 
 5 boosters neufs et scellés, jamais ouverts.
 Chaque booster contient 5 cartes, soit 25 cartes au total.
 
-Munikis Zero / Nihil Zero, code M3, série MEGA — Mega Evolution.
+Nihil Zero, code M3, série MEGA — Méga-Évolution.
 Sorti au Japon le 23 janvier 2026.
-80 cartes de base et 37 secrètes, soit 117 à collectionner.
 
 Têtes d'affiche : Mega Zygarde ex, première apparition dans le jeu
 de cartes, Mega Clefable ex, Mega Starmie ex et Meowth ex.
 
-Boosters importés directement du Japon. Version japonaise d'origine,
-non distribuée en Europe.
+Version japonaise d'origine, importée directement du Japon.
+Facture d'importation disponible sur demande.
 
-Envoi sous 24 h ouvrées, en enveloppe matelassée avec suivi.
+17 € le lot de 5. Plusieurs lots disponibles.
+Remise en main propre ou envoi suivi sous enveloppe matelassée.
+```
 
-PLUSIEURS LOTS DISPONIBLES — commandez la quantité souhaitée.
+## Booster High Class MEGA Dream ex M2a — 16 €
+
+*coût 12,95 € · seuil 14,78 € · marge 1,07 €*
+
+**À vérifier avant de publier.** Je n'ai trouvé qu'une seule source française : le
+display de 10 boosters à 129,94 € chez Kaufland, soit 12,99 € l'unité — c'est
+**en dessous de ton seuil d'équilibre**. Les boosters vendus seuls se paient
+normalement plus cher qu'au display, mais je n'ai pas pu le confirmer.
+
+**Cherche le prix du booster seul sur deux sites français avant de fixer.** S'il
+est à 15 € ou moins, ce booster ne se vend pas avec profit — garde-le ou joins-le
+en cadeau à un lot Nihil Zero pour faire partir le lot plus vite.
+
+```
+Booster Pokémon High Class MEGA Dream ex M2a japonais scellé - 10 cartes
+```
+```
+BOOSTER POKÉMON HIGH CLASS PACK — MEGA DREAM EX (M2a)
+
+1 booster neuf et scellé, jamais ouvert.
+10 cartes par booster, avec au minimum 1 Pokémon ex
+ou Méga-Évolution ex garanti.
+
+High Class Pack MEGA Dream ex, code M2a.
+Sorti au Japon le 28 novembre 2025.
+L'édition premium de fin d'année : les meilleures cartes de
+l'année et une rareté inédite, la Mega Attack Rare.
+
+Version japonaise d'origine, importée directement du Japon.
+Facture d'importation disponible sur demande.
+
+Remise en main propre ou envoi suivi sous enveloppe matelassée.
+```
+
+## Lot de 2 boosters MEGA Storm Emeralda M6 — 19 €
+
+*coût 12,74 € le lot · seuil 14,54 € · marge 3,90 €*
+
+Le set est sorti au **31 juillet 2026** — il a deux semaines. C'est la série
+Mega Rayquaza ex, et les prix de détail à Tokyo sont montés à trois fois le prix
+public. C'est le seul des trois où la demande travaille pour toi.
+
+**Publier vite.** Un set neuf se vend cher les six premières semaines, puis
+retombe quand les displays inondent le marché.
+
+```
+Lot 2 boosters Pokémon Storm Emeralda M6 japonais scellés - Mega Rayquaza
+```
+```
+LOT DE 2 BOOSTERS POKÉMON — MEGA STORM EMERALDA (M6)
+
+2 boosters neufs et scellés, jamais ouverts.
+5 cartes par booster, soit 10 cartes au total.
+
+Storm Emeralda, code M6, série MEGA — Méga-Évolution.
+Sorti au Japon le 31 juillet 2026 : extension récente.
+
+Tête d'affiche : Mega Rayquaza ex.
+
+Version japonaise d'origine, importée directement du Japon.
+Facture d'importation disponible sur demande.
+
+Remise en main propre ou envoi suivi sous enveloppe matelassée.
 ```
 
 ## Ballerines MASSIMO DUTTI P.41 — 59 €
@@ -652,8 +762,12 @@ empiler du stock avec de l'argent qui ne tourne pas.
 
 - **Le nom de l'acheteur** pour chacune des sept ventes en espèces
 - **Lesquelles sont des ventes à la famille**, s'il y en a parmi elles
-- **Deux factures annoncées** : lot n°84 (3 pompes Robby) et boîte de 30 boosters
-  Pokémon — à intégrer dès réception
+- **La facture du lot n°84** (3 pompes Robby, 45 €) — dernier achat sans
+  justificatif
+- **La TVA d'importation Meccha Japan** — as-tu payé quelque chose à la
+  livraison ? La réponse déplace la marge Pokémon de +25 € à −2 €
+- **Le prix du booster High Class MEGA Dream ex vendu seul**, sur deux sites
+  français, avant de publier l'annonce à 16 €
 - **La facture du lot n°84** (2 pompes immergées ROBBY VP550W, 45 €) — seul
   achat sans justificatif, obligatoire au registre des achats
 
