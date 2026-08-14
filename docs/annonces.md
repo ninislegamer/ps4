@@ -795,48 +795,69 @@ Canal : Vinted, pas la boutique.
 ---
 # 7. VENDU
 
-| Article | Prix | Coût réel | Seuil | URSSAF | **Marge** | Encaissé le |
-|---------|------|-----------|-------|--------|-----------|-------------|
-| T-shirt BALENCIAGA T.2 | 135 € | 115,77 € | 132,15 € | 16,74 € | **+2,49 €** | 09/08/2026 |
-| Baskets HOKA P.37 1/3 | 80 € | 65,37 € | 74,62 € | 9,92 € | **+4,71 €** | 09/08/2026 |
-| Sac demi-lune KARL LAGERFELD JEANS | 70 € | 52,77 € | 60,24 € | 8,68 € | **+8,55 €** | 09/08/2026 |
-| Baskets NIKE Air Max Moto 2K P.44.5 | 70 € | 52,77 € | 60,24 € | 8,68 € | **+8,55 €** | 09/08/2026 |
-| LACOSTE sneakers P.42 | 70 € | 59,88 € | 68,35 € | 8,68 € | **+1,44 €** | 09/08/2026 |
-| Veste en jean ARMANI EXCHANGE T.S | 40 € | 27,57 € | 31,47 € | 4,96 € | **+7,47 €** | 09/08/2026 |
-| HAVAIANAS Slim — 2 paires à 14 € | 28 € | 21,53 € | 24,58 € | 3,47 € | **+2,99 €** | 10/08/2026 |
-| SALOMON X Ultra 5 Mid GTX P.44 | 100 € | 79,05 € | 90,24 € | 12,40 € | **+8,55 €** | **en attente** ¹ |
-| **TOTAL** | **593 €** | **474,69 €** | | **73,53 €** | **+44,78 €** | |
+| Article | Client | Prix | Coût réel | URSSAF | **Marge** | Encaissé le |
+|---------|--------|------|-----------|--------|-----------|-------------|
+| T-shirt BALENCIAGA T.2 | Mme Aouimeur Siham | 135 € | 115,77 € | 16,74 € | **+2,49 €** | 09/08/2026 |
+| Sac demi-lune KARL LAGERFELD JEANS | Mme Aouimeur Siham | 70 € | 52,77 € | 8,68 € | **+8,55 €** | 09/08/2026 |
+| LACOSTE sneakers P.42 | Mme Aouimeur Siham | 70 € | 59,88 € | 8,68 € | **+1,44 €** | 09/08/2026 |
+| Veste en jean ARMANI EXCHANGE T.S | Mme Aouimeur Siham | 40 € | 27,57 € | 4,96 € | **+7,47 €** | 09/08/2026 |
+| HAVAIANAS Slim — 2 paires à 14 € | *à préciser* | 28 € | 21,53 € | 3,47 € | **+2,99 €** | 10/08/2026 |
+| **TOTAL ENCAISSÉ** | | **343 €** | **277,52 €** | **42,53 €** | **+22,94 €** | |
+| SALOMON X Ultra 5 Mid GTX P.44 | Client Vinted (Italie) | 100 € | 79,05 € | 12,40 € | **+8,55 €** | **en attente** ¹ |
 
-¹ *Vinted retient le paiement jusqu'à validation de la réception par l'acheteur.
-Client en Italie, compter 5 à 8 jours. Tant que le virement n'est pas arrivé, la
-vente ne s'inscrit pas au livre des recettes — c'est l'encaissement qui compte,
-pas la vente.*
+¹ *Vinted retient le paiement jusqu'à validation de la réception. Tant que le
+virement n'est pas arrivé, la vente ne s'inscrit pas au livre des recettes —
+c'est l'encaissement qui compte, pas la vente.*
 
-Les sept ventes encaissées se sont faites **en main propre et en espèces**, les 9
-et 10 août 2026. Elles relèvent du **troisième trimestre 2026**, à déclarer avant
-le 31 octobre.
+## Les Hoka et les Nike ne sont pas des ventes
 
-**Les espèces, ce qu'il faut savoir.** C'est parfaitement légal : le plafond est
-de 1 000 € par transaction entre un professionnel et un particulier résidant en
-France (art. L112-6 du code monétaire et financier), et la plus grosse vente est
-à 135 €. Mais les espèces ne laissent aucune trace par elles-mêmes — c'est le
-registre plus le dépôt bancaire qui font la preuve. Trois réflexes :
+**Un micro-entrepreneur ne peut pas se vendre à lui-même.** Il n'y a pas deux
+personnes juridiques : l'entreprise et toi êtes la même personne. Reprendre un
+article pour soi n'est pas une vente, c'est un **prélèvement**.
 
-1. **Une note de vente par transaction** — date, article, prix, nom de
-   l'acheteur. Un carnet à souches à 3 € en papeterie suffit. C'est elle qui
-   adosse la ligne du registre.
-2. **Déposer directement sur le compte professionnel.** Le détour par le compte
-   personnel puis le virement vers le compte pro casse le lien entre la vente et
-   le relevé : sur le compte pro, on ne voit plus qu'un virement interne, pas une
-   recette commerciale.
-3. **Déposer par montants qui recoupent le registre**, pour que le relevé
-   confirme les lignes plutôt que de les brouiller.
+| | Sortie du stock | Chiffre d'affaires | URSSAF |
+|---|---|---|---|
+| Vente à un tiers | oui | **oui** | **12,4 %** |
+| Article gardé pour soi | oui | **non** | **aucune** |
 
-Ce qui est fait est fait — 493 € en jeu, rien de grave. À partir de maintenant,
-dépôt direct sur le compte pro.
+Et l'argent que tu as viré de ton compte personnel vers ton compte pro pour ces
+deux paires n'est pas une recette : c'est un **apport**. La ligne bancaire existe,
+mais elle ne se déclare pas.
 
-**Les huit ventes sont positives.** Deux restent minces : le Balenciaga à
-+2,49 € — vendu 3 € au-dessus de son seuil — et la Lacoste à +1,44 €.
+### Ce que ça change
+
+| | Avant | **Corrigé** |
+|---|---|---|
+| Chiffre d'affaires encaissé | 493 € | **343 €** |
+| URSSAF due | 61,13 € | **42,53 €** |
+| **Trop provisionné** | | **18,60 €** |
+
+**Tu as mis 18,60 € de côté pour rien.** Ils te reviennent — laisse-les sur le
+compte de provision, ils couvriront la vente suivante.
+
+Et pour la déclaration du 3ᵉ trimestre, avant le 31 octobre : **déclarer 343 €**,
+pas 465, pas 493. Déclarer les 150 € des Hoka et des Nike te coûterait 18,60 € de
+cotisations sur de l'argent qui est le tien depuis le début.
+
+### Les quatre articles gardés
+
+| Article | Coût | Motif |
+|---------|------|-------|
+| Baskets HOKA P.37 1/3 | 65,37 € | Gardées le 09/08/2026 |
+| Baskets NIKE Air Max Moto 2K P.44.5 | 52,77 € | Gardées le 09/08/2026 |
+| Pompe ROBBY VP550W ligne 131 | 19,41 € | Ne marche qu'en mode auto |
+| Booster High Class MEGA Dream ex | 12,95 € | Coût égal au prix du marché |
+| **Total sorti du stock sans recette** | **150,50 €** | |
+
+Chacun a sa ligne de sortie au registre des objets mobiliers, mention « usage
+personnel ». Aucun au livre des recettes.
+
+**Ce n'est ni une faute ni une perte cachée** — c'est normal de garder des choses.
+Mais il faut que ce soit écrit, sinon les achats et les ventes ne se recoupent
+jamais, et un écart inexpliqué est exactement ce qu'un contrôle regarde en premier.
+
+*Si je me suis trompé sur « c'est moi-même » et que ces deux paires ont bien été
+vendues à quelqu'un, dis-le-moi : le CA repasse à 493 € et l'URSSAF à 61,13 €.*
 
 ## Position de trésorerie
 
@@ -853,17 +874,20 @@ tous deux en frais de port et d'honoraires.*
 | | |
 |---|---|
 | Total engagé — marchandise, livraison, import Japon | **1 943,68 €** |
-| Coût des 8 articles vendus | **−474,71 €** |
-| **Stock restant, à son coût d'achat** | **1 468,97 €** |
+| Coût des 5 articles vendus | **−277,52 €** |
+| Coût de la Salomon, vendue non encaissée | **−79,05 €** |
+| Coût des 4 articles gardés | **−150,50 €** |
+| **Stock restant, à son coût d'achat** | **1 436,61 €** |
 
 | | |
 |---|---|
-| Encaissé à ce jour | **493,00 €** |
-| URSSAF provisionnée — *déjà mise de côté* | **−61,13 €** |
-| **Revenu net en poche** | **431,87 €** |
-| **Capital personnel encore dehors** | **1 511,81 €** |
+| Encaissé de clients réels | **343,00 €** |
+| URSSAF due — 12,4 % | **−42,53 €** |
+| **Revenu net en poche** | **300,47 €** |
+| **Capital personnel encore dehors** | **1 643,21 €** |
 
-**22,2 % du capital est revenu.** Les 77 % restants sont en cartons.
+**15,5 % du capital est revenu.** C'est moins que les 22 % annoncés hier, parce
+que 150 € de ce qui semblait rentré était ton propre argent.
 
 **L'URSSAF est provisionnée au fil de l'eau, sur un compte séparé.** C'est la
 discipline qui fait tenir une micro-entreprise en achat-revente : l'URSSAF frappe
@@ -882,11 +906,8 @@ empiler du stock avec de l'argent qui ne tourne pas.
 
 - **Le nom de l'acheteur** pour chacune des sept ventes en espèces
 - **Lesquelles sont des ventes à la famille**, s'il y en a parmi elles
-- **Le nom de l'acheteur** pour chacune des sept ventes en espèces
-- **Laquelle des trois pompes Robby as-tu gardée ?** Je pars sur la ligne 131,
-  celle qui ne marche qu'en mode auto. Si c'est une autre, les prix bougent.
-- **La date des deux prélèvements personnels**, pour le registre des objets
-  mobiliers
+- **L'acheteur des deux paires de Havaianas** — dernière ligne sans nom
+- **La date des prélèvements** de la pompe ligne 131 et du booster High Class
 - **La facture du lot n°84** (2 pompes immergées ROBBY VP550W, 45 €) — seul
   achat sans justificatif, obligatoire au registre des achats
 
