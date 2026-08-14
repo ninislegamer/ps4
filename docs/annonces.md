@@ -1024,9 +1024,33 @@ tous deux en frais de port et d'honoraires.*
 | | |
 |---|---|
 | Encaissé de clients réels | **343,00 €** |
-| URSSAF due — 12,4 % | **−42,53 €** |
-| **Revenu net en poche** | **300,47 €** |
+| Apport personnel — remboursement des 4 prélèvements | **150,50 €** |
+| Apport personnel — trésorerie complémentaire | **56,32 €** |
+| **Total crédité au compte professionnel** | **549,82 €** |
+| URSSAF due — 12,4 % sur les 343 € | **−42,53 €** |
+| **Réellement disponible** | **507,29 €** |
+| **Revenu net en poche, de clients réels** | **300,47 €** |
 | **Capital personnel encore dehors** | **1 643,21 €** |
+
+## Le point de retour : 2 000 €
+
+L'apport complémentaire de 56,32 € porte l'engagement total à un chiffre rond —
+**1 943,68 € de marchandise plus 56,32 € en caisse**. C'est le repère contre
+lequel tout se mesure désormais.
+
+| | |
+|---|---|
+| Engagement total | **2 000,00 €** |
+| Déjà revenu — net d'URSSAF, de clients réels | 300,47 € |
+| Ce que le stock restant rendra — coût 1 436,61 € + marge 728,40 € | 2 165,01 € |
+| **Retour total si tout se vend au prix** | **2 465,48 €** |
+
+**+465 € sur la mise**, une fois tout écoulé et toutes charges payées. Soit **23 %
+de rendement** sur le capital — correct pour de l'achat-revente, à condition que le
+stock parte.
+
+**Chaque mois d'attente coûte 58 € de charges** à partir de novembre : un point de
+rendement par mois. Le temps est la seule variable qui joue contre toi.
 
 **15,5 % du capital est revenu.** C'est moins que les 22 % annoncés hier, parce
 que 150 € de ce qui semblait rentré était ton propre argent.
