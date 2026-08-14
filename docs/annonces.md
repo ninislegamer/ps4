@@ -851,6 +851,11 @@ cotisations sur de l'argent qui est le tien depuis le début.
 
 *Convention retenue : le prélèvement est daté au jour de la facture d'achat.*
 
+**Apport personnel de 150,50 € versé sur le compte professionnel**, libellé
+« apport personnel », couvrant les quatre prélèvements à leur coût d'achat exact.
+Ce n'est ni une recette ni un chiffre d'affaires : aucune URSSAF, rien à
+déclarer. Il rétablit simplement la trésorerie au niveau du stock sorti.
+
 Chacun a sa ligne de sortie au registre des objets mobiliers, mention « usage
 personnel ». Aucun au livre des recettes.
 
