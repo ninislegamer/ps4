@@ -353,9 +353,17 @@ Modèle de titre : `MORGAN [pièce] T.[taille] - NEUF avec étiquette`
 
 Six pièces différentes : les six annonces sont publiables **en parallèle**.
 
-## Lot de 2 pompes immergées ROBBY VP550W — 42 € l'unité
+## Pompes immergées ROBBY VP550W — 42 € l'unité, 2 à vendre
 
-*coût 22,50 €/pompe · marge 28,58 € sur les deux*
+*lot de 3 acheté 45 €, 1 prélevée pour usage personnel · marge 38,85 € sur les deux*
+
+Le lot comptait **trois** pompes, pas deux. Une est prélevée pour usage
+personnel : elle sort du stock sans recette, sans ligne au livre des recettes,
+mais avec une ligne de sortie au registre des objets mobiliers.
+
+Le prix ne bouge pas pour autant : 42 € est le prix du marché face au neuf à
+54,90 €, il ne dépend pas de ce que le lot t'a coûté. En revanche les deux ventes
+remboursent désormais les 45 € entiers — la troisième pompe est gratuite.
 
 **Remise en main propre uniquement.** Expédiée, l'offre dépasse le prix du neuf
 garanti en magasin (54,90 €).
@@ -570,7 +578,7 @@ Canal : Vinted, pas la boutique.
 | Baskets NIKE Air Max Moto 2K P.44.5 | 70 € | 52,77 € | 60,24 € | 8,68 € | **+8,55 €** | 09/08/2026 |
 | LACOSTE sneakers P.42 | 70 € | 59,88 € | 68,35 € | 8,68 € | **+1,44 €** | 09/08/2026 |
 | Veste en jean ARMANI EXCHANGE T.S | 40 € | 27,57 € | 31,47 € | 4,96 € | **+7,47 €** | 09/08/2026 |
-| HAVAIANAS Slim — 2 paires à 14 € | 28 € | 21,53 € | 24,58 € | 3,47 € | **+2,99 €** | *date à préciser* |
+| HAVAIANAS Slim — 2 paires à 14 € | 28 € | 21,53 € | 24,58 € | 3,47 € | **+2,99 €** | 10/08/2026 |
 | SALOMON X Ultra 5 Mid GTX P.44 | 100 € | 79,05 € | 90,24 € | 12,40 € | **+8,55 €** | **en attente** ¹ |
 | **TOTAL** | **593 €** | **474,69 €** | | **73,53 €** | **+44,78 €** | |
 
@@ -579,8 +587,28 @@ Client en Italie, compter 5 à 8 jours. Tant que le virement n'est pas arrivé, 
 vente ne s'inscrit pas au livre des recettes — c'est l'encaissement qui compte,
 pas la vente.*
 
-Les 465 € du 09/08/2026 forment un seul encaissement de six ventes. Ils tombent
-donc **au troisième trimestre 2026**, à déclarer avant le 31 octobre.
+Les sept ventes encaissées se sont faites **en main propre et en espèces**, les 9
+et 10 août 2026. Elles relèvent du **troisième trimestre 2026**, à déclarer avant
+le 31 octobre.
+
+**Les espèces, ce qu'il faut savoir.** C'est parfaitement légal : le plafond est
+de 1 000 € par transaction entre un professionnel et un particulier résidant en
+France (art. L112-6 du code monétaire et financier), et la plus grosse vente est
+à 135 €. Mais les espèces ne laissent aucune trace par elles-mêmes — c'est le
+registre plus le dépôt bancaire qui font la preuve. Trois réflexes :
+
+1. **Une note de vente par transaction** — date, article, prix, nom de
+   l'acheteur. Un carnet à souches à 3 € en papeterie suffit. C'est elle qui
+   adosse la ligne du registre.
+2. **Déposer directement sur le compte professionnel.** Le détour par le compte
+   personnel puis le virement vers le compte pro casse le lien entre la vente et
+   le relevé : sur le compte pro, on ne voit plus qu'un virement interne, pas une
+   recette commerciale.
+3. **Déposer par montants qui recoupent le registre**, pour que le relevé
+   confirme les lignes plutôt que de les brouiller.
+
+Ce qui est fait est fait — 493 € en jeu, rien de grave. À partir de maintenant,
+dépôt direct sur le compte pro.
 
 **Les huit ventes sont positives.** Deux restent minces : le Balenciaga à
 +2,49 € — vendu 3 € au-dessus de son seuil — et la Lacoste à +1,44 €.
@@ -622,10 +650,10 @@ empiler du stock avec de l'argent qui ne tourne pas.
 
 ## Ce qu'il reste à compléter
 
-- **Le canal** de chaque vente — boutique, Leboncoin, Vinted, main propre, famille
-- **Le mode de règlement** — espèces, virement, carte, paiement de plateforme
+- **Le nom de l'acheteur** pour chacune des sept ventes en espèces
 - **Lesquelles sont des ventes à la famille**, s'il y en a parmi elles
-- **La date d'encaissement des deux Havaianas**
+- **Deux factures annoncées** : lot n°84 (3 pompes Robby) et boîte de 30 boosters
+  Pokémon — à intégrer dès réception
 - **La facture du lot n°84** (2 pompes immergées ROBBY VP550W, 45 €) — seul
   achat sans justificatif, obligatoire au registre des achats
 

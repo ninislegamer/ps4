@@ -1,5 +1,12 @@
 # Stock — Maison Nsaia
 
+> **La source de vérité est `exports/maison-nsaia-stock.xlsx`**, reconstruit sur
+> les onze factures ADN. Ce document-ci garde le raisonnement — pourquoi tel
+> prix, pourquoi tel canal — mais plusieurs de ses coûts datent d'avant les
+> factures et sont trop hauts : Yeezy 75,24 € au lieu de 63 €, Forma 76 € au lieu
+> de 63 €, BMW 82,61 € au lieu de 68,57 €, Havaianas 105 € pour 10 paires au lieu
+> de 100,80 € pour 12. **En cas de désaccord, le tableur a raison.**
+
 Formule de marge, port facturé au client :
 
 ```
@@ -81,7 +88,7 @@ Et deux charges fixes indépendantes des ventes :
 | Blazer **Karl Lagerfeld** punto noir | 36 FR / IT 40 | 45 € | Otrium, Lyst dès 50 € | **89 €** | 11,04 € | 1,34 € | **31,63 €** | Boutique |
 | ✅ **Salomon** X Ultra 5 Mid GTX | 44 | 65 € | 116 € | **VENDUE 100 €** | 12,40 € | 0 € | **22,60 €** | Vinted, 12 août |
 | **Mrs.Ertha** gilets flottaison ×4 | 3-6 ans | 37,80 € | 20 € Decathlon | 19 €/gilet | 9,42 € | 1,14 € | **27,64 €** | Leboncoin + Vinted |
-| **Robby** VP550W pompes immergées ×2 | Très bon état | 45 € le lot | **54,90 €** neuve, idealo | **42 €/pompe** | 10,42 € | 0 € | **28,58 €** | Leboncoin, main propre |
+| **Robby** VP550W pompes immergées ×3, 2 à vendre | Très bon état | 45 € le lot de 3 | **54,90 €** neuve, idealo | **42 €/pompe** | 10,42 € | 0 € | **38,85 €** | Leboncoin, main propre |
 | Robe **Sandro** blanche | 40 | 50,04 € | Once Again −90 % | **89 €** | 11,04 € | 1,34 € | **26,59 €** | Boutique |
 | Ballerines **Massimo Dutti** rouge | 40 IT | 25 € | 70 € | **59 €** | 7,32 € | 0,89 € | **25,80 €** | Leboncoin + eBay |
 | Robe **Chiara Ferragni** bustier | M | 38 € | YOOX −85 % | **69 €** | 8,56 € | 1,04 € | **21,41 €** | Boutique + Leboncoin |
@@ -640,16 +647,30 @@ commission carte sur Vinted, donc la marge de ligne est de 22,60 € ; l'emballa
 (~2 €) est compté globalement dans les frais de vente, comme sur toutes les
 lignes.
 
-### Robby VP550W — deux pompes immergées
+### Robby VP550W — trois pompes immergées, deux à vendre
 
-Lot de 2 adjugé **45 € tout compris**, soit **22,50 € la pompe**. Neuve, la
-VP550W se trouve à **54,90 €** (idealo), distribuée partout : Leclerc, Fnac,
-Darty, Cdiscount, Bricomarché, Manomano.
+Lot de **3** adjugé **45 € tout compris**, soit **15 € la pompe**. Une est
+prélevée pour usage personnel ; il en reste **deux à vendre**. Neuve, la VP550W
+se trouve à **54,90 €** (idealo), distribuée partout : Leclerc, Fnac, Darty,
+Cdiscount, Bricomarché, Manomano.
 
 | Prix à l'unité | Total | URSSAF | **Marge** |
 |----------------|-------|--------|-----------|
-| **42 €** — retenu | 84 € | 10,42 € | **28,58 €** |
-| 35 € — plancher | 70 € | 8,68 € | 16,32 € |
+| **42 €** — retenu | 84 € | 10,42 € | **38,85 €** |
+| 35 € — plancher | 70 € | 8,68 € | 26,53 € |
+
+**Le prix ne change pas parce que le coût a baissé.** 42 €, c'est ce que vaut la
+pompe face au neuf à 54,90 € — ça ne dépend pas de ce que le lot a coûté. Le coût
+décide seulement s'il faut acheter, jamais à combien il faut vendre.
+
+**Le prélèvement personnel se note.** La troisième pompe sort du stock sans
+recette : rien au livre des recettes, puisqu'il n'y a pas d'encaissement, mais
+une ligne de sortie au registre des objets mobiliers avec la mention « usage
+personnel ». Sans elle, le stock ne tombe jamais juste — et un écart inexpliqué
+entre les achats et les ventes est exactement ce qu'un contrôle regarde.
+
+Comptablement la pompe gardée vaut 15 €. En trésorerie, les deux ventes
+remboursent les 45 € entiers : la troisième est gratuite.
 
 ### Ne pas choisir une catégorie : décrire les faits
 
