@@ -582,13 +582,25 @@ Client en Italie, compter 5 à 8 jours.*
 
 ## Position de trésorerie
 
+Les 386,75 € réglés sur Interenchères ne sont **pas** un achat supplémentaire :
+ils sont déjà couverts par les onze factures ADN. Rien ne manque au tableau de
+stock. La position réelle n'est donc pas un solde de caisse, c'est un capital
+immobilisé.
+
+| | |
+|---|---|
+| Total engagé — marchandise, livraison, hors ADN | **1 875,15 €** |
+| Coût des 8 articles vendus | **−474,71 €** |
+| **Stock restant, à son coût d'achat** | **1 400,44 €** |
+
 | | |
 |---|---|
 | Encaissé à ce jour | **493,00 €** |
-| Réinvesti sur Interenchères | **−386,75 €** |
-| **Solde de caisse** | **106,25 €** |
-| URSSAF provisionnée sur les 493 € — *déjà mise de côté* | **−61,13 €** |
-| **Trésorerie réellement libre** | **45,12 €** |
+| URSSAF provisionnée — *déjà mise de côté* | **−61,13 €** |
+| **Revenu net en poche** | **431,87 €** |
+| **Capital personnel encore dehors** | **1 443,28 €** |
+
+**23 % du capital est revenu.** Les 77 % restants sont en cartons.
 
 **L'URSSAF est provisionnée au fil de l'eau, sur un compte séparé.** C'est la
 discipline qui fait tenir une micro-entreprise en achat-revente : l'URSSAF frappe
@@ -597,19 +609,19 @@ Provision à virer à chaque encaissement : **12,4 %** (12,3 % cotisations
 + 0,1 % CFP).
 
 Reste à encaisser : **100 €** (Salomon, retenus par Vinted jusqu'à réception en
-Italie), dont 12,40 € d'URSSAF. Soit 87,60 € nets qui porteront la trésorerie
-libre à **132,72 €**.
+Italie), dont 12,40 € d'URSSAF.
 
-## Nouveaux achats Interenchères — 386,75 €
-
-Lot non encore intégré au stock. **Envoyer la facture** pour que les articles
-entrent au tableau, aux registres et aux annonces.
+**Règle qui découle de ce constat : aucun nouvel achat tant que le capital
+récupéré n'atteint pas 50 %**, soit environ 940 € encaissés. Acheter avant, c'est
+empiler du stock avec de l'argent qui ne tourne pas.
 
 ## Ce qu'il reste à compléter
 
 - **Les dates** de sept ventes sur huit, pour le livre des recettes
 - **Le canal** de chacune — boutique, Leboncoin, Vinted, main propre, famille
 - **Lesquelles sont des ventes à la famille**, s'il y en a parmi elles
+- **La facture du lot n°84** (2 pompes immergées ROBBY VP550W, 45 €) — seul
+  achat sans justificatif, obligatoire au registre des achats
 
 ## La règle qui a servi
 
