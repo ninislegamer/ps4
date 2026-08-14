@@ -79,10 +79,24 @@ la précédente est vendue.
 
 ## Mrs.Ertha — gilets de flottaison 3-6 ans ×4 — Leboncoin + Vinted
 
-**19 € l'unité** · coût **12,42 €/gilet** · marge **16,89 €** sur les quatre
+**34 € l'unité** · coût **11,82 €/gilet** · marge **17,96 €/gilet**, **71,87 €**
+sur les quatre
+
+> **Prix corrigé le 14/08 : 19 € → 34 €.** Le prix précédent était calé sur un
+> gilet Decathlon à 20 €, qui n'est pas le même produit. Mrs.Ertha se vend
+> **37,50 € à 45 €** chez les détaillants français (prettywire, Les Minis Dorés,
+> Émilie et Compagnie). 34 € reste sous le moins cher trouvé, et **multiplie par
+> 3,7 la marge des quatre gilets** — de 19,31 € à 71,87 €. C'est la plus grosse
+> correction du stock, et elle ne vient pas d'une hausse : elle vient d'une
+> erreur de prix de marché réparée.
 
 Deux modèles, deux exemplaires chacun. Une annonce par modèle ; le second
 exemplaire se publie quand le premier est vendu.
+
+**Variante en lot** : les quatre en une annonce à **136 €** → 71,87 € de marge en
+**une seule vente** au lieu de quatre. Même marge totale, quatre fois moins de
+manutention, mais un acheteur beaucoup plus rare. À tenter seulement si les
+annonces à l'unité ne bougent pas d'ici fin août.
 
 **Titre**
 ```
@@ -100,7 +114,7 @@ brassards.
 
 Coloris écru uni.
 
-19 €. Remise en main propre, ou envoi Mondial Relay aux frais de
+34 €. Remise en main propre, ou envoi Mondial Relay aux frais de
 l'acheteur.
 ```
 
@@ -193,9 +207,13 @@ Pièce authentifiée en maison de vente.
 
 À retirer de Vinted d'abord : article neuf, hors périmètre Vinted Pro.
 
-## Blazer KARL LAGERFELD T.36 FR — 89 €
+## Blazer KARL LAGERFELD T.36 FR — 91 €
 
-*coût **53,37 €** · marge **23,26 €***
+*coût **52,77 €** · marge **25,58 €*** · *89 → 91 € le 14/08*
+
+> **À reconfirmer avant publication.** Le neuf part de 229 € chez Modalova, mais
+> je n'ai pas retrouvé le prix déstocké exact (Otrium, Lyst). 91 € est sûr par
+> rapport au neuf ; vérifie qu'aucun déstockeur ne descend sous 100 €.
 
 ```
 Blazer noir KARL LAGERFELD T.36 FR - NEUF avec étiquette
@@ -291,9 +309,9 @@ Pièce unique — un seul exemplaire disponible.
 Pièce authentifiée en maison de vente.
 ```
 
-## Robe PIER ANTONIO GASPARI T.42 — 59 €
+## Robe PIER ANTONIO GASPARI T.42 — 62 €
 
-*coût **28,53 €** · marge **22,27 €***
+*coût **27,93 €** · marge **25,46 €*** · *59 → 62 € le 14/08*
 
 ```
 Robe droite PIER ANTONIO GASPARI bleu marine T.42 - NEUVE
@@ -780,9 +798,9 @@ Facture d'importation disponible sur demande.
 Remise en main propre ou envoi suivi sous enveloppe matelassée.
 ```
 
-## Ballerines MASSIMO DUTTI P.41 — 59 €
+## Ballerines MASSIMO DUTTI P.41 — 61 €
 
-*coût **28,17 €** · marge **23,51 €***
+*coût **27,57 €** · marge **25,87 €*** · *59 → 61 € le 14/08, marché 70 €*
 
 ```
 Ballerines MASSIMO DUTTI cuir rouge P.41
@@ -792,17 +810,26 @@ Ballerines MASSIMO DUTTI en cuir rouge, bride à la cheville.
 Pointure 41. Traces d'essayage, jamais portées à l'extérieur.
 ```
 
-## Baskets GEOX P.35 — 49 €
+## Baskets GEOX P.35 — 54 €
 
-*coût **24,70 €** · marge **18,22 €***
+*coût **24,10 €** · marge **23,20 €*** · *49 → 54 € le 14/08*
+
+**Plafond atteint** : le moins cher du net est à 55 €. 54 € est le dernier prix
+possible sous le marché — 25 € de marge sont hors d'atteinte sur cette paire.
 
 ```
 Baskets GEOX gris argent P.35 - NEUVES avec boîte
 ```
 
-## PHILIPP PLEIN SPORT baskets montantes P.40 — 89 €
+## PHILIPP PLEIN SPORT baskets montantes P.40 — 95 €
 
-*coût **60,48 €** · marge **17,48 €***
+*coût **59,88 €** · marge **23,34 €*** · *89 → 95 € le 14/08*
+
+> **À vérifier avant publication.** Le marché retenu est ~100 € (Stylight −63 %).
+> À 95 € la marge cale à 23,34 € ; il faudrait 96,89 € pour atteindre 25 €, ce qui
+> ne laisse plus aucun écart avec le marché. Sur Leboncoin, les montantes Plein
+> d'occasion partent de 60 € : le neuf avec boîte doit rester nettement au-dessus,
+> mais sous les 100 €.
 
 **Titre sans mention homme ou femme** — le 40 est la pointure charnière, publier
 dans les deux rubriques Leboncoin.
@@ -814,7 +841,7 @@ Baskets montantes PHILIPP PLEIN SPORT blanc violet P.40 - NEUVES
 Baskets montantes PHILIPP PLEIN SPORT, blanc et violet, logo doré.
 Pointure 40. NEUVES avec boîte.
 
-99 € pendant deux semaines, puis 89 €.
+95 €.
 ```
 
 ## Combinaison de pluie BMW ProRain XL — 139 €
@@ -869,17 +896,25 @@ version adulte est `U19063EN`, et un acheteur qui se trompe ouvre un litige.
 
 # 5. TOUPIES BEYBLADE — deux lots de quatre
 
-**49 € le lot** · deux annonces identiques, donc **en file d'attente** : publier
-le premier, puis le second quand il est vendu.
+**55 € le lot** · *49 → 55 € le 14/08* · deux annonces identiques, donc **en file
+d'attente** : publier le premier, puis le second quand il est vendu.
 
-| Lot | Coût réel | Seuil | Plancher | **Marge à 49 €** |
+| Lot | Coût réel | Seuil | Plancher | **Marge à 55 €** |
 |-----|-----------|-------|----------|------------------|
-| n°159 | 21,54 € | 24,59 € | 32 € | **21,38 €** |
-| n°299 | 40,71 € | 46,47 € | 61 € | **2,21 €** |
+| n°159 | 21,54 € | 24,59 € | 32 € | **26,64 €** |
+| n°299 | 40,71 € | 46,47 € | 61 € | **7,47 €** |
 
 Le second a été payé **le double du premier pour un contenu identique**, dans la
 même vacation. Il ne rapportera presque rien — à son plancher de 61 € on demande
 le prix du neuf en magasin.
+
+> **Prix à confirmer avant publication.** 55 € les quatre suppose un prix boutique
+> d'environ 15 € la toupie, soit 60 € les quatre. Je n'ai pas pu ouvrir leDénicheur
+> ni King Jouet depuis ici : **relève le prix d'un Starter Pack QuadDrive avant de
+> publier.** S'il est descendu sous 14 €, redescendre le lot à 49 €.
+>
+> Le n°159 est le seul des deux à atteindre 25 € de marge. Le n°299 plafonne à
+> 7,47 € : pour qu'il y arrive il faudrait 75 €, au-dessus du prix du neuf.
 
 **Titre**
 ```
@@ -899,7 +934,7 @@ Starter Packs QuadDrive, lanceur inclus. Quatre modèles différents,
 compatibles entre eux pour les combats.
 
 Prix boutique environ 15 € la toupie, soit 60 € les quatre.
-LE LOT : 49 €.
+LE LOT : 55 €.
 
 Remise en main propre, ou envoi Mondial Relay aux frais de l'acheteur.
 ```
@@ -919,11 +954,20 @@ prix relevés sont américains.
 |---------|-----------|
 | ADIDAS Yeezy 700 V3 Mono Safflower T.38 — occasion | **65,37 €** |
 
-Seuil d'équilibre **74,62 €**, plancher **98 €**.
+Seuil d'équilibre **74,62 €**, plancher **98 €**. **Prix retenu : 105 €**, marge
+**+26,61 €** — *fixé le 14/08, sous réserve d'authentification.*
 
-**Authentification requise avant de fixer le prix.** Les Yeezy sont parmi les
-sneakers les plus contrefaites au monde. Compter 10 à 20 € d'authentification, ou
-passer par StockX qui authentifie avant transmission à l'acheteur.
+Le moins cher trouvé pour une paire **neuve** est **140 €** (wehaveit.fr, taille
+38⅔). 105 € représente **75 % du neuf** pour une paire d'occasion : c'est haut
+pour de l'occasion, mais le modèle est rare en 38 et la Yeezy garde sa cote. Si
+elle ne bouge pas en trois semaines, descendre à 95 € — la marge tombe alors à
+17,85 €, et 25 € ne sont plus atteignables.
+
+**Authentification requise avant de publier.** Les Yeezy sont parmi les sneakers
+les plus contrefaites au monde. Compter 10 à 20 € d'authentification, ou passer
+par StockX qui authentifie avant transmission à l'acheteur. **Ces 10 à 20 € sont
+à retrancher de la marge** : 26,61 € devient 6 à 16 € si l'authentification est
+payante. Privilégier StockX, où elle est comprise dans la commission.
 
 L'état est du bon état, pas du très bon état — semelle sale, intérieur marqué.
 Canal : Vinted, pas la boutique.

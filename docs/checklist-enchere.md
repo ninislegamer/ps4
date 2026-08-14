@@ -200,6 +200,45 @@ elle prédit juste.
 l'argent.** Entre les deux il n'y a pas de zone grise : c'est l'URSSAF sur le
 prix de vente qui mange tout l'écart.
 
+## 6 quater. La règle des 25 € — celle qui commande sur les petits prix
+
+Si l'objectif est **25 € de marge par vente**, il se décide au marteau :
+
+```
+coût maximum tout compris = prix marché × 0,876 − 25
+enchère maximale          = (prix marché × 0,876 − 25 − port) ÷ 1,26
+```
+
+| Moins cher du net | Coût maximum | **Enchère maximale** | Deux tiers donnerait |
+|-------------------|--------------|----------------------|----------------------|
+| 50 € | 18,80 € | **5 €** | 17 € |
+| 60 € | 27,56 € | **12 €** | 22 € |
+| 80 € | 45,08 € | **26 €** | 33 € |
+| 100 € | 62,60 € | **40 €** | 43 € |
+| **121 €** | 81,00 € | **54 €** | **54 €** — les deux se croisent |
+| 150 € | 106,40 € | 75 € | **70 €** |
+| 200 € | 150,20 € | 109 € | **97 €** |
+
+**Sous 121 € de prix marché, c'est cette règle qui commande. Au-dessus, c'est
+celle des deux tiers.** Prendre toujours le plafond le plus bas des deux.
+
+### Le seuil d'exclusion : 40 €
+
+**Sous 40 € de prix marché, 25 € de marge sont hors d'atteinte quelle que soit
+l'enchère.** Même adjugé à 5 €, un lot revient à ~10 € tout compris : il faudrait
+le revendre 40 € pour dégager 25 €.
+
+Disqualifiés d'office : tongs à l'unité, boosters, toupies seules, petits LEGO,
+tout le rayon jouet sous 40 €. **Ces familles ne se jouent qu'au volume**, à 3 à
+8 € par vente — ou pas du tout.
+
+### Et le revers, à ne pas oublier
+
+Sur un lot de volume, viser 25 € **par vente** oblige à vendre en bloc, et vendre
+en bloc rapporte moins. Dix Havaianas à 18 € rapportent 50,01 € en dix ventes ;
+le lot entier à 149 € en rapporte 22,86 € en une seule. **L'objectif de 25 € se
+tient article par article, pas sur les lots de volume.**
+
 ## 6 bis. Les planchers de marge à l'achat
 
 - **Pièce unique** : 25 € minimum. Au-delà de 1 000 € de revente, viser 12-15 %.
