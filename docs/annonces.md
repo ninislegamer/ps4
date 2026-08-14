@@ -227,15 +227,30 @@ Cinturino. Crème et vernis turquoise, bride à la cheville.
 Pointure 36.
 
 Référence HXW1860E290X72066F.
-Traces d'essayage, jamais portées à l'extérieur.
+Jamais portées à l'extérieur. Nettoyées avant mise en vente,
+aucune trace visible.
 
 Maison italienne du groupe Tod's.
 Pièce unique — un seul exemplaire disponible.
 Pièce authentifiée en maison de vente.
 ```
 
-**Mentionner les traces d'essayage** : c'est écrit sur la facture, un défaut
-annoncé ne pose jamais de problème.
+État Leboncoin : **« Très bon état »**. Sur la boutique, badge **« Comme neuves »**.
+
+### Pourquoi pas « neuves »
+
+Le mot a un sens précis en droit de la consommation, et il **double ton exposition** :
+la présomption d'antériorité du défaut court **24 mois sur du neuf, 12 mois sur de
+l'occasion** vendue par un professionnel. Annoncer « neuves » des chaussures achetées
+en maison de vente avec la mention « traces d'essayage » au bordereau, c'est prendre
+un an de garantie en plus pour un mot.
+
+**« Nettoyées, aucune trace visible » dit exactement la même chose à l'acheteur**, se
+vérifie sur photo, et te laisse dans le régime de l'occasion. C'est plus fort
+commercialement : une phrase concrète rassure mieux qu'une étiquette.
+
+Le bordereau ADN, lui, ne change pas — il dit ce que le lot était le jour de
+l'achat. C'est la pièce qui justifie ton prix d'achat, elle ne se réécrit pas.
 
 ## ADIDAS x STELLA McCARTNEY Ultraboost 21 P.36 — 79 €
 

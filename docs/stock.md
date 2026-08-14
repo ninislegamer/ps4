@@ -80,7 +80,7 @@ Et deux charges fixes indépendantes des ventes :
 | **Adidas** Predator Edge.1 TF ×2 | 48⅔ | 40 € | ~110 € | 89 €/paire | 22,07 € | 2,67 € | **113,26 €** | eBay + Leboncoin |
 | Bottes **Forma** Legacy | 45 | 76 € | 172,49 € Dafy Moto | **159 €** | 19,72 € | 2,39 € | **60,90 €** | Boutique |
 | Robe **Elisabetta Franchi** ivoire | 46 IT / 42 FR | 26 € | outlet officiel −80 % | **99 €** | 12,28 € | 1,49 € | **59,24 €** | Boutique |
-| Ballerines **Hogan** 186 Zeppa | 36 | 15 € | 83 € Lyst | **79 €** | 9,80 € | 1,19 € | **53,02 €** | Boutique |
+| Ballerines **Hogan** 186 Zeppa — nettoyées | 36 | 15 € | 83 € Lyst | **79 €** | 9,80 € | 1,19 € | **53,02 €** | Boutique |
 | Jupe **Sonia Rykiel** twill cerises | 34 | 42,80 € | Jaiio −80 % | **99 €** | 12,28 € | 1,49 € | **42,44 €** | Boutique |
 | **Morgan** ×6 vêtements femme | 40 et L | 40 € | Modz −50 %, Once Again −80 % | **92 €** | 11,41 € | 1,38 € | **39,21 €** | Leboncoin + eBay |
 | **BMW** Overall ProRain | XL | 82,61 € | 170 € (noir) | **139 €** | 17,24 € | 2,09 € | **37,07 €** | Leboncoin + Vinted |
