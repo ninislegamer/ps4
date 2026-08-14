@@ -353,21 +353,70 @@ Modèle de titre : `MORGAN [pièce] T.[taille] - NEUF avec étiquette`
 
 Six pièces différentes : les six annonces sont publiables **en parallèle**.
 
-## Pompes immergées ROBBY VP550W — 42 € l'unité, 2 à vendre
+## Pompes ROBBY VP550W — trois lots distincts, deux défauts déclarés
 
-*lot de 3 acheté 45 €, 1 prélevée pour usage personnel · marge 38,85 € sur les deux*
+*bordereau ERA n°507148 du 26/07/2026 · 83,60 € au total, pas 45 €*
 
-Le lot comptait **trois** pompes, pas deux. Une est prélevée pour usage
-personnel : elle sort du stock sans recette, sans ligne au livre des recettes,
-mais avec une ligne de sortie au registre des objets mobiliers.
+**Le texte d'annonce précédent était faux et ne doit pas être publié.** Il
+annonçait « pompe jamais utilisée, testée et fonctionnelle » pour les trois. Le
+bordereau dit autre chose.
 
-Le prix ne bouge pas pour autant : 42 € est le prix du marché face au neuf à
-54,90 €, il ne dépend pas de ce que le lot t'a coûté. En revanche les deux ventes
-remboursent désormais les 45 € entiers — la troisième pompe est gratuite.
+Ce n'était pas un lot de trois pompes : ce sont **trois lots séparés**, adjugés
+séparément, dans des états différents.
 
-**Remise en main propre uniquement.** Expédiée, l'offre dépasse le prix du neuf
-garanti en magasin (54,90 €).
+| Ligne | Description au bordereau | Adjugé | **Coût réel** | Seuil |
+|-------|--------------------------|--------|---------------|-------|
+| **84** | Produit d'occasion, noir et bleu | 22 € | **35,90 €** | 40,98 € |
+| **122** | Comme neuf — **socle cassé** | 16 € | **28,29 €** | 32,29 € |
+| **131** | Occasion — **ne marche qu'en mode auto** | 9 € | **19,41 €** | 22,16 € |
 
+Coût réel = adjudication + 25 % d'honoraires au prorata + 8 € de port chacune.
+
+### Ce qui a coûté cher : le port
+
+```
+adjudication            47,00 €
+honoraires 25 %         11,75 €
+frais Live 1,5 %         0,85 €
+arrondi                  0,01 €
+emballage et port       24,00 €   ← 51 % de l'adjudication
+                       ────────
+                        83,60 €
+```
+
+**24 € de port sur 47 € d'adjudication.** Sur des pompes de 4,8 kg, c'est le
+poids qui commande. Le port se lit avant d'enchérir, jamais après : il a
+transformé une pompe à 9 € en une pompe à 19,41 €.
+
+### Les prix
+
+| Ligne | État | Prix | URSSAF | **Marge** |
+|-------|------|------|--------|-----------|
+| **84** | Occasion, fonctionnelle | **45 €** | 5,58 € | **+3,52 €** |
+| **122** | Comme neuve, socle cassé | **35 €** | 4,34 € | **+2,37 €** |
+| **131** | Mode auto seulement | **prélevée — usage personnel** | — | — |
+
+**Garder la 131, pas une autre.** C'est celle qui vaut le moins sur le marché —
+le mode manuel HS fait fuir les acheteurs — mais le mode automatique est
+justement ce dont on se sert pour vider une cave ou une piscine. Elle rend le
+même service à la maison et elle est invendable ailleurs. Les deux autres
+remboursent 80 € des 83,60 € engagés.
+
+**Remise en main propre uniquement.** Expédiée, l'offre dépasse le neuf garanti
+en magasin à 54,90 €.
+
+### Le défaut se déclare, ce n'est pas négociable
+
+Vendre en professionnel une pompe au socle cassé sans le dire, c'est un défaut de
+conformité : l'acheteur peut exiger le remboursement, et le silence délibéré
+relève de la pratique commerciale trompeuse. La garantie légale de conformité
+court **12 mois minimum sur l'occasion vendue par un professionnel**.
+
+Et déclarer le défaut fait vendre : une pompe « comme neuve, socle cassé » à 35 €
+face à 54,90 € neuve, c'est une bonne affaire lisible. Une pompe « très bon
+état » qui arrive cassée, c'est un litige.
+
+**Ligne 84 — 45 €**
 ```
 Pompe immergée automatique ROBBY VP550W 550W - 10000 L/h
 ```
@@ -375,16 +424,40 @@ Pompe immergée automatique ROBBY VP550W 550W - 10000 L/h
 Pompe immergée automatique à flotteur intégré ROBBY VP550W.
 Puissance 550 W, débit maximum 10 000 L/h, immersion jusqu'à 7 m,
 câble électrique de 10 m, particules jusqu'à 35 mm.
+Coloris noir et bleu. Poids 4,8 kg.
 
-Pompe jamais utilisée. Emballage ouvert, appareil testé et
-fonctionnel — flotteur et débit vérifiés. Vendue avec sa boîte.
+Produit d'occasion, testé avant la mise en vente : flotteur,
+mode automatique et mode manuel vérifiés, débit conforme.
 
-42 € — remise en main propre uniquement, pas d'expédition.
+45 € — remise en main propre uniquement, pas d'expédition.
 Neuve en magasin : 54,90 €.
 ```
 
-**Tester les deux pompes avant de publier.** Garantie légale de 12 mois sur
-l'occasion vendue en professionnel.
+**Ligne 122 — 35 €**
+```
+Pompe immergée ROBBY VP550W 550W 10000 L/h - comme neuve, socle cassé
+```
+```
+Pompe immergée automatique à flotteur intégré ROBBY VP550W.
+Puissance 550 W, débit maximum 10 000 L/h, immersion jusqu'à 7 m,
+câble électrique de 10 m, particules jusqu'à 35 mm.
+Coloris noir et gris. Poids 4,8 kg.
+Fonction automatique et mode manuel.
+
+ÉTAT : appareil comme neuf, MAIS LE SOCLE EST CASSÉ.
+Le socle est la base plastique sous la pompe. La pompe
+fonctionne, mais il faut la poser sur une surface plane ou la
+suspendre. Défaut annoncé, prix ajusté en conséquence.
+
+Testée avant mise en vente : moteur, flotteur et débit conformes.
+
+35 € au lieu de 54,90 € neuve — remise en main propre
+uniquement, pas d'expédition.
+```
+
+**Tester les deux pompes avant de publier**, et prendre une photo du socle cassé
+sur la 122. Une photo du défaut vaut mieux qu'une phrase : elle prouve la bonne
+foi et coupe court à la négociation.
 
 # 5 bis. POKÉMON — import Meccha Japan, facture #FA429713
 
@@ -769,23 +842,25 @@ ils sont déjà couverts par les onze factures ADN. Rien ne manque au tableau de
 stock. La position réelle n'est donc pas un solde de caisse, c'est un capital
 immobilisé.
 
-*Total mis à jour au 14/08/2026 : la facture Meccha Japan porte le total engagé
-de 1 875,15 € à 1 905,08 € — l'import Pokémon coûtait 94,93 € et non 65 €.*
+*Total mis à jour au 14/08/2026, après réception des deux dernières factures :
+1 875,15 € → **1 943,68 €**. L'import Pokémon coûtait 94,93 € et non 65 €, les
+pompes Robby 83,60 € et non 45 €. **68,53 € de coûts que j'avais sous-estimés**,
+tous deux en frais de port et d'honoraires.*
 
 | | |
 |---|---|
-| Total engagé — marchandise, livraison, import Japon | **1 905,08 €** |
+| Total engagé — marchandise, livraison, import Japon | **1 943,68 €** |
 | Coût des 8 articles vendus | **−474,71 €** |
-| **Stock restant, à son coût d'achat** | **1 430,37 €** |
+| **Stock restant, à son coût d'achat** | **1 468,97 €** |
 
 | | |
 |---|---|
 | Encaissé à ce jour | **493,00 €** |
 | URSSAF provisionnée — *déjà mise de côté* | **−61,13 €** |
 | **Revenu net en poche** | **431,87 €** |
-| **Capital personnel encore dehors** | **1 473,21 €** |
+| **Capital personnel encore dehors** | **1 511,81 €** |
 
-**22,7 % du capital est revenu.** Les 77 % restants sont en cartons.
+**22,2 % du capital est revenu.** Les 77 % restants sont en cartons.
 
 **L'URSSAF est provisionnée au fil de l'eau, sur un compte séparé.** C'est la
 discipline qui fait tenir une micro-entreprise en achat-revente : l'URSSAF frappe
@@ -804,10 +879,9 @@ empiler du stock avec de l'argent qui ne tourne pas.
 
 - **Le nom de l'acheteur** pour chacune des sept ventes en espèces
 - **Lesquelles sont des ventes à la famille**, s'il y en a parmi elles
-- **La facture du lot n°84** (3 pompes Robby, 45 €) — dernier achat sans
-  justificatif
-- **Le prix du booster High Class MEGA Dream ex vendu seul**, sur deux sites
-  français, avant de publier l'annonce à 16 €
+- **Le nom de l'acheteur** pour chacune des sept ventes en espèces
+- **Laquelle des trois pompes Robby as-tu gardée ?** Je pars sur la ligne 131,
+  celle qui ne marche qu'en mode auto. Si c'est une autre, les prix bougent.
 - **La facture du lot n°84** (2 pompes immergées ROBBY VP550W, 45 €) — seul
   achat sans justificatif, obligatoire au registre des achats
 
