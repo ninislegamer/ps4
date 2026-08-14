@@ -116,6 +116,25 @@ plancher compte à la revente.
 **La famille paie le prix plancher, pas le prix coûtant.** Vendre à prix coûtant
 n'est pas neutre : ça coûte 12,4 %.
 
+### Le contre-exemple : les deux lots de toupies
+
+Même vente du 3 août 2026, deux lots strictement identiques — 4 toupies Beyblade
+Hasbro chacun.
+
+| Lot | Adjugé | Coût tout compris | Prix | **Marge** |
+|-----|--------|-------------------|------|-----------|
+| n°159 | 15 € | 21,54 € | 49 € | **+21,39 €** |
+| n°299 | 30 € | 40,71 € | 49 € | **+2,22 €** |
+
+**19,17 € d'écart de coût pour un contenu identique.** Le second lot rapporte dix
+fois moins que le premier, et il se vendra au même prix — parce que l'acheteur, lui,
+ne sait pas ce que le lot a coûté.
+
+La règle qui manquait : **quand un lot identique repasse dans la même vente, le
+second doit partir moins cher que le premier, jamais plus.** L'enchère monte parce
+qu'on a déjà gagné le premier et qu'on veut « compléter » ; c'est exactement le
+moment de s'arrêter. Le marché n'absorbe pas deux fois le même lot au même prix.
+
 ## 6 ter. La règle des deux tiers — le seul calcul à faire pendant une vente
 
 **Ne jamais payer plus des deux tiers du prix le moins cher sur le net.**
