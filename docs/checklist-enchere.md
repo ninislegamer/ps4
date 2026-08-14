@@ -116,6 +116,47 @@ plancher compte à la revente.
 **La famille paie le prix plancher, pas le prix coûtant.** Vendre à prix coûtant
 n'est pas neutre : ça coûte 12,4 %.
 
+## 6 ter. La règle des deux tiers — le seul calcul à faire pendant une vente
+
+**Ne jamais payer plus des deux tiers du prix le moins cher sur le net.**
+
+```
+coût maximum tout compris = prix marché × 0,67
+```
+
+C'est la formule des deux planchers, remontée à l'envers. Le prix plancher vaut
+`coût ÷ 0,876 × 1,30`. Pour qu'il tombe **au niveau du marché** et pas au-dessus,
+il faut `coût = marché × 0,876 ÷ 1,30`, soit **67 %**. Au-delà, le prix plancher
+dépasse le prix du marché : la pièce est invendable avec profit avant même
+d'avoir été payée.
+
+Le « tout compris » inclut les 26 % de frais acheteur et le port. Sur une
+adjudication, le plafond d'enchère devient :
+
+```
+enchère maximale = prix marché × 0,67 ÷ 1,26 − port
+```
+
+Soit, en pratique, **la moitié du prix du marché**.
+
+### Ce que la règle dit du stock déjà acheté
+
+| Pièce | Coût | Marché | Coût / marché | Marge réalisée |
+|-------|------|--------|---------------|----------------|
+| Sac Karl Lagerfeld | 52,77 € | 70 € | 75 % | +8,55 € |
+| Box Pokémon Nihil Zero | 69,24 € | 89,99 € | 77 % | +3,35 €/lot |
+| Baskets Lacoste | 59,88 € | 70 € | **86 %** | **+1,44 €** |
+| T-shirt Balenciaga | 115,77 € | 135 € | **86 %** | **+2,49 €** |
+| Booster High Class MEGA Dream ex | 12,95 € | 12,99 € | **100 %** | **−1,57 €** |
+
+Les deux ventes les plus décevantes et le seul achat invendable sont exactement
+les trois lignes au-dessus de 80 %. La règle ne prédit pas approximativement,
+elle prédit juste.
+
+**Un article acheté à 86 % du marché rapporte 2 €. À 100 %, il fait perdre de
+l'argent.** Entre les deux il n'y a pas de zone grise : c'est l'URSSAF sur le
+prix de vente qui mange tout l'écart.
+
 ## 6 bis. Les planchers de marge à l'achat
 
 - **Pièce unique** : 25 € minimum. Au-delà de 1 000 € de revente, viser 12-15 %.

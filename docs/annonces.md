@@ -392,12 +392,12 @@ l'occasion vendue en professionnel.
 plus 13,77 € de port. Réparti sur les huit unités de vente, le port pèse 1,72 €
 par annonce. Les prix ci-dessous sont recalculés là-dessus.
 
-| Produit | Coût réel | Seuil | Prix | URSSAF | **Marge** |
+| Annonce | Coût réel | Seuil | Prix | URSSAF | **Marge** |
 |---------|-----------|-------|------|--------|-----------|
-| Lot de 5 boosters Nihil Zero ×6 | 11,54 €/lot | 13,17 € | **17 €** | 2,11 € | **+3,35 €** |
-| Booster High Class MEGA Dream ex | 12,95 € | 14,78 € | **16 €** | 1,98 € | **+1,07 €** |
+| Lot de 5 boosters Nihil Zero ×5 | 11,54 €/lot | 13,17 € | **17 €** | 2,11 € | **+3,35 €** |
+| Bundle High Class + 5 Nihil Zero | 24,49 € | 27,96 € | **30 €** | 3,72 € | **+1,79 €** |
 | Lot de 2 boosters Storm Emeralda | 12,74 € | 14,54 € | **19 €** | 2,36 € | **+3,90 €** |
-| **Total** | **94,93 €** | | **137 €** | **16,99 €** | **+25,08 €** |
+| **Total — 7 annonces** | **94,93 €** | | **134 €** | **16,62 €** | **+22,45 €** |
 
 **Leboncoin et remise en main propre, pas eBay.** À 19 € le lot de 5, eBay
 prélève 2,63 € de commission et la marge tombe de 5,10 € à 2,47 € — moins bien
@@ -461,18 +461,60 @@ Facture d'importation disponible sur demande.
 Remise en main propre ou envoi suivi sous enveloppe matelassée.
 ```
 
-## Booster High Class MEGA Dream ex M2a — 16 €
+## Booster High Class MEGA Dream ex M2a — vendre en bundle à 30 €
 
-*coût 12,95 € · seuil 14,78 € · marge 1,07 €*
+*coût 12,95 € · seuil 14,78 € · prix du marché 12,99 € · **invendable seul***
 
-**À vérifier avant de publier.** Je n'ai trouvé qu'une seule source française : le
-display de 10 boosters à 129,94 € chez Kaufland, soit 12,99 € l'unité — c'est
-**en dessous de ton seuil d'équilibre**. Les boosters vendus seuls se paient
-normalement plus cher qu'au display, mais je n'ai pas pu le confirmer.
+**Prix du marché confirmé à 12,99 €**, par deux sources qui concordent : le
+display de 10 à 129,94 € chez Kaufland, soit 12,99 € l'unité, et le booster seul
+relevé au même prix. Ce n'est donc pas une estimation, c'est le prix.
 
-**Cherche le prix du booster seul sur deux sites français avant de fixer.** S'il
-est à 15 € ou moins, ce booster ne se vend pas avec profit — garde-le ou joins-le
-en cadeau à un lot Nihil Zero pour faire partir le lot plus vite.
+**Ce booster ne peut pas se vendre seul avec profit.** Il a coûté 12,95 € et le
+marché est à 12,99 € : il reste 4 centimes avant que l'URSSAF prélève 1,61 €.
+
+| | Prix | URSSAF | **Résultat** |
+|---|---|---|---|
+| Seul, au prix du marché | 12,99 € | 1,61 € | **−1,57 €** |
+| Seul, à son seuil d'équilibre | 14,78 € | 1,83 € | 0,00 € — mais 14 % au-dessus du marché, ne partira pas |
+| **En bundle avec un lot de 5 Nihil Zero** | **30 €** | 3,72 € | **+1,79 €** |
+
+**La sortie, c'est le bundle.** Vendu avec cinq boosters Nihil Zero, l'ensemble
+coûte 24,49 € et vaut 30,49 € au détail (5 × 3,50 € + 12,99 €). À **30 €** on est
+juste sous le marché, la marge repasse au positif, et un des six lots Nihil Zero
+part en même temps.
+
+Ce n'est pas beaucoup — 1,79 € — mais c'est mieux que −1,57 €, et ça écoule deux
+articles d'un coup au lieu d'un.
+
+**Si le bundle ne part pas en trois semaines :** le vendre seul à 12,99 € et
+encaisser la perte de 1,57 €. Récupérer 11,38 € nets vaut mieux que garder un
+booster dont le prix baissera quand la série suivante sortira.
+
+**Titre du bundle**
+```
+Lot 6 boosters Pokémon japonais - High Class MEGA Dream ex + 5 Nihil Zero M3
+```
+```
+LOT DE 6 BOOSTERS POKÉMON JAPONAIS SCELLÉS
+
+1 booster High Class Pack MEGA Dream ex (M2a) — 10 cartes,
+  avec au minimum 1 Pokémon ex ou Méga-Évolution ex garanti
+5 boosters Nihil Zero (M3) — 5 cartes chacun
+
+Soit 35 cartes au total, tous boosters neufs et scellés.
+
+MEGA Dream ex, sorti le 28 novembre 2025 : l'édition premium de
+fin d'année au Japon, avec la rareté inédite Mega Attack Rare.
+Nihil Zero, sorti le 23 janvier 2026 : Mega Zygarde ex,
+Mega Clefable ex, Mega Starmie ex, Meowth ex.
+
+Versions japonaises d'origine, importées directement du Japon.
+Facture d'importation disponible sur demande.
+
+30 € le lot de 6. Remise en main propre ou envoi suivi.
+```
+
+**Texte du booster seul**, si tu dois te rabattre dessus à 12,99 € :
 
 ```
 Booster Pokémon High Class MEGA Dream ex M2a japonais scellé - 10 cartes
