@@ -1080,29 +1080,33 @@ tous deux en frais de port et d'honoraires.*
 |---|---|
 | Encaissé de clients réels | **373,00 €** |
 | Apport personnel — remboursement des 4 prélèvements | **150,50 €** |
-| Apport personnel — trésorerie complémentaire | **56,32 €** |
-| **Total crédité au compte professionnel** | **579,82 €** |
+| **Total crédité au compte professionnel** | **523,50 €** |
 | URSSAF due — 12,4 % sur les 373 € | **−46,25 €** |
-| **Réellement disponible** | **533,57 €** |
+| **Réellement disponible** | **477,25 €** |
 | **Revenu net en poche, de clients réels** | **326,75 €** |
-| **Capital personnel encore dehors** | **1 643,21 €** |
+| **Capital personnel encore dehors** | **1 616,93 €** |
 
-## Le point de retour : 2 000 €
+> **Correction du 15/08 : l'apport personnel « trésorerie complémentaire » de
+> 56,32 € est retiré.** Il n'a pas été versé sur le compte pro — seul l'apport de
+> 150,50 € qui rembourse les quatre articles gardés est réel. Répercuté ici, dans
+> le tableau de bord et dans la section ci-dessous.
 
-L'apport complémentaire de 56,32 € porte l'engagement total à un chiffre rond —
-**1 943,68 € de marchandise plus 56,32 € en caisse**. C'est le repère contre
-lequel tout se mesure désormais.
+## Le point de retour : 1 943,68 €
+
+L'engagement total, c'est le coût de toute la marchandise achetée — plus aucune
+caisse complémentaire à ajouter. C'est le repère contre lequel tout se mesure
+désormais.
 
 | | |
 |---|---|
-| Engagement total | **2 000,00 €** |
+| Engagement total | **1 943,68 €** |
 | Déjà revenu — net d'URSSAF, de clients réels | 326,75 € |
 | Ce que le stock restant rendra — coût 1 436,61 € + marge 825,28 € | 2 261,89 € |
 | **Retour total si tout se vend au prix** | **2 588,64 €** |
 
-**+589 € sur la mise**, une fois tout écoulé et toutes charges payées. Soit **29 %
-de rendement** sur le capital — correct pour de l'achat-revente, à condition que le
-stock parte.
+**+644,96 € sur la mise**, une fois tout écoulé et toutes charges payées. Soit
+**33,18 % de rendement** sur le capital — correct pour de l'achat-revente, à
+condition que le stock parte.
 
 **Chaque mois d'attente coûte 58 € de charges** à partir de novembre : un point de
 rendement par mois. Le temps est la seule variable qui joue contre toi.
