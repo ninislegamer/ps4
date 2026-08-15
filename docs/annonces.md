@@ -980,9 +980,9 @@ Canal : Vinted, pas la boutique.
 | T-shirt BALENCIAGA T.2 | Mme Aouimeur Siham | 135 € | 115,77 € | 16,74 € | **+2,49 €** | 09/08/2026 |
 | Sac demi-lune KARL LAGERFELD JEANS | Mme Aouimeur Siham | 70 € | 52,77 € | 8,68 € | **+8,55 €** | 09/08/2026 |
 | LACOSTE sneakers P.42 | Mme Aouimeur Siham | 70 € | 59,88 € | 8,68 € | **+1,44 €** | 09/08/2026 |
-| Veste en jean ARMANI EXCHANGE T.S | Mme Aouimeur Siham | 40 € | 27,57 € | 4,96 € | **+7,47 €** | 09/08/2026 |
+| Veste en jean ARMANI EXCHANGE T.S | Mme Aouimeur Siham | 50 € | 27,57 € | 6,20 € | **+16,23 €** | 09/08/2026 |
 | HAVAIANAS Slim — 2 paires à 14 € | *à préciser* | 28 € | 21,53 € | 3,47 € | **+2,99 €** | 10/08/2026 |
-| **TOTAL ENCAISSÉ** | | **343 €** | **277,52 €** | **42,53 €** | **+22,94 €** | |
+| **TOTAL ENCAISSÉ** | | **353 €** | **277,52 €** | **43,77 €** | **+31,70 €** | |
 | SALOMON X Ultra 5 Mid GTX P.44 | Client Vinted (Italie) | 100 € | 79,05 € | 12,40 € | **+8,55 €** | **en attente** ¹ |
 
 ¹ *Vinted retient le paiement jusqu'à validation de la réception. Tant que le
@@ -1008,14 +1008,14 @@ mais elle ne se déclare pas.
 
 | | Avant | **Corrigé** |
 |---|---|---|
-| Chiffre d'affaires encaissé | 493 € | **343 €** |
+| Chiffre d'affaires encaissé | 493 € | **353 €** |
 | URSSAF due | 61,13 € | **42,53 €** |
 | **Trop provisionné** | | **18,60 €** |
 
 **Tu as mis 18,60 € de côté pour rien.** Ils te reviennent — laisse-les sur le
 compte de provision, ils couvriront la vente suivante.
 
-Et pour la déclaration du 3ᵉ trimestre, avant le 31 octobre : **déclarer 343 €**,
+Et pour la déclaration du 3ᵉ trimestre, avant le 31 octobre : **déclarer 353 €**,
 pas 465, pas 493. Déclarer les 150 € des Hoka et des Nike te coûterait 18,60 € de
 cotisations sur de l'argent qui est le tien depuis le début.
 
@@ -1046,6 +1046,11 @@ jamais, et un écart inexpliqué est exactement ce qu'un contrôle regarde en pr
 *Si je me suis trompé sur « c'est moi-même » et que ces deux paires ont bien été
 vendues à quelqu'un, dis-le-moi : le CA repasse à 493 € et l'URSSAF à 61,13 €.*
 
+> **Correction du 15/08 : la veste Armani Exchange s'est vendue 50 €, pas 40 €.**
+> Chelsea payée en espèces. Répercuté ici, dans la facture n° 2026-001, dans les
+> trois registres et dans le tableau de bord. Marge réelle sur cette pièce :
+> +16,23 € au lieu de +7,47 €.
+
 ## Position de trésorerie
 
 Les 386,75 € réglés sur Interenchères ne sont **pas** un achat supplémentaire :
@@ -1068,13 +1073,13 @@ tous deux en frais de port et d'honoraires.*
 
 | | |
 |---|---|
-| Encaissé de clients réels | **343,00 €** |
+| Encaissé de clients réels | **353,00 €** |
 | Apport personnel — remboursement des 4 prélèvements | **150,50 €** |
 | Apport personnel — trésorerie complémentaire | **56,32 €** |
-| **Total crédité au compte professionnel** | **549,82 €** |
-| URSSAF due — 12,4 % sur les 343 € | **−42,53 €** |
-| **Réellement disponible** | **507,29 €** |
-| **Revenu net en poche, de clients réels** | **300,47 €** |
+| **Total crédité au compte professionnel** | **559,82 €** |
+| URSSAF due — 12,4 % sur les 353 € | **−43,77 €** |
+| **Réellement disponible** | **516,05 €** |
+| **Revenu net en poche, de clients réels** | **309,23 €** |
 | **Capital personnel encore dehors** | **1 643,21 €** |
 
 ## Le point de retour : 2 000 €
@@ -1086,11 +1091,11 @@ lequel tout se mesure désormais.
 | | |
 |---|---|
 | Engagement total | **2 000,00 €** |
-| Déjà revenu — net d'URSSAF, de clients réels | 300,47 € |
-| Ce que le stock restant rendra — coût 1 436,61 € + marge 728,40 € | 2 165,01 € |
-| **Retour total si tout se vend au prix** | **2 465,48 €** |
+| Déjà revenu — net d'URSSAF, de clients réels | 309,23 € |
+| Ce que le stock restant rendra — coût 1 436,61 € + marge 825,28 € | 2 261,89 € |
+| **Retour total si tout se vend au prix** | **2 571,12 €** |
 
-**+465 € sur la mise**, une fois tout écoulé et toutes charges payées. Soit **23 %
+**+571 € sur la mise**, une fois tout écoulé et toutes charges payées. Soit **29 %
 de rendement** sur le capital — correct pour de l'achat-revente, à condition que le
 stock parte.
 
