@@ -8,10 +8,11 @@
   --serif:"Cormorant Garamond","Playfair Display",Georgia,"Times New Roman",serif;
   --sans:"Assistant","Archivo","Helvetica Neue",Arial,sans-serif;
 }
-*{box-sizing:border-box;margin:0;padding:0}
+*{box-sizing:border-box;margin:0;padding:0;
+  print-color-adjust:exact;-webkit-print-color-adjust:exact}
 body{background:var(--creme);color:var(--encre);font-family:var(--sans);
      font-size:10.5pt;line-height:1.55;-webkit-font-smoothing:antialiased}
-.page{max-width:21cm;margin:0 auto;background:var(--papier);
+.page{max-width:21cm;margin:0 auto;background:var(--creme);
       padding:2.4cm 2cm 2cm;min-height:29.7cm}
 
 /* ---- micro-libellés ---- */
@@ -96,9 +97,9 @@ footer strong{color:var(--encre);font-weight:600}
   .totaux{width:100%}
 }
 @media print{
-  body{background:#fff}
-  .page{max-width:none;min-height:auto;padding:1.2cm;margin:0}
-  @page{size:A4;margin:12mm}
+  body{background:var(--creme)}
+  .page{max-width:none;min-height:auto;padding:1.2cm;margin:0;background:var(--creme)}
+  @page{size:A4;margin:12mm;background:var(--creme)}
 }
 </style></head><body><div class="page">
 
