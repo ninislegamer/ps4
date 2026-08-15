@@ -977,12 +977,12 @@ Canal : Vinted, pas la boutique.
 
 | Article | Client | Prix | Coût réel | URSSAF | **Marge** | Encaissé le |
 |---------|--------|------|-----------|--------|-----------|-------------|
-| T-shirt BALENCIAGA T.2 | Mme Aouimeur Siham | 135 € | 115,77 € | 16,74 € | **+2,49 €** | 09/08/2026 |
+| T-shirt BALENCIAGA T.2 | Mme Aouimeur Siham | 155 € | 115,77 € | 19,22 € | **+20,01 €** | 09/08/2026 |
 | Sac demi-lune KARL LAGERFELD JEANS | Mme Aouimeur Siham | 70 € | 52,77 € | 8,68 € | **+8,55 €** | 09/08/2026 |
 | LACOSTE sneakers P.42 | Mme Aouimeur Siham | 70 € | 59,88 € | 8,68 € | **+1,44 €** | 09/08/2026 |
 | Veste en jean ARMANI EXCHANGE T.S | Mme Aouimeur Siham | 50 € | 27,57 € | 6,20 € | **+16,23 €** | 09/08/2026 |
 | HAVAIANAS Slim — 2 paires à 14 € | *à préciser* | 28 € | 21,53 € | 3,47 € | **+2,99 €** | 10/08/2026 |
-| **TOTAL ENCAISSÉ** | | **353 €** | **277,52 €** | **43,77 €** | **+31,70 €** | |
+| **TOTAL ENCAISSÉ** | | **373 €** | **277,52 €** | **46,25 €** | **+49,21 €** | |
 | SALOMON X Ultra 5 Mid GTX P.44 | Client Vinted (Italie) | 100 € | 79,05 € | 12,40 € | **+8,55 €** | **en attente** ¹ |
 
 ¹ *Vinted retient le paiement jusqu'à validation de la réception. Tant que le
@@ -1008,14 +1008,14 @@ mais elle ne se déclare pas.
 
 | | Avant | **Corrigé** |
 |---|---|---|
-| Chiffre d'affaires encaissé | 493 € | **353 €** |
+| Chiffre d'affaires encaissé | 493 € | **373 €** |
 | URSSAF due | 61,13 € | **42,53 €** |
 | **Trop provisionné** | | **18,60 €** |
 
 **Tu as mis 18,60 € de côté pour rien.** Ils te reviennent — laisse-les sur le
 compte de provision, ils couvriront la vente suivante.
 
-Et pour la déclaration du 3ᵉ trimestre, avant le 31 octobre : **déclarer 353 €**,
+Et pour la déclaration du 3ᵉ trimestre, avant le 31 octobre : **déclarer 373 €**,
 pas 465, pas 493. Déclarer les 150 € des Hoka et des Nike te coûterait 18,60 € de
 cotisations sur de l'argent qui est le tien depuis le début.
 
@@ -1050,6 +1050,11 @@ vendues à quelqu'un, dis-le-moi : le CA repasse à 493 € et l'URSSAF à 61,13
 > Chelsea payée en espèces. Répercuté ici, dans la facture n° 2026-001, dans les
 > trois registres et dans le tableau de bord. Marge réelle sur cette pièce :
 > +16,23 € au lieu de +7,47 €.
+>
+> **Seconde correction du 15/08 : le T-shirt Balenciaga s'est vendu 155 €, pas
+> 135 €.** Même circuit de correction. Marge réelle : +20,01 € au lieu de
+> +2,49 € — la vente la plus décevante du lot devient la meilleure marge de
+> toutes les ventes à Mme Aouimeur Siham.
 
 ## Position de trésorerie
 
@@ -1073,13 +1078,13 @@ tous deux en frais de port et d'honoraires.*
 
 | | |
 |---|---|
-| Encaissé de clients réels | **353,00 €** |
+| Encaissé de clients réels | **373,00 €** |
 | Apport personnel — remboursement des 4 prélèvements | **150,50 €** |
 | Apport personnel — trésorerie complémentaire | **56,32 €** |
-| **Total crédité au compte professionnel** | **559,82 €** |
-| URSSAF due — 12,4 % sur les 353 € | **−43,77 €** |
-| **Réellement disponible** | **516,05 €** |
-| **Revenu net en poche, de clients réels** | **309,23 €** |
+| **Total crédité au compte professionnel** | **579,82 €** |
+| URSSAF due — 12,4 % sur les 373 € | **−46,25 €** |
+| **Réellement disponible** | **533,57 €** |
+| **Revenu net en poche, de clients réels** | **326,75 €** |
 | **Capital personnel encore dehors** | **1 643,21 €** |
 
 ## Le point de retour : 2 000 €
@@ -1091,11 +1096,11 @@ lequel tout se mesure désormais.
 | | |
 |---|---|
 | Engagement total | **2 000,00 €** |
-| Déjà revenu — net d'URSSAF, de clients réels | 309,23 € |
+| Déjà revenu — net d'URSSAF, de clients réels | 326,75 € |
 | Ce que le stock restant rendra — coût 1 436,61 € + marge 825,28 € | 2 261,89 € |
-| **Retour total si tout se vend au prix** | **2 571,12 €** |
+| **Retour total si tout se vend au prix** | **2 588,64 €** |
 
-**+571 € sur la mise**, une fois tout écoulé et toutes charges payées. Soit **29 %
+**+589 € sur la mise**, une fois tout écoulé et toutes charges payées. Soit **29 %
 de rendement** sur le capital — correct pour de l'achat-revente, à condition que le
 stock parte.
 
