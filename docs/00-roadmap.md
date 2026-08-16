@@ -108,7 +108,7 @@ Thème retenu : **Dawn**.
 | Forfait | ✅ Basic, promo **1 €/mois jusqu'au 10/11/2026** |
 | POS Pro | ✅ désinstallé — essai qui aurait bascule à ~89 €/mois |
 | Domaine des comptes clients | ✅ basculé le 16/08 sur compte.maison-nsaia.fr |
-| Thème Dawn installé et réglé | ✅ publié le 16/08 — était resté en brouillon, la boutique tournait sur Horizon (thème par défaut) jusque-là. Structure des sections de la page d'accueil encore à faire. |
+| Thème Dawn installé et réglé | ✅ publié le 16/08 — était resté en brouillon, la boutique tournait sur Horizon (thème par défaut) jusque-là. Bannière d'accueil (photo sac, position « en haut au centre », nuancier sombre) et barre d'annonces (2 messages en rotation) faites le 16/08. Reste de la structure des sections de la page d'accueil encore à faire. |
 | Photos produits harmonisées | ⬜ plus tard |
 | Expédition et livraison (France, Europe, retrait sur RDV) | ✅ configuré le 16/08 — voir détail ci-dessous |
 | Marché Union européenne | ✅ créé et actif |
@@ -121,7 +121,9 @@ téléphone. Tout le reste de l'admin passe bien en mobile.
 1. ~~**URL des comptes clients**~~ ✅ fait le 16/08 — basculé sur
    `compte.maison-nsaia.fr` en domaine principal (il était connecté mais
    configuré en simple redirection).
-2. **Thème Dawn** → installation et réglages (voir `01-theme.md`).
+2. ~~**Thème Dawn**~~ ✅ publié le 16/08, réglages de la bannière d'accueil et
+   de la barre d'annonces faits (voir tableau ci-dessus). Reste : finir la
+   structure des autres sections de la page d'accueil.
 
 ### À faire dès réception du RIB
 
