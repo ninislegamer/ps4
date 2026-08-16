@@ -129,12 +129,19 @@ téléphone. Tout le reste de l'admin passe bien en mobile.
 
 3. ~~**Shopify Payments — IBAN.**~~ ✅ fait le 16/08 — compte EI IZRI NACIM
    ajouté et confirmé. Les versements ne sont plus suspendus.
-4. **PayPal Business — rattacher le compte bancaire.** Le compte PayPal
-   Business existe déjà (créé le 14/08). Sur paypal.com, rattacher l'IBAN
-   reçu, puis Shopify → *Paiements* → *Moyens de paiement supplémentaires* →
-   PayPal → relier le compte, **en second moyen de paiement** (Shopify
-   Payments reste le principal — voir la section PayPal plus bas : la
-   commission PayPal est environ le double de Shopify Payments).
+4. **PayPal Business — rattacher le compte bancaire.** 🔄 En cours depuis le
+   16/08 : IBAN Boursorama saisi sur PayPal (Portefeuille → Comptes
+   bancaires et cartes), statut **« Confirmation en attente »** — PayPal a
+   envoyé un virement test de 0,01 € à confirmer, qui peut prendre jusqu'à
+   1-2 jours ouvrés. **Ne pas retoucher/re-ajouter le compte d'ici là**
+   (relancer la demande la remet à zéro). Une fois le centime visible sur le
+   relevé Boursorama : revenir dans la même section, cliquer sur
+   « Confirmer » et saisir le montant exact. Ensuite seulement, relier
+   PayPal à Shopify → *Paiements* → *Moyens de paiement supplémentaires* →
+   PayPal, **en second moyen de paiement** (Shopify Payments reste le
+   principal — commission PayPal environ le double de Shopify Payments).
+   Point mineur à corriger à l'occasion : le nom d'entreprise sur PayPal est
+   affiché « Nsaia », à harmoniser en « Maison Nsaia ».
 
 Rappel : carte, Apple Pay et Google Pay sont déjà couverts par Shopify Payments.
 PayPal est un moyen de paiement supplémentaire, pas un remplacement.
