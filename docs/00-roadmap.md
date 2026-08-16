@@ -98,8 +98,8 @@ Thème retenu : **Dawn**.
 | Compte Shopify + boutique | ✅ créé |
 | Domaine connecté (`@`, `www`, principal) | ✅ connecté |
 | Shopify Payments — acceptation | ✅ active |
-| Shopify Payments — versements | ⏸️ IBAN manquant, en attente du RIB |
-| PayPal Business | ⏸️ en attente du RIB |
+| Shopify Payments — versements | ✅ IBAN pro (EI IZRI NACIM) ajouté et confirmé le 16/08 |
+| PayPal Business | ⏸️ en attente du rattachement du compte bancaire |
 | Boîte e-mail contact@maison-nsaia.fr | ✅ créée (Gandi) |
 | E-mail expéditeur Shopify | ✅ authentifié (6 CNAME DKIM) |
 | DMARC | ✅ `_dmarc` TXT `v=DMARC1; p=none` |
@@ -125,15 +125,16 @@ téléphone. Tout le reste de l'admin passe bien en mobile.
    de la barre d'annonces faits (voir tableau ci-dessus). Reste : finir la
    structure des autres sections de la page d'accueil.
 
-### À faire dès réception du RIB
+### À faire maintenant que le RIB est là
 
-3. **Shopify Payments — IBAN.** *Paramètres* → *Paiements* → **Ajouter un
-   compte**. Sans ça, l'encaissement fonctionne mais les versements restent
-   suspendus.
-4. **PayPal Business.** Créer le compte sur paypal.com (possible dès maintenant
-   sans RIB : e-mail + SIRET suffisent, le compte bancaire se rattache plus
-   tard), puis Shopify → *Paiements* → *Moyens de paiement supplémentaires* →
-   PayPal → relier le compte.
+3. ~~**Shopify Payments — IBAN.**~~ ✅ fait le 16/08 — compte EI IZRI NACIM
+   ajouté et confirmé. Les versements ne sont plus suspendus.
+4. **PayPal Business — rattacher le compte bancaire.** Le compte PayPal
+   Business existe déjà (créé le 14/08). Sur paypal.com, rattacher l'IBAN
+   reçu, puis Shopify → *Paiements* → *Moyens de paiement supplémentaires* →
+   PayPal → relier le compte, **en second moyen de paiement** (Shopify
+   Payments reste le principal — voir la section PayPal plus bas : la
+   commission PayPal est environ le double de Shopify Payments).
 
 Rappel : carte, Apple Pay et Google Pay sont déjà couverts par Shopify Payments.
 PayPal est un moyen de paiement supplémentaire, pas un remplacement.
