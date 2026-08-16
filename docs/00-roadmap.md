@@ -226,6 +226,22 @@ En retour : un titre et une description conformes au brief de marque
 (`brief-ia.md`) — ton de maison de vente, aucune information inventée, rareté
 énoncée par le fait et non par l'adjectif.
 
+**Deux lignes de clôture systématiques**, sur chaque fiche, en plus de la
+description propre à la pièce :
+
+```
+Pièce authentifiée en maison de vente. Un seul exemplaire disponible.
+
+Vendu par un professionnel : garanties légales de conformité et contre
+les vices cachés applicables. Détail dans les conditions générales de vente.
+```
+
+Mesures réelles (épaules/poitrine/longueur sur un vêtement, longueur de semelle
+intérieure sur une chaussure) : à ajouter dès que la pièce est sous la main —
+non bloquant, laissé de côté tant que le stock n'est pas physiquement disponible
+pour mesurer. **Première fiche mise à jour avec les deux lignes : adidas x
+Stella McCartney — ASMC Ultraboost 21 Metallic — 36, le 16/08.**
+
 Avantage sur une génération automatique : chaque fiche est relue, et rien
 d'inexact ne peut être publié sur une pièce dont l'authenticité est l'argument
 principal.
