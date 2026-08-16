@@ -140,14 +140,24 @@ PayPal est un moyen de paiement supplémentaire, pas un remplacement.
 ### À faire avant l'ouverture de la boutique
 
 - ~~**Expédition et livraison**~~ ✅ fait le 16/08 : zone France (Colissimo
-  domicile 8,90 €, Mondial Relay point relais 5,90 €, 3-5 jours ouvrables
-  chacun), zone Europe (Livraison suivi 16,90 €, 5-8 jours ouvrables, marché
-  Union européenne créé et actif — 26 pays vendables), Retrait en magasin
-  gratuit sur rendez-vous (2 rue du Levant, 31700 Beauzelle). Pas d'agrégateur
-  (Boxtal/Sendcloud) pour l'instant — tarifs forfaitaires manuels, à
-  reconsidérer si le volume d'envois augmente.
-- **Confidentialité des clients** — RGPD, bandeau cookies.
-- **Politiques** — CGV, mentions légales, retours (dépend de 0.1).
+  domicile 8,90 €, 2-5 jours ouvrables ; Mondial Relay point relais 5,90 €,
+  3-5 jours ouvrables), zone Europe (Livraison suivi 16,90 €, 5-8 jours
+  ouvrables, marché Union européenne créé et actif — 26 pays vendables),
+  Retrait en magasin gratuit sur rendez-vous (2 rue du Levant, 31700
+  Beauzelle). Pas d'agrégateur (Boxtal/Sendcloud) pour l'instant — tarifs
+  forfaitaires manuels, à reconsidérer si le volume d'envois augmente.
+- ~~**Confidentialité des clients**~~ ✅ vérifié le 16/08 — déjà entièrement
+  automatisé par Shopify : politique de confidentialité publiée, bandeau
+  cookies actif sur toute l'UE, page d'opposition au partage de données non
+  requise pour nos zones de vente. Rien à configurer manuellement.
+- ~~**Politiques**~~ ✅ fait le 16/08 — Coordonnées, Mention légale,
+  Politique de retour, Politique d'expédition, Conditions de service et
+  Politique de confidentialité tous publiés. **Conditions de vente
+  publiées avec une réserve** : la section 9 (médiateur de la consommation,
+  obligatoire art. L616-1 du code de la consommation) est encore un
+  placeholder « à compléter ». Aucun médiateur choisi ni inscription faite
+  — reporté volontairement à plus tard. **Ne pas considérer la boutique
+  ouvrable tant que cette section n'est pas complétée et republiée.**
 
 **Forfait : ne rien changer avant novembre 2026.** La boutique est sur Basic avec
 une promo à 1 €/mois jusqu'au 10/11/2026 (tarif plein 36 €). Basculer en annuel
