@@ -12,10 +12,16 @@ de lui confirmer.
 
 # 1. URGENT — fin de saison estivale
 
-## Havaianas Slim fuchsia — 10 paires restantes, à 18 € l'unité
+## Havaianas Slim fuchsia — 10 paires restantes, à 16 € l'unité
 
-**18 € la paire** · coût **10,77 €** · seuil **12,29 €** · plancher **16 €**
-· marge **50,01 €** sur les dix
+**16 € la paire** · coût **10,77 €** · plancher **15 €**
+· marge **32,49 €** sur les dix
+
+> **Prix revu le 16/08 : 18 € → 16 €**, après recherche de la concurrence sur
+> Vinted/Leboncoin (annonces comparables trouvées à 15-16 €). 18 € restait
+> vendable mais plus lentement ; 16 € s'aligne sur le marché constaté sans
+> brader — encore 21 % au-dessus du plancher. Le plancher descend en
+> conséquence de 16 € à **15 €**, à ne jamais franchir même en négociation.
 
 > Depuis la facture : *« Lot de 12 paires de tongs HAVAIANAS - FUCHSIA - 35/36 -
 > Possibilité de coloris supplémentaires dans certains lots ou tailles variées -
@@ -26,30 +32,32 @@ de lui confirmer.
 | Prix unitaire | 10 paires | URSSAF | **Marge** | Marge/paire |
 |---------------|-----------|--------|-----------|-------------|
 | 14 € — prix pratiqué | 140 € | 17,36 € | +14,97 € | +1,50 € |
-| 16 € — prix plancher | 160 € | 19,84 € | +32,49 € | +3,25 € |
-| **18 € — retenu** | **180 €** | 22,32 € | **+50,01 €** | **+5,00 €** |
+| 15 € — nouveau plancher | 150 € | 18,60 € | +23,73 € | +2,37 € |
+| **16 € — retenu** | **160 €** | 19,84 € | **+32,49 €** | **+3,25 €** |
+| 18 € — ancien prix retenu | 180 € | 22,32 € | +50,01 € | +5,00 € |
 | 20 € | 200 € | 24,80 € | +67,53 € | +6,75 € |
 
 Les deux premières sont parties vite, à 14 € — **la moitié du prix boutique**,
 qui est entre 26 et 30 € la paire. Une vente rapide au premier prix est le signal
 qu'on a laissé de l'argent sur la table.
 
-**Passer les dix restantes à 18 €.** C'est 35 % sous le neuf, ça reste une bonne
-affaire lisible pour l'acheteur, et ça multiplie la marge par plus de trois :
-50 € au lieu de 15 €.
+**Passer les dix restantes à 16 €.** C'est proche du prix constaté chez les
+concurrents Vinted/Leboncoin (15-16 €), donc une annonce qui se vend sans
+traîner, et ça plus que double la marge par rapport au prix pratiqué au départ :
+32,49 € au lieu de 14,97 €.
 
-Le prix plancher est à 16 € : ne jamais descendre en dessous, même en négociation.
+Le prix plancher est à 15 € : ne jamais descendre en dessous, même en négociation.
 
 ### Vendre à l'unité, pas en lot
 
-En lot de 10 à 139 €, la marge tombe à **14,10 €**. À l'unité à 18 €, elle monte à
-**50,01 €**. Le lot ne se justifiait que pour économiser des transactions — mais
+En lot de 10 à 139 €, la marge tombe à **14,10 €**. À l'unité à 16 €, elle monte à
+**32,49 €**. Le lot ne se justifiait que pour économiser des transactions — mais
 la preuve est faite que les paires partent seules, et une paire de tongs neuve
 pèse 500 g, donc le port ne pose aucun problème.
 
 **Vinted marche pour ce produit** : les deux ventes y ont été faites, dont une en
 Allemagne. Sur un compte particulier, le vendeur ne paie pas de commission et
-l'acheteur paie le port — les 18 € sont encaissés en entier.
+l'acheteur paie le port — les 16 € sont encaissés en entier.
 
 **Titre**
 ```
@@ -67,7 +75,7 @@ Le modèle Slim est la version fine et féminine de la Havaianas
 classique : bride plus étroite, semelle profilée.
 Prix boutique : 26 à 30 €.
 
-18 € la paire.
+16 € la paire.
 
 Plusieurs paires disponibles.
 Remise en main propre, ou envoi suivi aux frais de l'acheteur.
