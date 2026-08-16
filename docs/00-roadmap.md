@@ -107,7 +107,7 @@ Thème retenu : **Dawn**.
 | Double authentification | ✅ active (SMS) — passer à une appli + codes de secours |
 | Forfait | ✅ Basic, promo **1 €/mois jusqu'au 10/11/2026** |
 | POS Pro | ✅ désinstallé — essai qui aurait bascule à ~89 €/mois |
-| Domaine des comptes clients | 🔄 à basculer sur maison-nsaia.fr |
+| Domaine des comptes clients | ✅ basculé le 16/08 sur compte.maison-nsaia.fr |
 | Thème Dawn installé et réglé | ⬜ à faire sur ordinateur |
 | Photos produits harmonisées | ⬜ plus tard |
 | Expédition et livraison (France, Europe, retrait sur RDV) | ✅ configuré le 16/08 — voir détail ci-dessous |
@@ -118,10 +118,9 @@ téléphone. Tout le reste de l'admin passe bien en mobile.
 
 ### À faire à la prochaine session (sur ordinateur)
 
-1. **URL des comptes clients** → basculer sur `compte.maison-nsaia.fr`.
-   *Paramètres* → *Comptes client* → section **URL** → *Gérer*.
-   Le DNS est déjà en place (CNAME `compte` → `shops.myshopify.com.`), il ne
-   manque que la sélection du domaine. Le sélecteur ne s'affiche pas sur mobile.
+1. ~~**URL des comptes clients**~~ ✅ fait le 16/08 — basculé sur
+   `compte.maison-nsaia.fr` en domaine principal (il était connecté mais
+   configuré en simple redirection).
 2. **Thème Dawn** → installation et réglages (voir `01-theme.md`).
 
 ### À faire dès réception du RIB
