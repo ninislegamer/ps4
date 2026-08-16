@@ -108,7 +108,7 @@ Thème retenu : **Dawn**.
 | Forfait | ✅ Basic, promo **1 €/mois jusqu'au 10/11/2026** |
 | POS Pro | ✅ désinstallé — essai qui aurait bascule à ~89 €/mois |
 | Domaine des comptes clients | ✅ basculé le 16/08 sur compte.maison-nsaia.fr |
-| Thème Dawn installé et réglé | ✅ publié le 16/08 — était resté en brouillon, la boutique tournait sur Horizon (thème par défaut) jusque-là. Bannière d'accueil (photo sac, position « en haut au centre », nuancier sombre) et barre d'annonces (2 messages en rotation) faites le 16/08. Reste de la structure des sections de la page d'accueil encore à faire. |
+| Thème Dawn installé et réglé | ✅ publié le 16/08 — était resté en brouillon, la boutique tournait sur Horizon (thème par défaut) jusque-là. Bannière d'accueil, barre d'annonces (2 messages en rotation), section « Une provenance vérifiée » (texte enrichi) et newsletter du pied de page traduite, tout fait le 16/08. Reste : la page « À propos » dédiée (chantier n°4). |
 | Photos produits harmonisées | ⬜ plus tard |
 | Expédition et livraison (France, Europe, retrait sur RDV) | ✅ configuré le 16/08 — voir détail ci-dessous |
 | Marché Union européenne | ✅ créé et actif |
