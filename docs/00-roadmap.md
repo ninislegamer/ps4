@@ -98,7 +98,7 @@ Thème retenu : **Dawn**.
 | Compte Shopify + boutique | ✅ créé |
 | Domaine connecté (`@`, `www`, principal) | ✅ connecté |
 | Shopify Payments — acceptation | ✅ active |
-| Shopify Payments — versements | 🔄 IBAN pro (EI IZRI NACIM, compte finissant par 6345) ajouté le 16/08, mais le bandeau « Les versements sont suspendus » persiste — vérification complémentaire en cours, voir ce qu'exige le bouton « Mettre à jour » |
+| Shopify Payments — versements | 🔄 IBAN pro ajouté le 16/08 (BOURSORAMA, EI IZRI NACIM, compte finissant par 6345) — délai de sécurité standard Shopify après changement de coordonnées bancaires, reprise automatique des versements le **20/08/2026**, rien à faire d'ici là |
 | PayPal Business | ⏸️ en attente du rattachement du compte bancaire |
 | Boîte e-mail contact@maison-nsaia.fr | ✅ créée (Gandi) |
 | E-mail expéditeur Shopify | ✅ authentifié (6 CNAME DKIM) |
