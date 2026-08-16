@@ -110,6 +110,8 @@ Thème retenu : **Dawn**.
 | Domaine des comptes clients | 🔄 à basculer sur maison-nsaia.fr |
 | Thème Dawn installé et réglé | ⬜ à faire sur ordinateur |
 | Photos produits harmonisées | ⬜ plus tard |
+| Expédition et livraison (France, Europe, retrait sur RDV) | ✅ configuré le 16/08 — voir détail ci-dessous |
+| Marché Union européenne | ✅ créé et actif |
 
 À retenir : l'éditeur de thème Shopify est inutilisable confortablement sur
 téléphone. Tout le reste de l'admin passe bien en mobile.
@@ -137,9 +139,13 @@ PayPal est un moyen de paiement supplémentaire, pas un remplacement.
 
 ### À faire avant l'ouverture de la boutique
 
-- **Expédition et livraison** — choisir l'agrégateur, puis créer les zones
-  **France, Belgique, Luxembourg** avec des tarifs distincts par zone
-  (voir « Ouverture à l'international »).
+- ~~**Expédition et livraison**~~ ✅ fait le 16/08 : zone France (Colissimo
+  domicile 8,90 €, Mondial Relay point relais 5,90 €, 3-5 jours ouvrables
+  chacun), zone Europe (Livraison suivi 16,90 €, 5-8 jours ouvrables, marché
+  Union européenne créé et actif — 26 pays vendables), Retrait en magasin
+  gratuit sur rendez-vous (2 rue du Levant, 31700 Beauzelle). Pas d'agrégateur
+  (Boxtal/Sendcloud) pour l'instant — tarifs forfaitaires manuels, à
+  reconsidérer si le volume d'envois augmente.
 - **Confidentialité des clients** — RGPD, bandeau cookies.
 - **Politiques** — CGV, mentions légales, retours (dépend de 0.1).
 
