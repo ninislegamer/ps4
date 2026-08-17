@@ -129,6 +129,9 @@ téléphone. Tout le reste de l'admin passe bien en mobile.
 2. ~~**Thème Dawn**~~ ✅ publié le 16/08, réglages de la bannière d'accueil et
    de la barre d'annonces faits (voir tableau ci-dessus). Reste : finir la
    structure des autres sections de la page d'accueil.
+3. **Configurer contact@maison-nsaia.fr sur Outlook** — boîte hébergée chez
+   Gandi (webmail.gandi.net). À faire en IMAP/SMTP : demandé le 17/08, pas
+   encore fait.
 
 ### À faire maintenant que le RIB est là
 
