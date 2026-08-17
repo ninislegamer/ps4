@@ -621,191 +621,6 @@ uniquement, pas d'expédition.
 sur la 122. Une photo du défaut vaut mieux qu'une phrase : elle prouve la bonne
 foi et coupe court à la négociation.
 
-# 5 bis. POKÉMON — import Meccha Japan, facture #FA429713
-
-**Le vrai coût était 94,93 €, pas 65 €.** La facture donne 81,16 € de produits
-plus 13,77 € de port. Réparti sur les huit unités de vente, le port pèse 1,72 €
-par annonce. Les prix ci-dessous sont recalculés là-dessus.
-
-**Les deux displays n'ont pas le même nombre de boosters** — c'est ce qui rend la
-comparaison des prix trompeuse :
-
-| Produit | Boosters par display | Cartes par booster |
-|---------|----------------------|--------------------|
-| **Nihil Zero M3** — celui que tu as acheté | **30** | 5 |
-| **High Class MEGA Dream ex M2a** | **10** | 10 |
-
-Les High Class packs sont vendus par dix, avec des boosters deux fois plus épais
-et un ex garanti dans chacun : c'est pour ça qu'un booster M2a vaut 12,99 € quand
-un booster M3 en vaut 3,50 €.
-
-| Annonce | Coût réel | Seuil | Prix | URSSAF | **Marge** |
-|---------|-----------|-------|------|--------|-----------|
-| Lot de 15 boosters Nihil Zero ×2 | 34,62 €/lot | 39,52 € | **49 €** | 6,08 € | **+8,30 €** |
-| Lot de 2 boosters Storm Emeralda | 12,74 € | 14,54 € | **19 €** | 2,36 € | **+3,90 €** |
-| **Total — 3 annonces** | **81,98 €** | | **117 €** | **14,51 €** | **+20,51 €** |
-
-Le booster High Class MEGA Dream ex est **prélevé pour usage personnel** : coût
-12,95 €, hors de ce calcul. Les 94,93 € de la facture se répartissent donc en
-81,98 € de stock à vendre et 12,95 € sortis du stock.
-
-**Leboncoin et remise en main propre, pas eBay.** Sur un lot à 49 €, eBay
-prélèverait 6,23 € de commission — les trois quarts de la marge. Sans commission,
-Leboncoin garde tout.
-
-### TVA d'importation : réglé, rien à payer
-
-**Aucune TVA ni frais réclamés à la livraison.** Le coût s'arrête à 94,93 € : rien
-ne vient s'y ajouter.
-
-C'est le bon dénouement, et il s'explique : sous 150 €, le vendeur peut collecter
-la TVA en amont via le guichet **IOSS** — le colis traverse alors la douane sans
-retenue et sans frais de dossier. Meccha Japan pratique ce régime, ce qui
-explique l'absence de ligne de taxe séparée sur la facture.
-
-**Ce qu'il faut en retenir pour la suite :**
-
-| Montant de commande | Ce qui s'applique |
-|---|---|
-| **Jusqu'à 150 €** | TVA collectée par le vendeur si IOSS, pas de droits de douane, rien à payer à la livraison |
-| **Au-delà de 150 €** | Droits de douane **en plus** de la TVA, et frais de dossier du transporteur |
-
-**150 € est le bon plafond de commande japonaise.** Passer à 200 € pour
-« amortir le port » coûte plus cher que le port économisé. Et vérifier que le
-vendeur pratique l'IOSS avant de commander ailleurs : sans IOSS, il faut ajouter
-20 % de TVA plus 8 à 15 € de frais de dossier au coût d'achat, ce qui suffit à
-effacer la marge.
-
-## Booster box Nihil Zero M3 — la décision à prendre avant tout
-
-*coût 69,24 € · display scellé sous blister, 30 boosters de 5 cartes*
-
-**La box est encore scellée.** C'est une décision qui ne se reprend pas : une fois
-le blister ouvert, la box n'existe plus comme objet, il ne reste que 30 boosters.
-
-| Option | Recette | URSSAF | **Marge** | Annonces | **Marge / annonce** |
-|--------|---------|--------|-----------|----------|---------------------|
-| Box scellée entière à 89 € | 89 € | 11,04 € | +8,72 € | 1 | 8,72 € |
-| **2 lots de 15 à 49 €** | **98 €** | 12,15 € | **+16,61 €** | **2** | **8,30 €** |
-| 3 lots de 10 à 33 € | 99 € | 12,28 € | +17,48 € | 3 | 5,83 € |
-| 6 lots de 5 à 17 € | 102 € | 12,65 € | +20,11 € | 6 | 3,35 € |
-| 30 boosters à l'unité à 3,40 € | 102 € | 12,65 € | +20,11 € | 30 | 0,67 € |
-
-**Retenu : deux lots de 15 à 49 €.**
-
-Découper à l'infini ne rapporte presque rien de plus. Entre 2 annonces et 30, il y
-a **3,50 € de marge d'écart** — et 28 rendez-vous. La courbe s'aplatit tout de
-suite parce que l'URSSAF prend 12,4 % à chaque fois, quelle que soit la taille du
-lot.
-
-Vendre la box scellée à 89 € rapporterait presque autant par annonce, mais 89 €
-est le prix d'un revendeur avec garantie, pas d'un particulier sur Leboncoin. À
-82 €, le prix réaliste, il ne reste que 2,59 €. **La box scellée ne vaut le coup
-que si un collectionneur la paie plein tarif** — si quelqu'un propose 85 € ou
-plus sans marchander, prends-le et ne l'ouvre pas.
-
-49 € les 15 boosters, c'est **3,27 € l'unité**, sous les 3,50 € de Pikastore et
-au-dessus du prix au display. C'est la bonne place.
-
-### L'argument qui fait vendre : boosters non pesés
-
-Le marché des cartes est infesté de boosters **pesés ou triés** — le vendeur pèse
-les sachets pour retirer ceux qui contiennent une carte rare avant de revendre le
-reste. Un acheteur averti cherche cette garantie en premier.
-
-**Tu peux la donner honnêtement** : ta box vient scellée du Japon, tu l'ouvres
-devant témoin ou en vidéo, et tu ne touches à rien. Photographie le blister intact
-**avant** de l'ouvrir — c'est ta preuve.
-
-## Lot de 15 boosters Nihil Zero M3 — 49 €, deux lots
-
-*coût 34,62 € le lot · marge 8,30 €*
-
-```
-Lot 15 boosters Pokémon Nihil Zero M3 japonais scellés - display ouvert devant vous
-```
-```
-LOT DE 15 BOOSTERS POKÉMON — NIHIL ZERO (MUNIKIS ZERO) M3
-
-15 boosters neufs et scellés, jamais ouverts.
-5 cartes par booster, soit 75 cartes au total.
-
-BOOSTERS NON PESÉS, NON TRIÉS. Ils sortent d'un display scellé
-importé directement du Japon, ouvert sans être fouillé. Photo du
-blister d'origine intact disponible.
-
-Nihil Zero, code M3, série MEGA — Méga-Évolution.
-Sorti au Japon le 23 janvier 2026.
-
-Têtes d'affiche : Mega Zygarde ex, première apparition dans le jeu
-de cartes, Mega Clefable ex, Mega Starmie ex et Meowth ex.
-
-49 € le lot de 15, soit 3,27 € le booster.
-Prix boutique en France : 3,50 € l'unité.
-
-Deux lots disponibles. Remise en main propre ou envoi suivi.
-```
-
-## Booster High Class MEGA Dream ex M2a — PRÉLEVÉ, usage personnel
-
-*coût 12,95 € · marché 12,99 € · sorti du stock le 14/08/2026*
-
-**Gardé pour usage personnel.** C'est le bon arbitrage : le booster avait coûté
-12,95 € pour un prix de marché de 12,99 €, confirmé par deux sources concordantes
-— le display de 10 à 129,94 € chez Kaufland, et le booster seul relevé au même
-prix. Vendu, il perdait 1,57 € après URSSAF. Gardé, il vaut 12,99 €.
-
-Un article qu'on ne peut pas vendre avec profit est mieux employé chez soi que
-bradé. La seule chose qui compte, c'est de le sortir proprement du stock.
-
-**Ligne de sortie inscrite au registre des objets mobiliers**, mention « usage
-personnel, sans contrepartie ». Rien au livre des recettes : il n'y a pas
-d'encaissement.
-
-### Les prélèvements personnels à ce jour
-
-| Article | Coût | Motif |
-|---------|------|-------|
-| Pompe ROBBY VP550W ligne 131 | 19,41 € | Ne marche qu'en mode auto, invendable au prix |
-| Booster High Class MEGA Dream ex | 12,95 € | Coût égal au prix du marché |
-| **Total sorti du stock sans recette** | **32,36 €** | |
-
-Les deux fois pour la même raison : un article acheté trop cher par rapport au
-marché. C'est la règle des deux tiers qui les avait signalés. Le prélèvement
-n'est pas une perte cachée, c'est la façon honnête de solder une erreur d'achat —
-mais chaque ligne doit figurer au registre, sinon le stock ne tombe jamais juste.
-
-## Lot de 2 boosters MEGA Storm Emeralda M6 — 19 €
-
-*coût 12,74 € le lot · seuil 14,54 € · marge 3,90 €*
-
-Le set est sorti au **31 juillet 2026** — il a deux semaines. C'est la série
-Mega Rayquaza ex, et les prix de détail à Tokyo sont montés à trois fois le prix
-public. C'est le seul des trois où la demande travaille pour toi.
-
-**Publier vite.** Un set neuf se vend cher les six premières semaines, puis
-retombe quand les displays inondent le marché.
-
-```
-Lot 2 boosters Pokémon Storm Emeralda M6 japonais scellés - Mega Rayquaza
-```
-```
-LOT DE 2 BOOSTERS POKÉMON — MEGA STORM EMERALDA (M6)
-
-2 boosters neufs et scellés, jamais ouverts.
-5 cartes par booster, soit 10 cartes au total.
-
-Storm Emeralda, code M6, série MEGA — Méga-Évolution.
-Sorti au Japon le 31 juillet 2026 : extension récente.
-
-Tête d'affiche : Mega Rayquaza ex.
-
-Version japonaise d'origine, importée directement du Japon.
-Facture d'importation disponible sur demande.
-
-Remise en main propre ou envoi suivi sous enveloppe matelassée.
-```
-
 ## Ballerines MASSIMO DUTTI P.41 — 61 €
 
 *coût **27,57 €** · marge **25,87 €*** · *59 → 61 € le 14/08, marché 70 €*
@@ -1027,20 +842,19 @@ Et pour la déclaration du 3ᵉ trimestre, avant le 31 octobre : **déclarer 373
 pas 465, pas 493. Déclarer les 150 € des Hoka et des Nike te coûterait 18,60 € de
 cotisations sur de l'argent qui est le tien depuis le début.
 
-### Les quatre articles gardés
+### Les trois articles gardés
 
 | Article | Coût | Motif |
 |---------|------|-------|
 | Baskets HOKA P.37 1/3 | 65,37 € | Gardées le 09/08/2026 |
 | Baskets NIKE Air Max Moto 2K P.44.5 | 52,77 € | Gardées le 09/08/2026 |
 | Pompe ROBBY VP550W ligne 131 | 19,41 € | Ne marche qu'en mode auto — sortie au 26/07/2026 |
-| Booster High Class MEGA Dream ex | 12,95 € | Coût égal au prix du marché — sortie au 03/08/2026 |
-| **Total sorti du stock sans recette** | **150,50 €** | |
+| **Total sorti du stock sans recette** | **137,55 €** | |
 
 *Convention retenue : le prélèvement est daté au jour de la facture d'achat.*
 
-**Apport personnel de 150,50 € versé sur le compte professionnel**, libellé
-« apport personnel », couvrant les quatre prélèvements à leur coût d'achat exact.
+**Apport personnel de 137,55 € versé sur le compte professionnel**, libellé
+« apport personnel », couvrant les trois prélèvements à leur coût d'achat exact.
 Ce n'est ni une recette ni un chiffre d'affaires : aucune URSSAF, rien à
 déclarer. Il rétablit simplement la trésorerie au niveau du stock sorti.
 
@@ -1071,28 +885,26 @@ ils sont déjà couverts par les onze factures ADN. Rien ne manque au tableau de
 stock. La position réelle n'est donc pas un solde de caisse, c'est un capital
 immobilisé.
 
-*Total mis à jour au 14/08/2026, après réception des deux dernières factures :
-1 875,15 € → **1 943,68 €**. L'import Pokémon coûtait 94,93 € et non 65 €, les
-pompes Robby 83,60 € et non 45 €. **68,53 € de coûts que j'avais sous-estimés**,
-tous deux en frais de port et d'honoraires.*
+*Total mis à jour au 14/08/2026, après réception des deux dernières factures et retrait des Pokémon (achetés à titre personnel) :
+1 875,15 € → 1 848,75 € (retrait de 94,93 € pour l'import Pokémon + 12,95 € pour le booster gardé = 107,88 €). Les pompes Robby coûtaient 83,60 € et non 45 €. **38,60 € de coûts sous-estimés**.*
 
 | | |
 |---|---|
-| Total engagé — marchandise, livraison, import Japon | **1 943,68 €** |
+| Total engagé — marchandise, livraison | **1 848,75 €** |
 | Coût des 5 articles vendus | **−277,52 €** |
 | Coût de la Salomon, vendue non encaissée | **−79,05 €** |
-| Coût des 4 articles gardés | **−150,50 €** |
-| **Stock restant, à son coût d'achat** | **1 436,61 €** |
+| Coût des 3 articles gardés | **−137,55 €** |
+| **Stock restant, à son coût d'achat** | **1 354,63 €** |
 
 | | |
 |---|---|
 | Encaissé de clients réels | **373,00 €** |
-| Apport personnel — remboursement des 4 prélèvements | **150,50 €** |
-| **Total crédité au compte professionnel** | **523,50 €** |
+| Apport personnel — remboursement des 3 prélèvements | **137,55 €** |
+| **Total crédité au compte professionnel** | **510,55 €** |
 | URSSAF due — 12,4 % sur les 373 € | **−46,25 €** |
-| **Réellement disponible** | **477,25 €** |
-| **Revenu net en poche, de clients réels** | **326,75 €** |
-| **Capital personnel encore dehors** | **1 616,93 €** |
+| **Réellement disponible** | **464,30 €** |
+| **Revenu net en poche, de clients réels** | **313,80 €** |
+| **Capital personnel encore dehors** | **1 534,95 €** |
 
 > **Correction du 15/08 : l'apport personnel « trésorerie complémentaire » de
 > 56,32 € est retiré.** Il n'a pas été versé sur le compte pro — seul l'apport de
@@ -1140,7 +952,7 @@ empiler du stock avec de l'argent qui ne tourne pas.
 - **Le nom de l'acheteur** pour chacune des sept ventes en espèces
 - **Lesquelles sont des ventes à la famille**, s'il y en a parmi elles
 - **L'acheteur des deux paires de Havaianas** — dernière ligne sans nom
-- **La date des prélèvements** de la pompe ligne 131 et du booster High Class
+- **La date du prélèvement** de la pompe ligne 131
 - **La facture du lot n°84** (2 pompes immergées ROBBY VP550W, 45 €) — seul
   achat sans justificatif, obligatoire au registre des achats
 

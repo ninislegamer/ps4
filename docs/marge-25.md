@@ -135,20 +135,12 @@ ventes à 5 € rapportent plus qu'une vente à 23 €.
 lot se découpe en pièces qui valent 15 à 20 € chacune, la marge se construit au
 volume, pas à la vente.
 
-### Les trois lignes Pokémon et les deux pompes
+### Les deux pompes
 
 | Article | Coût | Prix pour 25 € | Marché | Verdict |
 |---------|------|----------------|--------|---------|
-| Lot de 15 boosters ×2 | 34,62 € | 68,06 € | 52,50 € (15 × 3,50 €) | plafonné à **8,30 €** |
-| Display scellé Nihil Zero | 69,24 € | 107,58 € | 89,99 € MagicFranco, 99,90 € GeeKing Dome | plafonné à **8,72 €** à 89 € |
-| Storm Emeralda ×2 | 12,74 € | 43,08 € | ~12 € | plafonné à **3,90 €** |
 | Pompe ROBBY ligne 84 | 35,90 € | 69,52 € | 54,90 € neuve | plafonné à **11,40 €** |
 | Pompe ROBBY ligne 122 *(socle cassé)* | 28,29 € | 60,83 € | 54,90 € neuve, décotée | plafonné à **2,37 €** |
-
-Vendre le display scellé plutôt que de l'ouvrir rapporterait **moins** : 8,72 €
-en une vente contre 16,61 € en deux lots de quinze. La décision de fractionner
-reste la bonne — et elle est maintenant chiffrée contre un vrai prix de marché,
-89,99 € chez MagicFranco, 99,90 € chez GeeKing Dome.
 
 ---
 

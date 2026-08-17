@@ -187,10 +187,8 @@ Soit, en pratique, **la moitié du prix du marché**.
 | Pièce | Coût | Marché | Coût / marché | Marge réalisée |
 |-------|------|--------|---------------|----------------|
 | Sac Karl Lagerfeld | 52,77 € | 70 € | 75 % | +8,55 € |
-| Box Pokémon Nihil Zero | 69,24 € | 89,99 € | 77 % | +3,35 €/lot |
 | Baskets Lacoste | 59,88 € | 70 € | **86 %** | **+1,44 €** |
 | T-shirt Balenciaga | 115,77 € | 135 € | **86 %** | **+2,49 €** |
-| Booster High Class MEGA Dream ex | 12,95 € | 12,99 € | **100 %** | **−1,57 €** |
 
 Les deux ventes les plus décevantes et le seul achat invendable sont exactement
 les trois lignes au-dessus de 80 %. La règle ne prédit pas approximativement,
