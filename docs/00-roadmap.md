@@ -114,6 +114,7 @@ Thème retenu : **Dawn**.
 | Collection « Chaussures » | ✅ créée le 17/08 — automatique, catégorie = Chaussures OU Chaussures de sport, 6 articles (4 baskets, 1 randonnée, 1 ballerines). « Vêtements » pas encore ouverte (2 réf. seulement, sous le seuil de 5-6) |
 | Collection « Nouveautés » | ✅ créée le 17/08 — automatique, statut = Actif, triée par date de création la plus récente. « Dernière pièce » volontairement pas créée : tout le stock étant déjà à 1 exemplaire, elle ne filtrerait rien — à revoir seulement si des références en plusieurs quantités arrivent (ex. sportswear racheté en lot) |
 | Menu principal | ✅ « Chaussures » et « Nouveautés » ajoutés le 17/08, en plus d'Accueil / Catalogue / Contact / À propos |
+| Shopify Inbox (chat en direct) | ✅ installé le 17/08 — gratuit, message d'accueil en français, couleurs alignées automatiquement sur la charte |
 | Expédition et livraison (France, Europe, retrait sur RDV) | ✅ configuré le 16/08 — voir détail ci-dessous |
 | Marché Union européenne | ✅ créé et actif |
 
