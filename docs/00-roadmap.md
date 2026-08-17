@@ -132,6 +132,15 @@ téléphone. Tout le reste de l'admin passe bien en mobile.
 3. **Configurer contact@maison-nsaia.fr sur Outlook** — boîte hébergée chez
    Gandi (webmail.gandi.net). À faire en IMAP/SMTP : demandé le 17/08, pas
    encore fait.
+4. **Shopify Inbox — régler les horaires réels et le message d'accueil.**
+   Horaires actuellement sur « Disponible actuellement » (à remplacer par
+   les vraies disponibilités). Message d'accueil à changer pour :
+   ```
+   Bonjour, envoyez-nous un message si vous avez des questions.
+   Nous répondons généralement sous 24h.
+   ```
+   Ne pas activer l'option « Agent — répond aux clients à votre place » :
+   risque d'inventer des mesures/infos non vérifiées.
 
 ### À faire maintenant que le RIB est là
 
