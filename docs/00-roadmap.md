@@ -110,6 +110,8 @@ Thème retenu : **Dawn**.
 | Domaine des comptes clients | ✅ basculé le 16/08 sur compte.maison-nsaia.fr |
 | Thème Dawn installé et réglé | ✅ publié le 16/08 — était resté en brouillon, la boutique tournait sur Horizon (thème par défaut) jusque-là. Bannière d'accueil, barre d'annonces (2 messages en rotation), section « Une provenance vérifiée » (titre + texte + bouton « Découvrir mon histoire » relié à la page À propos), newsletter du pied de page traduite, page « À propos » créée (Visible) et ajoutée au menu principal, tout fait le 16/08. |
 | Photos produits harmonisées | ⬜ plus tard |
+| Système d'avis clients (Judge.me) | ✅ installé le 17/08 — plan gratuit, étoiles + avis en bas de fiche, 2 premiers avis Vinted importés (colline_dvl, lillyo456) |
+| Collection « Chaussures » | ✅ créée le 17/08 — automatique, catégorie = Chaussures OU Chaussures de sport, 6 articles (4 baskets, 1 randonnée, 1 ballerines). « Vêtements » pas encore ouverte (2 réf. seulement, sous le seuil de 5-6) |
 | Expédition et livraison (France, Europe, retrait sur RDV) | ✅ configuré le 16/08 — voir détail ci-dessous |
 | Marché Union européenne | ✅ créé et actif |
 
