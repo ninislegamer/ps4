@@ -885,8 +885,10 @@ ils sont déjà couverts par les onze factures ADN. Rien ne manque au tableau de
 stock. La position réelle n'est donc pas un solde de caisse, c'est un capital
 immobilisé.
 
-*Total mis à jour au 14/08/2026, après réception des deux dernières factures et retrait des Pokémon (achetés à titre personnel) :
-1 875,15 € → 1 848,75 € (retrait de 94,93 € pour l'import Pokémon + 12,95 € pour le booster gardé = 107,88 €). Les pompes Robby coûtaient 83,60 € et non 45 €. **38,60 € de coûts sous-estimés**.*
+*Total après retrait des achats Pokémon (import Meccha Japan, réglés à titre
+personnel, hors de l'activité) : 1 943,68 € → **1 848,75 €**, soit −94,93 €
+(69,24 € box Nihil Zero + 12,74 € boosters Storm Emeralda + 12,95 € booster
+High Class MEGA Dream ex).*
 
 | | |
 |---|---|
@@ -903,36 +905,32 @@ immobilisé.
 | **Total crédité au compte professionnel** | **510,55 €** |
 | URSSAF due — 12,4 % sur les 373 € | **−46,25 €** |
 | **Réellement disponible** | **464,30 €** |
-| **Revenu net en poche, de clients réels** | **313,80 €** |
-| **Capital personnel encore dehors** | **1 534,95 €** |
+| **Revenu net en poche, de clients réels** | **326,75 €** |
 
-> **Correction du 15/08 : l'apport personnel « trésorerie complémentaire » de
-> 56,32 € est retiré.** Il n'a pas été versé sur le compte pro — seul l'apport de
-> 150,50 € qui rembourse les quatre articles gardés est réel. Répercuté ici, dans
-> le tableau de bord et dans la section ci-dessous.
+Seuls 373 € sont du chiffre d'affaires. C'est ce montant-là qui se déclare
+avant le 31 octobre — pas 510,55 €. Les 137,55 € d'apport sont tes propres
+fonds : aucune URSSAF, rien à déclarer.
 
-## Le point de retour : 1 943,68 €
+## Le point de retour : 1 848,75 €
 
-L'engagement total, c'est le coût de toute la marchandise achetée — plus aucune
-caisse complémentaire à ajouter. C'est le repère contre lequel tout se mesure
-désormais.
+L'engagement total, c'est le coût de toute la marchandise achetée, Pokémon
+retiré. C'est le repère contre lequel tout se mesure désormais.
 
 | | |
 |---|---|
-| Engagement total | **1 943,68 €** |
+| Engagement total | **1 848,75 €** |
 | Déjà revenu — net d'URSSAF, de clients réels | 326,75 € |
-| Ce que le stock restant rendra — coût 1 436,61 € + marge 825,28 € | 2 261,89 € |
-| **Retour total si tout se vend au prix** | **2 588,64 €** |
+| Ce que le stock restant rendra — coût 1 354,63 € + marge 808,47 € | 2 163,10 € |
+| **Retour total si tout se vend au prix** | **2 489,85 €** |
 
-**+644,96 € sur la mise**, une fois tout écoulé et toutes charges payées. Soit
-**33,18 % de rendement** sur le capital — correct pour de l'achat-revente, à
+**+641,10 € sur la mise**, une fois tout écoulé et toutes charges payées. Soit
+**34,68 % de rendement** sur le capital — correct pour de l'achat-revente, à
 condition que le stock parte.
 
 **Chaque mois d'attente coûte 58 € de charges** à partir de novembre : un point de
 rendement par mois. Le temps est la seule variable qui joue contre toi.
 
-**15,5 % du capital est revenu.** C'est moins que les 22 % annoncés hier, parce
-que 150 € de ce qui semblait rentré était ton propre argent.
+**17,7 % du capital est revenu** (326,75 ÷ 1 848,75 €).
 
 **L'URSSAF est provisionnée au fil de l'eau, sur un compte séparé.** C'est la
 discipline qui fait tenir une micro-entreprise en achat-revente : l'URSSAF frappe
@@ -944,7 +942,7 @@ Reste à encaisser : **100 €** (Salomon, retenus par Vinted jusqu'à réceptio
 Italie), dont 12,40 € d'URSSAF.
 
 **Règle qui découle de ce constat : aucun nouvel achat tant que le capital
-récupéré n'atteint pas 50 %**, soit environ 940 € encaissés. Acheter avant, c'est
+récupéré n'atteint pas 50 %**, soit environ 924 € encaissés. Acheter avant, c'est
 empiler du stock avec de l'argent qui ne tourne pas.
 
 ## Ce qu'il reste à compléter
