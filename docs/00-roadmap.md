@@ -171,10 +171,12 @@ Articles Morgan — signalés par le client, remis à plus tard.
    désormais la photo de face. Les 14 autres fiches étaient déjà
    correctes.
 3. **Mail de bienvenue — à intégrer dans Shopify Messaging.** Texte rédigé
-   le 20/08 (voir plus bas), l'app est déjà installée. L'automatisation
-   elle-même se configure dans l'interface propre de l'app, hors de portée
-   de l'API — à coller et activer manuellement (*Shopify Messaging →
-   Automatisations → Bienvenue à l'abonné e-mail*).
+   le 20/08 (voir plus bas), validé par le client à la reprise de session.
+   Confirmé à nouveau : aucune mutation de l'API Admin ne permet d'éditer
+   le contenu d'une automatisation marketing (vérifié dans le schéma
+   GraphQL complet) — reste strictement manuel, à coller et activer dans
+   l'interface (*Marketing → Automatisations → Bienvenue à l'abonné
+   e-mail*).
 4. **Réseaux sociaux non renseignés.** Aucun lien Instagram/Facebook/etc.
    dans le pied de page du thème. À ajouter si des comptes existent.
 5. **Avis clients (Judge.me) — langue à vérifier.** Le widget affiche
