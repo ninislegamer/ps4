@@ -172,11 +172,17 @@ Articles Morgan — signalés par le client, remis à plus tard.
    correctes.
 3. **Mail de bienvenue — à intégrer dans Shopify Messaging.** Texte rédigé
    le 20/08 (voir plus bas), validé par le client à la reprise de session.
-   Confirmé à nouveau : aucune mutation de l'API Admin ne permet d'éditer
-   le contenu d'une automatisation marketing (vérifié dans le schéma
-   GraphQL complet) — reste strictement manuel, à coller et activer dans
-   l'interface (*Marketing → Automatisations → Bienvenue à l'abonné
-   e-mail*).
+   Aucune automatisation « bienvenue » n'existe encore (seule
+   « Récupérer le paiement abandonné » est active) — à créer depuis
+   *Marketing → Automatisations → Créer une automatisation*, modèle
+   « Accueillir les nouveaux abonnés avec un e-mail de réduction »
+   (celui à un seul e-mail, pas la série) : c'est le seul avec le bon
+   déclencheur (nouvel abonné newsletter), à vider de son bloc réduction
+   et remplacer par le texte validé — **le client ne veut pas de code de
+   réduction**. Éditeur d'automatisation **non accessible sur mobile**
+   (confirmé le 20/08 en session) — reporté à une session sur
+   ordinateur. Aucune mutation de l'API Admin ne permet de le faire à
+   la place du client (vérifié dans le schéma GraphQL complet).
 4. **Réseaux sociaux non renseignés.** Aucun lien Instagram/Facebook/etc.
    dans le pied de page du thème. À ajouter si des comptes existent.
 5. **Avis clients (Judge.me) — langue à vérifier.** Le widget affiche
