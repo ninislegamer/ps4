@@ -141,6 +141,11 @@ téléphone. Tout le reste de l'admin passe bien en mobile.
    ```
    Ne pas activer l'option « Agent — répond aux clients à votre place » :
    risque d'inventer des mesures/infos non vérifiées.
+5. **Ajouter la page « Foire aux questions ».** Contenu rédigé le 18/08
+   (Authenticité, Commande et paiement, Livraison, Retours et garanties,
+   Tailles et état, Contact) — reste à coller dans *Boutique en ligne →
+   Pages → Ajouter une page*, puis lier le pied de page (*Navigation →
+   Menu du pied de page*, à côté de CGV / Politique de retour).
 
 ### À faire maintenant que le RIB est là
 
