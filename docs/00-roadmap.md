@@ -163,14 +163,13 @@ Articles Morgan — signalés par le client, remis à plus tard.
    seule photo restante montre la semelle ; l'autre avait un filigrane
    « adn. Lyon » et a été retirée sur demande. Il faut une photo de face
    sans filigrane pour compléter la fiche.
-2. **À reconfirmer visuellement : ordre photo article/étiquette.**
-   Plusieurs fiches (Chiara Ferragni, Sonia Rykiel, Sandro, et 6 autres
-   par précaution) affichaient l'étiquette en vignette au lieu de la
-   photo de l'article, malgré des données API correctes à tous les
-   niveaux vérifiés (media, featuredImage, images). Un forçage de
-   position (`productReorderMedia`) a été appliqué le 20/08 mais n'a pas
-   encore été revérifié sur le site depuis — la connexion Shopify a été
-   coupée juste après. Cause exacte non identifiée.
+2. ~~**Ordre photo article/étiquette.**~~ ✅ vérifié et corrigé le 20/08
+   (reprise) — sur les 17 fiches du catalogue, 3 affichaient encore
+   l'étiquette en image vedette : Chiara Ferragni, Sandro et Sonia
+   Rykiel. `productReorderMedia` réappliqué et revérifié cette fois
+   (le forçage de la veille n'avait pas tenu) : les trois affichent
+   désormais la photo de face. Les 14 autres fiches étaient déjà
+   correctes.
 3. **Mail de bienvenue — à intégrer dans Shopify Messaging.** Texte rédigé
    le 20/08 (voir plus bas), l'app est déjà installée. L'automatisation
    elle-même se configure dans l'interface propre de l'app, hors de portée
@@ -185,10 +184,8 @@ Articles Morgan — signalés par le client, remis à plus tard.
 6. **CGV, section 9 — médiateur de la consommation.** Toujours un espace
    `[À COMPLÉTER]`. Bloquant pour lever le mot de passe boutique : il faut
    que le client choisisse et s'inscrive auprès d'un médiateur agréé.
-7. **Connexion Shopify coupée en fin de session le 20/08**, jamais rétablie
-   malgré plusieurs tentatives de reconnexion. À vérifier au prochain
-   démarrage — si ça persiste, revoir le connecteur côté app Claude comme
-   la première fois (bascule "Toujours autoriser" par outil).
+7. ~~**Connexion Shopify coupée en fin de session le 20/08.**~~ ✅ rétablie
+   à la reprise de session — accès normal confirmé (`get-shop-info`).
 
 **Texte du mail de bienvenue (rédigé le 20/08, pas encore intégré) :**
 ```
