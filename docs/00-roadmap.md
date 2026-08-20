@@ -140,12 +140,95 @@ téléphone. Tout le reste de l'admin passe bien en mobile.
    Nous répondons généralement sous 24h.
    ```
    Ne pas activer l'option « Agent — répond aux clients à votre place » :
-   risque d'inventer des mesures/infos non vérifiées.
-5. **Ajouter la page « Foire aux questions ».** Contenu rédigé le 18/08
-   (Authenticité, Commande et paiement, Livraison, Retours et garanties,
-   Tailles et état, Contact) — reste à coller dans *Boutique en ligne →
-   Pages → Ajouter une page*, puis lier le pied de page (*Navigation →
-   Menu du pied de page*, à côté de CGV / Politique de retour).
+   risque d'inventer des mesures/infos non vérifiées. **Toujours pas fait
+   au 20/08** — nécessite les réglages internes de l'app, hors de portée
+   de l'API.
+5. ~~**Ajouter la page « Foire aux questions ».**~~ ✅ fait le 20/08 —
+   page créée et publiée (`/pages/foire-aux-questions`), lien ajouté au
+   menu du pied de page à côté de « Rechercher ». Nécessitait un bloc
+   « Liste de liens » sur la section pied de page du thème, absent par
+   défaut sur Dawn — ajouté via un thème dupliqué puis publié par le
+   client le 20/08.
+
+### À faire à la prochaine session (20/08)
+
+**Catalogue** — 17 pièces créées et publiées le 20/08 (voir liste complète
+dans `annonces.md`/`stock.md`), toutes en stock, avec photos, dans les
+collections Page d'accueil + Catalogue + Vêtements/Chaussures. La Geox
+(49 €, P.35) a été créée puis **annulée par le client** — repassée en
+brouillon et retirée des collections, à laisser ainsi sauf changement d'avis.
+Articles Morgan — signalés par le client, remis à plus tard.
+
+1. **Photo de face manquante — Philipp Plein Sport (P.40, 95 €).** La
+   seule photo restante montre la semelle ; l'autre avait un filigrane
+   « adn. Lyon » et a été retirée sur demande. Il faut une photo de face
+   sans filigrane pour compléter la fiche.
+2. **À reconfirmer visuellement : ordre photo article/étiquette.**
+   Plusieurs fiches (Chiara Ferragni, Sonia Rykiel, Sandro, et 6 autres
+   par précaution) affichaient l'étiquette en vignette au lieu de la
+   photo de l'article, malgré des données API correctes à tous les
+   niveaux vérifiés (media, featuredImage, images). Un forçage de
+   position (`productReorderMedia`) a été appliqué le 20/08 mais n'a pas
+   encore été revérifié sur le site depuis — la connexion Shopify a été
+   coupée juste après. Cause exacte non identifiée.
+3. **Mail de bienvenue — à intégrer dans Shopify Messaging.** Texte rédigé
+   le 20/08 (voir plus bas), l'app est déjà installée. L'automatisation
+   elle-même se configure dans l'interface propre de l'app, hors de portée
+   de l'API — à coller et activer manuellement (*Shopify Messaging →
+   Automatisations → Bienvenue à l'abonné e-mail*).
+4. **Réseaux sociaux non renseignés.** Aucun lien Instagram/Facebook/etc.
+   dans le pied de page du thème. À ajouter si des comptes existent.
+5. **Avis clients (Judge.me) — langue à vérifier.** Le widget affiche
+   `data-widget-locale='fr'` sur le carrousel, mais les textes fixes de
+   l'interface (bouton « Écrire un avis », badges) dépendent d'un réglage
+   de langue séparé dans l'app, pas encore vérifié.
+6. **CGV, section 9 — médiateur de la consommation.** Toujours un espace
+   `[À COMPLÉTER]`. Bloquant pour lever le mot de passe boutique : il faut
+   que le client choisisse et s'inscrive auprès d'un médiateur agréé.
+7. **Connexion Shopify coupée en fin de session le 20/08**, jamais rétablie
+   malgré plusieurs tentatives de reconnexion. À vérifier au prochain
+   démarrage — si ça persiste, revoir le connecteur côté app Claude comme
+   la première fois (bascule "Toujours autoriser" par outil).
+
+**Texte du mail de bienvenue (rédigé le 20/08, pas encore intégré) :**
+```
+Objet : Bienvenue chez Maison Nsaia
+
+Merci de votre inscription.
+
+Maison Nsaia propose des pièces de différentes marques, sourcées et
+authentifiées en maison de vente. Chaque article n'existe qu'en un seul
+exemplaire : une fois vendu, il n'est pas réapprovisionné.
+
+Vous serez prévenu(e) en priorité lors de la mise en ligne de nouvelles
+pièces, avant qu'elles ne soient visibles ailleurs.
+
+Pour toute question sur une pièce, l'authenticité ou une commande :
+contact@maison-nsaia.fr.
+
+À bientôt,
+Maison Nsaia
+```
+
+**Fait le 20/08, pour mémoire :**
+- Retrait de « grandes marques et créateurs » → « différentes marques »
+  sur la description boutique (Préférences SEO, collée par le client),
+  la métadonnée `global.description_tag`, et la page À propos.
+- Image de partage réseaux sociaux/SEO ajoutée (photo du blazer Karl
+  Lagerfeld — meilleur contraste que la robe Elisabetta Franchi en
+  vignette).
+- Traductions anglais → français du thème (« Featured products » → « À la
+  une », « Share » → « Partager », « You may also like » → « Vous aimerez
+  aussi »), publiées via un thème dupliqué puis publié par le client.
+- Page d'accueil reconnectée à la collection « Page d'accueil » (curée
+  manuellement) au lieu de « tous les produits » (qui incluait les
+  articles vendus).
+- Collections « Chaussures » et « Vêtements » réparées/créées : elles
+  utilisaient une catégorie technique Shopify absente sur les nouvelles
+  fiches ; basculées sur le type de produit (`Chaussures` / `Vêtements`)
+  pour que tout s'affiche correctement.
+- Collection « Déjà vendu » créée (Salomon, Armani Exchange, Lacoste, sac
+  Karl Lagerfeld) — automatique par tag, visible dans le menu principal.
 
 ### À faire maintenant que le RIB est là
 
