@@ -194,6 +194,22 @@ Articles Morgan — signalés par le client, remis à plus tard.
    que le client choisisse et s'inscrive auprès d'un médiateur agréé.
 7. ~~**Connexion Shopify coupée en fin de session le 20/08.**~~ ✅ rétablie
    à la reprise de session — accès normal confirmé (`get-shop-info`).
+8. ~~**Lien « Garanties et retours » au pied de page** (`02-cgv.md`).~~
+   ✅ ajouté le 20/08 via `menuUpdate`, pointe vers `/policies/refund-policy`.
+   En vérifiant les CGV en ligne à cette occasion : **les deux clauses
+   « prêtes à copier » de `02-cgv.md` (garantie légale + rétractation)
+   étaient déjà intégrées mot pour mot** dans les CGV publiées (sections 7
+   et 8) — la case à cocher du doc n'était juste pas mise à jour, rien à
+   refaire.
+9. **Encadré informatif normalisé (garantie légale + vices cachés)** —
+   distinct des deux clauses ci-dessus, obligatoire dans les CGV depuis le
+   01/10/2022 (décret 2022-946), texte fixé par annexe réglementaire.
+   Tentative le 20/08 de récupérer le texte exact sur Légifrance,
+   service-public.fr, economie.gouv.fr et plusieurs cabinets d'avocats qui
+   le citent : **tous bloqués par le filtrage réseau de la session**.
+   Volontairement pas improvisé de mémoire sur un texte réglementé — à
+   fournir par le client (copié depuis l'annexe du décret 2022-946) ou à
+   retenter depuis un réseau sans ce filtrage.
 
 **Texte du mail de bienvenue (rédigé le 20/08, pas encore intégré) :**
 ```

@@ -222,8 +222,10 @@ garantie en gros caractères a l'air de se défendre, pas de vendre.
 
 ## 5. Ce qu'il reste à faire
 
-- [ ] Intégrer les deux clauses aux CGV de la boutique
-- [ ] Ajouter un lien « Garanties et retours » au pied de page
+- [x] Intégrer les deux clauses aux CGV de la boutique — déjà fait,
+      vérifié le 20/08 (sections 7 et 8 des CGV publiées, mot pour mot)
+- [x] Ajouter un lien « Garanties et retours » au pied de page — fait le
+      20/08, pointe vers `/policies/refund-policy`
 - [ ] Reprendre le bloc rétractation dans les annonces à distance — eBay, Vinted
 - [ ] Désigner un **médiateur de la consommation** : obligatoire pour tout
       professionnel vendant à des consommateurs (art. L612-1 code de la
