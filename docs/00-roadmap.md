@@ -127,8 +127,29 @@ téléphone. Tout le reste de l'admin passe bien en mobile.
    `compte.maison-nsaia.fr` en domaine principal (il était connecté mais
    configuré en simple redirection).
 2. ~~**Thème Dawn**~~ ✅ publié le 16/08, réglages de la bannière d'accueil et
-   de la barre d'annonces faits (voir tableau ci-dessus). Reste : finir la
-   structure des autres sections de la page d'accueil.
+   de la barre d'annonces faits (voir tableau ci-dessus). ✅ Structure de la
+   page d'accueil complétée le 21/08 sur un **thème dupliqué**
+   (« Dawn — page d'accueil enrichie »), à publier par le client :
+   - Section **« Nos rayons »** ajoutée après la bannière — 3 cartes
+     cliquables Chaussures / Vêtements / Nouveautés
+   - Section **« Déjà vendu »** ajoutée après « À la une »
+   - Section newsletter dédiée **« Accès prioritaire aux nouvelles
+     pièces »** ajoutée en bas de page, avec désactivation du formulaire
+     newsletter du pied de page (redondant, et présent sur toutes les
+     pages du site donc pas perdu ailleurs)
+   - Correction au passage : les vignettes de collection Vêtements et
+     Nouveautés affichaient la même photo (toutes deux héritaient de la
+     photo du 1er produit correspondant, qui était le même article) —
+     image dédiée assignée à chacune des 3 collections
+   - **Avis Judge.me non ajoutés à la home** — app tierce, configuration
+     du bloc non devinée par API pour ne rien casser ; à faire à la main
+     dans l'éditeur du thème (Ajouter une section → bloc fourni par
+     Judge.me)
+   - **Signalé par le client le 21/08 : des étiquettes réapparaîtraient
+     en premier sur d'autres fiches** — non confirmé par l'API (les 21
+     fiches publiées ont toutes une image de face en vedette au moment
+     de la vérification) — à revérifier après un cache navigateur vidé,
+     ou avec le détail des fiches concernées.
 3. **Configurer contact@maison-nsaia.fr sur Outlook** — boîte hébergée chez
    Gandi (webmail.gandi.net). À faire en IMAP/SMTP : demandé le 17/08, pas
    encore fait.
