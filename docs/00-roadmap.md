@@ -230,10 +230,11 @@ Articles Morgan — signalés par le client, remis à plus tard.
    envoi réel, conforme.
 4. **Réseaux sociaux non renseignés.** Aucun lien Instagram/Facebook/etc.
    dans le pied de page du thème. À ajouter si des comptes existent.
-5. **Avis clients (Judge.me) — langue à vérifier.** Le widget affiche
-   `data-widget-locale='fr'` sur le carrousel, mais les textes fixes de
-   l'interface (bouton « Écrire un avis », badges) dépendent d'un réglage
-   de langue séparé dans l'app, pas encore vérifié.
+5. ~~**Avis clients (Judge.me) — langue à vérifier.**~~ ✅ vérifié le 21/08 —
+   dans les réglages Judge.me, « Langue de l'administrateur » et « Langue
+   des widgets et des e-mails clients » sont toutes les deux sur Français.
+   « Activer les widgets multilingues » laissé décoché (boutique
+   mono-langue, Judge.me ne détecte aucune langue supplémentaire).
 6. **CGV, section 9 — médiateur de la consommation.** Toujours un espace
    `[À COMPLÉTER]`. Bloquant pour lever le mot de passe boutique : il faut
    que le client choisisse et s'inscrive auprès d'un médiateur agréé.
