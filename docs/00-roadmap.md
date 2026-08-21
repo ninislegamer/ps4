@@ -179,23 +179,23 @@ Articles Morgan — signalés par le client, remis à plus tard.
    Messaging : ce n'est **pas** le corps de l'e-mail mais le texte court
    affiché dans la boîte de réception (200 caractères max) — collé par
    erreur avec le texte complet la première fois, corrigé.
-3bis. ~~**Mail de remerciement après achat.**~~ ✅ fait le 21/08 dans la
-   foulée, même méthode : modèle « Remercier les clients après leur
-   achat » (deux e-mails, 1er et 2e achat — pas besoin de les
-   différencier, les rachats sont rares vu le stock à l'unité). Photo
-   générique retirée sur l'e-mail 1 (jamais afficher une photo d'article
-   précis sur une automatisation qui part pour toute commande), titre
-   "Merci d'avoir magasiné chez nous !" corrigé ("magasiner" ne se dit
-   pas en France), texte remplacé, section réseaux sociaux supprimée
-   (pas encore de comptes), bouton "Visiter la boutique" gardé. **⚠️
-   L'e-mail 2 (2e achat) est resté partiellement nettoyé** — l'éditeur a
-   bugué au moment de supprimer l'image générique (mains en cœur) ;
-   titre "Vous êtes formidable !" et texte "Merci de magasiner à
-   nouveau..." pas encore corrigés. Activé quand même (risque faible,
-   rachats rares) mais **à finir avant qu'un client ne rachète** — la
-   section "Découvrez nos derniers produits" (produits dynamiques,
-   boutons Acheter maintenant) en bas de ce 2e e-mail est en revanche
-   bonne à garder telle quelle.
+3bis. ~~**Mail de remerciement après achat.**~~ ✅ fait et vérifié le
+   21/08, même méthode que le mail de bienvenue : modèle « Remercier les
+   clients après leur achat » (deux e-mails, 1er et 2e achat — texte
+   identique sur les deux, pas besoin de les différencier, les rachats
+   sont rares vu le stock à l'unité). Sur les deux e-mails : photo
+   générique retirée (jamais afficher une photo d'article précis sur une
+   automatisation qui part pour toute commande), titre par défaut
+   ("Merci d'avoir magasiné chez nous !" / "Vous êtes formidable !")
+   corrigé — "magasiner" ne se dit pas en France —, texte remplacé,
+   section réseaux sociaux supprimée (pas encore de comptes), bouton
+   "Visiter la boutique" gardé. Sur l'e-mail 2, la section "Découvrez nos
+   derniers produits" (produits dynamiques, boutons Acheter maintenant)
+   a été gardée telle quelle, elle a du sens pour relancer un client
+   fidèle. **Objet de l'e-mail 2 resté en anglais un temps** ("We're
+   happy to see you again") — traduit en « Merci pour votre nouvelle
+   commande — Maison Nsaia ». **Testé par envoi réel des deux e-mails,
+   rendu vérifié conforme.**
 4. **Réseaux sociaux non renseignés.** Aucun lien Instagram/Facebook/etc.
    dans le pied de page du thème. À ajouter si des comptes existent.
 5. **Avis clients (Judge.me) — langue à vérifier.** Le widget affiche
