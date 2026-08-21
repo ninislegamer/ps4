@@ -170,19 +170,32 @@ Articles Morgan — signalés par le client, remis à plus tard.
    (le forçage de la veille n'avait pas tenu) : les trois affichent
    désormais la photo de face. Les 14 autres fiches étaient déjà
    correctes.
-3. **Mail de bienvenue — à intégrer dans Shopify Messaging.** Texte rédigé
-   le 20/08 (voir plus bas), validé par le client à la reprise de session.
-   Aucune automatisation « bienvenue » n'existe encore (seule
-   « Récupérer le paiement abandonné » est active) — à créer depuis
-   *Marketing → Automatisations → Créer une automatisation*, modèle
-   « Accueillir les nouveaux abonnés avec un e-mail de réduction »
-   (celui à un seul e-mail, pas la série) : c'est le seul avec le bon
-   déclencheur (nouvel abonné newsletter), à vider de son bloc réduction
-   et remplacer par le texte validé — **le client ne veut pas de code de
-   réduction**. Éditeur d'automatisation **non accessible sur mobile**
-   (confirmé le 20/08 en session) — reporté à une session sur
-   ordinateur. Aucune mutation de l'API Admin ne permet de le faire à
-   la place du client (vérifié dans le schéma GraphQL complet).
+3. ~~**Mail de bienvenue — à intégrer dans Shopify Messaging.**~~ ✅ fait
+   le 21/08, sur ordinateur (éditeur non accessible sur mobile, confirmé
+   la veille). Modèle « Accueillir les nouveaux abonnés avec un e-mail de
+   réduction » utilisé comme base (texte à un seul e-mail, pas la série),
+   bloc réduction retiré, texte validé collé dans le corps, activé.
+   Attention au champ **« Texte d'aperçu »** dans l'éditeur Shopify
+   Messaging : ce n'est **pas** le corps de l'e-mail mais le texte court
+   affiché dans la boîte de réception (200 caractères max) — collé par
+   erreur avec le texte complet la première fois, corrigé.
+3bis. ~~**Mail de remerciement après achat.**~~ ✅ fait le 21/08 dans la
+   foulée, même méthode : modèle « Remercier les clients après leur
+   achat » (deux e-mails, 1er et 2e achat — pas besoin de les
+   différencier, les rachats sont rares vu le stock à l'unité). Photo
+   générique retirée sur l'e-mail 1 (jamais afficher une photo d'article
+   précis sur une automatisation qui part pour toute commande), titre
+   "Merci d'avoir magasiné chez nous !" corrigé ("magasiner" ne se dit
+   pas en France), texte remplacé, section réseaux sociaux supprimée
+   (pas encore de comptes), bouton "Visiter la boutique" gardé. **⚠️
+   L'e-mail 2 (2e achat) est resté partiellement nettoyé** — l'éditeur a
+   bugué au moment de supprimer l'image générique (mains en cœur) ;
+   titre "Vous êtes formidable !" et texte "Merci de magasiner à
+   nouveau..." pas encore corrigés. Activé quand même (risque faible,
+   rachats rares) mais **à finir avant qu'un client ne rachète** — la
+   section "Découvrez nos derniers produits" (produits dynamiques,
+   boutons Acheter maintenant) en bas de ce 2e e-mail est en revanche
+   bonne à garder telle quelle.
 4. **Réseaux sociaux non renseignés.** Aucun lien Instagram/Facebook/etc.
    dans le pied de page du thème. À ajouter si des comptes existent.
 5. **Avis clients (Judge.me) — langue à vérifier.** Le widget affiche
@@ -213,7 +226,7 @@ Articles Morgan — signalés par le client, remis à plus tard.
    le texte est bien enregistré et correctement placé. Texte de référence
    dans `02-cgv.md`.
 
-**Texte du mail de bienvenue (rédigé le 20/08, pas encore intégré) :**
+**Texte du mail de bienvenue (rédigé le 20/08, intégré et activé le 21/08) :**
 ```
 Objet : Bienvenue chez Maison Nsaia
 
