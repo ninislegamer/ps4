@@ -154,10 +154,11 @@ Distinct des deux clauses ci-dessus. Obligatoire depuis le 01/10/2022
 (décret n° 2022-946 du 29 juin 2022), texte fixé mot pour mot par
 l'annexe I.A à l'article D. 211-2 du code de la consommation (modèle
 « biens », hors animaux domestiques — c'est le seul qui concerne Maison
-Nsaia). Récupéré sur Légifrance le 21/08/2026. À coller dans les CGV
-juste après la section 7 (garanties légales), avant la section 8
-(rétractation) — **intégré via l'API Shopify le 21/08 refusé (scope
-`write_legal_policies` manquant), reste à coller manuellement.**
+Nsaia). Récupéré sur Légifrance le 21/08/2026. Collé dans les CGV entre les
+sections 7 (garanties légales) et 8 (rétractation) par le client le
+21/08 — écriture directe via l'API Shopify refusée (scope
+`write_legal_policies` manquant sur le connecteur). **✅ Vérifié en
+place le 21/08** via `shopPolicies` (API Admin).
 
 ```
 Encadré d'information réglementaire
@@ -317,9 +318,9 @@ garantie en gros caractères a l'air de se défendre, pas de vendre.
 - [x] Ajouter un lien « Garanties et retours » au pied de page — fait le
       20/08, pointe vers `/policies/refund-policy`
 - [ ] Reprendre le bloc rétractation dans les annonces à distance — eBay, Vinted
-- [ ] Coller l'encadré informatif normalisé (ci-dessus) dans les CGV
-      Shopify — texte prêt depuis le 21/08, à coller manuellement
-      (accès API refusé, scope manquant)
+- [x] Coller l'encadré informatif normalisé (ci-dessus) dans les CGV
+      Shopify — fait et vérifié le 21/08 (accès API refusé pour l'écriture,
+      scope manquant, collé manuellement par le client)
 - [ ] Désigner un **médiateur de la consommation** : obligatoire pour tout
       professionnel vendant à des consommateurs (art. L612-1 code de la
       consommation), à mentionner dans les CGV. Adhésion payante, de l'ordre de

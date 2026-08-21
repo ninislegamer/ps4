@@ -201,19 +201,17 @@ Articles Morgan — signalés par le client, remis à plus tard.
    étaient déjà intégrées mot pour mot** dans les CGV publiées (sections 7
    et 8) — la case à cocher du doc n'était juste pas mise à jour, rien à
    refaire.
-9. **Encadré informatif normalisé (garantie légale + vices cachés)** —
-   distinct des deux clauses déjà en place, obligatoire dans les CGV depuis
-   le 01/10/2022 (décret 2022-946). Web bloqué côté session (voir plus
-   haut) ; le client a retrouvé le texte exact lui-même sur Légifrance le
-   21/08 (annexe I.A à l'article D. 211-2 du code de la consommation,
-   modèle « biens hors animaux domestiques ») et me l'a transmis. **Texte
-   intégré et prêt**, voir `02-cgv.md` section 3bis pour la version
-   complète. Tentative de l'écrire directement dans les CGV Shopify via
-   `shopPolicyUpdate` : **refusée, scope `write_legal_policies` manquant
-   sur le connecteur de cette session** — à coller manuellement par le
-   client dans *Paramètres → Politiques → Conditions générales de vente*,
-   juste après la fin de la section 7 (garanties légales), avant la
-   section 8 (rétractation). Toujours à faire au 21/08.
+9. ~~**Encadré informatif normalisé (garantie légale + vices cachés).**~~
+   ✅ fait le 21/08 — distinct des deux clauses déjà en place, obligatoire
+   dans les CGV depuis le 01/10/2022 (décret 2022-946). Web bloqué côté
+   session ; le client a retrouvé le texte exact lui-même sur Légifrance
+   (annexe I.A à l'article D. 211-2 du code de la consommation, modèle
+   « biens hors animaux domestiques »). Écriture directe via
+   `shopPolicyUpdate` refusée (scope `write_legal_policies` manquant sur
+   le connecteur) — collé manuellement par le client dans les CGV, entre
+   les sections 7 et 8. **Vérifié le 21/08 via l'API** (`shopPolicies`) :
+   le texte est bien enregistré et correctement placé. Texte de référence
+   dans `02-cgv.md`.
 
 **Texte du mail de bienvenue (rédigé le 20/08, pas encore intégré) :**
 ```
