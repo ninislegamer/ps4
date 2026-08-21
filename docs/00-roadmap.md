@@ -129,7 +129,8 @@ téléphone. Tout le reste de l'admin passe bien en mobile.
 2. ~~**Thème Dawn**~~ ✅ publié le 16/08, réglages de la bannière d'accueil et
    de la barre d'annonces faits (voir tableau ci-dessus). ✅ Structure de la
    page d'accueil complétée le 21/08 sur un **thème dupliqué**
-   (« Dawn — page d'accueil enrichie »), à publier par le client :
+   (« Dawn — page d'accueil enrichie »), **publié par le client le 21/08**
+   (vérifié côté API : ce thème a désormais le rôle `MAIN`) :
    - Section **« Nos rayons »** ajoutée après la bannière — 3 cartes
      cliquables Chaussures / Vêtements / Nouveautés
    - Section **« Déjà vendu »** ajoutée après « À la une »
