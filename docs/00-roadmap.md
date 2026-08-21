@@ -196,6 +196,16 @@ Articles Morgan — signalés par le client, remis à plus tard.
    happy to see you again") — traduit en « Merci pour votre nouvelle
    commande — Maison Nsaia ». **Testé par envoi réel des deux e-mails,
    rendu vérifié conforme.**
+3ter. ~~**Récupérer le paiement abandonné.**~~ ✅ vérifié le 21/08.
+   Automatisation Shopify Flow (logique standard : 10h d'attente,
+   vérifie que le client n'a pas déjà commandé/abandonné entre-temps et
+   que l'article est encore en stock, puis envoie l'e-mail) — installer
+   Shopify Flow était nécessaire (app officielle gratuite, pas
+   installée par défaut). Contenu de l'e-mail corrigé comme les deux
+   précédents : objet traduit (« Complete your order » →
+   « Votre commande vous attend — Maison Nsaia »), texte d'aperçu
+   ajouté. Branding et produits dynamiques déjà corrects. Testé par
+   envoi réel, conforme.
 4. **Réseaux sociaux non renseignés.** Aucun lien Instagram/Facebook/etc.
    dans le pied de page du thème. À ajouter si des comptes existent.
 5. **Avis clients (Judge.me) — langue à vérifier.** Le widget affiche
