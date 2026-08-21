@@ -202,14 +202,18 @@ Articles Morgan — signalés par le client, remis à plus tard.
    et 8) — la case à cocher du doc n'était juste pas mise à jour, rien à
    refaire.
 9. **Encadré informatif normalisé (garantie légale + vices cachés)** —
-   distinct des deux clauses ci-dessus, obligatoire dans les CGV depuis le
-   01/10/2022 (décret 2022-946), texte fixé par annexe réglementaire.
-   Tentative le 20/08 de récupérer le texte exact sur Légifrance,
-   service-public.fr, economie.gouv.fr et plusieurs cabinets d'avocats qui
-   le citent : **tous bloqués par le filtrage réseau de la session**.
-   Volontairement pas improvisé de mémoire sur un texte réglementé — à
-   fournir par le client (copié depuis l'annexe du décret 2022-946) ou à
-   retenter depuis un réseau sans ce filtrage.
+   distinct des deux clauses déjà en place, obligatoire dans les CGV depuis
+   le 01/10/2022 (décret 2022-946). Web bloqué côté session (voir plus
+   haut) ; le client a retrouvé le texte exact lui-même sur Légifrance le
+   21/08 (annexe I.A à l'article D. 211-2 du code de la consommation,
+   modèle « biens hors animaux domestiques ») et me l'a transmis. **Texte
+   intégré et prêt**, voir `02-cgv.md` section 3bis pour la version
+   complète. Tentative de l'écrire directement dans les CGV Shopify via
+   `shopPolicyUpdate` : **refusée, scope `write_legal_policies` manquant
+   sur le connecteur de cette session** — à coller manuellement par le
+   client dans *Paramètres → Politiques → Conditions générales de vente*,
+   juste après la fin de la section 7 (garanties légales), avant la
+   section 8 (rétractation). Toujours à faire au 21/08.
 
 **Texte du mail de bienvenue (rédigé le 20/08, pas encore intégré) :**
 ```
