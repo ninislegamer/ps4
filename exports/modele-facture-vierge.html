@@ -1,0 +1,185 @@
+<!doctype html>
+<html lang="fr"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Modèle de facture — Maison Nsaia</title>
+<style>
+:root{
+  --encre:#1A1A1A; --creme:#FAF9F7; --gris:#8A8580; --trait:#E2DFDA; --papier:#FFFFFF;
+  --serif:"Cormorant Garamond","Playfair Display",Georgia,"Times New Roman",serif;
+  --sans:"Assistant","Archivo","Helvetica Neue",Arial,sans-serif;
+}
+*{box-sizing:border-box;margin:0;padding:0;
+  print-color-adjust:exact;-webkit-print-color-adjust:exact}
+body{background:var(--creme);color:var(--encre);font-family:var(--sans);
+     font-size:10.5pt;line-height:1.55;-webkit-font-smoothing:antialiased}
+.page{max-width:21cm;margin:0 auto;background:var(--creme);
+      padding:2.4cm 2cm 2cm;min-height:29.7cm}
+
+/* ---- micro-libellés ---- */
+.lab{font-size:7.5pt;letter-spacing:.18em;text-transform:uppercase;
+     color:var(--gris);font-weight:600}
+
+/* ---- en-tête ---- */
+header{margin-bottom:2.6em}
+.marque{font-family:var(--serif);font-size:27pt;font-weight:400;
+        letter-spacing:.22em;text-transform:uppercase;line-height:1}
+.baseline{margin-top:.9em;padding-top:.8em;border-top:1px solid var(--encre);
+          display:flex;justify-content:space-between;align-items:baseline;gap:2em}
+
+/* ---- bandeau facture ---- */
+.facture-id{text-align:right;white-space:nowrap}
+.facture-id .mot{font-family:var(--serif);font-size:15pt;font-style:italic;
+                 letter-spacing:.06em;display:block;margin-bottom:.15em}
+.facture-id .num{font-size:9.5pt;letter-spacing:.1em;font-weight:600}
+.facture-id .dt{font-size:8.5pt;color:var(--gris);letter-spacing:.04em}
+
+/* ---- parties ---- */
+.parties{display:flex;gap:3em;margin-bottom:2.8em}
+.partie{flex:1;min-width:0}
+.partie .lab{display:block;padding-bottom:.7em;margin-bottom:.9em;
+             border-bottom:1px solid var(--trait)}
+.partie .qui{font-family:var(--serif);font-size:14pt;letter-spacing:.03em;
+             margin-bottom:.45em;line-height:1.25}
+.partie p{font-size:9.5pt;line-height:1.65}
+.mentions{margin-top:1em;font-size:8pt;color:var(--gris);line-height:1.6}
+
+/* ---- lignes ---- */
+table.lignes{width:100%;border-collapse:collapse;margin-bottom:2em}
+table.lignes thead th{border-top:1px solid var(--encre);
+      border-bottom:1px solid var(--trait);padding:.65em 0 .6em;text-align:left;
+      letter-spacing:.12em;white-space:nowrap}
+table.lignes thead th.n{text-align:right}
+table.lignes th:first-child{width:52%}
+table.lignes th:nth-child(2){width:8%}
+table.lignes th:nth-child(3){width:20%}
+table.lignes th:nth-child(4){width:20%}
+table.lignes tbody td{padding:1em 0;border-bottom:1px solid var(--trait);
+                      vertical-align:top;font-size:10pt}
+table.lignes tbody td.n{text-align:right;white-space:nowrap;
+                        font-variant-numeric:tabular-nums}
+table.lignes tbody td:first-child{padding-right:1.5em}
+table.lignes tbody td.n{padding-left:1.2em}
+.des{line-height:1.45}
+.ref{display:block;font-size:8pt;color:var(--gris);margin-top:.35em;letter-spacing:.02em}
+
+/* ---- totaux ---- */
+.totaux{margin-left:auto;width:9cm;margin-bottom:2.4em}
+.totaux .l{display:flex;justify-content:space-between;align-items:baseline;
+           padding:.45em 0;font-size:9.5pt}
+.totaux .l span:last-child{font-variant-numeric:tabular-nums}
+.totaux .net{border-top:1px solid var(--encre);margin-top:.5em;padding-top:.9em;
+             align-items:baseline}
+.totaux .net .lab{align-self:center}
+.totaux .net .somme{font-family:var(--serif);font-size:22pt;letter-spacing:.02em}
+
+/* ---- mention TVA ---- */
+.tva{border-top:1px solid var(--trait);border-bottom:1px solid var(--trait);
+     padding:1.1em 0;margin-bottom:2.4em;text-align:center;
+     font-family:var(--serif);font-size:11.5pt;font-style:italic;letter-spacing:.02em}
+
+/* ---- blocs bas ---- */
+.bas{display:flex;gap:3em;margin-bottom:2.6em}
+.bloc{flex:1;min-width:0}
+.bloc .lab{display:block;margin-bottom:.8em}
+.bloc p{font-size:9.5pt;line-height:1.7}
+.acquittee{font-family:var(--serif);font-size:12pt;letter-spacing:.03em;margin-top:.6em}
+
+footer{border-top:1px solid var(--trait);padding-top:1.2em;
+       font-size:7.5pt;color:var(--gris);line-height:1.75}
+footer strong{color:var(--encre);font-weight:600}
+
+/* ---- champs à remplir ---- */
+.champ{background:#FFF3D6;outline:1px dashed #C9A227;padding:0 .15em}
+
+@media (max-width:600px){
+  .page{padding:1.4cm 1.1cm}
+  .marque{font-size:20pt;letter-spacing:.16em}
+  .baseline{flex-direction:column;gap:.9em}
+  .facture-id{text-align:left}
+  .parties,.bas{flex-direction:column;gap:2em}
+  .totaux{width:100%}
+}
+@media print{
+  body{background:var(--creme)}
+  .page{max-width:none;min-height:auto;padding:1.2cm;margin:0;background:var(--creme)}
+  @page{size:A4;margin:12mm;background:var(--creme)}
+  .champ{background:none;outline:none}
+}
+</style></head><body><div class="page">
+
+<header>
+  <div class="marque">MAISON NSAIA</div>
+  <div class="baseline">
+    <span class="lab">Pièces authentifiées en maison de vente</span>
+    <div class="facture-id">
+      <span class="mot">Facture</span>
+      <span class="num">N° <span class="champ">2026-XXX</span></span><br>
+      <span class="dt"><span class="champ">JJ mois AAAA</span></span>
+    </div>
+  </div>
+</header>
+
+<div class="parties">
+  <div class="partie">
+    <span class="lab">Vendeur</span>
+    <div class="qui">Maison Nsaia</div>
+    <p>2 rue du Levant<br>31700 Beauzelle<br>France</p>
+    <p>+33 6 51 93 72 02<br>contact@maison-nsaia.fr<br>maison-nsaia.fr</p>
+    <p class="mentions">
+      Enseigne de Nacim Izri — Entrepreneur individuel&nbsp;(EI)<br>
+      SIRET 804 431 799 00027<br>RCS Toulouse 804 431 799
+    </p>
+  </div>
+  <div class="partie">
+    <span class="lab">Facturé à</span>
+    <div class="qui"><span class="champ">Prénom Nom du client</span></div>
+    <p><span class="champ">Adresse</span><br><span class="champ">Code postal Ville</span><br><span class="champ">Pays</span></p>
+    <p class="mentions">Particulier — vente au détail</p>
+  </div>
+</div>
+
+<table class="lignes">
+  <thead><tr>
+    <th class="lab">Désignation</th>
+    <th class="lab n">Qté</th>
+    <th class="lab n">Prix unitaire</th>
+    <th class="lab n">Montant</th>
+  </tr></thead>
+  <tbody>
+  <tr><td><span class="des"><span class="champ">MARQUE — modèle, caractéristique, taille — état</span></span><span class="ref">Réf. interne <span class="champ">FB2026-XXXXX / lot XX</span></span></td><td class="n"><span class="champ">1</span></td><td class="n"><span class="champ">0,00 €</span></td><td class="n"><span class="champ">0,00 €</span></td></tr>
+  <tr><td><span class="des"><span class="champ">— ligne suivante si plusieurs articles, sinon supprimer cette ligne —</span></span></td><td class="n"></td><td class="n"></td><td class="n"></td></tr>
+  </tbody>
+</table>
+
+<div class="totaux">
+  <div class="l"><span class="lab">Sous-total</span><span class="champ">0,00 €</span></div>
+  <div class="l"><span class="lab">TVA</span><span>Non applicable</span></div>
+  <div class="l net"><span class="lab">Net à payer</span>
+       <span class="somme champ">0,00 €</span></div>
+</div>
+
+<div class="tva">TVA non applicable — article 293 B du code général des impôts</div>
+
+<div class="bas">
+  <div class="bloc">
+    <span class="lab">Règlement</span>
+    <p><span class="champ">Mode de règlement (espèces / virement / Shopify Payments / PayPal / Vinted)</span>, le <span class="champ">JJ mois AAAA</span><br><span class="champ">Remise en main propre / expédition</span></p>
+    <p class="acquittee">Facture acquittée</p>
+  </div>
+  <div class="bloc">
+    <span class="lab">Vente et livraison</span>
+    <p><span class="champ">JJ mois AAAA</span></p>
+  </div>
+  <div class="bloc"></div>
+</div>
+
+<footer>
+  <strong>Garanties.</strong> Les articles vendus bénéficient de la garantie légale
+  de conformité (articles L217-3 et suivants du code de la consommation) et de la
+  garantie contre les vices cachés (articles 1641 et suivants du code civil).<br>
+  <strong>Rétractation.</strong> <span class="champ">Aucun droit de rétractation ne s'applique aux ventes conclues en main propre, hors contrat à distance et hors établissement. / Pour les ventes à distance, quatorze jours de rétractation à compter de la réception (voir CGV).</span><br>
+  <strong>Conservation.</strong> Facture établie en un exemplaire, conservée cinq ans
+  par le vendeur.
+</footer>
+
+</div></body></html>
