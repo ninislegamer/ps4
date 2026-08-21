@@ -1104,17 +1104,19 @@ Contraintes propres à cette famille de produits :
 - **Origine du stock** : liquidation, retours clients ou import parallèle — cela
   détermine ce qui peut être affirmé.
 
-### Piste future (21/08) — photo, vidéo, matériel DJ, en occasion à l'unité
+### Piste future (21/08) — photo, vidéo, matériel DJ, horlogerie, lunetterie
 
-Idée distincte de la piste « audio, hi-fi, instruments » ci-dessus (qui vise du
-neuf en liquidation) : ici, il s'agit d'**occasions ponctuelles** — le client
-tombe sur une bonne affaire (photo, vidéo, matériel DJ...) et veut pouvoir
-l'intégrer à la boutique, pièce par pièce, sur le **même modèle que la mode** :
-un seul exemplaire, pas de réassort, pas de stock permanent sur ces familles.
-Objectif à terme : boutique multi-catégories, mais chaque article y reste géré
-à l'unité, quelle que soit la catégorie. À ne pas ouvrir avant la Phase 2
-(structure des catégories déjà posée, premières ventes faites) — noté ici pour
-ne pas l'oublier, pas encore d'action à prendre.
+Idée proche de la piste « audio, hi-fi, instruments » ci-dessus : **du neuf**,
+acheté en bonne affaire (déstockage, opportunité), jamais d'occasion sur ces
+familles. Différence avec la piste ci-dessus : ici c'est au coup par coup —
+le client tombe sur une bonne affaire (photo, vidéo, matériel DJ, horlogerie,
+lunetterie...) et veut pouvoir l'intégrer à la boutique, pièce par pièce, sur
+le **même modèle que la mode** : un seul exemplaire à la fois, pas de stock
+permanent ni de réassort planifié sur ces familles. Objectif à terme : boutique
+multi-catégories, mais chaque article y reste géré à l'unité, quelle que soit
+la catégorie. À ne pas ouvrir avant la Phase 2 (structure des catégories déjà
+posée, premières ventes faites) — noté ici pour ne pas l'oublier, pas encore
+d'action à prendre.
 
 ### Seuil de marge sur les articles à forte valeur
 
