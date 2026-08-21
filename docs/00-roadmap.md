@@ -635,7 +635,18 @@ même si la livraison reste limitée à la zone ouverte du moment.
 | 4 | Stock unitaire | 1 pièce = 1 fiche, retrait auto via Shopify Flow |
 | 5 | Paiements | Carte / PayPal / Apple Pay / Google Pay + checkout |
 | 6 | Espace client | Compte, suivi, favoris, facture PDF (art. 293 B) |
-| 7 | Dashboard admin | App de calcul de marge automatique |
+| 7 | Dashboard admin | App de calcul de marge automatique + extension de<br>téléchargement de facture côté compte client |
+
+**Précision sur la facture côté compte client (ajouté le 21/08) :** demandé
+par le client — un bouton « Télécharger ma facture » sur la page de
+commande du compte client. Pas un réglage d'admin : la boutique utilise les
+**nouveaux comptes clients** Shopify (`compte.maison-nsaia.fr`), qui ne se
+personnalisent qu'via une **extension d'app** (Shopify CLI), pas du Liquid.
+Les apps du marché qui font ça sont quasi toutes payantes (10-30 €/mois),
+contraire au principe zéro abonnement. À développer dans le même chantier
+que le dashboard de marge (compte Partner déjà créé), pas de coût
+récurrent supplémentaire. **En attendant : facture générée et envoyée
+manuellement**, modèle prêt dans `exports/modele-facture-vierge.html`.
 
 ---
 
