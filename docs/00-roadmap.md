@@ -1352,16 +1352,15 @@ près du prix du marché, ceux que la règle des deux tiers aurait écartés.
 
 ## L'ordre des opérations
 
-### 0. Ne rien supprimer avant l'encaissement de la Salomon
+### 0. ~~Ne rien supprimer avant l'encaissement de la Salomon~~ ✅ encaissée le 21/08
 
 Une transaction en cours sur un compte qu'on ferme, c'est l'argent qui se bloque.
 **100 € sont derrière.** Attendre la validation de réception par le client italien.
 
-> **Fait le 14/08.** Colis déposé en locker Mondial Relay, cinq jours avant
-> l'échéance du 19 août 20h12. Reste à attendre la livraison et la validation :
-> tant que le virement n'est pas arrivé, **la Salomon n'entre pas au livre des
-> recettes**. Conserver la preuve de dépôt jusqu'à l'encaissement — c'est la seule
-> défense si le client déclare une non-réception.
+> **Fait le 14/08** : colis déposé en locker Mondial Relay, cinq jours avant
+> l'échéance du 19 août 20h12. **Fait le 21/08** : virement reçu sur le compte —
+> la Salomon entre maintenant au livre des recettes. Conserver la preuve de dépôt
+> encore un temps en cas de litige tardif, mais le blocage est levé.
 
 ### 1. eBay en professionnel — cette semaine
 
