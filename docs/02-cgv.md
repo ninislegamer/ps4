@@ -148,6 +148,97 @@ Le remboursement intervient dans les quatorze jours suivant la réception de
 l'article retourné.
 ```
 
+### Encadré informatif normalisé — prêt à copier
+
+Distinct des deux clauses ci-dessus. Obligatoire depuis le 01/10/2022
+(décret n° 2022-946 du 29 juin 2022), texte fixé mot pour mot par
+l'annexe I.A à l'article D. 211-2 du code de la consommation (modèle
+« biens », hors animaux domestiques — c'est le seul qui concerne Maison
+Nsaia). Récupéré sur Légifrance le 21/08/2026. Collé dans les CGV entre les
+sections 7 (garanties légales) et 8 (rétractation) par le client le
+21/08 — écriture directe via l'API Shopify refusée (scope
+`write_legal_policies` manquant sur le connecteur). **✅ Vérifié en
+place le 21/08** via `shopPolicies` (API Admin).
+
+```
+Encadré d'information réglementaire
+(modèle fixé par l'annexe à l'article D. 211-2 du code de la
+consommation, décret n° 2022-946 du 29 juin 2022)
+
+Le consommateur dispose d'un délai de deux ans à compter de la
+délivrance du bien pour obtenir la mise en œuvre de la garantie légale
+de conformité en cas d'apparition d'un défaut de conformité. Durant ce
+délai, le consommateur n'est tenu d'établir que l'existence du défaut
+de conformité et non la date d'apparition de celui-ci.
+
+Lorsque le contrat de vente du bien prévoit la fourniture d'un contenu
+numérique ou d'un service numérique de manière continue pendant une
+durée supérieure à deux ans, la garantie légale est applicable à ce
+contenu numérique ou ce service numérique tout au long de la période
+de fourniture prévue. Durant ce délai, le consommateur n'est tenu
+d'établir que l'existence du défaut de conformité affectant le contenu
+numérique ou le service numérique et non la date d'apparition de
+celui-ci.
+
+La garantie légale de conformité emporte obligation pour le
+professionnel, le cas échéant, de fournir toutes les mises à jour
+nécessaires au maintien de la conformité du bien.
+
+La garantie légale de conformité donne au consommateur droit à la
+réparation ou au remplacement du bien dans un délai de trente jours
+suivant sa demande, sans frais et sans inconvénient majeur pour lui.
+
+Si le bien est réparé dans le cadre de la garantie légale de
+conformité, le consommateur bénéficie d'une extension de six mois de
+la garantie initiale.
+
+Si le consommateur demande la réparation du bien, mais que le vendeur
+impose le remplacement, la garantie légale de conformité est
+renouvelée pour une période de deux ans à compter de la date de
+remplacement du bien.
+
+Le consommateur peut obtenir une réduction du prix d'achat en
+conservant le bien ou mettre fin au contrat en se faisant rembourser
+intégralement contre restitution du bien, si :
+1° Le professionnel refuse de réparer ou de remplacer le bien ;
+2° La réparation ou le remplacement du bien intervient après un délai
+de trente jours ;
+3° La réparation ou le remplacement du bien occasionne un inconvénient
+majeur pour le consommateur, notamment lorsque le consommateur
+supporte définitivement les frais de reprise ou d'enlèvement du bien
+non conforme, ou s'il supporte les frais d'installation du bien réparé
+ou de remplacement ;
+4° La non-conformité du bien persiste en dépit de la tentative de mise
+en conformité du vendeur restée infructueuse.
+
+Le consommateur a également droit à une réduction du prix du bien ou à
+la résolution du contrat lorsque le défaut de conformité est si grave
+qu'il justifie que la réduction du prix ou la résolution du contrat
+soit immédiate. Le consommateur n'est alors pas tenu de demander la
+réparation ou le remplacement du bien au préalable.
+
+Le consommateur n'a pas droit à la résolution de la vente si le défaut
+de conformité est mineur.
+
+Toute période d'immobilisation du bien en vue de sa réparation ou de
+son remplacement suspend la garantie qui restait à courir jusqu'à la
+délivrance du bien remis en état.
+
+Les droits mentionnés ci-dessus résultent de l'application des
+articles L. 217-1 à L. 217-32 du code de la consommation.
+
+Le vendeur qui fait obstacle de mauvaise foi à la mise en œuvre de la
+garantie légale de conformité encourt une amende civile d'un montant
+maximal de 300 000 euros, qui peut être porté jusqu'à 10 % du chiffre
+d'affaires moyen annuel (article L. 241-5 du code de la consommation).
+
+Le consommateur bénéficie également de la garantie légale des vices
+cachés en application des articles 1641 à 1649 du code civil, pendant
+une durée de deux ans à compter de la découverte du défaut. Cette
+garantie donne droit à une réduction de prix si le bien est conservé
+ou à un remboursement intégral contre restitution du bien.
+```
+
 ### Photos et emballage — la vraie protection
 
 Une clause ne gagne pas un litige, une preuve si.
@@ -222,13 +313,23 @@ garantie en gros caractères a l'air de se défendre, pas de vendre.
 
 ## 5. Ce qu'il reste à faire
 
-- [ ] Intégrer les deux clauses aux CGV de la boutique
-- [ ] Ajouter un lien « Garanties et retours » au pied de page
+- [x] Intégrer les deux clauses aux CGV de la boutique — déjà fait,
+      vérifié le 20/08 (sections 7 et 8 des CGV publiées, mot pour mot)
+- [x] Ajouter un lien « Garanties et retours » au pied de page — fait le
+      20/08, pointe vers `/policies/refund-policy`
 - [ ] Reprendre le bloc rétractation dans les annonces à distance — eBay, Vinted
-- [ ] Désigner un **médiateur de la consommation** : obligatoire pour tout
-      professionnel vendant à des consommateurs (art. L612-1 code de la
-      consommation), à mentionner dans les CGV. Adhésion payante, de l'ordre de
-      quelques dizaines d'euros par an. À vérifier sur `economie.gouv.fr/mediation-conso`
+- [x] Coller l'encadré informatif normalisé (ci-dessus) dans les CGV
+      Shopify — fait et vérifié le 21/08 (accès API refusé pour l'écriture,
+      scope manquant, collé manuellement par le client)
+- [x] Désigner un **médiateur de la consommation** ✅ fait le 23/08 — inscription
+      auprès du **CM2C** (Centre de la Médiation de la Consommation des
+      Conciliateurs de Justice, agréé CECMC), **48 € pour 3 ans**.
+      Coordonnées à coller dans la clause de la section 9 des CGV Shopify :
+
+      > En cas de litige de la consommation, le médiateur est le CM2C —
+      > Centre de la Médiation de la Consommation des Conciliateurs de
+      > Justice, 49 rue de Ponthieu, 75008 Paris, contact@cm2c.net,
+      > 01 89 47 00 14, `https://www.cm2c.net`.
 
 ## Où vérifier
 

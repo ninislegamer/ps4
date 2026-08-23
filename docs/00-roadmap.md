@@ -110,7 +110,7 @@ Thème retenu : **Dawn**.
 | Domaine des comptes clients | ✅ basculé le 16/08 sur compte.maison-nsaia.fr |
 | Thème Dawn installé et réglé | ✅ publié le 16/08 — était resté en brouillon, la boutique tournait sur Horizon (thème par défaut) jusque-là. Bannière d'accueil, barre d'annonces (2 messages en rotation), section « Une provenance vérifiée » (titre + texte + bouton « Découvrir mon histoire » relié à la page À propos), newsletter du pied de page traduite, page « À propos » créée (Visible) et ajoutée au menu principal, tout fait le 16/08. |
 | Photos produits harmonisées | ⬜ plus tard |
-| Système d'avis clients (Judge.me) | ✅ installé le 17/08 — plan gratuit, étoiles + avis en bas de fiche, 2 premiers avis Vinted importés et confirmés par mail (colline_dvl, lillyo456) |
+| Système d'avis clients (Judge.me) | ✅ installé le 17/08 — plan gratuit, étoiles + avis en bas de fiche, 2 premiers avis Vinted importés et confirmés par mail (colline_dvl, lillyo456). ✅ Carrousel + badge ajoutés en page d'accueil le 21/08 (après « À la une », déplacés depuis l'en-tête où ils s'affichaient par erreur sur toutes les pages) sur un **thème dupliqué « Dawn — avis repositionnés »**, validé visuellement puis **publié par le client** (vérifié côté API : `MAIN`). 3ᵉ avis Vinted (ugone70, 5★, associé au Salomon X Ultra 5 — 44) importé le 21/08 via feuille de calcul + mappage manuel produit, import lancé, confirmation par mail en attente. |
 | Collection « Chaussures » | ✅ créée le 17/08 — automatique, catégorie = Chaussures OU Chaussures de sport, 6 articles (4 baskets, 1 randonnée, 1 ballerines). « Vêtements » pas encore ouverte (2 réf. seulement, sous le seuil de 5-6) |
 | Collection « Nouveautés » | ✅ créée le 17/08 — automatique, statut = Actif, triée par date de création la plus récente. « Dernière pièce » volontairement pas créée : tout le stock étant déjà à 1 exemplaire, elle ne filtrerait rien — à revoir seulement si des références en plusieurs quantités arrivent (ex. sportswear racheté en lot) |
 | Menu principal | ✅ « Chaussures » et « Nouveautés » ajoutés le 17/08, en plus d'Accueil / Catalogue / Contact / À propos |
@@ -127,11 +127,32 @@ téléphone. Tout le reste de l'admin passe bien en mobile.
    `compte.maison-nsaia.fr` en domaine principal (il était connecté mais
    configuré en simple redirection).
 2. ~~**Thème Dawn**~~ ✅ publié le 16/08, réglages de la bannière d'accueil et
-   de la barre d'annonces faits (voir tableau ci-dessus). Reste : finir la
-   structure des autres sections de la page d'accueil.
-3. **Configurer contact@maison-nsaia.fr sur Outlook** — boîte hébergée chez
-   Gandi (webmail.gandi.net). À faire en IMAP/SMTP : demandé le 17/08, pas
-   encore fait.
+   de la barre d'annonces faits (voir tableau ci-dessus). ✅ Structure de la
+   page d'accueil complétée le 21/08 sur un **thème dupliqué**
+   (« Dawn — page d'accueil enrichie »), **publié par le client le 21/08**
+   (vérifié côté API : ce thème a désormais le rôle `MAIN`) :
+   - Section **« Nos rayons »** ajoutée après la bannière — 3 cartes
+     cliquables Chaussures / Vêtements / Nouveautés
+   - Section **« Déjà vendu »** ajoutée après « À la une »
+   - Section newsletter dédiée **« Accès prioritaire aux nouvelles
+     pièces »** ajoutée en bas de page, avec désactivation du formulaire
+     newsletter du pied de page (redondant, et présent sur toutes les
+     pages du site donc pas perdu ailleurs)
+   - Correction au passage : les vignettes de collection Vêtements et
+     Nouveautés affichaient la même photo (toutes deux héritaient de la
+     photo du 1er produit correspondant, qui était le même article) —
+     image dédiée assignée à chacune des 3 collections
+   - **Avis Judge.me non ajoutés à la home** — app tierce, configuration
+     du bloc non devinée par API pour ne rien casser ; à faire à la main
+     dans l'éditeur du thème (Ajouter une section → bloc fourni par
+     Judge.me)
+   - **Signalé par le client le 21/08 : des étiquettes réapparaîtraient
+     en premier sur d'autres fiches** — non confirmé par l'API (les 21
+     fiches publiées ont toutes une image de face en vedette au moment
+     de la vérification) — à revérifier après un cache navigateur vidé,
+     ou avec le détail des fiches concernées.
+3. ~~**Configurer contact@maison-nsaia.fr sur Outlook**~~ ✅ fait le 21/08 —
+   compte ajouté en IMAP/SMTP (mail.gandi.net) sur Outlook.
 4. **Shopify Inbox — régler les horaires réels et le message d'accueil.**
    Horaires actuellement sur « Disponible actuellement » (à remplacer par
    les vraies disponibilités). Message d'accueil à changer pour :
@@ -163,34 +184,81 @@ Articles Morgan — signalés par le client, remis à plus tard.
    seule photo restante montre la semelle ; l'autre avait un filigrane
    « adn. Lyon » et a été retirée sur demande. Il faut une photo de face
    sans filigrane pour compléter la fiche.
-2. **À reconfirmer visuellement : ordre photo article/étiquette.**
-   Plusieurs fiches (Chiara Ferragni, Sonia Rykiel, Sandro, et 6 autres
-   par précaution) affichaient l'étiquette en vignette au lieu de la
-   photo de l'article, malgré des données API correctes à tous les
-   niveaux vérifiés (media, featuredImage, images). Un forçage de
-   position (`productReorderMedia`) a été appliqué le 20/08 mais n'a pas
-   encore été revérifié sur le site depuis — la connexion Shopify a été
-   coupée juste après. Cause exacte non identifiée.
-3. **Mail de bienvenue — à intégrer dans Shopify Messaging.** Texte rédigé
-   le 20/08 (voir plus bas), l'app est déjà installée. L'automatisation
-   elle-même se configure dans l'interface propre de l'app, hors de portée
-   de l'API — à coller et activer manuellement (*Shopify Messaging →
-   Automatisations → Bienvenue à l'abonné e-mail*).
+2. ~~**Ordre photo article/étiquette.**~~ ✅ vérifié et corrigé le 20/08
+   (reprise) — sur les 17 fiches du catalogue, 3 affichaient encore
+   l'étiquette en image vedette : Chiara Ferragni, Sandro et Sonia
+   Rykiel. `productReorderMedia` réappliqué et revérifié cette fois
+   (le forçage de la veille n'avait pas tenu) : les trois affichent
+   désormais la photo de face. Les 14 autres fiches étaient déjà
+   correctes.
+3. ~~**Mail de bienvenue — à intégrer dans Shopify Messaging.**~~ ✅ fait
+   le 21/08, sur ordinateur (éditeur non accessible sur mobile, confirmé
+   la veille). Modèle « Accueillir les nouveaux abonnés avec un e-mail de
+   réduction » utilisé comme base (texte à un seul e-mail, pas la série),
+   bloc réduction retiré, texte validé collé dans le corps, activé.
+   Attention au champ **« Texte d'aperçu »** dans l'éditeur Shopify
+   Messaging : ce n'est **pas** le corps de l'e-mail mais le texte court
+   affiché dans la boîte de réception (200 caractères max) — collé par
+   erreur avec le texte complet la première fois, corrigé.
+3bis. ~~**Mail de remerciement après achat.**~~ ✅ fait et vérifié le
+   21/08, même méthode que le mail de bienvenue : modèle « Remercier les
+   clients après leur achat » (deux e-mails, 1er et 2e achat — texte
+   identique sur les deux, pas besoin de les différencier, les rachats
+   sont rares vu le stock à l'unité). Sur les deux e-mails : photo
+   générique retirée (jamais afficher une photo d'article précis sur une
+   automatisation qui part pour toute commande), titre par défaut
+   ("Merci d'avoir magasiné chez nous !" / "Vous êtes formidable !")
+   corrigé — "magasiner" ne se dit pas en France —, texte remplacé,
+   section réseaux sociaux supprimée (pas encore de comptes), bouton
+   "Visiter la boutique" gardé. Sur l'e-mail 2, la section "Découvrez nos
+   derniers produits" (produits dynamiques, boutons Acheter maintenant)
+   a été gardée telle quelle, elle a du sens pour relancer un client
+   fidèle. **Objet de l'e-mail 2 resté en anglais un temps** ("We're
+   happy to see you again") — traduit en « Merci pour votre nouvelle
+   commande — Maison Nsaia ». **Testé par envoi réel des deux e-mails,
+   rendu vérifié conforme.**
+3ter. ~~**Récupérer le paiement abandonné.**~~ ✅ vérifié le 21/08.
+   Automatisation Shopify Flow (logique standard : 10h d'attente,
+   vérifie que le client n'a pas déjà commandé/abandonné entre-temps et
+   que l'article est encore en stock, puis envoie l'e-mail) — installer
+   Shopify Flow était nécessaire (app officielle gratuite, pas
+   installée par défaut). Contenu de l'e-mail corrigé comme les deux
+   précédents : objet traduit (« Complete your order » →
+   « Votre commande vous attend — Maison Nsaia »), texte d'aperçu
+   ajouté. Branding et produits dynamiques déjà corrects. Testé par
+   envoi réel, conforme.
 4. **Réseaux sociaux non renseignés.** Aucun lien Instagram/Facebook/etc.
    dans le pied de page du thème. À ajouter si des comptes existent.
-5. **Avis clients (Judge.me) — langue à vérifier.** Le widget affiche
-   `data-widget-locale='fr'` sur le carrousel, mais les textes fixes de
-   l'interface (bouton « Écrire un avis », badges) dépendent d'un réglage
-   de langue séparé dans l'app, pas encore vérifié.
-6. **CGV, section 9 — médiateur de la consommation.** Toujours un espace
-   `[À COMPLÉTER]`. Bloquant pour lever le mot de passe boutique : il faut
-   que le client choisisse et s'inscrive auprès d'un médiateur agréé.
-7. **Connexion Shopify coupée en fin de session le 20/08**, jamais rétablie
-   malgré plusieurs tentatives de reconnexion. À vérifier au prochain
-   démarrage — si ça persiste, revoir le connecteur côté app Claude comme
-   la première fois (bascule "Toujours autoriser" par outil).
+5. ~~**Avis clients (Judge.me) — langue à vérifier.**~~ ✅ vérifié le 21/08 —
+   dans les réglages Judge.me, « Langue de l'administrateur » et « Langue
+   des widgets et des e-mails clients » sont toutes les deux sur Français.
+   « Activer les widgets multilingues » laissé décoché (boutique
+   mono-langue, Judge.me ne détecte aucune langue supplémentaire).
+6. ~~**CGV, section 9 — médiateur de la consommation.**~~ ✅ inscription faite
+   le 23/08 — **CM2C**, agréé CECMC, 48 € pour 3 ans. Reste à coller le nom/
+   coordonnées CM2C dans le texte `[À COMPLÉTER]` des CGV et republier.
+7. ~~**Connexion Shopify coupée en fin de session le 20/08.**~~ ✅ rétablie
+   à la reprise de session — accès normal confirmé (`get-shop-info`).
+8. ~~**Lien « Garanties et retours » au pied de page** (`02-cgv.md`).~~
+   ✅ ajouté le 20/08 via `menuUpdate`, pointe vers `/policies/refund-policy`.
+   En vérifiant les CGV en ligne à cette occasion : **les deux clauses
+   « prêtes à copier » de `02-cgv.md` (garantie légale + rétractation)
+   étaient déjà intégrées mot pour mot** dans les CGV publiées (sections 7
+   et 8) — la case à cocher du doc n'était juste pas mise à jour, rien à
+   refaire.
+9. ~~**Encadré informatif normalisé (garantie légale + vices cachés).**~~
+   ✅ fait le 21/08 — distinct des deux clauses déjà en place, obligatoire
+   dans les CGV depuis le 01/10/2022 (décret 2022-946). Web bloqué côté
+   session ; le client a retrouvé le texte exact lui-même sur Légifrance
+   (annexe I.A à l'article D. 211-2 du code de la consommation, modèle
+   « biens hors animaux domestiques »). Écriture directe via
+   `shopPolicyUpdate` refusée (scope `write_legal_policies` manquant sur
+   le connecteur) — collé manuellement par le client dans les CGV, entre
+   les sections 7 et 8. **Vérifié le 21/08 via l'API** (`shopPolicies`) :
+   le texte est bien enregistré et correctement placé. Texte de référence
+   dans `02-cgv.md`.
 
-**Texte du mail de bienvenue (rédigé le 20/08, pas encore intégré) :**
+**Texte du mail de bienvenue (rédigé le 20/08, intégré et activé le 21/08) :**
 ```
 Objet : Bienvenue chez Maison Nsaia
 
@@ -266,12 +334,10 @@ PayPal est un moyen de paiement supplémentaire, pas un remplacement.
   requise pour nos zones de vente. Rien à configurer manuellement.
 - ~~**Politiques**~~ ✅ fait le 16/08 — Coordonnées, Mention légale,
   Politique de retour, Politique d'expédition, Conditions de service et
-  Politique de confidentialité tous publiés. **Conditions de vente
-  publiées avec une réserve** : la section 9 (médiateur de la consommation,
-  obligatoire art. L616-1 du code de la consommation) est encore un
-  placeholder « à compléter ». Aucun médiateur choisi ni inscription faite
-  — reporté volontairement à plus tard. **Ne pas considérer la boutique
-  ouvrable tant que cette section n'est pas complétée et republiée.**
+  Politique de confidentialité tous publiés. ✅ **Section 9 (médiateur de la
+  consommation) complétée le 23/08** : CM2C, agréé CECMC, 48 € pour 3 ans,
+  coordonnées collées dans les CGV et republiées. Plus de réserve sur les
+  CGV — ce blocage pour lever le mot de passe boutique est levé.
 
 **Forfait : ne rien changer avant novembre 2026.** La boutique est sur Basic avec
 une promo à 1 €/mois jusqu'au 10/11/2026 (tarif plein 36 €). Basculer en annuel
@@ -599,7 +665,18 @@ même si la livraison reste limitée à la zone ouverte du moment.
 | 4 | Stock unitaire | 1 pièce = 1 fiche, retrait auto via Shopify Flow |
 | 5 | Paiements | Carte / PayPal / Apple Pay / Google Pay + checkout |
 | 6 | Espace client | Compte, suivi, favoris, facture PDF (art. 293 B) |
-| 7 | Dashboard admin | App de calcul de marge automatique |
+| 7 | Dashboard admin | App de calcul de marge automatique + extension de<br>téléchargement de facture côté compte client |
+
+**Précision sur la facture côté compte client (ajouté le 21/08) :** demandé
+par le client — un bouton « Télécharger ma facture » sur la page de
+commande du compte client. Pas un réglage d'admin : la boutique utilise les
+**nouveaux comptes clients** Shopify (`compte.maison-nsaia.fr`), qui ne se
+personnalisent qu'via une **extension d'app** (Shopify CLI), pas du Liquid.
+Les apps du marché qui font ça sont quasi toutes payantes (10-30 €/mois),
+contraire au principe zéro abonnement. À développer dans le même chantier
+que le dashboard de marge (compte Partner déjà créé), pas de coût
+récurrent supplémentaire. **En attendant : facture générée et envoyée
+manuellement**, modèle prêt dans `exports/modele-facture-vierge.html`.
 
 ---
 
@@ -1025,6 +1102,20 @@ Contraintes propres à cette famille de produits :
 - **Origine du stock** : liquidation, retours clients ou import parallèle — cela
   détermine ce qui peut être affirmé.
 
+### Piste future (21/08) — photo, vidéo, matériel DJ, horlogerie, lunetterie
+
+Idée proche de la piste « audio, hi-fi, instruments » ci-dessus : **du neuf**,
+acheté en bonne affaire (déstockage, opportunité), jamais d'occasion sur ces
+familles. Différence avec la piste ci-dessus : ici c'est au coup par coup —
+le client tombe sur une bonne affaire (photo, vidéo, matériel DJ, horlogerie,
+lunetterie...) et veut pouvoir l'intégrer à la boutique, pièce par pièce, sur
+le **même modèle que la mode** : un seul exemplaire à la fois, pas de stock
+permanent ni de réassort planifié sur ces familles. Objectif à terme : boutique
+multi-catégories, mais chaque article y reste géré à l'unité, quelle que soit
+la catégorie. À ne pas ouvrir avant la Phase 2 (structure des catégories déjà
+posée, premières ventes faites) — noté ici pour ne pas l'oublier, pas encore
+d'action à prendre.
+
 ### Seuil de marge sur les articles à forte valeur
 
 Un seuil fixe perd son sens quand la valeur monte : 100 € sur un manteau à 400 €
@@ -1259,16 +1350,15 @@ près du prix du marché, ceux que la règle des deux tiers aurait écartés.
 
 ## L'ordre des opérations
 
-### 0. Ne rien supprimer avant l'encaissement de la Salomon
+### 0. ~~Ne rien supprimer avant l'encaissement de la Salomon~~ ✅ encaissée le 21/08
 
 Une transaction en cours sur un compte qu'on ferme, c'est l'argent qui se bloque.
 **100 € sont derrière.** Attendre la validation de réception par le client italien.
 
-> **Fait le 14/08.** Colis déposé en locker Mondial Relay, cinq jours avant
-> l'échéance du 19 août 20h12. Reste à attendre la livraison et la validation :
-> tant que le virement n'est pas arrivé, **la Salomon n'entre pas au livre des
-> recettes**. Conserver la preuve de dépôt jusqu'à l'encaissement — c'est la seule
-> défense si le client déclare une non-réception.
+> **Fait le 14/08** : colis déposé en locker Mondial Relay, cinq jours avant
+> l'échéance du 19 août 20h12. **Fait le 21/08** : virement reçu sur le compte —
+> la Salomon entre maintenant au livre des recettes. Conserver la preuve de dépôt
+> encore un temps en cas de litige tardif, mais le blocage est levé.
 
 ### 1. eBay en professionnel — cette semaine
 
