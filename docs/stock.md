@@ -622,8 +622,9 @@ ne fait pas apparaître des acheteurs qui ne voient pas l'annonce.
 
 ### Le reste
 
-- [x] **Salomon X Ultra 5 vendue 100 € le 12 août** — expédier avant le 19 août
-      20h12, bordereau Vinted, acheteur en Italie. **Déclarer les 100 € au CA.**
+- [x] **Salomon X Ultra 5 vendue 100 € le 12 août** — expédiée le 14 août,
+      bordereau Vinted, acheteur en Italie. **Encaissée le 23 août** :
+      **déclarer les 100 € au CA** au 3ᵉ trimestre (31 octobre).
 - [ ] Retirer la Sandro et les Predator de Vinted (articles neufs : hors
       périmètre Vinted Pro)
 - [ ] Ouvrir un compte eBay pour les Predator — **une annonce par paire**, 89 €

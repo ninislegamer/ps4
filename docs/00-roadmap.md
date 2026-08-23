@@ -1269,6 +1269,9 @@ Une transaction en cours sur un compte qu'on ferme, c'est l'argent qui se bloque
 > tant que le virement n'est pas arrivé, **la Salomon n'entre pas au livre des
 > recettes**. Conserver la preuve de dépôt jusqu'à l'encaissement — c'est la seule
 > défense si le client déclare une non-réception.
+>
+> **Encaissée le 23/08.** Les 100 € sont arrivés, l'étape 0 est close : plus rien
+> ne bloque le passage en professionnel sur les plateformes.
 
 ### 1. eBay en professionnel — cette semaine
 

@@ -805,12 +805,13 @@ Canal : Vinted, pas la boutique.
 | LACOSTE sneakers P.42 | Mme Aouimeur Siham | 70 € | 59,88 € | 8,68 € | **+1,44 €** | 09/08/2026 |
 | Veste en jean ARMANI EXCHANGE T.S | Mme Aouimeur Siham | 50 € | 27,57 € | 6,20 € | **+16,23 €** | 09/08/2026 |
 | HAVAIANAS Slim — 2 paires à 14 € | *à préciser* | 28 € | 21,53 € | 3,47 € | **+2,99 €** | 10/08/2026 |
-| **TOTAL ENCAISSÉ** | | **373 €** | **277,52 €** | **46,25 €** | **+49,21 €** | |
-| SALOMON X Ultra 5 Mid GTX P.44 | Client Vinted (Italie) | 100 € | 79,05 € | 12,40 € | **+8,55 €** | **en attente** ¹ |
+| SALOMON X Ultra 5 Mid GTX P.44 | Client Vinted (Italie) | 100 € | 79,05 € | 12,40 € | **+8,55 €** | 23/08/2026 |
+| **TOTAL ENCAISSÉ** | | **473 €** | **356,57 €** | **58,65 €** | **+57,76 €** | |
 
-¹ *Vinted retient le paiement jusqu'à validation de la réception. Tant que le
-virement n'est pas arrivé, la vente ne s'inscrit pas au livre des recettes —
-c'est l'encaissement qui compte, pas la vente.*
+*Salomon encaissée le 23/08 — Vinted avait retenu le paiement jusqu'à
+validation de la réception par le client italien. C'est l'encaissement qui
+compte, pas la date de vente : elle entre au livre des recettes au 23/08, pas
+au 12/08.*
 
 ## Les Hoka et les Nike ne sont pas des ventes
 
@@ -893,22 +894,21 @@ High Class MEGA Dream ex).*
 | | |
 |---|---|
 | Total engagé — marchandise, livraison | **1 848,75 €** |
-| Coût des 5 articles vendus | **−277,52 €** |
-| Coût de la Salomon, vendue non encaissée | **−79,05 €** |
+| Coût des 6 articles vendus, tous encaissés | **−356,57 €** |
 | Coût des 3 articles gardés | **−137,55 €** |
 | **Stock restant, à son coût d'achat** | **1 354,63 €** |
 
 | | |
 |---|---|
-| Encaissé de clients réels | **373,00 €** |
+| Encaissé de clients réels | **473,00 €** |
 | Apport personnel — remboursement des 3 prélèvements | **137,55 €** |
-| **Total crédité au compte professionnel** | **510,55 €** |
-| URSSAF due — 12,4 % sur les 373 € | **−46,25 €** |
-| **Réellement disponible** | **464,30 €** |
-| **Revenu net en poche, de clients réels** | **326,75 €** |
+| **Total crédité au compte professionnel** | **610,55 €** |
+| URSSAF due — 12,4 % sur les 473 € | **−58,65 €** |
+| **Réellement disponible** | **551,90 €** |
+| **Revenu net en poche, de clients réels** | **414,35 €** |
 
-Seuls 373 € sont du chiffre d'affaires. C'est ce montant-là qui se déclare
-avant le 31 octobre — pas 510,55 €. Les 137,55 € d'apport sont tes propres
+Seuls 473 € sont du chiffre d'affaires. C'est ce montant-là qui se déclare
+avant le 31 octobre — pas 610,55 €. Les 137,55 € d'apport sont tes propres
 fonds : aucune URSSAF, rien à déclarer.
 
 ## Le point de retour : 1 848,75 €
@@ -919,18 +919,18 @@ retiré. C'est le repère contre lequel tout se mesure désormais.
 | | |
 |---|---|
 | Engagement total | **1 848,75 €** |
-| Déjà revenu — net d'URSSAF, de clients réels | 326,75 € |
+| Déjà revenu — net d'URSSAF, de clients réels | 414,35 € |
 | Ce que le stock restant rendra — coût 1 354,63 € + marge 808,47 € | 2 163,10 € |
-| **Retour total si tout se vend au prix** | **2 489,85 €** |
+| **Retour total si tout se vend au prix** | **2 577,45 €** |
 
-**+641,10 € sur la mise**, une fois tout écoulé et toutes charges payées. Soit
-**34,68 % de rendement** sur le capital — correct pour de l'achat-revente, à
+**+728,70 € sur la mise**, une fois tout écoulé et toutes charges payées. Soit
+**39,42 % de rendement** sur le capital — correct pour de l'achat-revente, à
 condition que le stock parte.
 
 **Chaque mois d'attente coûte 58 € de charges** à partir de novembre : un point de
 rendement par mois. Le temps est la seule variable qui joue contre toi.
 
-**17,7 % du capital est revenu** (326,75 ÷ 1 848,75 €).
+**22,4 % du capital est revenu** (414,35 ÷ 1 848,75 €).
 
 **L'URSSAF est provisionnée au fil de l'eau, sur un compte séparé.** C'est la
 discipline qui fait tenir une micro-entreprise en achat-revente : l'URSSAF frappe
@@ -938,12 +938,13 @@ le prix de vente, pas la marge, donc elle est due même sur une vente à perte.
 Provision à virer à chaque encaissement : **12,4 %** (12,3 % cotisations
 + 0,1 % CFP).
 
-Reste à encaisser : **100 €** (Salomon, retenus par Vinted jusqu'à réception en
-Italie), dont 12,40 € d'URSSAF.
+**Salomon encaissée le 23/08 : plus rien en attente sur les ventes déjà
+faites.** Provisionner les 12,40 € d'URSSAF correspondants avec le reste.
 
 **Règle qui découle de ce constat : aucun nouvel achat tant que le capital
-récupéré n'atteint pas 50 %**, soit environ 924 € encaissés. Acheter avant, c'est
-empiler du stock avec de l'argent qui ne tourne pas.
+récupéré n'atteint pas 50 %**, soit environ 924 € encaissés — on est à 414,35 €,
+un peu moins de la moitié du chemin. Acheter avant, c'est empiler du stock
+avec de l'argent qui ne tourne pas.
 
 ## Ce qu'il reste à compléter
 
