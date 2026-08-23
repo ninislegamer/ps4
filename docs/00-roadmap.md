@@ -334,13 +334,10 @@ PayPal est un moyen de paiement supplémentaire, pas un remplacement.
   requise pour nos zones de vente. Rien à configurer manuellement.
 - ~~**Politiques**~~ ✅ fait le 16/08 — Coordonnées, Mention légale,
   Politique de retour, Politique d'expédition, Conditions de service et
-  Politique de confidentialité tous publiés. **Conditions de vente
-  publiées avec une réserve** : la section 9 (médiateur de la consommation,
-  obligatoire art. L616-1 du code de la consommation) est encore un
-  placeholder « à compléter ». ✅ **Médiateur choisi et inscription faite le
-  23/08** : CM2C, agréé CECMC, 48 € pour 3 ans. Reste à coller le nom/
-  coordonnées CM2C dans le texte des CGV et republier avant d'ouvrir la
-  boutique.
+  Politique de confidentialité tous publiés. ✅ **Section 9 (médiateur de la
+  consommation) complétée le 23/08** : CM2C, agréé CECMC, 48 € pour 3 ans,
+  coordonnées collées dans les CGV et republiées. Plus de réserve sur les
+  CGV — ce blocage pour lever le mot de passe boutique est levé.
 
 **Forfait : ne rien changer avant novembre 2026.** La boutique est sur Basic avec
 une promo à 1 €/mois jusqu'au 10/11/2026 (tarif plein 36 €). Basculer en annuel
