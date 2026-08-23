@@ -321,10 +321,11 @@ garantie en gros caractères a l'air de se défendre, pas de vendre.
 - [x] Coller l'encadré informatif normalisé (ci-dessus) dans les CGV
       Shopify — fait et vérifié le 21/08 (accès API refusé pour l'écriture,
       scope manquant, collé manuellement par le client)
-- [ ] Désigner un **médiateur de la consommation** : obligatoire pour tout
-      professionnel vendant à des consommateurs (art. L612-1 code de la
-      consommation), à mentionner dans les CGV. Adhésion payante, de l'ordre de
-      quelques dizaines d'euros par an. À vérifier sur `economie.gouv.fr/mediation-conso`
+- [x] Désigner un **médiateur de la consommation** ✅ fait le 23/08 — inscription
+      auprès du **CM2C** (Centre de la Médiation de la Consommation des
+      Conciliateurs de Justice, agréé CECMC), **48 € pour 3 ans**. Reste à
+      coller le nom/coordonnées CM2C dans la clause `[À COMPLÉTER]` de la
+      section 9 des CGV.
 
 ## Où vérifier
 

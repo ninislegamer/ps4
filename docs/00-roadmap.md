@@ -234,9 +234,9 @@ Articles Morgan — signalés par le client, remis à plus tard.
    des widgets et des e-mails clients » sont toutes les deux sur Français.
    « Activer les widgets multilingues » laissé décoché (boutique
    mono-langue, Judge.me ne détecte aucune langue supplémentaire).
-6. **CGV, section 9 — médiateur de la consommation.** Toujours un espace
-   `[À COMPLÉTER]`. Bloquant pour lever le mot de passe boutique : il faut
-   que le client choisisse et s'inscrive auprès d'un médiateur agréé.
+6. ~~**CGV, section 9 — médiateur de la consommation.**~~ ✅ inscription faite
+   le 23/08 — **CM2C**, agréé CECMC, 48 € pour 3 ans. Reste à coller le nom/
+   coordonnées CM2C dans le texte `[À COMPLÉTER]` des CGV et republier.
 7. ~~**Connexion Shopify coupée en fin de session le 20/08.**~~ ✅ rétablie
    à la reprise de session — accès normal confirmé (`get-shop-info`).
 8. ~~**Lien « Garanties et retours » au pied de page** (`02-cgv.md`).~~
@@ -337,9 +337,10 @@ PayPal est un moyen de paiement supplémentaire, pas un remplacement.
   Politique de confidentialité tous publiés. **Conditions de vente
   publiées avec une réserve** : la section 9 (médiateur de la consommation,
   obligatoire art. L616-1 du code de la consommation) est encore un
-  placeholder « à compléter ». Aucun médiateur choisi ni inscription faite
-  — reporté volontairement à plus tard. **Ne pas considérer la boutique
-  ouvrable tant que cette section n'est pas complétée et republiée.**
+  placeholder « à compléter ». ✅ **Médiateur choisi et inscription faite le
+  23/08** : CM2C, agréé CECMC, 48 € pour 3 ans. Reste à coller le nom/
+  coordonnées CM2C dans le texte des CGV et republier avant d'ouvrir la
+  boutique.
 
 **Forfait : ne rien changer avant novembre 2026.** La boutique est sur Basic avec
 une promo à 1 €/mois jusqu'au 10/11/2026 (tarif plein 36 €). Basculer en annuel
