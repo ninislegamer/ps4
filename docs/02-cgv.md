@@ -323,9 +323,13 @@ garantie en gros caractères a l'air de se défendre, pas de vendre.
       scope manquant, collé manuellement par le client)
 - [x] Désigner un **médiateur de la consommation** ✅ fait le 23/08 — inscription
       auprès du **CM2C** (Centre de la Médiation de la Consommation des
-      Conciliateurs de Justice, agréé CECMC), **48 € pour 3 ans**. Reste à
-      coller le nom/coordonnées CM2C dans la clause `[À COMPLÉTER]` de la
-      section 9 des CGV.
+      Conciliateurs de Justice, agréé CECMC), **48 € pour 3 ans**.
+      Coordonnées à coller dans la clause de la section 9 des CGV Shopify :
+
+      > En cas de litige de la consommation, le médiateur est le CM2C —
+      > Centre de la Médiation de la Consommation des Conciliateurs de
+      > Justice, 49 rue de Ponthieu, 75008 Paris, contact@cm2c.net,
+      > 01 89 47 00 14, `https://www.cm2c.net`.
 
 ## Où vérifier
 
