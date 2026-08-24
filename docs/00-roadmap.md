@@ -182,9 +182,8 @@ Articles Morgan — signalés par le client, remis à plus tard.
    `data-widget-locale='fr'` sur le carrousel, mais les textes fixes de
    l'interface (bouton « Écrire un avis », badges) dépendent d'un réglage
    de langue séparé dans l'app, pas encore vérifié.
-6. **CGV, section 9 — médiateur de la consommation.** Toujours un espace
-   `[À COMPLÉTER]`. Bloquant pour lever le mot de passe boutique : il faut
-   que le client choisisse et s'inscrive auprès d'un médiateur agréé.
+6. ~~**CGV, section 9 — médiateur de la consommation.**~~ ✅ complétée —
+   confirmé le 23/08. Le blocage sur l'ouverture de la boutique est levé.
 7. **Connexion Shopify coupée en fin de session le 20/08**, jamais rétablie
    malgré plusieurs tentatives de reconnexion. À vérifier au prochain
    démarrage — si ça persiste, revoir le connecteur côté app Claude comme
@@ -266,12 +265,14 @@ PayPal est un moyen de paiement supplémentaire, pas un remplacement.
   requise pour nos zones de vente. Rien à configurer manuellement.
 - ~~**Politiques**~~ ✅ fait le 16/08 — Coordonnées, Mention légale,
   Politique de retour, Politique d'expédition, Conditions de service et
-  Politique de confidentialité tous publiés. **Conditions de vente
-  publiées avec une réserve** : la section 9 (médiateur de la consommation,
-  obligatoire art. L616-1 du code de la consommation) est encore un
-  placeholder « à compléter ». Aucun médiateur choisi ni inscription faite
-  — reporté volontairement à plus tard. **Ne pas considérer la boutique
-  ouvrable tant que cette section n'est pas complétée et republiée.**
+  Politique de confidentialité tous publiés. **Conditions de vente,
+  section 9 (médiateur de la consommation, obligatoire art. L616-1 du code
+  de la consommation) : complétée le 23/08.** Coût du médiateur intégré
+  aux charges fixes (48 €/3 ans). La boutique est désormais considérée
+  ouvrable de ce point de vue.
+
+**Les trois points de cette section sont réunis au 23/08.** Plus aucun
+blocage légal ou logistique connu sur l'ouverture de la boutique.
 
 **Forfait : ne rien changer avant novembre 2026.** La boutique est sur Basic avec
 une promo à 1 €/mois jusqu'au 10/11/2026 (tarif plein 36 €). Basculer en annuel
@@ -1156,10 +1157,8 @@ une pièce invendable à la marge visée.
 
 Le médiateur se règle en une fois tous les trois ans (48 €), pas au mois —
 1,33 €/mois est une moyenne lissée pour rester comparable au reste du
-tableau. **Reste à confirmer : le médiateur est-il choisi et l'inscription
-faite ?** Tant que la section 9 des CGV affiche « à compléter », la
-boutique n'est pas considérée ouvrable (voir plus bas) — connaître le tarif
-ne suffit pas à lever le blocage.
+tableau. **Section 9 des CGV complétée le 23/08** : le blocage sur
+l'ouverture de la boutique est levé.
 
 Et à partir de 2027, la **CFE** s'ajoute : exonérée la première année, puis 200 à
 600 €/an selon la commune. Soit un plancher réaliste de **912 €/an** en 2027.
