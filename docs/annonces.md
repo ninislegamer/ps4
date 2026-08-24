@@ -621,6 +621,186 @@ uniquement, pas d'expédition.
 sur la 122. Une photo du défaut vaut mieux qu'une phrase : elle prouve la bonne
 foi et coupe court à la négociation.
 
+# 5 bis. POKÉMON — import Meccha Japan, facture #FA429713
+
+**Retiré du stock professionnel le 17/08, réintégré le 23/08.** Le display et
+les deux boosters Storm Emeralda repassent en stock professionnel, vendus via
+le compte professionnel — donc CA déclaré et URSSAF dus dessus comme sur
+n'importe quel autre lot. Seul le booster High Class MEGA Dream ex reste hors
+du calcul : il est prélevé pour usage personnel, inchangé.
+
+**Le vrai coût était 94,93 €, pas 65 €.** La facture donne 81,16 € de produits
+plus 13,77 € de port. Réparti sur les huit unités de vente, le port pèse 1,72 €
+par annonce. Les prix ci-dessous sont recalculés là-dessus.
+
+**Les deux displays n'ont pas le même nombre de boosters** — c'est ce qui rend la
+comparaison des prix trompeuse :
+
+| Produit | Boosters par display | Cartes par booster |
+|---------|----------------------|--------------------|
+| **Nihil Zero M3** — celui que tu as acheté | **30** | 5 |
+| **High Class MEGA Dream ex M2a** | **10** | 10 |
+
+Les High Class packs sont vendus par dix, avec des boosters deux fois plus épais
+et un ex garanti dans chacun : c'est pour ça qu'un booster M2a vaut 12,99 € quand
+un booster M3 en vaut 3,50 €.
+
+| Annonce | Coût réel | Seuil | Prix | URSSAF | **Marge** |
+|---------|-----------|-------|------|--------|-----------|
+| Lot de 15 boosters Nihil Zero ×2 | 34,62 €/lot | 39,52 € | **49 €** | 6,08 € | **+8,30 €** |
+| Lot de 2 boosters Storm Emeralda | 12,74 € | 14,54 € | **19 €** | 2,36 € | **+3,90 €** |
+| **Total — 3 annonces** | **81,98 €** | | **117 €** | **14,51 €** | **+20,51 €** |
+
+Le booster High Class MEGA Dream ex est **prélevé pour usage personnel** : coût
+12,95 €, hors de ce calcul. Les 94,93 € de la facture se répartissent donc en
+81,98 € de stock à vendre et 12,95 € sortis du stock.
+
+**Compte professionnel — à choisir : Leboncoin Pro, Vinted Pro ou eBay Pro.**
+Le calcul ci-dessus suppose un canal sans commission (Leboncoin, remise en main
+propre) : sur eBay, une commission de ~12 % + 0,35 € prélèverait 6,23 € sur un
+lot à 49 € — les trois quarts de la marge. Si le canal choisi facture une
+commission, recalculer les marges avant de publier.
+
+### TVA d'importation : réglé, rien à payer
+
+**Aucune TVA ni frais réclamés à la livraison.** Le coût s'arrête à 94,93 € : rien
+ne vient s'y ajouter.
+
+C'est le bon dénouement, et il s'explique : sous 150 €, le vendeur peut collecter
+la TVA en amont via le guichet **IOSS** — le colis traverse alors la douane sans
+retenue et sans frais de dossier. Meccha Japan pratique ce régime, ce qui
+explique l'absence de ligne de taxe séparée sur la facture.
+
+**Ce qu'il faut en retenir pour la suite :**
+
+| Montant de commande | Ce qui s'applique |
+|---|---|
+| **Jusqu'à 150 €** | TVA collectée par le vendeur si IOSS, pas de droits de douane, rien à payer à la livraison |
+| **Au-delà de 150 €** | Droits de douane **en plus** de la TVA, et frais de dossier du transporteur |
+
+**150 € est le bon plafond de commande japonaise.** Passer à 200 € pour
+« amortir le port » coûte plus cher que le port économisé. Et vérifier que le
+vendeur pratique l'IOSS avant de commander ailleurs : sans IOSS, il faut ajouter
+20 % de TVA plus 8 à 15 € de frais de dossier au coût d'achat, ce qui suffit à
+effacer la marge.
+
+## Booster box Nihil Zero M3 — la décision à prendre avant tout
+
+*coût 69,24 € · display scellé sous blister, 30 boosters de 5 cartes*
+
+**La box est encore scellée.** C'est une décision qui ne se reprend pas : une fois
+le blister ouvert, la box n'existe plus comme objet, il ne reste que 30 boosters.
+
+| Option | Recette | URSSAF | **Marge** | Annonces | **Marge / annonce** |
+|--------|---------|--------|-----------|----------|---------------------|
+| Box scellée entière à 89 € | 89 € | 11,04 € | +8,72 € | 1 | 8,72 € |
+| **2 lots de 15 à 49 €** | **98 €** | 12,15 € | **+16,61 €** | **2** | **8,30 €** |
+| 3 lots de 10 à 33 € | 99 € | 12,28 € | +17,48 € | 3 | 5,83 € |
+| 6 lots de 5 à 17 € | 102 € | 12,65 € | +20,11 € | 6 | 3,35 € |
+| 30 boosters à l'unité à 3,40 € | 102 € | 12,65 € | +20,11 € | 30 | 0,67 € |
+
+**Retenu : deux lots de 15 à 49 €.**
+
+Découper à l'infini ne rapporte presque rien de plus. Entre 2 annonces et 30, il y
+a **3,50 € de marge d'écart** — et 28 rendez-vous. La courbe s'aplatit tout de
+suite parce que l'URSSAF prend 12,4 % à chaque fois, quelle que soit la taille du
+lot.
+
+Vendre la box scellée à 89 € rapporterait presque autant par annonce, mais 89 €
+est le prix d'un revendeur avec garantie, pas d'un particulier sur Leboncoin. À
+82 €, le prix réaliste, il ne reste que 2,59 €. **La box scellée ne vaut le coup
+que si un collectionneur la paie plein tarif** — si quelqu'un propose 85 € ou
+plus sans marchander, prends-le et ne l'ouvre pas.
+
+49 € les 15 boosters, c'est **3,27 € l'unité**, sous les 3,50 € de Pikastore et
+au-dessus du prix au display. C'est la bonne place.
+
+### L'argument qui fait vendre : boosters non pesés
+
+Le marché des cartes est infesté de boosters **pesés ou triés** — le vendeur pèse
+les sachets pour retirer ceux qui contiennent une carte rare avant de revendre le
+reste. Un acheteur averti cherche cette garantie en premier.
+
+**Tu peux la donner honnêtement** : ta box vient scellée du Japon, tu l'ouvres
+devant témoin ou en vidéo, et tu ne touches à rien. Photographie le blister intact
+**avant** de l'ouvrir — c'est ta preuve.
+
+## Lot de 15 boosters Nihil Zero M3 — 49 €, deux lots
+
+*coût 34,62 € le lot · marge 8,30 €*
+
+```
+Lot 15 boosters Pokémon Nihil Zero M3 japonais scellés - display ouvert devant vous
+```
+```
+LOT DE 15 BOOSTERS POKÉMON — NIHIL ZERO (MUNIKIS ZERO) M3
+
+15 boosters neufs et scellés, jamais ouverts.
+5 cartes par booster, soit 75 cartes au total.
+
+BOOSTERS NON PESÉS, NON TRIÉS. Ils sortent d'un display scellé
+importé directement du Japon, ouvert sans être fouillé. Photo du
+blister d'origine intact disponible.
+
+Nihil Zero, code M3, série MEGA — Méga-Évolution.
+Sorti au Japon le 23 janvier 2026.
+
+Têtes d'affiche : Mega Zygarde ex, première apparition dans le jeu
+de cartes, Mega Clefable ex, Mega Starmie ex et Meowth ex.
+
+49 € le lot de 15, soit 3,27 € le booster.
+Prix boutique en France : 3,50 € l'unité.
+
+Deux lots disponibles. Remise en main propre ou envoi suivi.
+```
+
+## Booster High Class MEGA Dream ex M2a — PRÉLEVÉ, usage personnel
+
+*coût 12,95 € · marché 12,99 € · sorti du stock le 14/08/2026*
+
+**Gardé pour usage personnel.** C'est le bon arbitrage : le booster avait coûté
+12,95 € pour un prix de marché de 12,99 €, confirmé par deux sources concordantes
+— le display de 10 à 129,94 € chez Kaufland, et le booster seul relevé au même
+prix. Vendu, il perdait 1,57 € après URSSAF. Gardé, il vaut 12,99 €.
+
+Un article qu'on ne peut pas vendre avec profit est mieux employé chez soi que
+bradé. La seule chose qui compte, c'est de le sortir proprement du stock.
+
+**Ligne de sortie inscrite au registre des objets mobiliers**, mention « usage
+personnel, sans contrepartie ». Rien au livre des recettes : il n'y a pas
+d'encaissement.
+
+## Lot de 2 boosters MEGA Storm Emeralda M6 — 19 €
+
+*coût 12,74 € le lot · seuil 14,54 € · marge 3,90 €*
+
+Le set est sorti au **31 juillet 2026** — il a deux semaines. C'est la série
+Mega Rayquaza ex, et les prix de détail à Tokyo sont montés à trois fois le prix
+public. C'est le seul des trois où la demande travaille pour toi.
+
+**Publier vite.** Un set neuf se vend cher les six premières semaines, puis
+retombe quand les displays inondent le marché.
+
+```
+Lot 2 boosters Pokémon Storm Emeralda M6 japonais scellés - Mega Rayquaza
+```
+```
+LOT DE 2 BOOSTERS POKÉMON — MEGA STORM EMERALDA (M6)
+
+2 boosters neufs et scellés, jamais ouverts.
+5 cartes par booster, soit 10 cartes au total.
+
+Storm Emeralda, code M6, série MEGA — Méga-Évolution.
+Sorti au Japon le 31 juillet 2026 : extension récente.
+
+Tête d'affiche : Mega Rayquaza ex.
+
+Version japonaise d'origine, importée directement du Japon.
+Facture d'importation disponible sur demande.
+
+Remise en main propre ou envoi suivi sous enveloppe matelassée.
+```
+
 ## Ballerines MASSIMO DUTTI P.41 — 61 €
 
 *coût **27,57 €** · marge **25,87 €*** · *59 → 61 € le 14/08, marché 70 €*
@@ -900,14 +1080,18 @@ High Class MEGA Dream ex).*
 
 | | |
 |---|---|
-| Total engagé — marchandise, livraison | **1 987,35 €** |
+| Total engagé — marchandise, livraison | **2 069,33 €** |
 | Coût des 6 articles vendus, tous encaissés | **−356,57 €** |
 | Coût des 4 articles gardés | **−187,95 €** |
-| **Stock restant, à son coût d'achat** | **1 442,83 €** |
+| **Stock restant, à son coût d'achat** | **1 524,81 €** |
 
 *Total après achat du 23/08 (facture FB2026-49549, 138,60 € CB Stripe) :
-1 848,75 € → **1 987,35 €**, soit +138,60 € (88,20 € unité centrale gaming
-Acer G3-605, à revendre + 50,40 € vidéoprojecteur Philips NeoPix 110, gardé).*
+1 848,75 € → 1 987,35 €, soit +138,60 € (88,20 € unité centrale gaming
+Acer G3-605, à revendre + 50,40 € vidéoprojecteur Philips NeoPix 110, gardé).
+Puis retour du display Pokémon Nihil Zero et des boosters Storm Emeralda en
+stock professionnel : 1 987,35 € → **2 069,33 €**, soit +81,98 € (69,24 € box
++ 12,74 € boosters). Seul le booster High Class MEGA Dream ex reste hors
+activité, prélevé pour usage personnel.*
 
 | | |
 |---|---|
@@ -923,32 +1107,32 @@ avant le 31 octobre — pas 660,95 €. Les 187,95 € d'apport sont tes propres
 fonds : aucune URSSAF, rien à déclarer. Le vidéoprojecteur n'est pas vendu :
 zéro impact sur le chiffre d'affaires, zéro URSSAF.
 
-## Le point de retour : 1 987,35 €
+## Le point de retour : 2 069,33 €
 
-L'engagement total, c'est le coût de toute la marchandise achetée, Pokémon
-retiré. C'est le repère contre lequel tout se mesure désormais.
+L'engagement total, c'est le coût de toute la marchandise achetée. C'est le
+repère contre lequel tout se mesure désormais.
 
 | | |
 |---|---|
-| Engagement total | **1 987,35 €** |
+| Engagement total | **2 069,33 €** |
 | Déjà revenu — net d'URSSAF, de clients réels | 414,35 € |
-| Ce que le stock restant rendra — coût 1 442,83 € + marge 808,47 €¹ | 2 251,30 € |
-| **Retour total si tout se vend au prix** | **2 665,65 €** |
+| Ce que le stock restant rendra — coût 1 524,81 € + marge 825,28 €¹ | 2 350,09 € |
+| **Retour total si tout se vend au prix** | **2 764,44 €** |
 
-¹ *La marge de 808,47 € couvre les 33 lots déjà tarifés. L'unité centrale
-gaming (88,20 €) n'a pas encore de prix de revente : sa marge n'est pas dans
-ce total, alors que son coût, lui, y est déjà — le retour réel sera plus
-haut une fois le prix fixé.*
+¹ *La marge de 825,28 € couvre les 35 lots déjà tarifés, display et boosters
+Pokémon compris. L'unité centrale gaming (88,20 €) n'a pas encore de prix de
+revente : sa marge n'est pas dans ce total, alors que son coût, lui, y est
+déjà — le retour réel sera plus haut une fois le prix fixé.*
 
-**+678,30 € sur la mise**, une fois tout écoulé et toutes charges payées. Soit
-**34,13 % de rendement** sur le capital — sous-estimé, faute de prix sur
+**+695,11 € sur la mise**, une fois tout écoulé et toutes charges payées. Soit
+**33,59 % de rendement** sur le capital — sous-estimé, faute de prix sur
 l'unité centrale — correct pour de l'achat-revente, à condition que le stock
 parte.
 
 **Chaque mois d'attente coûte 58 € de charges** à partir de novembre : un point de
 rendement par mois. Le temps est la seule variable qui joue contre toi.
 
-**20,8 % du capital est revenu** (414,35 ÷ 1 987,35 €).
+**20,0 % du capital est revenu** (414,35 ÷ 2 069,33 €).
 
 **L'URSSAF est provisionnée au fil de l'eau, sur un compte séparé.** C'est la
 discipline qui fait tenir une micro-entreprise en achat-revente : l'URSSAF frappe
@@ -960,17 +1144,18 @@ Provision à virer à chaque encaissement : **12,4 %** (12,3 % cotisations
 faites.** Provisionner les 12,40 € d'URSSAF correspondants avec le reste.
 
 **Règle qui découle de ce constat : aucun nouvel achat tant que le capital
-récupéré n'atteint pas 50 %**, soit environ 994 € encaissés — on est à
-414,35 €, un peu moins de 21 %. **L'achat du 23/08 a été fait sous ce seuil** :
-à noter, pas à culpabiliser, mais le prochain achat mérite d'attendre que le
-stock déjà là se vende davantage.
+récupéré n'atteint pas 50 %**, soit environ 1 035 € encaissés — on est à
+414,35 €, un peu moins de 20 %. **Les achats du 23/08 ont été faits sous ce
+seuil** : à noter, pas à culpabiliser, mais le prochain achat mérite d'attendre
+que le stock déjà là se vende davantage.
 
 **Confirmé le 23/08 : plus aucun achat pour l'instant.** L'objectif n'a
 jamais été de maximiser le stock, mais d'atteindre environ **2 000 €
-d'engagement total** — l'achat du 23/08 y amène à 1 987,35 €, quasiment au
-but. Le sourcing s'arrête ici ; place à l'écoulement du stock. Prochaine
-étape naturelle avant de rouvrir les achats : passer les 50 % de capital
-récupéré évoqués ci-dessus.
+d'engagement total** — avec le retour du Pokémon en stock professionnel,
+l'engagement total atteint 2 069,33 €, légèrement au-dessus du repère. Le
+sourcing s'arrête ici ; place à l'écoulement du stock. Prochaine étape
+naturelle avant de rouvrir les achats : passer les 50 % de capital récupéré
+évoqués ci-dessus.
 
 ## Ce qu'il reste à compléter
 
