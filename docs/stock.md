@@ -601,6 +601,28 @@ ne fait pas apparaître des acheteurs qui ne voient pas l'annonce.
 
 ---
 
+## Achat du 23 août — facture FB2026-49549
+
+Bordereau ADN-1738-11, réglé 138,60 € CB Stripe le jour même, restant dû 0 €.
+Deux lots, deux destins différents.
+
+| Lot | Désignation | Coût réel (adjudication + frais) | Destin |
+|-----|-------------|-----------------------------------|--------|
+| 18 · V760835 | Unité centrale gaming Acer Predator G3-605 — i7-4790, 16 Go RAM DDR3, GTX 980, 1 To HDD, Windows 10, état correct, fonctionnel | **88,20 €** | À revendre — stock professionnel |
+| 298 · V36134669 | Vidéoprojecteur Philips NeoPix 110 noir — très bon état, testé, complet avec boîte, EAN 7640186967785 | **50,40 €** | Gardé — usage personnel |
+
+**L'unité centrale entre au stock professionnel, pas encore tarifée.** Hors
+périmètre mode : à revendre sur Leboncoin (rubrique informatique) et/ou eBay,
+jamais sur la boutique. Voir la tâche de tarification ci-dessous.
+
+**Le vidéoprojecteur est un prélèvement, pas une vente.** Même mécanique que
+la pompe Robby gardée en juillet : coût sorti du stock sans recette, apport
+personnel de 50,40 € en remboursement, ligne au registre des objets
+mobiliers — **aucune URSSAF**, puisqu'il n'y a jamais eu d'acheteur. Détail
+dans `annonces.md`, section « Les quatre articles gardés ».
+
+---
+
 ## À faire
 
 ### Urgent — fin de saison estivale, deux à trois semaines
@@ -625,6 +647,13 @@ ne fait pas apparaître des acheteurs qui ne voient pas l'annonce.
 - [x] **Salomon X Ultra 5 vendue 100 € le 12 août** — expédiée le 14 août,
       bordereau Vinted, acheteur en Italie. **Encaissée le 23 août** :
       **déclarer les 100 € au CA** au 3ᵉ trimestre (31 octobre).
+- [ ] **Unité centrale gaming Acer Predator G3-605 — fixer un prix.**
+      Relever le moins cher du net sur une config comparable (i7-4790, GTX 980,
+      16 Go, 1 To) avant de publier — pas de prix de mémoire. Canal Leboncoin
+      informatique et/ou eBay, jamais la boutique.
+- [ ] **Vidéoprojecteur Philips NeoPix 110 — vérifier le virement de l'apport
+      personnel** de 50,40 € sur le compte pro, comme pour les trois autres
+      prélèvements.
 - [ ] Retirer la Sandro et les Predator de Vinted (articles neufs : hors
       périmètre Vinted Pro)
 - [ ] Ouvrir un compte eBay pour les Predator — **une annonce par paire**, 89 €

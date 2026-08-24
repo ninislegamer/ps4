@@ -843,24 +843,31 @@ Et pour la déclaration du 3ᵉ trimestre, avant le 31 octobre : **déclarer 373
 pas 465, pas 493. Déclarer les 150 € des Hoka et des Nike te coûterait 18,60 € de
 cotisations sur de l'argent qui est le tien depuis le début.
 
-### Les trois articles gardés
+### Les quatre articles gardés
 
 | Article | Coût | Motif |
 |---------|------|-------|
 | Baskets HOKA P.37 1/3 | 65,37 € | Gardées le 09/08/2026 |
 | Baskets NIKE Air Max Moto 2K P.44.5 | 52,77 € | Gardées le 09/08/2026 |
 | Pompe ROBBY VP550W ligne 131 | 19,41 € | Ne marche qu'en mode auto — sortie au 26/07/2026 |
-| **Total sorti du stock sans recette** | **137,55 €** | |
+| Vidéoprojecteur PHILIPS NeoPix 110 | 50,40 € | Gardé le 23/08/2026 — facture FB2026-49549, lot 298 |
+| **Total sorti du stock sans recette** | **187,95 €** | |
 
 *Convention retenue : le prélèvement est daté au jour de la facture d'achat.*
 
-**Apport personnel de 137,55 € versé sur le compte professionnel**, libellé
-« apport personnel », couvrant les trois prélèvements à leur coût d'achat exact.
-Ce n'est ni une recette ni un chiffre d'affaires : aucune URSSAF, rien à
-déclarer. Il rétablit simplement la trésorerie au niveau du stock sorti.
+**Apport personnel de 187,95 € versé sur le compte professionnel**, libellé
+« apport personnel », couvrant les quatre prélèvements à leur coût d'achat
+exact. Ce n'est ni une recette ni un chiffre d'affaires : aucune URSSAF, rien
+à déclarer. Il rétablit simplement la trésorerie au niveau du stock sorti.
 
 Chacun a sa ligne de sortie au registre des objets mobiliers, mention « usage
 personnel ». Aucun au livre des recettes.
+
+**Le vidéoprojecteur suit exactement la même mécanique que la pompe Robby
+gardée en juillet** : payé avec le même règlement que l'unité centrale du même
+bordereau (138,60 € CB Stripe, facture FB2026-49549 du 23/08), mais prélevé
+pour usage personnel avant toute mise en vente. Rien à déclarer dessus,
+puisqu'il n'y a jamais eu de vente.
 
 **Ce n'est ni une faute ni une perte cachée** — c'est normal de garder des choses.
 Mais il faut que ce soit écrit, sinon les achats et les ventes ne se recoupent
@@ -893,44 +900,55 @@ High Class MEGA Dream ex).*
 
 | | |
 |---|---|
-| Total engagé — marchandise, livraison | **1 848,75 €** |
+| Total engagé — marchandise, livraison | **1 987,35 €** |
 | Coût des 6 articles vendus, tous encaissés | **−356,57 €** |
-| Coût des 3 articles gardés | **−137,55 €** |
-| **Stock restant, à son coût d'achat** | **1 354,63 €** |
+| Coût des 4 articles gardés | **−187,95 €** |
+| **Stock restant, à son coût d'achat** | **1 442,83 €** |
+
+*Total après achat du 23/08 (facture FB2026-49549, 138,60 € CB Stripe) :
+1 848,75 € → **1 987,35 €**, soit +138,60 € (88,20 € unité centrale gaming
+Acer G3-605, à revendre + 50,40 € vidéoprojecteur Philips NeoPix 110, gardé).*
 
 | | |
 |---|---|
 | Encaissé de clients réels | **473,00 €** |
-| Apport personnel — remboursement des 3 prélèvements | **137,55 €** |
-| **Total crédité au compte professionnel** | **610,55 €** |
+| Apport personnel — remboursement des 4 prélèvements | **187,95 €** |
+| **Total crédité au compte professionnel** | **660,95 €** |
 | URSSAF due — 12,4 % sur les 473 € | **−58,65 €** |
-| **Réellement disponible** | **551,90 €** |
+| **Réellement disponible** | **602,30 €** |
 | **Revenu net en poche, de clients réels** | **414,35 €** |
 
 Seuls 473 € sont du chiffre d'affaires. C'est ce montant-là qui se déclare
-avant le 31 octobre — pas 610,55 €. Les 137,55 € d'apport sont tes propres
-fonds : aucune URSSAF, rien à déclarer.
+avant le 31 octobre — pas 660,95 €. Les 187,95 € d'apport sont tes propres
+fonds : aucune URSSAF, rien à déclarer. Le vidéoprojecteur n'est pas vendu :
+zéro impact sur le chiffre d'affaires, zéro URSSAF.
 
-## Le point de retour : 1 848,75 €
+## Le point de retour : 1 987,35 €
 
 L'engagement total, c'est le coût de toute la marchandise achetée, Pokémon
 retiré. C'est le repère contre lequel tout se mesure désormais.
 
 | | |
 |---|---|
-| Engagement total | **1 848,75 €** |
+| Engagement total | **1 987,35 €** |
 | Déjà revenu — net d'URSSAF, de clients réels | 414,35 € |
-| Ce que le stock restant rendra — coût 1 354,63 € + marge 808,47 € | 2 163,10 € |
-| **Retour total si tout se vend au prix** | **2 577,45 €** |
+| Ce que le stock restant rendra — coût 1 442,83 € + marge 808,47 €¹ | 2 251,30 € |
+| **Retour total si tout se vend au prix** | **2 665,65 €** |
 
-**+728,70 € sur la mise**, une fois tout écoulé et toutes charges payées. Soit
-**39,42 % de rendement** sur le capital — correct pour de l'achat-revente, à
-condition que le stock parte.
+¹ *La marge de 808,47 € couvre les 33 lots déjà tarifés. L'unité centrale
+gaming (88,20 €) n'a pas encore de prix de revente : sa marge n'est pas dans
+ce total, alors que son coût, lui, y est déjà — le retour réel sera plus
+haut une fois le prix fixé.*
+
+**+678,30 € sur la mise**, une fois tout écoulé et toutes charges payées. Soit
+**34,13 % de rendement** sur le capital — sous-estimé, faute de prix sur
+l'unité centrale — correct pour de l'achat-revente, à condition que le stock
+parte.
 
 **Chaque mois d'attente coûte 58 € de charges** à partir de novembre : un point de
 rendement par mois. Le temps est la seule variable qui joue contre toi.
 
-**22,4 % du capital est revenu** (414,35 ÷ 1 848,75 €).
+**20,8 % du capital est revenu** (414,35 ÷ 1 987,35 €).
 
 **L'URSSAF est provisionnée au fil de l'eau, sur un compte séparé.** C'est la
 discipline qui fait tenir une micro-entreprise en achat-revente : l'URSSAF frappe
@@ -942,9 +960,10 @@ Provision à virer à chaque encaissement : **12,4 %** (12,3 % cotisations
 faites.** Provisionner les 12,40 € d'URSSAF correspondants avec le reste.
 
 **Règle qui découle de ce constat : aucun nouvel achat tant que le capital
-récupéré n'atteint pas 50 %**, soit environ 924 € encaissés — on est à 414,35 €,
-un peu moins de la moitié du chemin. Acheter avant, c'est empiler du stock
-avec de l'argent qui ne tourne pas.
+récupéré n'atteint pas 50 %**, soit environ 994 € encaissés — on est à
+414,35 €, un peu moins de 21 %. **L'achat du 23/08 a été fait sous ce seuil** :
+à noter, pas à culpabiliser, mais le prochain achat mérite d'attendre que le
+stock déjà là se vende davantage.
 
 ## Ce qu'il reste à compléter
 
