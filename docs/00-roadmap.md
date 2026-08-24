@@ -1151,10 +1151,18 @@ une pièce invendable à la marge visée.
 |-------|-------------|------------------------|
 | Abonnement Shopify | 1 €/mois | **36 €/mois** |
 | Abonnement Claude | 22 €/mois | 22 €/mois |
-| **Total** | **23 €/mois** | **58 €/mois — 696 €/an** |
+| Médiateur de la consommation — 48 €/3 ans | 1,33 €/mois | 1,33 €/mois |
+| **Total** | **24,33 €/mois** | **59,33 €/mois — ~712 €/an** |
+
+Le médiateur se règle en une fois tous les trois ans (48 €), pas au mois —
+1,33 €/mois est une moyenne lissée pour rester comparable au reste du
+tableau. **Reste à confirmer : le médiateur est-il choisi et l'inscription
+faite ?** Tant que la section 9 des CGV affiche « à compléter », la
+boutique n'est pas considérée ouvrable (voir plus bas) — connaître le tarif
+ne suffit pas à lever le blocage.
 
 Et à partir de 2027, la **CFE** s'ajoute : exonérée la première année, puis 200 à
-600 €/an selon la commune. Soit un plancher réaliste de **900 €/an** en 2027.
+600 €/an selon la commune. Soit un plancher réaliste de **912 €/an** en 2027.
 
 ### Le chiffre qui compte : le CA minimum
 
@@ -1166,10 +1174,10 @@ marge nette de **28 % du CA**.
 
 | | Charges | **CA mensuel nécessaire** |
 |---|---|---|
-| Aujourd'hui | 23 €/mois | **82 €** |
-| À partir du 11/11/2026 | 58 €/mois | **207 €** |
+| Aujourd'hui | 24,33 €/mois | **87 €** |
+| À partir du 11/11/2026 | 59,33 €/mois | **213 €** |
 
-**207 € de ventes par mois, c'est le seuil de survie de la boutique** à partir de
+**213 € de ventes par mois, c'est le seuil de survie de la boutique** à partir de
 novembre. En dessous, l'activité coûte de l'argent même quand elle vend.
 
 Ramené à ton stock : sur les 40 lots restants, il faut en écouler l'équivalent de

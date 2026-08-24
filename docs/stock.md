@@ -621,6 +621,13 @@ personnel de 50,40 € en remboursement, ligne au registre des objets
 mobiliers — **aucune URSSAF**, puisqu'il n'y a jamais eu d'acheteur. Détail
 dans `annonces.md`, section « Les quatre articles gardés ».
 
+**Frais de livraison pas encore connus.** Les 138,60 € de la facture ne
+couvrent que l'adjudication, les frais acheteur et les frais plateforme —
+rien pour l'acheminement Le Mans → Toulouse. À ajouter à l'engagement total
+dès réception du montant (retrait, transporteur ou envoi), en le répartissant
+entre les deux lots au prorata de leur coût si la facture ne le détaille pas
+par lot.
+
 ---
 
 ## À faire
