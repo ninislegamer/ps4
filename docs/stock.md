@@ -609,7 +609,7 @@ Deux lots, deux destins différents.
 | Lot | Désignation | Coût réel (adjudication + frais) | Destin |
 |-----|-------------|-----------------------------------|--------|
 | 18 · V760835 | Unité centrale gaming Acer Predator G3-605 — i7-4790, 16 Go RAM DDR3, GTX 980, 1 To HDD, Windows 10, état correct, fonctionnel | **88,20 €** | À revendre — stock professionnel |
-| 298 · V36134669 | Vidéoprojecteur Philips NeoPix 110 noir — très bon état, testé, complet avec boîte, EAN 7640186967785 | **50,40 €** | Gardé — usage personnel |
+| 298 · V36134669 | Vidéoprojecteur Philips NeoPix 110 noir — très bon état, testé, complet avec boîte, EAN 7640186967785 | **50,40 €** | Achat personnel, hors activité |
 
 **L'unité centrale entre au stock professionnel, tarifée le 23/08 à 190 €
 sur eBay.** Hors périmètre mode : jamais sur la boutique.
@@ -631,18 +631,22 @@ sera donc 78,24 € (cohérente avec le reste de la feuille), mais **la marge
 réelle après commission eBay est 55,09 €** — c'est ce chiffre-là qui compte
 pour la trésorerie.
 
-**Le vidéoprojecteur est un prélèvement, pas une vente.** Même mécanique que
-la pompe Robby gardée en juillet : coût sorti du stock sans recette, apport
-personnel de 50,40 € en remboursement, ligne au registre des objets
-mobiliers — **aucune URSSAF**, puisqu'il n'y a jamais eu d'acheteur. Détail
-dans `annonces.md`, section « Les quatre articles gardés ».
+**Correction du 23/08 : le vidéoprojecteur n'est pas un prélèvement de stock
+professionnel, c'est un achat personnel qui n'a jamais transité par la
+société.** Réglé avec l'argent personnel du porteur du projet, malgré le même
+bordereau que l'unité centrale — les deux lignes ont des origines de paiement
+différentes. Il ne compte ni dans l'engagement total, ni dans les
+prélèvements à rembourser (pas d'apport à verser dessus), ni au registre des
+objets mobiliers : exactement le même traitement que les cartes Pokémon
+achetées à titre personnel le 17/08. Détail dans `annonces.md`, section « Les
+trois articles gardés ».
 
-**Frais de livraison pas encore connus.** Les 138,60 € de la facture ne
-couvrent que l'adjudication, les frais acheteur et les frais plateforme —
-rien pour l'acheminement Le Mans → Toulouse. À ajouter à l'engagement total
-dès réception du montant (retrait, transporteur ou envoi), en le répartissant
-entre les deux lots au prorata de leur coût si la facture ne le détaille pas
-par lot.
+**Frais de livraison pas encore connus, et pour l'unité centrale seule.** Les
+138,60 € de la facture ne couvrent que l'adjudication, les frais acheteur et
+les frais plateforme — rien pour l'acheminement Le Mans → Toulouse. À ajouter
+à l'engagement total dès réception du montant, mais seulement la part
+attribuable à l'unité centrale (achat professionnel) : le vidéoprojecteur
+étant hors activité, sa part de livraison reste à la charge personnelle.
 
 ---
 
@@ -673,9 +677,9 @@ par lot.
 - [x] **Unité centrale gaming Acer Predator G3-605 — tarifée le 23/08 à
       190 € sur eBay.** Marge réelle 55,09 € après commission eBay (12 % +
       0,35 €) et URSSAF — voir le détail plus haut.
-- [ ] **Vidéoprojecteur Philips NeoPix 110 — vérifier le virement de l'apport
-      personnel** de 50,40 € sur le compte pro, comme pour les trois autres
-      prélèvements.
+- [x] ~~**Vidéoprojecteur Philips NeoPix 110 — vérifier le virement de
+      l'apport personnel.**~~ Sans objet — corrigé le 23/08 : achat personnel
+      dès l'origine, rien à rembourser au compte pro.
 - [ ] Retirer la Sandro et les Predator de Vinted (articles neufs : hors
       périmètre Vinted Pro)
 - [ ] Ouvrir un compte eBay pour les Predator — **une annonce par paire**, 89 €
