@@ -611,9 +611,25 @@ Deux lots, deux destins différents.
 | 18 · V760835 | Unité centrale gaming Acer Predator G3-605 — i7-4790, 16 Go RAM DDR3, GTX 980, 1 To HDD, Windows 10, état correct, fonctionnel | **88,20 €** | À revendre — stock professionnel |
 | 298 · V36134669 | Vidéoprojecteur Philips NeoPix 110 noir — très bon état, testé, complet avec boîte, EAN 7640186967785 | **50,40 €** | Gardé — usage personnel |
 
-**L'unité centrale entre au stock professionnel, pas encore tarifée.** Hors
-périmètre mode : à revendre sur Leboncoin (rubrique informatique) et/ou eBay,
-jamais sur la boutique. Voir la tâche de tarification ci-dessous.
+**L'unité centrale entre au stock professionnel, tarifée le 23/08 à 190 €
+sur eBay.** Hors périmètre mode : jamais sur la boutique.
+
+| | |
+|---|---|
+| Coût réel | 88,20 € |
+| Prix | **190 €** |
+| URSSAF — 12,4 % | 23,56 € |
+| Commission eBay — 12 % + 0,35 € | 23,15 € |
+| **Marge réelle** | **55,09 €** |
+
+**La commission eBay mange 23,15 € que le reste du classeur ne modélise pas** :
+les autres lignes vendues sur eBay dans ce document (Predator Edge.1 TF, Plein
+Sport…) affichent une marge brute qui ne déduit *aucune* commission de
+plateforme — seule la commission carte Shopify Payments (boutique) est prise
+en compte dans le tableur. Sur celle-ci, la marge affichée dans le classeur
+sera donc 78,24 € (cohérente avec le reste de la feuille), mais **la marge
+réelle après commission eBay est 55,09 €** — c'est ce chiffre-là qui compte
+pour la trésorerie.
 
 **Le vidéoprojecteur est un prélèvement, pas une vente.** Même mécanique que
 la pompe Robby gardée en juillet : coût sorti du stock sans recette, apport
@@ -654,10 +670,9 @@ par lot.
 - [x] **Salomon X Ultra 5 vendue 100 € le 12 août** — expédiée le 14 août,
       bordereau Vinted, acheteur en Italie. **Encaissée le 23 août** :
       **déclarer les 100 € au CA** au 3ᵉ trimestre (31 octobre).
-- [ ] **Unité centrale gaming Acer Predator G3-605 — fixer un prix.**
-      Relever le moins cher du net sur une config comparable (i7-4790, GTX 980,
-      16 Go, 1 To) avant de publier — pas de prix de mémoire. Canal Leboncoin
-      informatique et/ou eBay, jamais la boutique.
+- [x] **Unité centrale gaming Acer Predator G3-605 — tarifée le 23/08 à
+      190 € sur eBay.** Marge réelle 55,09 € après commission eBay (12 % +
+      0,35 €) et URSSAF — voir le détail plus haut.
 - [ ] **Vidéoprojecteur Philips NeoPix 110 — vérifier le virement de l'apport
       personnel** de 50,40 € sur le compte pro, comme pour les trois autres
       prélèvements.

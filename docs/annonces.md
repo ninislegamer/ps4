@@ -1123,21 +1123,19 @@ repère contre lequel tout se mesure désormais.
 |---|---|
 | Engagement total | **2 069,33 €** |
 | Déjà revenu — net d'URSSAF, de clients réels | 414,35 € |
-| Ce que le stock restant rendra — coût 1 524,81 € + marge 818,81 €¹ | 2 343,62 € |
-| **Retour total si tout se vend au prix** | **2 757,97 €** |
+| Ce que le stock restant rendra — coût 1 524,81 € + marge 873,90 €¹ | 2 398,71 € |
+| **Retour total si tout se vend au prix** | **2 813,06 €** |
 
-¹ *La marge de 818,81 € couvre les 35 lots déjà tarifés, display et boosters
-Pokémon compris — recalculée après le passage de la box Nihil Zero de deux
-lots à 98 € (marge 16,61 €) à la box entière à 89 € (marge 8,72 €), −7,89 €
-sur la marge brute des annonces Pokémon. L'unité centrale gaming (88,20 €)
-n'a pas encore de prix de revente : sa marge n'est pas dans ce total, alors
-que son coût, lui, y est déjà — le retour réel sera plus haut une fois le
-prix fixé.*
+¹ *La marge de 873,90 € couvre désormais les 36 lots tarifés : les 35 lots
+mode et Pokémon (818,81 €) plus l'unité centrale gaming, tarifée le 23/08 à
+190 € sur eBay — marge **55,09 €**, commission eBay (12 % + 0,35 €) et URSSAF
+déduites. C'est la seule ligne du stock où une commission de plateforme
+mange une part significative de la marge : 23,15 € sur 190 €, à comparer aux
+0 € des ventes Leboncoin/main propre qui composent le reste du tableau.*
 
-**+688,64 € sur la mise**, une fois tout écoulé et toutes charges payées. Soit
-**33,28 % de rendement** sur le capital — sous-estimé, faute de prix sur
-l'unité centrale — correct pour de l'achat-revente, à condition que le stock
-parte.
+**+743,73 € sur la mise**, une fois tout écoulé et toutes charges payées. Soit
+**35,94 % de rendement** sur le capital — correct pour de l'achat-revente, à
+condition que le stock parte.
 
 **Chaque mois d'attente coûte 58 € de charges** à partir de novembre : un point de
 rendement par mois. Le temps est la seule variable qui joue contre toi.
@@ -1152,6 +1150,10 @@ Provision à virer à chaque encaissement : **12,4 %** (12,3 % cotisations
 
 **Salomon encaissée le 23/08 : plus rien en attente sur les ventes déjà
 faites.** Provisionner les 12,40 € d'URSSAF correspondants avec le reste.
+
+**Unité centrale gaming tarifée le 23/08 : 190 € sur eBay.** Provisionner
+23,56 € d'URSSAF **et** 23,15 € de commission eBay le jour de la vente — sur
+ce canal, les deux sortent de l'encaissement, pas seulement l'URSSAF.
 
 **Règle qui découle de ce constat : aucun nouvel achat tant que le capital
 récupéré n'atteint pas 50 %**, soit environ 1 035 € encaissés — on est à
