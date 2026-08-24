@@ -965,6 +965,13 @@ récupéré n'atteint pas 50 %**, soit environ 994 € encaissés — on est à
 à noter, pas à culpabiliser, mais le prochain achat mérite d'attendre que le
 stock déjà là se vende davantage.
 
+**Confirmé le 23/08 : plus aucun achat pour l'instant.** L'objectif n'a
+jamais été de maximiser le stock, mais d'atteindre environ **2 000 €
+d'engagement total** — l'achat du 23/08 y amène à 1 987,35 €, quasiment au
+but. Le sourcing s'arrête ici ; place à l'écoulement du stock. Prochaine
+étape naturelle avant de rouvrir les achats : passer les 50 % de capital
+récupéré évoqués ci-dessus.
+
 ## Ce qu'il reste à compléter
 
 - **Le nom de l'acheteur** pour chacune des sept ventes en espèces

@@ -1,5 +1,10 @@
 # Checklist enchère — à ouvrir pendant une vente
 
+> **Pause sourcing depuis le 23/08/2026.** Objectif d'engagement total
+> d'environ 2 000 € atteint (1 987,35 €, voir `annonces.md`). Plus aucun
+> achat pour l'instant, le temps d'écouler le stock — cette checklist
+> redevient utile quand le sourcing reprend.
+
 ## 1. Les quatre filtres, avant de calculer quoi que ce soit
 
 | Filtre | Question |
