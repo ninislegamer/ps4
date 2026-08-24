@@ -647,9 +647,9 @@ un booster M3 en vaut 3,50 €.
 
 | Annonce | Coût réel | Seuil | Prix | URSSAF | **Marge** |
 |---------|-----------|-------|------|--------|-----------|
-| Lot de 15 boosters Nihil Zero ×2 | 34,62 €/lot | 39,52 € | **49 €** | 6,08 € | **+8,30 €** |
+| Box scellée entière Nihil Zero | 69,24 € | 79,04 € | **89 €** | 11,04 € | **+8,72 €** |
 | Lot de 2 boosters Storm Emeralda | 12,74 € | 14,54 € | **19 €** | 2,36 € | **+3,90 €** |
-| **Total — 3 annonces** | **81,98 €** | | **117 €** | **14,51 €** | **+20,51 €** |
+| **Total — 2 annonces** | **81,98 €** | | **108 €** | **13,40 €** | **+12,62 €** |
 
 Le booster High Class MEGA Dream ex est **prélevé pour usage personnel** : coût
 12,95 €, hors de ce calcul. Les 94,93 € de la facture se répartissent donc en
@@ -657,8 +657,8 @@ Le booster High Class MEGA Dream ex est **prélevé pour usage personnel** : co�
 
 **Compte professionnel — à choisir : Leboncoin Pro, Vinted Pro ou eBay Pro.**
 Le calcul ci-dessus suppose un canal sans commission (Leboncoin, remise en main
-propre) : sur eBay, une commission de ~12 % + 0,35 € prélèverait 6,23 € sur un
-lot à 49 € — les trois quarts de la marge. Si le canal choisi facture une
+propre) : sur eBay, une commission de ~12 % + 0,35 € prélèverait 10,68 € sur la
+box à 89 € — plus des trois quarts de la marge. Si le canal choisi facture une
 commission, recalculer les marges avant de publier.
 
 ### TVA d'importation : réglé, rien à payer
@@ -693,27 +693,28 @@ le blister ouvert, la box n'existe plus comme objet, il ne reste que 30 boosters
 
 | Option | Recette | URSSAF | **Marge** | Annonces | **Marge / annonce** |
 |--------|---------|--------|-----------|----------|---------------------|
-| Box scellée entière à 89 € | 89 € | 11,04 € | +8,72 € | 1 | 8,72 € |
-| **2 lots de 15 à 49 €** | **98 €** | 12,15 € | **+16,61 €** | **2** | **8,30 €** |
+| **Box scellée entière à 89 €** | **89 €** | 11,04 € | **+8,72 €** | **1** | **8,72 €** |
+| 2 lots de 15 à 49 € | 98 € | 12,15 € | +16,61 € | 2 | 8,30 € |
 | 3 lots de 10 à 33 € | 99 € | 12,28 € | +17,48 € | 3 | 5,83 € |
 | 6 lots de 5 à 17 € | 102 € | 12,65 € | +20,11 € | 6 | 3,35 € |
 | 30 boosters à l'unité à 3,40 € | 102 € | 12,65 € | +20,11 € | 30 | 0,67 € |
 
-**Retenu : deux lots de 15 à 49 €.**
+**Retenu le 23/08 : la box scellée entière à 89 €**, revu par rapport à l'analyse
+initiale (qui retenait deux lots de 15 à 49 €, +16,61 € de marge cumulée en deux
+annonces).
 
-Découper à l'infini ne rapporte presque rien de plus. Entre 2 annonces et 30, il y
-a **3,50 € de marge d'écart** — et 28 rendez-vous. La courbe s'aplatit tout de
-suite parce que l'URSSAF prend 12,4 % à chaque fois, quelle que soit la taille du
-lot.
+Découper rapporte plus en cumulé — 16,61 € en deux annonces contre 8,72 € en une
+seule — mais coûte deux fiches, deux photos, deux rendez-vous, et il faut ouvrir
+le blister : une fois fait, la box n'existe plus comme objet. **Vendue entière et
+scellée, elle part en une transaction, garde toute sa valeur de collection, et
+l'argument de vente est imparable** — personne n'a pesé ni trié les boosters,
+la preuve est le blister intact.
 
-Vendre la box scellée à 89 € rapporterait presque autant par annonce, mais 89 €
-est le prix d'un revendeur avec garantie, pas d'un particulier sur Leboncoin. À
-82 €, le prix réaliste, il ne reste que 2,59 €. **La box scellée ne vaut le coup
-que si un collectionneur la paie plein tarif** — si quelqu'un propose 85 € ou
-plus sans marchander, prends-le et ne l'ouvre pas.
-
-49 € les 15 boosters, c'est **3,27 € l'unité**, sous les 3,50 € de Pikastore et
-au-dessus du prix au display. C'est la bonne place.
+89 € est un prix de revendeur avec garantie, pas d'un particulier lambda sur
+Leboncoin — c'est justement l'avantage de vendre via le compte professionnel :
+la mention « professionnel » rend ce prix crédible. Un collectionneur qui veut
+la box complète, scellée, avec la garantie légale d'un vendeur pro, la paie
+plus volontiers que 15 boosters dépareillés.
 
 ### L'argument qui fait vendre : boosters non pesés
 
@@ -725,22 +726,23 @@ reste. Un acheteur averti cherche cette garantie en premier.
 devant témoin ou en vidéo, et tu ne touches à rien. Photographie le blister intact
 **avant** de l'ouvrir — c'est ta preuve.
 
-## Lot de 15 boosters Nihil Zero M3 — 49 €, deux lots
+## Box scellée entière Nihil Zero M3 — 89 €
 
-*coût 34,62 € le lot · marge 8,30 €*
+*coût 69,24 € · marge 8,72 € · display complet, jamais ouvert*
 
 ```
-Lot 15 boosters Pokémon Nihil Zero M3 japonais scellés - display ouvert devant vous
+Display Pokémon Nihil Zero M3 japonais SCELLÉ - 30 boosters - jamais ouvert
 ```
 ```
-LOT DE 15 BOOSTERS POKÉMON — NIHIL ZERO (MUNIKIS ZERO) M3
+DISPLAY POKÉMON — NIHIL ZERO (MUNIKIS ZERO) M3 — SCELLÉ
 
-15 boosters neufs et scellés, jamais ouverts.
-5 cartes par booster, soit 75 cartes au total.
+Display complet, neuf et scellé, jamais ouvert.
+30 boosters de 5 cartes chacun, soit 150 cartes au total.
 
-BOOSTERS NON PESÉS, NON TRIÉS. Ils sortent d'un display scellé
-importé directement du Japon, ouvert sans être fouillé. Photo du
-blister d'origine intact disponible.
+SCELLÉ D'ORIGINE, NON PESÉ, NON TRIÉ. Importé directement du
+Japon, jamais manipulé depuis l'usine. Photo du blister d'origine
+intact disponible — la meilleure garantie qu'aucun booster n'a été
+retiré ou pesé pour en extraire les cartes rares.
 
 Nihil Zero, code M3, série MEGA — Méga-Évolution.
 Sorti au Japon le 23 janvier 2026.
@@ -748,10 +750,15 @@ Sorti au Japon le 23 janvier 2026.
 Têtes d'affiche : Mega Zygarde ex, première apparition dans le jeu
 de cartes, Mega Clefable ex, Mega Starmie ex et Meowth ex.
 
-49 € le lot de 15, soit 3,27 € le booster.
-Prix boutique en France : 3,50 € l'unité.
+89 € le display complet.
+Prix boutique en France, à l'unité : 3,50 € le booster, soit
+105 € les 30 — le display revient moins cher, en plus d'être
+garanti scellé et complet.
 
-Deux lots disponibles. Remise en main propre ou envoi suivi.
+Vendu par un professionnel : garanties légales de conformité et
+contre les vices cachés applicables.
+
+Remise en main propre ou envoi suivi, assuré vu la valeur du colis.
 ```
 
 ## Booster High Class MEGA Dream ex M2a — PRÉLEVÉ, usage personnel
@@ -1116,16 +1123,19 @@ repère contre lequel tout se mesure désormais.
 |---|---|
 | Engagement total | **2 069,33 €** |
 | Déjà revenu — net d'URSSAF, de clients réels | 414,35 € |
-| Ce que le stock restant rendra — coût 1 524,81 € + marge 825,28 €¹ | 2 350,09 € |
-| **Retour total si tout se vend au prix** | **2 764,44 €** |
+| Ce que le stock restant rendra — coût 1 524,81 € + marge 818,81 €¹ | 2 343,62 € |
+| **Retour total si tout se vend au prix** | **2 757,97 €** |
 
-¹ *La marge de 825,28 € couvre les 35 lots déjà tarifés, display et boosters
-Pokémon compris. L'unité centrale gaming (88,20 €) n'a pas encore de prix de
-revente : sa marge n'est pas dans ce total, alors que son coût, lui, y est
-déjà — le retour réel sera plus haut une fois le prix fixé.*
+¹ *La marge de 818,81 € couvre les 35 lots déjà tarifés, display et boosters
+Pokémon compris — recalculée après le passage de la box Nihil Zero de deux
+lots à 98 € (marge 16,61 €) à la box entière à 89 € (marge 8,72 €), −7,89 €
+sur la marge brute des annonces Pokémon. L'unité centrale gaming (88,20 €)
+n'a pas encore de prix de revente : sa marge n'est pas dans ce total, alors
+que son coût, lui, y est déjà — le retour réel sera plus haut une fois le
+prix fixé.*
 
-**+695,11 € sur la mise**, une fois tout écoulé et toutes charges payées. Soit
-**33,59 % de rendement** sur le capital — sous-estimé, faute de prix sur
+**+688,64 € sur la mise**, une fois tout écoulé et toutes charges payées. Soit
+**33,28 % de rendement** sur le capital — sous-estimé, faute de prix sur
 l'unité centrale — correct pour de l'achat-revente, à condition que le stock
 parte.
 
