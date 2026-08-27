@@ -132,9 +132,8 @@ téléphone. Tout le reste de l'admin passe bien en mobile.
    repositionnés ») : bannière → Nos rayons (Chaussures/Vêtements/
    Nouveautés) → À la une → avis clients (Judge.me) → Déjà vendu →
    Une provenance vérifiée → newsletter.
-3. **Configurer contact@maison-nsaia.fr sur Outlook** — boîte hébergée chez
-   Gandi (webmail.gandi.net). À faire en IMAP/SMTP : demandé le 17/08, pas
-   encore fait.
+3. ~~**Configurer contact@maison-nsaia.fr sur Outlook**~~ ✅ fait — boîte
+   Gandi (webmail.gandi.net) configurée en IMAP/SMTP.
 4. ~~**Shopify Inbox — régler les horaires réels et le message d'accueil.**~~
    ✅ fait le 27/08 — horaires réels et message d'accueil réglés dans
    l'interface de l'app.
