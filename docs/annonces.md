@@ -403,6 +403,13 @@ Expédition France et international.
 
 ## MORGAN — six pièces, six annonces séparées
 
+> **27/08 : ajoutées à la boutique malgré la recommandation ci-dessous.**
+> Décision du client de les mettre aussi sur Shopify. Les six fiches sont
+> créées en **brouillon** (titre, description, prix — pas encore de photos,
+> à ajouter puis publier). Pas de tag « Créateurs »/« Sportswear » — Morgan
+> n'entre dans aucun des trois niveaux de gamme, les fiches restent hors
+> collections tant que ça n'est pas tranché.
+
 *coût **8,67 € la pièce** · seuil **9,89 €** · plancher **12,86 €**
 · **98 €** au total · marge **33,85 €***
 
