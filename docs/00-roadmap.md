@@ -99,7 +99,7 @@ Thème retenu : **Dawn**.
 | Domaine connecté (`@`, `www`, principal) | ✅ connecté |
 | Shopify Payments — acceptation | ✅ active |
 | Shopify Payments — versements | 🔄 IBAN pro ajouté le 16/08 (BOURSORAMA, EI IZRI NACIM, compte finissant par 6345) — délai de sécurité standard Shopify après changement de coordonnées bancaires, reprise automatique des versements le **20/08/2026**, rien à faire d'ici là |
-| PayPal Business | ⏸️ en attente du rattachement du compte bancaire |
+| PayPal Business | ✅ compte bancaire rattaché et branché sur Shopify en second moyen de paiement (confirmé le 27/08) |
 | Boîte e-mail contact@maison-nsaia.fr | ✅ créée (Gandi) |
 | E-mail expéditeur Shopify | ✅ authentifié (6 CNAME DKIM) |
 | DMARC | ✅ `_dmarc` TXT `v=DMARC1; p=none` |
@@ -132,17 +132,9 @@ téléphone. Tout le reste de l'admin passe bien en mobile.
 3. **Configurer contact@maison-nsaia.fr sur Outlook** — boîte hébergée chez
    Gandi (webmail.gandi.net). À faire en IMAP/SMTP : demandé le 17/08, pas
    encore fait.
-4. **Shopify Inbox — régler les horaires réels et le message d'accueil.**
-   Horaires actuellement sur « Disponible actuellement » (à remplacer par
-   les vraies disponibilités). Message d'accueil à changer pour :
-   ```
-   Bonjour, envoyez-nous un message si vous avez des questions.
-   Nous répondons généralement sous 24h.
-   ```
-   Ne pas activer l'option « Agent — répond aux clients à votre place » :
-   risque d'inventer des mesures/infos non vérifiées. **Toujours pas fait
-   au 20/08** — nécessite les réglages internes de l'app, hors de portée
-   de l'API.
+4. ~~**Shopify Inbox — régler les horaires réels et le message d'accueil.**~~
+   ✅ fait le 27/08 — horaires réels et message d'accueil réglés dans
+   l'interface de l'app.
 5. ~~**Ajouter la page « Foire aux questions ».**~~ ✅ fait le 20/08 —
    page créée et publiée (`/pages/foire-aux-questions`), lien ajouté au
    menu du pied de page à côté de « Rechercher ». Nécessitait un bloc
@@ -159,36 +151,30 @@ collections Page d'accueil + Catalogue + Vêtements/Chaussures. La Geox
 brouillon et retirée des collections, à laisser ainsi sauf changement d'avis.
 Articles Morgan — signalés par le client, remis à plus tard.
 
-1. **Photo de face manquante — Philipp Plein Sport (P.40, 95 €).** La
-   seule photo restante montre la semelle ; l'autre avait un filigrane
-   « adn. Lyon » et a été retirée sur demande. Il faut une photo de face
-   sans filigrane pour compléter la fiche.
-2. **À reconfirmer visuellement : ordre photo article/étiquette.**
-   Plusieurs fiches (Chiara Ferragni, Sonia Rykiel, Sandro, et 6 autres
-   par précaution) affichaient l'étiquette en vignette au lieu de la
-   photo de l'article, malgré des données API correctes à tous les
-   niveaux vérifiés (media, featuredImage, images). Un forçage de
-   position (`productReorderMedia`) a été appliqué le 20/08 mais n'a pas
-   encore été revérifié sur le site depuis — la connexion Shopify a été
-   coupée juste après. Cause exacte non identifiée.
-3. **Mail de bienvenue — à intégrer dans Shopify Messaging.** Texte rédigé
-   le 20/08 (voir plus bas), l'app est déjà installée. L'automatisation
-   elle-même se configure dans l'interface propre de l'app, hors de portée
-   de l'API — à coller et activer manuellement (*Shopify Messaging →
-   Automatisations → Bienvenue à l'abonné e-mail*).
-4. **Réseaux sociaux non renseignés.** Aucun lien Instagram/Facebook/etc.
-   dans le pied de page du thème. À ajouter si des comptes existent.
-5. **Avis clients (Judge.me) — langue à vérifier.** Le widget affiche
-   `data-widget-locale='fr'` sur le carrousel, mais les textes fixes de
-   l'interface (bouton « Écrire un avis », badges) dépendent d'un réglage
-   de langue séparé dans l'app, pas encore vérifié.
-6. **CGV, section 9 — médiateur de la consommation.** Toujours un espace
-   `[À COMPLÉTER]`. Bloquant pour lever le mot de passe boutique : il faut
-   que le client choisisse et s'inscrive auprès d'un médiateur agréé.
-7. **Connexion Shopify coupée en fin de session le 20/08**, jamais rétablie
-   malgré plusieurs tentatives de reconnexion. À vérifier au prochain
-   démarrage — si ça persiste, revoir le connecteur côté app Claude comme
-   la première fois (bascule "Toujours autoriser" par outil).
+1. ~~**Photo de face manquante — Philipp Plein Sport (P.40, 95 €).**~~
+   ✅ fait — fiche complétée avec une photo de face sans filigrane.
+2. ~~**À reconfirmer visuellement : ordre photo article/étiquette.**~~
+   ✅ vérifié le 27/08 — et en réalité **pas fait** : sur Chiara Ferragni,
+   Sonia Rykiel et Sandro, l'étiquette était toujours en première position
+   (featuredMedia) malgré le forçage `productReorderMedia` du 20/08, qui
+   n'avait apparemment pas abouti (connexion coupée juste après). Reforcé
+   et reconfirmé le 27/08 via l'API — photo de face en position 1 sur les
+   trois fiches, revérifié en relisant `featuredMedia` après coup. Les
+   17 autres fiches actives contrôlées à la même occasion sont correctes.
+3. ~~**Mail de bienvenue — à intégrer dans Shopify Messaging.**~~ ✅ fait —
+   texte collé et automatisation activée.
+4. **Réseaux sociaux non renseignés.** Toujours aucun compte
+   Instagram/Facebook/etc. à ce jour (27/08) — rien à ajouter au pied de
+   page tant qu'ils n'existent pas.
+5. ~~**Avis clients (Judge.me) — langue à vérifier.**~~ ✅ fait.
+6. ~~**CGV, section 9 — médiateur de la consommation.**~~ ✅ fait — médiateur
+   retenu : **CM2C** (Centre de la Médiation de la Consommation des
+   Conciliateurs de Justice), coordonnées complètes dans les CGV. Vérifié
+   le 27/08 : la section 9 ne contient plus de placeholder. **Le mot de
+   passe boutique peut être levé.**
+7. ~~**Connexion Shopify coupée en fin de session le 20/08**~~ ✅ résolu —
+   connexion active et vérifiée le 27/08 (`get-shop-info` répond
+   normalement sur `maison-nsaia.fr`).
 
 **Texte du mail de bienvenue (rédigé le 20/08, pas encore intégré) :**
 ```
@@ -234,19 +220,11 @@ Maison Nsaia
 
 3. ~~**Shopify Payments — IBAN.**~~ ✅ fait le 16/08 — compte EI IZRI NACIM
    ajouté et confirmé. Les versements ne sont plus suspendus.
-4. **PayPal Business — rattacher le compte bancaire.** 🔄 En cours depuis le
-   16/08 : IBAN Boursorama saisi sur PayPal (Portefeuille → Comptes
-   bancaires et cartes), statut **« Confirmation en attente »** — PayPal a
-   envoyé un virement test de 0,01 € à confirmer, qui peut prendre jusqu'à
-   1-2 jours ouvrés. **Ne pas retoucher/re-ajouter le compte d'ici là**
-   (relancer la demande la remet à zéro). Une fois le centime visible sur le
-   relevé Boursorama : revenir dans la même section, cliquer sur
-   « Confirmer » et saisir le montant exact. Ensuite seulement, relier
-   PayPal à Shopify → *Paiements* → *Moyens de paiement supplémentaires* →
-   PayPal, **en second moyen de paiement** (Shopify Payments reste le
-   principal — commission PayPal environ le double de Shopify Payments).
-   Point mineur à corriger à l'occasion : le nom d'entreprise sur PayPal est
-   affiché « Nsaia », à harmoniser en « Maison Nsaia ».
+4. ~~**PayPal Business — rattacher le compte bancaire.**~~ ✅ fait —
+   confirmation du centime passée, compte relié à Shopify en second moyen
+   de paiement (Shopify Payments reste le principal). Point mineur non
+   vérifié : le nom d'entreprise sur PayPal était affiché « Nsaia », à
+   harmoniser en « Maison Nsaia » à l'occasion.
 
 Rappel : carte, Apple Pay et Google Pay sont déjà couverts par Shopify Payments.
 PayPal est un moyen de paiement supplémentaire, pas un remplacement.
