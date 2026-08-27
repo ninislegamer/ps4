@@ -127,8 +127,11 @@ téléphone. Tout le reste de l'admin passe bien en mobile.
    `compte.maison-nsaia.fr` en domaine principal (il était connecté mais
    configuré en simple redirection).
 2. ~~**Thème Dawn**~~ ✅ publié le 16/08, réglages de la bannière d'accueil et
-   de la barre d'annonces faits (voir tableau ci-dessus). Reste : finir la
-   structure des autres sections de la page d'accueil.
+   de la barre d'annonces faits (voir tableau ci-dessus). Structure de la
+   page d'accueil terminée (vérifié le 27/08, thème live « Dawn — avis
+   repositionnés ») : bannière → Nos rayons (Chaussures/Vêtements/
+   Nouveautés) → À la une → avis clients (Judge.me) → Déjà vendu →
+   Une provenance vérifiée → newsletter.
 3. **Configurer contact@maison-nsaia.fr sur Outlook** — boîte hébergée chez
    Gandi (webmail.gandi.net). À faire en IMAP/SMTP : demandé le 17/08, pas
    encore fait.
