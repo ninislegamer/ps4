@@ -627,6 +627,15 @@ les gros chantiers :
   bout en bout : le workflow Flow "Vendu au stock 0" fonctionne bien (5
   pièces déjà auto-taguées "Vendu" et bien sorties de Catalogue/Vêtements/
   Chaussures/Nouveautés, visibles uniquement dans "Déjà vendu").
+- **Bug trouvé et corrigé : pièce vendue encore affichée en "À la une" sur
+  la page d'accueil.** La New Balance GS 1906 (vendue sur Vinted, tag
+  "Vendu" posé le 31/08) restait visible dans la section "À la une" de
+  l'accueil — parce que "Page d'accueil" est une collection **manuelle**
+  (pas de règle automatique), le tag "Vendu" ne la retire pas des
+  collections manuelles. Retirée manuellement
+  (`collectionRemoveProducts`) ; **workflow Flow créé et activé** pour que
+  ça ne se reproduise plus : *"Quand le tag Vendu est ajouté à un produit,
+  retire ce produit de la collection Page d'accueil"*.
 - **Doublon Nouveautés/Catalogue corrigé** : les deux collections avaient
   exactement la même règle (tout ce qui n'est pas vendu), donc affichaient
   le même contenu — aucune vraie distinction. Confirmé avec Nass : à
