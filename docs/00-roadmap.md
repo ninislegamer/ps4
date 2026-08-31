@@ -275,7 +275,7 @@ Objectif : aucun abonnement d'application récurrent.
 
 | Fonction | Solution retenue | Coût |
 |----------|------------------|------|
-| Facture PDF avec mention art. 293 B | Order Printer (gratuit) + template Liquid sur mesure | 0 € — **✅ template écrit le 31/08**, `docs/04-facture-pdf.md` |
+| Facture PDF avec mention art. 293 B | Order Printer (gratuit) + template Liquid sur mesure | 0 € — **✅ fait et testé le 31/08**, `docs/04-facture-pdf.md` |
 | Favoris / wishlist | code thème + métachamps client | 0 € |
 | Badges « 100 % Authentique », état, « Pièce unique » | Liquid sur la fiche produit | 0 € — **✅ fait le 27/08, publié le 31/08**, voir détail ci-dessous |
 | Retrait automatique du stock à 0 | Shopify Flow (inclus) | 0 € |
@@ -352,11 +352,20 @@ Contenu prévu :
 À concevoir à l'étape 6, en même temps que la facture PDF — les deux partagent
 les mêmes données de commande.
 
-**✅ fait le 31/08** — les deux templates Liquid (facture + bon de livraison)
-sont écrits et prêts, voir `docs/04-facture-pdf.md`. Reste une action manuelle
-à faire dans l'admin : installer l'app gratuite **Order Printer** et coller
-les deux templates dedans (détail dans le doc). Pas de scope API pour
-installer une app depuis ici.
+**✅ fait et validé le 31/08** — app **Commande Imprimante** (Order Printer)
+installée, les deux templates Liquid collés (facture + bon de livraison),
+testés sur une commande brouillon (#1001, Ballerines Massimo Dutti,
+marquée payée manuellement) puis annulée avec réapprovisionnement pour ne
+pas fausser le stock. Confirmé : l'app génère bien la mise en page collée
+(MAISON NSAIA, SIRET, mention TVA art. 293 B, mention d'authenticité) —
+à distinguer du bordereau d'expédition natif de Shopify, qui lui reste
+générique et n'est pas celui à utiliser.
+
+**Piège identifié** : le bouton natif "Imprimer un bordereau d'expédition"
+sur une commande (menu "···") est une fonctionnalité Shopify différente de
+l'app, avec sa propre mise en page générique — ne pas confondre. Toujours
+imprimer **depuis l'app Commande Imprimante elle-même** pour obtenir la
+mise en page personnalisée.
 
 ---
 
@@ -584,7 +593,7 @@ même si la livraison reste limitée à la zone ouverte du moment.
 | 3 | Fiche produit | Template avec badges ✅ (27/08, publié le 31/08) — reste le double bouton d'achat |
 | 4 | Stock unitaire | 1 pièce = 1 fiche, retrait auto via Shopify Flow |
 | 5 | Paiements | Carte / PayPal / Apple Pay / Google Pay + checkout |
-| 6 | Espace client | Compte, suivi, favoris, facture PDF ✅ (31/08, à installer dans Order Printer) |
+| 6 | Espace client | Compte, suivi, favoris, facture PDF ✅ (installée et testée le 31/08) |
 | 7 | Dashboard admin | App de calcul de marge automatique |
 
 ### Badges de fiche produit — fait le 27/08, publié le 31/08
