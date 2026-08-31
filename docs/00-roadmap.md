@@ -580,6 +580,34 @@ du jour :
 **Le prix bas ne génère pas de trafic.** Il améliore la conversion une fois le
 visiteur arrivé, mais aucun moteur de recherche ne classe par prix.
 
+### Audit continu — 31/08
+
+Suite de l'audit demandé ("dis-moi ce qu'on peut améliorer"), sans lien avec
+les gros chantiers :
+
+- **Poids des articles à 0 partout** — vérifié sans conséquence : la livraison
+  est en tarif fixe par zone (5,90€/8,90€ France, 16,90€ UE, 22€
+  International), pas calculée au poids. Rien à corriger, rien inventé (les
+  articles ne sont pas pesés physiquement ici).
+- **Descriptions produit** : les 21 fiches actives ont toutes une description
+  complète — rien à corriger.
+- **Pages légales** : pas de pages CGV/mentions légales/confidentialité dans
+  la liste des pages, mais c'est normal — elles vivent dans les "Politiques"
+  Shopify natives et le pied de page les affiche automatiquement
+  (`show_policy: true`), déjà vérifié en place.
+- **9 thèmes brouillons accumulés** dans la bibliothèque (un par duplication
+  faite pendant les sessions de travail) — sans conséquence (10/20 thèmes,
+  la limite Shopify), mais je ne peux pas les supprimer par API (suppression
+  de thème bloquée pour sécurité). À faire à l'occasion : Admin → Boutique en
+  ligne → Thèmes → bibliothèque, supprimer tout sauf le thème publié actuel.
+- **Réseaux sociaux non liés** dans les réglages du thème — proposé à
+  l'utilisateur, pas de compte actif pour l'instant, laissé vide
+  volontairement.
+- **Signature de marque ajoutée en pied de page** : bloc "brand_information"
+  activé avec le texte « Maison Nsaia — pièces de marque authentifiées,
+  sourcées en maison de vente. » — rien n'y était avant. Fait sur le thème
+  brouillon *Dawn — signature pied de page*, à publier manuellement.
+
 ### Ce qui ne fonctionne pas
 
 Le référencement naturel dépend de la pertinence, de l'ancienneté du domaine, du
