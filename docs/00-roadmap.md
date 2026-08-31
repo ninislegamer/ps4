@@ -414,17 +414,30 @@ aucun plafond n'était posé côté interface. Le blocage réel se serait fait
 seulement au moment du paiement (`inventoryPolicy: DENY`), mais l'interface
 laissait croire que plusieurs exemplaires étaient possibles.
 
-**Corrigé** dans `snippets/quantity-input.liquid` (partagé fiche produit +
-panier) sur un thème dupliqué **« Dawn — quantité limitée au stock »**, non
-publié : le plafond `max` du champ quantité se cale désormais sur le stock
-réel de la variante dès que le suivi de stock est actif et la vente en
-rupture bloquée — ce qui est déjà le cas sur toutes les fiches (vérifié le
-31/08). Le jour où une pièce est vendue en plusieurs exemplaires, il suffira
-de régler le vrai stock : la limite suit automatiquement, aucune
+**Corrigé en deux temps le 31/08 :**
+
+1. `snippets/quantity-input.liquid` (utilisé par le **panier**) — plafond
+   `max` calé sur le stock réel. Publié, mais **insuffisant** : le champ
+   quantité de la **fiche produit** ne passe pas par ce fichier partagé,
+   `sections/main-product.liquid` a son propre bloc de code dupliqué avec
+   exactement le même défaut (`quantity_rule.max` uniquement). Publié puis
+   signalé par le client comme toujours cassé sur la fiche produit — c'est
+   ce deuxième bloc qui manquait.
+2. Plutôt que de réécrire tout `main-product.liquid` (fichier volumineux,
+   trop coûteux à retransmettre), correction posée en `custom_liquid` juste
+   après le bloc `quantity_selector` : un petit script qui pose le vrai
+   attribut `max` sur le champ de la fiche produit au chargement de la
+   page, avec la même règle (stock réel de la variante quand le suivi est
+   actif et la vente en rupture bloquée). Sur un thème dupliqué
+   **« Dawn — limite quantité fiche produit »**, non publié.
+
+Dans les deux cas, le jour où une pièce est vendue en plusieurs exemplaires,
+il suffira de régler le vrai stock : la limite suit automatiquement, aucune
 configuration supplémentaire.
 
-**À faire** : prévisualiser puis publier ce thème (Boutique en ligne →
-Thèmes → Dawn — quantité limitée au stock).
+**À faire** : publier ce thème (Boutique en ligne → Thèmes →
+Dawn — limite quantité fiche produit), puis **retester sur la fiche produit
+elle-même** (pas seulement le panier) avant de considérer que c'est réglé.
 
 ---
 
