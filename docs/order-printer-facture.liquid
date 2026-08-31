@@ -1,0 +1,203 @@
+<!doctype html>
+<html lang="fr"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Facture {{ order.name }} — Maison Nsaia</title>
+<style>
+:root{
+  --encre:#1A1A1A; --creme:#FAF9F7; --gris:#8A8580; --trait:#E2DFDA; --papier:#FFFFFF;
+  --serif:"Cormorant Garamond","Playfair Display",Georgia,"Times New Roman",serif;
+  --sans:"Assistant","Archivo","Helvetica Neue",Arial,sans-serif;
+}
+*{box-sizing:border-box;margin:0;padding:0;
+  print-color-adjust:exact;-webkit-print-color-adjust:exact}
+body{background:var(--creme);color:var(--encre);font-family:var(--sans);
+     font-size:10.5pt;line-height:1.55;-webkit-font-smoothing:antialiased}
+.page{max-width:21cm;margin:0 auto;background:var(--creme);
+      padding:2.4cm 2cm 2cm;min-height:29.7cm}
+.lab{font-size:7.5pt;letter-spacing:.18em;text-transform:uppercase;
+     color:var(--gris);font-weight:600}
+header{margin-bottom:2.6em}
+.marque{font-family:var(--serif);font-size:27pt;font-weight:400;
+        letter-spacing:.22em;text-transform:uppercase;line-height:1}
+.baseline{margin-top:.9em;padding-top:.8em;border-top:1px solid var(--encre);
+          display:flex;justify-content:space-between;align-items:baseline;gap:2em}
+.facture-id{text-align:right;white-space:nowrap}
+.facture-id .mot{font-family:var(--serif);font-size:15pt;font-style:italic;
+                 letter-spacing:.06em;display:block;margin-bottom:.15em}
+.facture-id .num{font-size:9.5pt;letter-spacing:.1em;font-weight:600}
+.facture-id .dt{font-size:8.5pt;color:var(--gris);letter-spacing:.04em}
+.parties{display:flex;gap:3em;margin-bottom:2.8em}
+.partie{flex:1;min-width:0}
+.partie .lab{display:block;padding-bottom:.7em;margin-bottom:.9em;
+             border-bottom:1px solid var(--trait)}
+.partie .qui{font-family:var(--serif);font-size:14pt;letter-spacing:.03em;
+             margin-bottom:.45em;line-height:1.25}
+.partie p{font-size:9.5pt;line-height:1.65}
+.mentions{margin-top:1em;font-size:8pt;color:var(--gris);line-height:1.6}
+table.lignes{width:100%;border-collapse:collapse;margin-bottom:2em}
+table.lignes thead th{border-top:1px solid var(--encre);
+      border-bottom:1px solid var(--trait);padding:.65em 0 .6em;text-align:left;
+      letter-spacing:.12em;white-space:nowrap}
+table.lignes thead th.n{text-align:right}
+table.lignes th:first-child{width:52%}
+table.lignes th:nth-child(2){width:8%}
+table.lignes th:nth-child(3){width:20%}
+table.lignes th:nth-child(4){width:20%}
+table.lignes tbody td{padding:1em 0;border-bottom:1px solid var(--trait);
+                      vertical-align:top;font-size:10pt}
+table.lignes tbody td.n{text-align:right;white-space:nowrap;
+                        font-variant-numeric:tabular-nums}
+table.lignes tbody td:first-child{padding-right:1.5em}
+table.lignes tbody td.n{padding-left:1.2em}
+.des{line-height:1.45}
+.ref{display:block;font-size:8pt;color:var(--gris);margin-top:.35em;letter-spacing:.02em}
+.totaux{margin-left:auto;width:9cm;margin-bottom:2.4em}
+.totaux .l{display:flex;justify-content:space-between;align-items:baseline;
+           padding:.45em 0;font-size:9.5pt}
+.totaux .l span:last-child{font-variant-numeric:tabular-nums}
+.totaux .net{border-top:1px solid var(--encre);margin-top:.5em;padding-top:.9em;
+             align-items:baseline}
+.totaux .net .lab{align-self:center}
+.totaux .net .somme{font-family:var(--serif);font-size:22pt;letter-spacing:.02em}
+.tva{border-top:1px solid var(--trait);border-bottom:1px solid var(--trait);
+     padding:1.1em 0;margin-bottom:2.4em;text-align:center;
+     font-family:var(--serif);font-size:11.5pt;font-style:italic;letter-spacing:.02em}
+.bas{display:flex;gap:3em;margin-bottom:2.6em}
+.bloc{flex:1;min-width:0}
+.bloc .lab{display:block;margin-bottom:.8em}
+.bloc p{font-size:9.5pt;line-height:1.7}
+.acquittee{font-family:var(--serif);font-size:12pt;letter-spacing:.03em;margin-top:.6em}
+footer{border-top:1px solid var(--trait);padding-top:1.2em;
+       font-size:7.5pt;color:var(--gris);line-height:1.75}
+footer strong{color:var(--encre);font-weight:600}
+@media (max-width:600px){
+  .page{padding:1.4cm 1.1cm}
+  .marque{font-size:20pt;letter-spacing:.16em}
+  .baseline{flex-direction:column;gap:.9em}
+  .facture-id{text-align:left}
+  .parties,.bas{flex-direction:column;gap:2em}
+  .totaux{width:100%}
+}
+@media print{
+  body{background:var(--creme)}
+  .page{max-width:none;min-height:auto;padding:1.2cm;margin:0;background:var(--creme)}
+  @page{size:A4;margin:12mm;background:var(--creme)}
+}
+</style></head><body><div class="page">
+
+<header>
+  <div class="marque">MAISON NSAIA</div>
+  <div class="baseline">
+    <span class="lab">Pièces authentifiées en maison de vente</span>
+    <div class="facture-id">
+      <span class="mot">Facture</span>
+      <span class="num">N° {{ order.name | remove: '#' }}</span><br>
+      <span class="dt">{{ order.created_at | date: "%-d %B %Y" }}</span>
+    </div>
+  </div>
+</header>
+
+<div class="parties">
+  <div class="partie">
+    <span class="lab">Vendeur</span>
+    <div class="qui">Maison Nsaia</div>
+    <p>2 rue du Levant<br>31700 Beauzelle<br>France</p>
+    <p>+33 6 51 93 72 02<br>contact@maison-nsaia.fr<br>maison-nsaia.fr</p>
+    <p class="mentions">
+      Enseigne de Nacim Izri — Entrepreneur individuel&nbsp;(EI)<br>
+      SIRET 804 431 799 00027<br>RCS Toulouse 804 431 799
+    </p>
+  </div>
+  <div class="partie">
+    <span class="lab">Facturé à</span>
+    <div class="qui">{{ order.billing_address.name | default: order.customer.name }}</div>
+    <p>
+      {%- if order.billing_address -%}
+        {{ order.billing_address.address1 }}<br>
+        {%- if order.billing_address.address2 != blank %}{{ order.billing_address.address2 }}<br>{% endif -%}
+        {{ order.billing_address.zip }} {{ order.billing_address.city }}<br>
+        {{ order.billing_address.country }}
+      {%- else -%}
+        Vente en main propre
+      {%- endif -%}
+    </p>
+    <p class="mentions">Particulier — vente au détail</p>
+  </div>
+</div>
+
+<table class="lignes">
+  <thead><tr>
+    <th class="lab">Désignation</th>
+    <th class="lab n">Qté</th>
+    <th class="lab n">Prix unitaire</th>
+    <th class="lab n">Montant</th>
+  </tr></thead>
+  <tbody>
+  {%- for line in order.line_items -%}
+    <tr>
+      <td>
+        <span class="des">{{ line.title }}</span>
+        {%- if line.variant.title != "Default Title" and line.variant.title != blank %}
+        <span class="ref">{{ line.variant.title }}</span>
+        {%- endif -%}
+      </td>
+      <td class="n">{{ line.quantity }}</td>
+      <td class="n">{{ line.price | money }}</td>
+      <td class="n">{{ line.line_price | money }}</td>
+    </tr>
+  {%- endfor -%}
+  </tbody>
+</table>
+
+<div class="totaux">
+  <div class="l"><span class="lab">Sous-total</span><span>{{ order.subtotal_price | money }}</span></div>
+  {%- if order.shipping_price_set.shop_money.amount > 0 %}
+  <div class="l"><span class="lab">Livraison</span><span>{{ order.shipping_price | money }}</span></div>
+  {%- endif %}
+  <div class="l"><span class="lab">TVA</span><span>Non applicable</span></div>
+  <div class="l net"><span class="lab">Net à payer</span>
+       <span class="somme">{{ order.total_price | money }}</span></div>
+</div>
+
+<div class="tva">TVA non applicable — article 293 B du code général des impôts</div>
+
+<div class="bas">
+  <div class="bloc">
+    <span class="lab">Règlement</span>
+    <p>
+      {{ order.transactions.first.gateway | default: order.payment_gateway_names.first }}<br>
+      {{ order.created_at | date: "%-d %B %Y" }}
+    </p>
+    {%- if order.financial_status == "paid" %}
+    <p class="acquittee">Facture acquittée</p>
+    {%- endif %}
+  </div>
+  <div class="bloc">
+    <span class="lab">Livraison</span>
+    {%- if order.shipping_address %}
+    <p>
+      {{ order.shipping_address.name }}<br>
+      {{ order.shipping_address.address1 }}<br>
+      {{ order.shipping_address.zip }} {{ order.shipping_address.city }}<br>
+      {{ order.shipping_address.country }}
+    </p>
+    {%- else %}
+    <p>Retrait en main propre — 2 rue du Levant, 31700 Beauzelle</p>
+    {%- endif %}
+  </div>
+  <div class="bloc"></div>
+</div>
+
+<footer>
+  <strong>Garanties.</strong> Les articles vendus bénéficient de la garantie légale
+  de conformité (articles L217-3 et suivants du code de la consommation) et de la
+  garantie contre les vices cachés (articles 1641 et suivants du code civil).<br>
+  <strong>Rétractation.</strong> Pour toute commande à distance, un délai de 14 jours
+  à compter de la réception s'applique, sans avoir à justifier la décision. Ce droit
+  ne s'applique pas au retrait en main propre. Détail dans les conditions générales
+  de vente.<br>
+  <strong>Conservation.</strong> Facture établie en un exemplaire, conservée cinq ans
+  par le vendeur.
+</footer>
+
+</div></body></html>

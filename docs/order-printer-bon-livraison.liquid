@@ -1,0 +1,161 @@
+<!doctype html>
+<html lang="fr"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Bon de livraison {{ order.name }} — Maison Nsaia</title>
+<style>
+:root{
+  --encre:#1A1A1A; --creme:#FAF9F7; --gris:#8A8580; --trait:#E2DFDA;
+  --serif:"Cormorant Garamond","Playfair Display",Georgia,"Times New Roman",serif;
+  --sans:"Assistant","Archivo","Helvetica Neue",Arial,sans-serif;
+}
+*{box-sizing:border-box;margin:0;padding:0;
+  print-color-adjust:exact;-webkit-print-color-adjust:exact}
+body{background:var(--creme);color:var(--encre);font-family:var(--sans);
+     font-size:10.5pt;line-height:1.55;-webkit-font-smoothing:antialiased}
+.page{max-width:21cm;margin:0 auto;background:var(--creme);
+      padding:2.4cm 2cm 2cm;min-height:29.7cm}
+.lab{font-size:7.5pt;letter-spacing:.18em;text-transform:uppercase;
+     color:var(--gris);font-weight:600}
+header{margin-bottom:2.6em}
+.marque{font-family:var(--serif);font-size:27pt;font-weight:400;
+        letter-spacing:.22em;text-transform:uppercase;line-height:1}
+.baseline{margin-top:.9em;padding-top:.8em;border-top:1px solid var(--encre);
+          display:flex;justify-content:space-between;align-items:baseline;gap:2em}
+.doc-id{text-align:right;white-space:nowrap}
+.doc-id .mot{font-family:var(--serif);font-size:15pt;font-style:italic;
+                 letter-spacing:.06em;display:block;margin-bottom:.15em}
+.doc-id .num{font-size:9.5pt;letter-spacing:.1em;font-weight:600}
+.doc-id .dt{font-size:8.5pt;color:var(--gris);letter-spacing:.04em}
+
+.authenticite{border-top:1px solid var(--trait);border-bottom:1px solid var(--trait);
+     padding:1.1em 1.4em;margin-bottom:2.4em;
+     font-family:var(--serif);font-size:12pt;font-style:italic;letter-spacing:.02em;
+     line-height:1.6;text-align:center}
+
+.parties{display:flex;gap:3em;margin-bottom:2.6em}
+.partie{flex:1;min-width:0}
+.partie .lab{display:block;padding-bottom:.7em;margin-bottom:.9em;
+             border-bottom:1px solid var(--trait)}
+.partie .qui{font-family:var(--serif);font-size:14pt;letter-spacing:.03em;
+             margin-bottom:.45em;line-height:1.25}
+.partie p{font-size:9.5pt;line-height:1.65}
+
+table.lignes{width:100%;border-collapse:collapse;margin-bottom:2em}
+table.lignes thead th{border-top:1px solid var(--encre);
+      border-bottom:1px solid var(--trait);padding:.65em 0 .6em;text-align:left;
+      letter-spacing:.12em;white-space:nowrap}
+table.lignes thead th.n{text-align:right}
+table.lignes th:first-child{width:70%}
+table.lignes tbody td{padding:1em 0;border-bottom:1px solid var(--trait);
+                      vertical-align:top;font-size:10pt}
+table.lignes tbody td.n{text-align:right;white-space:nowrap;
+                        font-variant-numeric:tabular-nums}
+.des{line-height:1.45}
+.ref{display:block;font-size:8pt;color:var(--gris);margin-top:.35em;letter-spacing:.02em}
+
+.mot-manuscrit{border:1px dashed var(--trait);border-radius:4px;
+     min-height:3.2cm;margin-bottom:2.4em;padding:.9em 1.1em}
+.mot-manuscrit .lab{margin-bottom:1.4em;display:block}
+
+footer{border-top:1px solid var(--trait);padding-top:1.2em;
+       font-size:7.5pt;color:var(--gris);line-height:1.75}
+footer strong{color:var(--encre);font-weight:600}
+
+@media (max-width:600px){
+  .page{padding:1.4cm 1.1cm}
+  .marque{font-size:20pt;letter-spacing:.16em}
+  .baseline{flex-direction:column;gap:.9em}
+  .doc-id{text-align:left}
+  .parties{flex-direction:column;gap:2em}
+}
+@media print{
+  body{background:var(--creme)}
+  .page{max-width:none;min-height:auto;padding:1.2cm;margin:0;background:var(--creme)}
+  @page{size:A4;margin:12mm;background:var(--creme)}
+}
+</style></head><body><div class="page">
+
+<header>
+  <div class="marque">MAISON NSAIA</div>
+  <div class="baseline">
+    <span class="lab">maison-nsaia.fr · contact@maison-nsaia.fr</span>
+    <div class="doc-id">
+      <span class="mot">Bon de livraison</span>
+      <span class="num">Commande {{ order.name }}</span><br>
+      <span class="dt">{{ order.created_at | date: "%-d %B %Y" }}</span>
+    </div>
+  </div>
+</header>
+
+<div class="authenticite">
+  Pièce sourcée et authentifiée en maison de vente — exemplaire unique.<br>
+  TVA non applicable — article 293 B du code général des impôts.
+</div>
+
+<div class="parties">
+  <div class="partie">
+    <span class="lab">Expédié à</span>
+    <div class="qui">
+      {{ order.shipping_address.name | default: order.billing_address.name | default: order.customer.name }}
+    </div>
+    <p>
+      {%- if order.shipping_address -%}
+        {{ order.shipping_address.address1 }}<br>
+        {%- if order.shipping_address.address2 != blank %}{{ order.shipping_address.address2 }}<br>{% endif -%}
+        {{ order.shipping_address.zip }} {{ order.shipping_address.city }}<br>
+        {{ order.shipping_address.country }}
+      {%- else -%}
+        Retrait en main propre — 2 rue du Levant, 31700 Beauzelle
+      {%- endif -%}
+    </p>
+  </div>
+  <div class="partie">
+    <span class="lab">Expéditeur</span>
+    <div class="qui">Maison Nsaia</div>
+    <p>2 rue du Levant<br>31700 Beauzelle<br>France</p>
+  </div>
+</div>
+
+<table class="lignes">
+  <thead><tr>
+    <th class="lab">Pièce</th>
+    <th class="lab n">Qté</th>
+  </tr></thead>
+  <tbody>
+  {%- for line in order.line_items -%}
+    <tr>
+      <td>
+        <span class="des">{{ line.title }}</span>
+        {%- if line.variant.title != "Default Title" and line.variant.title != blank %}
+        <span class="ref">Taille / réf. : {{ line.variant.title }}</span>
+        {%- endif -%}
+        {%- assign etat = "" -%}
+        {%- if line.product.tags contains "Neuf avec étiquette" -%}{%- assign etat = "Neuf avec étiquette" -%}
+        {%- elsif line.product.tags contains "Neuf sans étiquette" -%}{%- assign etat = "Neuf sans étiquette" -%}
+        {%- elsif line.product.tags contains "Très bon état" -%}{%- assign etat = "Très bon état" -%}
+        {%- endif -%}
+        {%- if etat != "" %}
+        <span class="ref">État : {{ etat }}</span>
+        {%- endif -%}
+      </td>
+      <td class="n">{{ line.quantity }}</td>
+    </tr>
+  {%- endfor -%}
+  </tbody>
+</table>
+
+<div class="mot-manuscrit">
+  <span class="lab">Un mot</span>
+</div>
+
+<footer>
+  <strong>Rétractation.</strong> Pour toute commande à distance, un délai de 14 jours
+  à compter de la réception s'applique pour se rétracter, sans avoir à justifier la
+  décision — écrire à contact@maison-nsaia.fr. Ce droit ne s'applique pas au retrait
+  en main propre.<br>
+  <strong>Garanties.</strong> Garantie légale de conformité et garantie contre les
+  vices cachés applicables, comme rappelé sur la facture jointe. Détail dans les
+  conditions générales de vente sur maison-nsaia.fr.
+</footer>
+
+</div></body></html>
