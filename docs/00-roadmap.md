@@ -698,6 +698,15 @@ les gros chantiers :
   l'image de la collection Chaussures par la photo de l'adidas x Stella
   McCartney (une des photos déjà en ligne sur cette fiche produit).
 
+  **Pas d'automatisation possible ici** : "Nos rayons" (Chaussures/
+  Vêtements/Nouveautés sur l'accueil) affiche une seule photo de couverture
+  par catégorie, choisie une fois, sans lien technique avec le stock réel —
+  contrairement à "À la une" qui liste de vrais produits et qui est déjà
+  protégée par un workflow Flow. Shopify Flow n'a pas d'action pour changer
+  une photo de collection automatiquement. Convenu avec Nass : je vérifie ce
+  point à chaque audit et signale si une photo de couverture correspond à
+  une pièce vendue, plutôt que de la remplacer par un visuel neutre.
+
 ### Ce qui ne fonctionne pas
 
 Le référencement naturel dépend de la pertinence, de l'ancienneté du domaine, du
