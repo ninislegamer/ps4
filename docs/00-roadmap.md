@@ -466,9 +466,8 @@ vendre"), deux ajouts pensés pour la conversion plutôt que pour le contenu
   en bas de la page d'accueil (masqué automatiquement si la liste est
   vide — pas de section vide qui traîne).
 
-Sur le thème dupliqué **« Dawn — confiance et vus récemment »**, non
-publié — à prévisualiser et publier quand le client le décide (indépendant
-du sujet des photos Morgan, ces deux ajouts n'affectent pas le catalogue).
+**✅ publié le 31/08** sur le thème **« Dawn — confiance et vus récemment »**,
+devenu le thème live.
 
 Écarté du champ « ce qu'on peut ajouter » : le canal **Google & YouTube
 (Merchant Center)**, vérifié non connecté — c'est le levier gratuit le plus
