@@ -404,6 +404,28 @@ stock peut repasser sous 0 sans jamais déclencher le trigger « atteint zéro �
 Favoris/wishlist et accès prioritaire abonnés restent en attente, pas
 priorisés pour l'instant.
 
+### Sélecteur de quantité non plafonné — trouvé et corrigé le 31/08
+
+Signalé par le client : sur la fiche produit, le sélecteur de quantité
+montait à 2, 3, 4… alors que le stock réel est de 1. Cause : le composant
+de quantité de Dawn ne pose une limite `max` que si Shopify a une **règle
+de quantité B2B** configurée (fonctionnalité inutilisée ici) — sans elle,
+aucun plafond n'était posé côté interface. Le blocage réel se serait fait
+seulement au moment du paiement (`inventoryPolicy: DENY`), mais l'interface
+laissait croire que plusieurs exemplaires étaient possibles.
+
+**Corrigé** dans `snippets/quantity-input.liquid` (partagé fiche produit +
+panier) sur un thème dupliqué **« Dawn — quantité limitée au stock »**, non
+publié : le plafond `max` du champ quantité se cale désormais sur le stock
+réel de la variante dès que le suivi de stock est actif et la vente en
+rupture bloquée — ce qui est déjà le cas sur toutes les fiches (vérifié le
+31/08). Le jour où une pièce est vendue en plusieurs exemplaires, il suffira
+de régler le vrai stock : la limite suit automatiquement, aucune
+configuration supplémentaire.
+
+**À faire** : prévisualiser puis publier ce thème (Boutique en ligne →
+Thèmes → Dawn — quantité limitée au stock).
+
 ---
 
 ## Frais de livraison
