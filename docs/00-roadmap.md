@@ -755,6 +755,21 @@ Deux précautions sur Merchant Center :
 3. **Newsletter.** Le seul canal réellement possédé, indépendant de tout
    algorithme.
 
+### TikTok — workflow prévu (31/08)
+
+Nass fournit photo + prix (+ taille/état si besoin) d'une pièce, je prépare
+le texte du post — ton sobre et factuel, cohérent avec le reste de la
+marque, aucune info inventée. Appel à l'action : **« lien en bio »**, seule
+redirection possible dans une légende TikTok classique (pas de lien
+cliquable hors TikTok Shop). Incrustation du prix directement sur la photo :
+possible seulement si le fichier m'est techniquement accessible — à tester
+au cas par cas selon comment la photo arrive. Publication effective sur
+TikTok : toujours à la charge de Nass, aucun accès au compte de mon côté.
+
+- [ ] **À faire par Nass** : ajouter `https://maison-nsaia.fr` dans le champ
+  « Site web » du profil TikTok (Modifier le profil → Site web), pour que
+  le lien en bio soit cliquable. Pas encore fait au 31/08.
+
 ---
 
 ## Newsletter
