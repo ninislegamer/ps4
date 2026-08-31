@@ -572,6 +572,10 @@ du jour :
   Lacoste, sac Karl Lagerfeld Jeans) — corrigées, y compris pour les trois
   déjà vendues : elles restent en ligne et indexées, pas de raison de les
   laisser sans SEO.
+- **Auto-contrôle des longueurs** : 4 des textes ajoutés dépassaient les
+  limites d'affichage Google (~60 car. titre, ~160 car. description) et ont
+  été raccourcis — titre collection Chaussures, description Salomon, titre
+  et description Armani Exchange.
 
 **Le prix bas ne génère pas de trafic.** Il améliore la conversion une fois le
 visiteur arrivé, mais aucun moteur de recherche ne classe par prix.
