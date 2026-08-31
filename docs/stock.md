@@ -623,7 +623,11 @@ ne fait pas apparaître des acheteurs qui ne voient pas l'annonce.
       robes, short en jean) pour remplir le dressing
 - [ ] Authentifier la Yeezy avant toute mise en vente (10-20 €), puis fixer son
       prix d'après les ventes réalisées en taille 38
-- [ ] Relever les codes-barres (EAN) de chaque pièce pour les fiches Shopify
+- [x] Codes-barres (EAN) déjà connus posés sur Shopify le 31/08 : Jupe Sonia
+      Rykiel, Robe Sandro, Short ba&sh, Blazer Karl Lagerfeld, Robe Chiara
+      Ferragni (voir table « Références pour les fiches » plus haut). Les
+      pièces sans EAN documenté (Hogan, Elisabetta Franchi, adidas Stella
+      McCartney) restent à relever physiquement sur l'étiquette/la boîte.
 
 ---
 
