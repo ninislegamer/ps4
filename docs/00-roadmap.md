@@ -614,6 +614,14 @@ les gros chantiers :
   activé avec le texte « Maison Nsaia — pièces de marque authentifiées,
   sourcées en maison de vente. » — rien n'y était avant. Fait sur le thème
   brouillon *Dawn — signature pied de page*, à publier manuellement.
+- **Aucun logo image configuré** — l'en-tête affiche le nom du magasin en
+  texte, pas d'image. Logo en cours de création par Nass, à installer dans
+  le thème une fois prêt (réglage `logo` dans les paramètres du thème,
+  au-dessus du menu principal).
+- **Taxes/TVA re-vérifiées** : franchise en base toujours correcte (voir
+  ligne 106), rien à changer.
+- **Adresse de retrait (FAQ vs emplacement Shopify)** : cohérentes, 2 rue du
+  Levant, 31700 Beauzelle dans les deux.
 
 ### Ce qui ne fonctionne pas
 
