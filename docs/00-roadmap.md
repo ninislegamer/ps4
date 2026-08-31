@@ -367,6 +367,43 @@ l'app, avec sa propre mise en page générique — ne pas confondre. Toujours
 imprimer **depuis l'app Commande Imprimante elle-même** pour obtenir la
 mise en page personnalisée.
 
+### Vérifié le 31/08 — deux points du roadmap déjà faits sans que ce soit noté
+
+- **« Épuisé » → « Vendue »** : déjà fait, confirmé dans `locales/fr.json`
+  du thème (`products.product.sold_out: "Vendue"`, et les clés équivalentes
+  du checkout).
+- **Double bouton d'achat** (Ajouter au panier + Achat immédiat) : déjà actif
+  par défaut sur le bloc `buy_buttons` de Dawn (`show_dynamic_checkout: true`).
+
+### À faire à la prochaine session (sur ordinateur) — tag « Vendu » automatique
+
+**Le plus urgent des trois chantiers « site » restants.** Aujourd'hui le tag
+`Vendu` (qui alimente la collection « Déjà vendu » et déclenche le bloc
+newsletter sur la fiche) est ajouté **à la main** à chaque vente. Sans
+automatisation, la première vraie vente sur le site risque de laisser une
+fiche vendue sans le tag — donc invisible dans « Déjà vendu » et sans le
+message newsletter.
+
+Pas d'accès API pour créer un workflow **Shopify Flow** depuis ici — à monter
+à la main dans l'éditeur visuel (Applications → Flow, ou l'installer d'abord
+si absent, app gratuite native Shopify) :
+
+1. Créer un workflow.
+2. Déclencheur : **« Le stock disponible d'une variante de produit atteint
+   zéro »** (« Product variant inventory reached zero » — le nom exact peut
+   varier selon la version de l'interface).
+3. Aucune condition nécessaire (s'applique à tous les produits — 1 pièce =
+   1 fiche, donc stock à 0 veut toujours dire vendu).
+4. Action : **« Ajouter des tags »** → `Vendu`.
+5. Activer le workflow.
+
+Vérifier ensuite que « Continuer la vente en rupture de stock » est bien
+désactivé sur les fiches produit (rappel déjà dans le roadmap) — sinon le
+stock peut repasser sous 0 sans jamais déclencher le trigger « atteint zéro ».
+
+Favoris/wishlist et accès prioritaire abonnés restent en attente, pas
+priorisés pour l'instant.
+
 ---
 
 ## Frais de livraison
