@@ -277,7 +277,7 @@ Objectif : aucun abonnement d'application récurrent.
 |----------|------------------|------|
 | Facture PDF avec mention art. 293 B | Order Printer (gratuit) + template Liquid sur mesure | 0 € |
 | Favoris / wishlist | code thème + métachamps client | 0 € |
-| Badges « 100 % Authentique », « Neuf avec étiquette », « Origine vérifiée en maison de vente » | Liquid sur la fiche produit | 0 € |
+| Badges « 100 % Authentique », état, « Pièce unique » | Liquid sur la fiche produit | 0 € — **✅ fait le 27/08**, voir détail ci-dessous |
 | Retrait automatique du stock à 0 | Shopify Flow (inclus) | 0 € |
 | Suivi de commande | natif Shopify | 0 € |
 | Dashboard de marge | app admin développée ici | 0 € |
@@ -575,11 +575,32 @@ même si la livraison reste limitée à la zone ouverte du moment.
 |---|-------|----------|
 | 1 | Thème | Thème choisi, installé, réglages typo/couleurs |
 | 2 | Arborescence | Collections + navigation + métachamps |
-| 3 | Fiche produit | Template avec badges, double bouton d'achat |
+| 3 | Fiche produit | Template avec badges ✅ (27/08, en attente de publication) — reste le double bouton d'achat |
 | 4 | Stock unitaire | 1 pièce = 1 fiche, retrait auto via Shopify Flow |
 | 5 | Paiements | Carte / PayPal / Apple Pay / Google Pay + checkout |
 | 6 | Espace client | Compte, suivi, favoris, facture PDF (art. 293 B) |
 | 7 | Dashboard admin | App de calcul de marge automatique |
+
+### Badges de fiche produit — fait le 27/08, thème dupliqué en attente de publication
+
+Bloc `custom_liquid` ajouté dans `templates/product.json`, entre le prix et le
+sélecteur de variante, sur le thème dupliqué **« Dawn — badges authenticité »**
+(non publié — à publier après relecture). Aucune app, pur Liquid/CSS inline,
+cohérent avec la charte (variables couleur du thème).
+
+Trois badges, tous conditionnels sauf le premier :
+
+1. **« 100 % authentique — vérifié en maison de vente »** — toujours affiché.
+2. **État** — affiché si le tag produit contient `Neuf avec étiquette`,
+   `Neuf sans étiquette` ou `Très bon état` (sinon rien). Se base sur les tags
+   existants, aucune saisie supplémentaire à faire fiche par fiche.
+3. **« Pièce unique — 1 exemplaire disponible »** — affiché uniquement si le
+   stock de la variante vaut exactement 1 (masqué sur les lots à quantité
+   multiple type Beyblade, masqué sur les fiches épuisées).
+
+**À faire** : prévisualiser sur le thème dupliqué (Boutique en ligne → Thèmes
+→ Dawn — badges authenticité → Aperçu) puis publier. Le mot de passe boutique
+étant toujours actif, l'aperçu doit se faire depuis l'admin Shopify connecté.
 
 ---
 
