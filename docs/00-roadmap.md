@@ -447,6 +447,36 @@ un ancien thème brouillon (« Dawn — quantité limitée au stock », deux
 versions en arrière) au lieu du thème publié — bouton absent sur cette
 version-là seulement. Confirmé fonctionnel une fois sur le bon thème.
 
+### Bandeau de confiance + « Consultés récemment » — fait le 31/08
+
+À la demande du client ("regarde ce qu'on peut rajouter pour aider à
+vendre"), deux ajouts pensés pour la conversion plutôt que pour le contenu
+(le catalogue reste bloqué par mot de passe en attendant les photos Morgan
+— mais ces éléments s'appliquent dès le déblocage, pas besoin d'y revenir) :
+
+- **Bandeau de confiance en page d'accueil**, juste sous la bannière :
+  « 100 % authentique — vérifié en maison de vente », « Garantie légale de
+  conformité », « Retour sous 14 jours ». Objectif : rassurer avant même
+  que le visiteur explore le catalogue, sur une marque inconnue — jusqu'ici
+  ces garanties n'apparaissaient qu'une fois sur une fiche produit.
+- **« Consultés récemment »** — même mécanique que les favoris
+  (`localStorage`, sans compte). Un visiteur qui hésite entre plusieurs
+  pièces peut y revenir facilement. Affiché à deux endroits : en bas de
+  chaque fiche produit (les autres pièces vues, hors la fiche en cours) et
+  en bas de la page d'accueil (masqué automatiquement si la liste est
+  vide — pas de section vide qui traîne).
+
+Sur le thème dupliqué **« Dawn — confiance et vus récemment »**, non
+publié — à prévisualiser et publier quand le client le décide (indépendant
+du sujet des photos Morgan, ces deux ajouts n'affectent pas le catalogue).
+
+Écarté du champ « ce qu'on peut ajouter » : le canal **Google & YouTube
+(Merchant Center)**, vérifié non connecté — c'est le levier gratuit le plus
+important du roadmap, mais ça demande de lier un compte Google (action du
+client, pas une app installable via API) et ça ne sert de toute façon à
+rien tant que le mot de passe boutique est actif. À faire au vrai
+lancement.
+
 ### Sélecteur de quantité non plafonné — trouvé et corrigé le 31/08
 
 Signalé par le client : sur la fiche produit, le sélecteur de quantité
