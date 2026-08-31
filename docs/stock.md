@@ -637,6 +637,7 @@ ne fait pas apparaître des acheteurs qui ne voient pas l'annonce.
 |------|-------|-------|------|------|--------|-----------|
 | 12 août 2026 | Salomon X Ultra 5 Mid GTX, 44 | Vinted, acheteur en Italie | 100 € | 65 € | 12,40 € | **22,60 €** |
 | 31 août 2026 | New Balance GS 1906 Alkaline Green, 38½ | Vinted | 99 € | 80,60 € | 12,28 € | **6,12 €** |
+| 31 août 2026 | T-shirt Balenciaga multi-logos noir, taille 2 | Vente directe à Mme Aouimeur, espèces/virement | 155 € | 118,40 € | 19,22 € | **17,38 €** |
 
 **Première vente de Maison Nsaia.** Prix prévu 109 €, obtenu 100 €. Pas de
 commission carte sur Vinted, donc la marge de ligne est de 22,60 € ; l'emballage
@@ -652,6 +653,13 @@ Marge calculée hors commission carte (coefficient 0,876, comme Vinted) :
 `0,876 × 99 − 80,60 = 6,12 €` — nettement en dessous du plancher de 20-25 €,
 cohérent avec le diagnostic déjà noté sur les New Balance / marques de sport
 (peu de marge, rôle d'acquisition plutôt que de rentabilité).
+
+**T-shirt Balenciaga — vente directe à Mme Aouimeur, paiement déjà encaissé
+(espèces/virement, pas de frais carte, coefficient 0,876 comme Vinted).**
+Fiche créée directement en "Vendue" (stock à 0, tag `Vendu`) — jamais mise en
+vente active sur le site. Marge : `0,876 × 155 − 118,40 = 17,38 €`. Paiement
+encaissé → **à inclure dans le CA URSSAF de la période**, contrairement à la
+ligne New Balance ci-dessus.
 
 ### Robby VP550W — trois pompes immergées, deux à vendre
 
