@@ -675,7 +675,18 @@ les gros chantiers :
   affaiblit la confiance sur du vêtement/chaussure d'occasion (le client ne
   peut pas vérifier l'état sous plusieurs angles) — à compléter par Nass
   quand possible, je ne peux pas ajouter de photos moi-même.
-- **Réseaux sociaux non liés** dans les réglages du thème — proposé à
+- **Bug trouvé et corrigé : produit créé par API jamais publié sur aucun
+  canal de vente.** Le t-shirt Balenciaga (vendu directement à Mme
+  Aouimeur, voir `stock.md`) créé via `productCreate` avait le statut
+  "Actif" mais `resourcePublications` était vide — n'apparaissait donc nulle
+  part, y compris dans "Déjà vendu", malgré une collection automatique
+  correctement peuplée côté admin. **Statut actif ≠ publié sur un canal** :
+  il faut un `publishablePublish` explicite vers "Boutique en ligne" (et
+  Point de vente/Shop/Inbox pour rester cohérent avec le reste du
+  catalogue). Corrigé pour ce produit ; **à surveiller sur toute future
+  création de produit via API** — les fiches précédentes créées cette
+  session semblent OK (vérifié sur Geox), donc ce n'était a priori qu'un
+  oubli isolé sur cette fiche-ci, pas un bug systémique.
 
 ### Ce qui ne fonctionne pas
 
