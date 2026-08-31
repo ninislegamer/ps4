@@ -598,9 +598,9 @@ Trois badges, tous conditionnels sauf le premier :
    stock de la variante vaut exactement 1 (masqué sur les lots à quantité
    multiple type Beyblade, masqué sur les fiches épuisées).
 
-**À faire** : prévisualiser sur le thème dupliqué (Boutique en ligne → Thèmes
-→ Dawn — badges authenticité → Aperçu) puis publier. Le mot de passe boutique
-étant toujours actif, l'aperçu doit se faire depuis l'admin Shopify connecté.
+**À faire** : publier le thème dupliqué (Boutique en ligne → Thèmes →
+Dawn — badges authenticité → Publier) — action manuelle, la publication de
+thème n'est pas autorisée via l'API pour ce projet.
 
 ### Inscription newsletter sur les fiches vendues — fait le 27/08, même thème
 
