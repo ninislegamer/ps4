@@ -602,6 +602,23 @@ Trois badges, tous conditionnels sauf le premier :
 → Dawn — badges authenticité → Aperçu) puis publier. Le mot de passe boutique
 étant toujours actif, l'aperçu doit se faire depuis l'admin Shopify connecté.
 
+### Inscription newsletter sur les fiches vendues — fait le 27/08, même thème
+
+**« Prévenez-moi des pièces similaires » écarté** : chaque pièce étant unique,
+promettre un retour « similaire » aurait été trompeur. Remplacé par un message
+honnête sur les fiches taguées `Vendu` — bloc `custom_liquid` juste après le
+bouton d'achat (qui affiche « Épuisé »/« Vendue » sur ces fiches) :
+
+> *Cette pièce est partie et ne reviendra pas sous cette forme — chaque pièce
+> Maison Nsaia est unique. Inscrivez-vous à la newsletter pour être
+> prévenu(e) dès qu'une nouvelle pièce est mise en ligne.*
+
+Avec un champ e-mail qui utilise le même formulaire client Shopify
+(`contact[tags] = newsletter`) que l'inscription du pied de page — les deux
+alimentent la même liste, pas de doublon de mécanisme. Sur le thème dupliqué
+« Dawn — badges authenticité », donc à prévisualiser et publier avec les
+badges au même moment.
+
 ---
 
 ## Où vérifier — pas de comptable, c'est normal
