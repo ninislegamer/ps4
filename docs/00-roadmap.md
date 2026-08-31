@@ -553,6 +553,22 @@ absorber la différence.
 
 ## Visibilité et acquisition
 
+### SEO de base — corrigé le 31/08
+
+Deux manques trouvés en auditant le site, sans lien avec les gros chantiers
+du jour :
+
+- **16 photos sans texte alternatif** sur 7 fiches (Salomon, Armani Exchange,
+  Lacoste, sac Karl Lagerfeld Jeans, Philipp Plein Sport, Tommy Jeans,
+  Emporio Armani) — corrigé avec un texte factuel (marque, modèle, couleur,
+  pointure/taille), sans inventer d'angle de vue non vérifié (aucun accès
+  visuel aux photos elles-mêmes depuis ici, uniquement aux données produit).
+- **Aucune des 5 collections publiques n'avait de titre/description SEO** —
+  Shopify se rabattait sur un générique. Titre + description renseignés
+  pour Chaussures, Vêtements, Nouveautés, Catalogue, Déjà vendu (Page
+  d'accueil laissée de côté : c'est un outil de curation interne, pas une
+  page réellement indexée en tant que telle).
+
 **Le prix bas ne génère pas de trafic.** Il améliore la conversion une fois le
 visiteur arrivé, mais aucun moteur de recherche ne classe par prix.
 
