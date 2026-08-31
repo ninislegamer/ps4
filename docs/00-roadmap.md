@@ -568,6 +568,10 @@ du jour :
   pour Chaussures, Vêtements, Nouveautés, Catalogue, Déjà vendu (Page
   d'accueil laissée de côté : c'est un outil de curation interne, pas une
   page réellement indexée en tant que telle).
+- **4 fiches produit sans titre/description SEO** (Salomon, Armani Exchange,
+  Lacoste, sac Karl Lagerfeld Jeans) — corrigées, y compris pour les trois
+  déjà vendues : elles restent en ligne et indexées, pas de raison de les
+  laisser sans SEO.
 
 **Le prix bas ne génère pas de trafic.** Il améliore la conversion une fois le
 visiteur arrivé, mais aucun moteur de recherche ne classe par prix.
