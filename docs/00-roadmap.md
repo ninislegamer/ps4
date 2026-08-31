@@ -654,6 +654,13 @@ les gros chantiers :
   l'instant : ce sac est déjà tagué "Vendu", donc exclu — la collection se
   peuplera au prochain accessoire mis en vente. Confirmé avec Nass de
   l'ajouter au menu dès maintenant plutôt que d'attendre.
+- **Photos vérifiées** : toutes les fiches actives ont au moins 1 photo
+  (aucune fiche publiée sans image). 3 fiches n'en ont qu'**une seule** —
+  sac Karl Lagerfeld Jeans (déjà vendu, pas grave), demi-bottes Forma
+  Legacy et ballerines Massimo Dutti (encore en vente). Une seule photo
+  affaiblit la confiance sur du vêtement/chaussure d'occasion (le client ne
+  peut pas vérifier l'état sous plusieurs angles) — à compléter par Nass
+  quand possible, je ne peux pas ajouter de photos moi-même.
 - **Réseaux sociaux non liés** dans les réglages du thème — proposé à
 
 ### Ce qui ne fonctionne pas
