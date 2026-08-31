@@ -622,6 +622,27 @@ les gros chantiers :
   ligne 106), rien à changer.
 - **Adresse de retrait (FAQ vs emplacement Shopify)** : cohérentes, 2 rue du
   Levant, 31700 Beauzelle dans les deux.
+- **Inventaire vérifié** : toutes les pièces actives sont en `DENY` +
+  suivi activé — pas de risque de survente sur une pièce unique. Vérifié en
+  bout en bout : le workflow Flow "Vendu au stock 0" fonctionne bien (5
+  pièces déjà auto-taguées "Vendu" et bien sorties de Catalogue/Vêtements/
+  Chaussures/Nouveautés, visibles uniquement dans "Déjà vendu").
+- **Doublon Nouveautés/Catalogue corrigé** : les deux collections avaient
+  exactement la même règle (tout ce qui n'est pas vendu), donc affichaient
+  le même contenu — aucune vraie distinction. Confirmé avec Nass : à
+  séparer. Nouveau système :
+  - Tag **"Nouveau"** posé sur les 16 pièces actives non vendues
+    (rétroactif, elles ont toutes < 30 jours au 31/08).
+  - Règle de la collection Nouveautés changée : `TAG EQUALS "Nouveau"` +
+    exclusions Vendu/Accès anticipé.
+  - Pour que ça reste automatique sur les futures pièces, 2 workflows Flow :
+    - *"Quand un produit est créé, ajoute le tag Nouveau"* — **✅ activé**.
+    - *"Quand le tag Nouveau est ajouté, attends 30 jours puis retire-le"*
+      — **✅ activé**. Le vrai blocage n'était pas la connexion mais l'appli
+      gratuite Shopify « Workflow Trigger Extensions » (fournit le
+      déclencheur "Product Tags Added") non installée ; installée puis
+      workflow activé avec succès.
+- **Réseaux sociaux non liés** dans les réglages du thème — proposé à
 
 ### Ce qui ne fonctionne pas
 
