@@ -636,6 +636,11 @@ les gros chantiers :
   (`collectionRemoveProducts`) ; **workflow Flow créé et activé** pour que
   ça ne se reproduise plus : *"Quand le tag Vendu est ajouté à un produit,
   retire ce produit de la collection Page d'accueil"*.
+- **Pièce publiée oubliée en brouillon retrouvée** : les baskets Geox
+  gris/argent P.35 (photos + prix + SEO déjà complets) étaient restées en
+  statut brouillon depuis leur création le 20/08, jamais publiées avec le
+  reste du lot — oubli probable. Confirmé avec Nass : publiées, taguées
+  "Nouveau", ajoutées à "À la une".
 - **Doublon Nouveautés/Catalogue corrigé** : les deux collections avaient
   exactement la même règle (tout ce qui n'est pas vendu), donc affichaient
   le même contenu — aucune vraie distinction. Confirmé avec Nass : à
