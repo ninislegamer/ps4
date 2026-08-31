@@ -276,7 +276,7 @@ Objectif : aucun abonnement d'application récurrent.
 | Fonction | Solution retenue | Coût |
 |----------|------------------|------|
 | Facture PDF avec mention art. 293 B | Order Printer (gratuit) + template Liquid sur mesure | 0 € — **✅ fait et testé le 31/08**, `docs/04-facture-pdf.md` |
-| Favoris / wishlist | code thème + métachamps client | 0 € |
+| Favoris / wishlist | code thème + navigateur (`localStorage`) | 0 € — **✅ fait le 31/08**, voir détail ci-dessous |
 | Badges « 100 % Authentique », état, « Pièce unique » | Liquid sur la fiche produit | 0 € — **✅ fait le 27/08, publié le 31/08**, voir détail ci-dessous |
 | Retrait automatique du stock à 0 | Shopify Flow (inclus) | 0 € |
 | Suivi de commande | natif Shopify | 0 € |
@@ -401,8 +401,31 @@ Vérifier ensuite que « Continuer la vente en rupture de stock » est bien
 désactivé sur les fiches produit (rappel déjà dans le roadmap) — sinon le
 stock peut repasser sous 0 sans jamais déclencher le trigger « atteint zéro ».
 
-Favoris/wishlist et accès prioritaire abonnés restent en attente, pas
-priorisés pour l'instant.
+Accès prioritaire abonnés reste en attente, pas priorisé pour l'instant.
+
+### Favoris / wishlist — fait le 31/08, sans compte client
+
+Écart volontaire par rapport au plan initial du roadmap (« code thème +
+métachamps client », qui suppose un compte client) : implémenté en
+**`localStorage` navigateur** à la place. Raison : exiger une connexion pour
+sauvegarder une pièce ajoute de la friction sur une boutique neuve qui n'a
+pas encore de trafic — mieux vaut un favori sans compte que pas de favori du
+tout. Pas de compte = pas de synchronisation entre appareils, limite acceptée
+pour cette v1.
+
+- **Bouton « Ajouter aux favoris »** sur chaque fiche produit (juste après le
+  bouton d'achat), bascule visuellement (« Dans mes favoris ») au clic,
+  stocke le handle du produit dans `localStorage`.
+- **Page « Favoris »** créée (`/pages/favoris`), ajoutée au menu du pied de
+  page à côté de Rechercher/FAQ/Garanties. Récupère la liste sauvegardée,
+  affiche chaque pièce (photo, titre, prix, mention « Vendue » si épuisée)
+  via l'API produit JSON native de Shopify, avec un bouton pour retirer un
+  favori directement depuis la page.
+- Sur le thème dupliqué **« Dawn — favoris »**, non publié.
+
+**À faire** : publier ce thème, puis vérifier sur le site que le bouton
+favoris et la page fonctionnent (ajouter une pièce, revenir sur la page
+Favoris, vérifier que ça s'affiche).
 
 ### Sélecteur de quantité non plafonné — trouvé et corrigé le 31/08
 
