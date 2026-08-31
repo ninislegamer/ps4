@@ -642,6 +642,18 @@ les gros chantiers :
       gratuite Shopify « Workflow Trigger Extensions » (fournit le
       déclencheur "Product Tags Added") non installée ; installée puis
       workflow activé avec succès.
+- **4 fiches sans "Type" trouvées et corrigées** : Salomon, Lacoste, Armani
+  Exchange et le sac Karl Lagerfeld Jeans avaient le champ Type vide — donc
+  invisibles dans les collections "Chaussures"/"Vêtements" (uniquement
+  trouvables via Catalogue/recherche). Salomon et Lacoste → Chaussures,
+  Armani Exchange → Vêtements.
+- **Nouvelle collection "Accessoires" créée** pour le sac Karl Lagerfeld
+  Jeans (ni chaussure ni vêtement) — même structure que Chaussures/
+  Vêtements (règle par Type + exclusions Vendu/Accès anticipé), SEO
+  renseigné, ajoutée au menu principal après Vêtements. Vide pour
+  l'instant : ce sac est déjà tagué "Vendu", donc exclu — la collection se
+  peuplera au prochain accessoire mis en vente. Confirmé avec Nass de
+  l'ajouter au menu dès maintenant plutôt que d'attendre.
 - **Réseaux sociaux non liés** dans les réglages du thème — proposé à
 
 ### Ce qui ne fonctionne pas
