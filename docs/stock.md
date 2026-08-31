@@ -615,9 +615,13 @@ ne fait pas apparaître des acheteurs qui ne voient pas l'annonce.
 
 - [x] **Salomon X Ultra 5 vendue 100 € le 12 août** — expédier avant le 19 août
       20h12, bordereau Vinted, acheteur en Italie. **Déclarer les 100 € au CA.**
-- [ ] Retirer la Robe Sandro de Vinted avant de lever le mot de passe de la
-      boutique — active sur Shopify à 89 €, risque de double vente sur cette
-      pièce unique si elle reste aussi sur Vinted.
+- [ ] **Retirer de Vinted avant de lever le mot de passe de la boutique** —
+      ces 4 pièces sont actives sur Shopify, risque de double vente sur des
+      pièces uniques si elles restent aussi sur Vinted :
+      - Robe Sandro blanche rayée, T.40 (89 €)
+      - Ballerines Hogan 186 Zeppa, 36 (79 €)
+      - Jupe midi Sonia Rykiel imprimé cerises, T.34 (99 €)
+      - Short ba&sh Fegor délavé, T.34 (75 €)
 - [x] **Predator Edge.1 TF ×2** — pas de problème finalement, Vinted a
       accepté l'annonce malgré le neuf. Mise en vente à **65 €/paire**
       (prix revu à la baisse par rapport aux 89 € prévus via eBay). Pas
