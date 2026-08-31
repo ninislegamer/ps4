@@ -421,11 +421,11 @@ pour cette v1.
   affiche chaque pièce (photo, titre, prix, mention « Vendue » si épuisée)
   via l'API produit JSON native de Shopify, avec un bouton pour retirer un
   favori directement depuis la page.
-- Sur le thème dupliqué **« Dawn — favoris »**, non publié.
-
-**À faire** : publier ce thème, puis vérifier sur le site que le bouton
-favoris et la page fonctionnent (ajouter une pièce, revenir sur la page
-Favoris, vérifier que ça s'affiche).
+**✅ publié et testé le 31/08** sur le thème **« Dawn — favoris »**, devenu
+le thème live. Piège rencontré au premier test : le client prévisualisait
+un ancien thème brouillon (« Dawn — quantité limitée au stock », deux
+versions en arrière) au lieu du thème publié — bouton absent sur cette
+version-là seulement. Confirmé fonctionnel une fois sur le bon thème.
 
 ### Sélecteur de quantité non plafonné — trouvé et corrigé le 31/08
 
