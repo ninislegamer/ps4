@@ -392,7 +392,31 @@ ont le suivi de stock activé et la vente en rupture bloquée
 (`inventoryPolicy: DENY`), condition nécessaire pour que le déclencheur
 « stock atteint zéro » se déclenche correctement.
 
-Accès prioritaire abonnés reste en attente, pas priorisé pour l'instant.
+### Accès prioritaire abonnés — fait le 31/08 (collection réservée)
+
+Mécanisme prévu par le roadmap dès le départ : **une collection réservée**,
+pas un système de compte/connexion (trop de friction sur une boutique
+neuve).
+
+1. À la publication d'une nouvelle pièce en avant-première, lui ajouter le
+   tag `Accès anticipé`.
+2. Les collections automatiques **Nouveautés, Catalogue, Chaussures,
+   Vêtements** excluent désormais ce tag (même mécanisme que `Vendu`) — la
+   fiche existe, est achetable via son URL directe, mais n'apparaît pas en
+   naviguant le site.
+3. Le lien direct part dans la campagne newsletter aux abonnés.
+4. Après 24h, un workflow Flow retire le tag automatiquement (même principe
+   que le tag `Vendu` — déclencheur « produit tagué Accès anticipé »,
+   bloc Attendre 24h, action retirer le tag) — **à monter à la main dans
+   Flow**, pas d'accès API pour le créer depuis ici.
+
+**Limite connue, acceptée** : la recherche native Shopify indexe toutes les
+fiches actives, y compris celles taguées `Accès anticipé` — une personne qui
+tape le nom exact du produit dans la barre de recherche peut la trouver
+avant l'heure. Risque faible en pratique (peu probable avant l'annonce), pas
+de solution simple sans app tierce.
+
+**Reste à faire** : construire le workflow Flow (étape 4 ci-dessus).
 
 ### Favoris / wishlist — fait le 31/08, sans compte client
 
