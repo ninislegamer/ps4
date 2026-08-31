@@ -416,7 +416,12 @@ tape le nom exact du produit dans la barre de recherche peut la trouver
 avant l'heure. Risque faible en pratique (peu probable avant l'annonce), pas
 de solution simple sans app tierce.
 
-**Reste à faire** : construire le workflow Flow (étape 4 ci-dessus).
+**✅ workflow Flow monté et activé le 31/08.** Limite notée par l'IA de Flow
+elle-même : le déclencheur est « produit créé » — si le tag `Accès anticipé`
+est ajouté après coup sur une fiche déjà existante, le workflow ne se
+déclenche pas automatiquement (à lancer manuellement depuis la fiche dans
+ce cas). Sans impact sur l'usage normal : le tag est posé à la création de
+la nouvelle pièce.
 
 ### Favoris / wishlist — fait le 31/08, sans compte client
 
