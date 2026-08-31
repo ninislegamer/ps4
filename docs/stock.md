@@ -605,20 +605,11 @@ ne fait pas apparaître des acheteurs qui ne voient pas l'annonce.
 
 ### Urgent — fin de saison estivale, deux à trois semaines
 
-- [ ] **Havaianas ×10** : publier l'annonce du lot à 139 € sur Leboncoin —
-      **texte prêt dans `annonces.md`**, plancher 129 €. Poster aussi sur
-      Facebook Marketplace. Angle principal : le panier de tongs de mariage.
-- [ ] **Mrs.Ertha ×4** : publier deux annonces (un modèle de chaque) à **19 €**
-      l'unité sur Leboncoin et Vinted, rubrique puériculture. Republier la
-      seconde du même modèle dès qu'une part. **Au 1er septembre, solder le
-      reste en lot à 45-55 €** — mieux vaut 15 € maintenant que 29 € en mai.
-      Avant de publier, vérifier le prix courant du gilet sur prettywire.fr et
-      sundays-kids-store.com : à 39,99 € plein tarif partout, monter à 24 € ;
-      s'il se trouve à 20-25 €, rester à 17-19 €.
-- [ ] **Mrs.Ertha — avant publication** : vérifier le marquage **CE**, la notice
-      en français et la tranche de poids/âge sur chaque gilet. C'est un
-      équipement de sécurité enfant soumis à la norme **EN 13138-1** ; sans
-      notice, ne pas vendre comme neuf conforme.
+- [x] **Havaianas ×10** — annonce publiée sur Leboncoin le 31/08 (lot à
+      139 €, plancher 129 €). Facebook Marketplace non confirmé, à vérifier.
+- [x] **Mrs.Ertha ×4** — annonces publiées sur Leboncoin le 31/08. Vinted et
+      la vérification du marquage CE/notice/tranche de poids non confirmés,
+      à vérifier.
 
 ### Le reste
 
