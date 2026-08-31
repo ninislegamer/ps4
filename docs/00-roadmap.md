@@ -277,7 +277,7 @@ Objectif : aucun abonnement d'application récurrent.
 |----------|------------------|------|
 | Facture PDF avec mention art. 293 B | Order Printer (gratuit) + template Liquid sur mesure | 0 € — **✅ template écrit le 31/08**, `docs/04-facture-pdf.md` |
 | Favoris / wishlist | code thème + métachamps client | 0 € |
-| Badges « 100 % Authentique », état, « Pièce unique » | Liquid sur la fiche produit | 0 € — **✅ fait le 27/08**, voir détail ci-dessous |
+| Badges « 100 % Authentique », état, « Pièce unique » | Liquid sur la fiche produit | 0 € — **✅ fait le 27/08, publié le 31/08**, voir détail ci-dessous |
 | Retrait automatique du stock à 0 | Shopify Flow (inclus) | 0 € |
 | Suivi de commande | natif Shopify | 0 € |
 | Dashboard de marge | app admin développée ici | 0 € |
@@ -581,18 +581,18 @@ même si la livraison reste limitée à la zone ouverte du moment.
 |---|-------|----------|
 | 1 | Thème | Thème choisi, installé, réglages typo/couleurs |
 | 2 | Arborescence | Collections + navigation + métachamps |
-| 3 | Fiche produit | Template avec badges ✅ (27/08, en attente de publication) — reste le double bouton d'achat |
+| 3 | Fiche produit | Template avec badges ✅ (27/08, publié le 31/08) — reste le double bouton d'achat |
 | 4 | Stock unitaire | 1 pièce = 1 fiche, retrait auto via Shopify Flow |
 | 5 | Paiements | Carte / PayPal / Apple Pay / Google Pay + checkout |
 | 6 | Espace client | Compte, suivi, favoris, facture PDF ✅ (31/08, à installer dans Order Printer) |
 | 7 | Dashboard admin | App de calcul de marge automatique |
 
-### Badges de fiche produit — fait le 27/08, thème dupliqué en attente de publication
+### Badges de fiche produit — fait le 27/08, publié le 31/08
 
 Bloc `custom_liquid` ajouté dans `templates/product.json`, entre le prix et le
 sélecteur de variante, sur le thème dupliqué **« Dawn — badges authenticité »**
-(non publié — à publier après relecture). Aucune app, pur Liquid/CSS inline,
-cohérent avec la charte (variables couleur du thème).
+— **publié par le client le 31/08**, donc en ligne. Aucune app, pur
+Liquid/CSS inline, cohérent avec la charte (variables couleur du thème).
 
 Trois badges, tous conditionnels sauf le premier :
 
@@ -608,7 +608,7 @@ Trois badges, tous conditionnels sauf le premier :
 Dawn — badges authenticité → Publier) — action manuelle, la publication de
 thème n'est pas autorisée via l'API pour ce projet.
 
-### Inscription newsletter sur les fiches vendues — fait le 27/08, même thème
+### Inscription newsletter sur les fiches vendues — fait le 27/08, publié le 31/08
 
 **« Prévenez-moi des pièces similaires » écarté** : chaque pièce étant unique,
 promettre un retour « similaire » aurait été trompeur. Remplacé par un message
@@ -621,9 +621,8 @@ bouton d'achat (qui affiche « Épuisé »/« Vendue » sur ces fiches) :
 
 Avec un champ e-mail qui utilise le même formulaire client Shopify
 (`contact[tags] = newsletter`) que l'inscription du pied de page — les deux
-alimentent la même liste, pas de doublon de mécanisme. Sur le thème dupliqué
-« Dawn — badges authenticité », donc à prévisualiser et publier avec les
-badges au même moment.
+alimentent la même liste, pas de doublon de mécanisme. **En ligne depuis le
+31/08**, publié en même temps que les badges.
 
 ---
 
