@@ -586,9 +586,16 @@ Suite de l'audit demandé ("dis-moi ce qu'on peut améliorer"), sans lien avec
 les gros chantiers :
 
 - **Poids des articles à 0 partout** — vérifié sans conséquence : la livraison
-  est en tarif fixe par zone (5,90€/8,90€ France, 16,90€ UE, 22€
-  International), pas calculée au poids. Rien à corriger, rien inventé (les
-  articles ne sont pas pesés physiquement ici).
+  est en tarif fixe par zone (5,90€/8,90€ France, 16,90€ UE), pas calculée
+  au poids. Rien à corriger, rien inventé (les articles ne sont pas pesés
+  physiquement ici).
+- **Incohérence livraison hors UE trouvée et corrigée** : la FAQ annonçait
+  "pas de livraison hors UE", mais une zone "International" (22€, 14 pays
+  dont US/UK/CA/JP/AU) était pourtant active dans les réglages d'expédition
+  — un client hors UE aurait donc pu commander malgré la FAQ. Confirmé avec
+  Nass : pas de livraison hors UE voulue. Zone supprimée
+  (`deliveryProfileUpdate`, `zonesToDelete`) ; `shop.shipsToCountries` ne
+  couvre plus que France + UE (27 pays), cohérent avec la FAQ.
 - **Descriptions produit** : les 21 fiches actives ont toutes une description
   complète — rien à corriger.
 - **Pages légales** : pas de pages CGV/mentions légales/confidentialité dans
