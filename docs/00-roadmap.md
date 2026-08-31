@@ -709,7 +709,7 @@ même si la livraison reste limitée à la zone ouverte du moment.
 | 4 | Stock unitaire | 1 pièce = 1 fiche, retrait auto via Shopify Flow |
 | 5 | Paiements | Carte / PayPal / Apple Pay / Google Pay + checkout |
 | 6 | Espace client | Compte, suivi, favoris, facture PDF ✅ (installée et testée le 31/08) |
-| 7 | Dashboard admin | App de calcul de marge automatique |
+| 7 | Dashboard admin | Coût par article natif Shopify ✅ (31/08) — pas de vraie app, voir détail ci-dessous |
 
 ### Badges de fiche produit — fait le 27/08, publié le 31/08
 
@@ -1193,6 +1193,35 @@ aux pièces neuves avec étiquette.
 ---
 
 ## Règle de marge (étape 7)
+
+### Dashboard admin — fait le 31/08, sans app
+
+Décision prise le 31/08 : pas de vraie app Shopify (compte Partenaire +
+hébergement externe à créer, plusieurs sessions de développement) — trop
+lourd pour ce que ça apporterait en plus. À la place :
+
+- **Champ natif « Coût par article »** (`inventoryItem.unitCost`) rempli sur
+  les **28 fiches Shopify** (22 pièces uniques + les 6 Morgan), avec le
+  **coût réel** calculé depuis `exports/maison-nsaia-stock.xlsx` (adjudication
+  + frais acheteur + livraison répartie par unité de vente) — pas le coût
+  facturé brut. Ça active la marge brute native de Shopify (visible sur
+  chaque fiche produit et dans les rapports Analytics selon le forfait).
+- **Limite du champ natif** : il calcule `prix − coût`, sans déduire l'URSSAF
+  (12,4 %) ni les frais de carte (1,5 % + 0,25 €) — donc une marge affichée
+  plus haute que la marge nette réelle. Le classeur Excel reste la seule
+  source qui calcule la vraie marge nette avec ces coefficients.
+- **Le classeur reste la référence** pour tout calcul de marge précis —
+  rien ne remplace `exports/maison-nsaia-stock.xlsx`, ce champ natif est un
+  complément qui rend l'info visible directement dans l'admin Shopify au
+  quotidien, sans ouvrir le classeur à chaque fois.
+- **Note technique** : `recalc.py` (l'outil habituel pour recalculer un
+  classeur Excel) a timeout à répétition sur ce fichier — contourné en
+  reproduisant les formules directement en Python à partir des cellules
+  sources (`Coût facturé`, `Paramètres`), sans modifier le fichier original.
+
+**À refaire à chaque nouvelle pièce mise en boutique** : renseigner le coût
+par article dans Shopify (Produit → Rentabilité/Coût) en même temps que le
+prix de vente — sinon la marge native reste à zéro sur les nouvelles fiches.
 
 Charges micro-entreprise achat-revente : **12,4 %** du chiffre d'affaires
 (12,3 % cotisations + 0,1 % formation professionnelle).
