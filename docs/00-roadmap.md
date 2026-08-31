@@ -375,31 +375,22 @@ mise en page personnalisée.
 - **Double bouton d'achat** (Ajouter au panier + Achat immédiat) : déjà actif
   par défaut sur le bloc `buy_buttons` de Dawn (`show_dynamic_checkout: true`).
 
-### À faire à la prochaine session (sur ordinateur) — tag « Vendu » automatique
+### Tag « Vendu » automatique — fait et publié le 31/08 (deux workflows Flow)
 
-**Le plus urgent des trois chantiers « site » restants.** Aujourd'hui le tag
-`Vendu` (qui alimente la collection « Déjà vendu » et déclenche le bloc
-newsletter sur la fiche) est ajouté **à la main** à chaque vente. Sans
-automatisation, la première vraie vente sur le site risque de laisser une
-fiche vendue sans le tag — donc invisible dans « Déjà vendu » et sans le
-message newsletter.
+Montés avec l'assistant IA de l'app **Flow** (déjà installée, 3 flux
+préexistants trouvés sur la boutique), construits en langage naturel plutôt
+qu'à la main dans l'éditeur — beaucoup plus rapide.
 
-Pas d'accès API pour créer un workflow **Shopify Flow** depuis ici — à monter
-à la main dans l'éditeur visuel (Applications → Flow, ou l'installer d'abord
-si absent, app gratuite native Shopify) :
+1. **Workflow aller** : quand le stock disponible d'une variante change ET
+   passe à ≤ 0 → ajoute le tag `Vendu` au produit.
+2. **Workflow inverse** : quand le stock disponible d'une variante repasse
+   au-dessus de 0 (réapprovisionnement) → retire le tag `Vendu`. Utile en
+   cas de retour/annulation qui remet une pièce en stock.
 
-1. Créer un workflow.
-2. Déclencheur : **« Le stock disponible d'une variante de produit atteint
-   zéro »** (« Product variant inventory reached zero » — le nom exact peut
-   varier selon la version de l'interface).
-3. Aucune condition nécessaire (s'applique à tous les produits — 1 pièce =
-   1 fiche, donc stock à 0 veut toujours dire vendu).
-4. Action : **« Ajouter des tags »** → `Vendu`.
-5. Activer le workflow.
-
-Vérifier ensuite que « Continuer la vente en rupture de stock » est bien
-désactivé sur les fiches produit (rappel déjà dans le roadmap) — sinon le
-stock peut repasser sous 0 sans jamais déclencher le trigger « atteint zéro ».
+Les deux sont actifs. Prérequis déjà vérifiés le 31/08 : toutes les fiches
+ont le suivi de stock activé et la vente en rupture bloquée
+(`inventoryPolicy: DENY`), condition nécessaire pour que le déclencheur
+« stock atteint zéro » se déclenche correctement.
 
 Accès prioritaire abonnés reste en attente, pas priorisé pour l'instant.
 
