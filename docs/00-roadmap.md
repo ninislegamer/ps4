@@ -687,6 +687,16 @@ les gros chantiers :
   création de produit via API** — les fiches précédentes créées cette
   session semblent OK (vérifié sur Geox), donc ce n'était a priori qu'un
   oubli isolé sur cette fiche-ci, pas un bug systémique.
+- **Photo de la collection Chaussures obsolète, corrigée.** La tuile "Nos
+  rayons" → Chaussures affichait encore la New Balance GS 1906 Alkaline
+  Green (pourtant vendue et bien sortie de la collection côté données).
+  Piège rencontré en diagnostiquant : **le nom de fichier de l'image ne
+  reflète pas son contenu réel** — Shopify garde le même nom de fichier
+  d'une collection à chaque remplacement d'image, seul un paramètre de
+  version change (`?v=...`). Mon premier diagnostic ("le nom de fichier dit
+  Massimo Dutti donc c'est déjà bon") était donc faux. Corrigé en remplaçant
+  l'image de la collection Chaussures par la photo de l'adidas x Stella
+  McCartney (une des photos déjà en ligne sur cette fiche produit).
 
 ### Ce qui ne fonctionne pas
 
