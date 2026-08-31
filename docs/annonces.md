@@ -409,6 +409,11 @@ Expédition France et international.
 > à ajouter puis publier). Pas de tag « Créateurs »/« Sportswear » — Morgan
 > n'entre dans aucun des trois niveaux de gamme, les fiches restent hors
 > collections tant que ça n'est pas tranché.
+>
+> **31/08 : corrigé le suivi de stock**, qui n'était pas activé à la
+> création (`tracked: false`) — sans ça, le badge « pièce unique » ne
+> s'affiche pas et le futur workflow Flow (tag `Vendu` au stock à 0) ne se
+> déclenche jamais. Stock activé et mis à 1 sur les six fiches.
 
 *coût **8,67 € la pièce** · seuil **9,89 €** · plancher **12,86 €**
 · **98 €** au total · marge **33,85 €***
