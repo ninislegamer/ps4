@@ -77,7 +77,7 @@ Et deux charges fixes indépendantes des ventes :
 
 | Pièce | Taille | Coût | Moins cher trouvé | Prix | − URSSAF | − Carte | **Marge** | Canal |
 |-------|--------|------|-------------------|------|----------|---------|-----------|-------|
-| **Adidas** Predator Edge.1 TF ×2 | 48⅔ | 40 € | ~110 € | 89 €/paire | 22,07 € | 2,67 € | **113,26 €** | eBay + Leboncoin |
+| **Adidas** Predator Edge.1 TF ×2 | 48⅔ | 40 € | ~110 € | 65 €/paire | 16,12 € | 0 € | **73,88 €** | Vinted (accepté malgré le neuf) |
 | Bottes **Forma** Legacy | 45 | 76 € | 172,49 € Dafy Moto | **159 €** | 19,72 € | 2,39 € | **60,90 €** | Boutique |
 | Robe **Elisabetta Franchi** ivoire | 46 IT / 42 FR | 26 € | outlet officiel −80 % | **99 €** | 12,28 € | 1,49 € | **59,24 €** | Boutique |
 | Ballerines **Hogan** 186 Zeppa — nettoyées | 36 | 15 € | 83 € Lyst | **79 €** | 9,80 € | 1,19 € | **53,02 €** | Boutique |
@@ -615,9 +615,13 @@ ne fait pas apparaître des acheteurs qui ne voient pas l'annonce.
 
 - [x] **Salomon X Ultra 5 vendue 100 € le 12 août** — expédier avant le 19 août
       20h12, bordereau Vinted, acheteur en Italie. **Déclarer les 100 € au CA.**
-- [ ] Retirer la Sandro et les Predator de Vinted (articles neufs : hors
-      périmètre Vinted Pro)
-- [ ] Ouvrir un compte eBay pour les Predator — **une annonce par paire**, 89 €
+- [ ] Retirer la Robe Sandro de Vinted avant de lever le mot de passe de la
+      boutique — active sur Shopify à 89 €, risque de double vente sur cette
+      pièce unique si elle reste aussi sur Vinted.
+- [x] **Predator Edge.1 TF ×2** — pas de problème finalement, Vinted a
+      accepté l'annonce malgré le neuf. Mise en vente à **65 €/paire**
+      (prix revu à la baisse par rapport aux 89 € prévus via eBay). Pas
+      besoin d'ouvrir de compte eBay pour ça, plan abandonné.
 - [ ] Vérifier la composition de la jupe Sonia Rykiel sur l'étiquette intérieure
 - [ ] Mettre en ligne les pièces déjà en possession (baskets homme et femme,
       robes, short en jean) pour remplir le dressing
