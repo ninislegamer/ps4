@@ -770,6 +770,48 @@ TikTok : toujours à la charge de Nass, aucun accès au compte de mon côté.
   « Site web » du profil TikTok (Modifier le profil → Site web), pour que
   le lien en bio soit cliquable. Pas encore fait au 31/08.
 
+### Point d'étape — 19/09 (site public depuis le 31/08)
+
+**Google Merchant Center connecté depuis (canal "Google & YouTube" actif sur
+Shopify), mais bloqué : compte suspendu pour "Misrepresentation".** Ça
+explique en cascade les alertes de chute d'articles actifs reçues sur une
+vingtaine de marchés UE le même jour et le quasi-zéro clic en août — un
+compte bloqué arrête de tout diffuser d'un coup. Pour un compte tout neuf,
+c'est le plus souvent une simple vérification d'identité obligatoire (pièce
+d'identité/justificatif SIRET), pas une sanction pour faute. **À faire par
+Nass, aucun accès possible de mon côté** (pas de connecteur Merchant Center,
+et le mot de passe ne se partage de toute façon pas comme ça) :
+  1. Se connecter sur merchants.google.com
+  2. État du compte / Diagnostic → alerte "Misrepresentation"
+  3. Suivre le lien de la politique, fournir la vérification demandée
+  4. Demander la révision une fois fait
+
+**Facteur concret identifié pour le statut "Limited" (77 articles) :** 71%
+du catalogue actif (17 fiches sur 24) n'a aucun code-barres EAN. Pour des
+marques reconnues (tout le catalogue), Google réduit la portée d'une fiche
+sans GTIN plutôt que de la rejeter — cohérent avec "Limited" plutôt que
+"Not approved". Liste des 12 encore en vente sans EAN (5 des 17 sont déjà
+vendues, exclues) : adidas x Stella McCartney, Hogan, New Balance 650,
+Elisabetta Franchi, Pier Antonio Gaspari, Philipp Plein Sport, New Balance
+BB80, Emporio Armani, Tommy Jeans, Geox, Forma Legacy, Massimo Dutti. **En
+attente des codes-barres physiques relevés par Nass** — pas garanti que
+tous soient retrouvables (pièces uniques d'occasion, étiquette/boîte pas
+toujours conservée).
+
+**Vraies stats à date :** 296 visites/30j mais 284 en "Direct" — très
+probablement nous deux en session de travail, pas du vrai trafic. Google
+Search organique : seulement 7 visites/30j, Bing 5 — cohérent avec le
+délai de 6-12 mois déjà annoncé pour un domaine neuf. **0 vraie commande**
+— la seule commande enregistrée (#1001, 59€) est notre commande de test
+Order Printer du 31/08, remboursée, pas une vente perdue.
+
+**Compte TikTok Business à créer par Nass** — en cours au 19/09 (compte
+dédié à la marque, pas le perso, avec le lien `maison-nsaia.fr` en bio,
+nécessite le statut Business pour que ce lien soit cliquable en dessous du
+seuil d'abonnés). Une fois fait, premier post prévu avec les baskets
+adidas x Stella McCartney (texte déjà préparé plus haut dans cette
+conversation).
+
 ---
 
 ## Newsletter
