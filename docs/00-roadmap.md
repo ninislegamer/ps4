@@ -812,6 +812,14 @@ seuil d'abonnés). Une fois fait, premier post prévu avec les baskets
 adidas x Stella McCartney (texte déjà préparé plus haut dans cette
 conversation).
 
+**Texte de la page À propos simplifié, sur demande de Nass.** L'ancienne
+formulation détaillait le contrôle qualité ("matière, coutures, étiquettes,
+état général") — remplacée par une phrase plus courte : chaque pièce est
+sourcée et authentifiée en maison de vente, sans lister le détail du
+processus. Vérifié qu'aucune autre page (FAQ, fiches produit, badges de
+fiche produit) ne reprenait cette formulation détaillée — rien d'autre à
+changer.
+
 ---
 
 ## Newsletter
