@@ -230,7 +230,7 @@ récentes, et ton dressing reste visible plus longtemps.
 - **Photos** [1](https://cdn.shopify.com/s/files/1/1064/7214/5230/files/1786206363863.png) · [2](https://cdn.shopify.com/s/files/1/1064/7214/5230/files/1786206344911.png) · [3](https://cdn.shopify.com/s/files/1/1064/7214/5230/files/1786774629047.jpg) · [4](https://cdn.shopify.com/s/files/1/1064/7214/5230/files/1786774628957.jpg) · [5](https://cdn.shopify.com/s/files/1/1064/7214/5230/files/1786774629014.jpg)
 
 ### 13. Ballerines compensées Hogan 186 Zeppa crème turquoise P.36
-- **Prix** 79 € · **État** Neuf sans étiquette · **Catégorie** Femmes › Chaussures › Ballerines · **Marque** Hogan · **Pointure** 36
+- **Prix** 79 € · **État** Très bon état · **Catégorie** Femmes › Chaussures › Ballerines · **Marque** Hogan · **Pointure** 36
 ```
 💎 Ballerines compensées Hogan 186 Zeppa – crème et vernis turquoise – pointure 36
 
@@ -240,7 +240,7 @@ récentes, et ton dressing reste visible plus longtemps.
 ✅ 100 % authentiques – authentifiées en maison de vente
 📦 Envoi soigné sous 48 h
 
-#hogan #tods #ballerines #compensées #plateforme #turquoise #crème #vernis #luxe #italien #madeinitaly #créateur #chaussuresfemme #pointure36 #36
+#hogan #tods #ballerines #compensées #plateforme #turquoise #crème #vernis #luxe #italien #créateur #chaussuresfemme #pointure36 #36
 ```
 - **Photos** [1](https://cdn.shopify.com/s/files/1/1064/7214/5230/files/1786207176473.png) · [2](https://cdn.shopify.com/s/files/1/1064/7214/5230/files/1786207005022.png) · [3](https://cdn.shopify.com/s/files/1/1064/7214/5230/files/1786774628784.jpg)
 
