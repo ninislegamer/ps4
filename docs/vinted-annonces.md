@@ -1,7 +1,7 @@
 # Annonces Vinted — articles restant à vendre
 
 Mis à jour le 17/10/2026 à partir des fiches Shopify en direct. **Uniquement
-les 24 articles en stock**, triés **du plus rapide au plus lent à vendre**.
+les 24 articles en stock** (18 à publier + 6 Morgan en attente de photos), triés **du plus rapide au plus lent à vendre**.
 
 Pour chaque annonce dans l'appli Vinted : photos → titre → description (copier
 le bloc entier, hashtags compris) → catégorie → marque → taille → état → prix.
@@ -30,25 +30,19 @@ Estimation, du plus rapide au plus lent, selon quatre critères :
 | 3 | Short ba&sh Fegor — 34 | 75 € | 🟢 rapide |
 | 4 | Baskets Tommy Jeans — 40 | 65 € | 🟢 rapide |
 | 5 | Robe Sandro Noaim — 40 | 89 € | 🟢 rapide |
-| 6 | Polo Morgan rouge — L | 19 € | 🟢 rapide *(photos à faire)* |
-| 7 | Polo Morgan blanc — L | 19 € | 🟢 rapide *(photos à faire)* |
-| 8 | Top Morgan camel lurex — L | 19 € | 🟢 rapide *(photos à faire)* |
-| 9 | Baskets Emporio Armani — 36 | 69 € | 🟡 moyen |
-| 10 | Robe Chiara Ferragni — M | 69 € | 🟡 moyen |
-| 11 | Jean Morgan — 40 | 29 € | 🟡 moyen *(photos à faire)* |
-| 12 | Pantalon Morgan blanc — 40 | 29 € | 🟡 moyen *(photos à faire)* |
-| 13 | Robe Morgan marron — L | 49 € | 🟡 moyen *(photos à faire)* |
-| 14 | Blazer Karl Lagerfeld — 36 | 91 € | 🟡 moyen |
-| 15 | New Balance 650 montantes — 44 | 69 € | 🟡 moyen |
-| 16 | Ballerines Massimo Dutti — 40 | 49 € | 🟡 moyen |
-| 17 | Baskets Geox — 35 | 49 € | 🟡 moyen |
-| 18 | adidas x Stella McCartney — 36 | 89 € | 🔴 plus lent |
-| 19 | Ballerines Hogan — 36 | 79 € | 🔴 plus lent |
-| 20 | Robe Elisabetta Franchi — 42 | 99 € | 🔴 plus lent |
-| 21 | Jupe Sonia Rykiel — 34 | 99 € | 🔴 plus lent |
-| 22 | Robe Pier Antonio Gaspari — 42 | 62 € | 🔴 plus lent |
-| 23 | Philipp Plein Sport — 40 | 95 € | 🔴 plus lent |
-| 24 | Bottes Forma Legacy — 45 | 159 € | 🔴 plus lent |
+| 6 | Baskets Emporio Armani — 36 | 69 € | 🟡 moyen |
+| 7 | Robe Chiara Ferragni — M | 69 € | 🟡 moyen |
+| 8 | Blazer Karl Lagerfeld — 36 | 91 € | 🟡 moyen |
+| 9 | New Balance 650 montantes — 44 | 69 € | 🟡 moyen |
+| 10 | Ballerines Massimo Dutti — 40 | 49 € | 🟡 moyen |
+| 11 | Baskets Geox — 35 | 49 € | 🟡 moyen |
+| 12 | adidas x Stella McCartney — 36 | 89 € | 🔴 plus lent |
+| 13 | Ballerines Hogan — 36 | 79 € | 🔴 plus lent |
+| 14 | Robe Elisabetta Franchi — 42 | 99 € | 🔴 plus lent |
+| 15 | Jupe Sonia Rykiel — 34 | 99 € | 🔴 plus lent |
+| 16 | Robe Pier Antonio Gaspari — 42 | 62 € | 🔴 plus lent |
+| 17 | Philipp Plein Sport — 40 | 95 € | 🔴 plus lent |
+| 18 | Bottes Forma Legacy — 45 | 159 € | 🔴 plus lent |
 
 **Conseil de publication** : mettre en ligne **2 à 3 annonces par jour** dans
 cet ordre plutôt que tout d'un coup. L'algorithme met en avant les annonces
@@ -129,51 +123,9 @@ récentes, et ton dressing reste visible plus longtemps.
 ```
 - **Photos** [1](https://cdn.shopify.com/s/files/1/1064/7214/5230/files/sandro-robe-face.png) · [2](https://cdn.shopify.com/s/files/1/1064/7214/5230/files/sandro-robe-etiquette.png)
 
-### 6. Polo Morgan rouge écusson doré neuf étiquette T.L
-- **Prix** 19 € · **État** Neuf avec étiquette · **Catégorie** Femmes › Hauts et t-shirts › Polos · **Marque** Morgan · **Taille** L
-- 📸 **Photos à faire** : face, dos, étiquette en gros plan
-```
-👚 Polo Morgan rouge avec écusson doré brodé – taille L
-
-🏷️ Neuf avec étiquette, jamais porté
-💰 Valeur boutique ~35 €
-✅ 100 % authentique – authentifié en maison de vente
-📦 Envoi soigné sous 48 h
-
-#morgan #morgandetoi #polo #polofemme #rouge #écusson #doré #preppy #chic #casual #haut #modefemme #tailleL #L #neuf #neufavecetiquette #petitprix
-```
-
-### 7. Polo Morgan blanc neuf étiquette T.L
-- **Prix** 19 € · **État** Neuf avec étiquette · **Catégorie** Femmes › Hauts et t-shirts › Polos · **Marque** Morgan · **Taille** L
-- 📸 **Photos à faire**
-```
-👚 Polo Morgan blanc – taille L
-
-🏷️ Neuf avec étiquette, jamais porté
-💰 Valeur boutique ~35 €
-✅ 100 % authentique – authentifié en maison de vente
-📦 Envoi soigné sous 48 h
-
-#morgan #morgandetoi #polo #polofemme #poloblanc #blanc #basique #preppy #casual #haut #modefemme #tailleL #L #neuf #neufavecetiquette #petitprix
-```
-
-### 8. Top Morgan camel lurex neuf étiquette T.L
-- **Prix** 19 € · **État** Neuf avec étiquette · **Catégorie** Femmes › Hauts et t-shirts › Tops · **Marque** Morgan · **Taille** L
-- 📸 **Photos à faire**
-```
-✨ Top Morgan camel à fils lurex – taille L
-
-🏷️ Neuf avec étiquette, jamais porté
-💰 Valeur boutique ~40 €
-✅ 100 % authentique – authentifié en maison de vente
-📦 Envoi soigné sous 48 h
-
-#morgan #morgandetoi #top #lurex #pailleté #camel #beige #soirée #fêtes #chic #haut #modefemme #tailleL #L #neuf #neufavecetiquette #petitprix
-```
-
 ## 🟡 Moyens
 
-### 9. Baskets Emporio Armani lavande blanc neuves P.36
+### 6. Baskets Emporio Armani lavande blanc neuves P.36
 - **Prix** 69 € · **État** Neuf avec étiquette · **Catégorie** Femmes › Chaussures › Baskets · **Marque** Emporio Armani · **Pointure** 36
 ```
 👟 Baskets Emporio Armani bleu lavande et blanc – pointure 36
@@ -187,7 +139,7 @@ récentes, et ton dressing reste visible plus longtemps.
 ```
 - **Photos** [1](https://cdn.shopify.com/s/files/1/1064/7214/5230/files/1786787677321.png) · [2](https://cdn.shopify.com/s/files/1/1064/7214/5230/files/emporio-armani-baskets-lavande.png)
 
-### 10. Robe bustier Chiara Ferragni noire neuve T.M
+### 7. Robe bustier Chiara Ferragni noire neuve T.M
 - **Prix** 69 € · **État** Neuf avec étiquette · **Catégorie** Femmes › Robes › Robes de soirée · **Marque** Chiara Ferragni · **Taille** M
 ```
 🖤 Robe bustier courte Chiara Ferragni – noire – taille M
@@ -202,49 +154,7 @@ récentes, et ton dressing reste visible plus longtemps.
 ```
 - **Photos** [1](https://cdn.shopify.com/s/files/1/1064/7214/5230/files/chiara-ferragni-robe-face.jpg) · [2](https://cdn.shopify.com/s/files/1/1064/7214/5230/files/chiara-ferragni-robe-etiquette.png)
 
-### 11. Jean Morgan bleu clair neuf étiquette T.40
-- **Prix** 29 € · **État** Neuf avec étiquette · **Catégorie** Femmes › Jeans · **Marque** Morgan · **Taille** 40 / L
-- 📸 **Photos à faire**
-```
-👖 Jean Morgan bleu clair – taille 40
-
-🏷️ Neuf avec étiquette, jamais porté
-💰 Valeur boutique ~65 €
-✅ 100 % authentique – authentifié en maison de vente
-📦 Envoi soigné sous 48 h
-
-#morgan #morgandetoi #jean #jeans #denim #jeanfemme #bleuclair #basique #casual #modefemme #taille40 #40 #neuf #neufavecetiquette #petitprix
-```
-
-### 12. Pantalon Morgan blanc neuf étiquette T.40
-- **Prix** 29 € · **État** Neuf avec étiquette · **Catégorie** Femmes › Pantalons · **Marque** Morgan · **Taille** 40 / L
-- 📸 **Photos à faire**
-```
-🤍 Pantalon Morgan blanc – taille 40
-
-🏷️ Neuf avec étiquette, jamais porté
-💰 Valeur boutique ~65 €
-✅ 100 % authentique – authentifié en maison de vente
-📦 Envoi soigné sous 48 h
-
-#morgan #morgandetoi #pantalon #pantalonblanc #blanc #chic #été #élégant #modefemme #taille40 #40 #neuf #neufavecetiquette #petitprix
-```
-
-### 13. Robe Morgan marron neuve étiquette T.L
-- **Prix** 49 € · **État** Neuf avec étiquette · **Catégorie** Femmes › Robes · **Marque** Morgan · **Taille** L
-- 📸 **Photos à faire**
-```
-🤎 Robe Morgan marron – taille L
-
-🏷️ Neuve avec étiquette, jamais portée
-💰 Valeur boutique ~90 €
-✅ 100 % authentique – authentifiée en maison de vente
-📦 Envoi soigné sous 48 h
-
-#morgan #morgandetoi #robe #robemarron #marron #chocolat #automne #chic #modefemme #tailleL #L #neuf #neufavecetiquette
-```
-
-### 14. Blazer Karl Lagerfeld noir neuf étiquette T.36
+### 8. Blazer Karl Lagerfeld noir neuf étiquette T.36
 - **Prix** 91 € · **État** Neuf avec étiquette · **Catégorie** Femmes › Blazers et tailleurs › Blazers · **Marque** Karl Lagerfeld · **Taille** 36 / S
 ```
 🖤 Blazer noir Karl Lagerfeld – taille 36 FR (IT 40)
@@ -259,7 +169,7 @@ récentes, et ton dressing reste visible plus longtemps.
 ```
 - **Photos** [1](https://cdn.shopify.com/s/files/1/1064/7214/5230/files/karl-lagerfeld-punto-jacket-face.png) · [2](https://cdn.shopify.com/s/files/1/1064/7214/5230/files/karl-lagerfeld-punto-jacket-etiquette.png)
 
-### 15. New Balance 650 montantes blanches neuves P.44
+### 9. New Balance 650 montantes blanches neuves P.44
 - **Prix** 69 € · **État** Neuf avec étiquette · **Catégorie** Hommes › Chaussures › Baskets · **Marque** New Balance · **Pointure** 44
 ```
 👟 New Balance 650 montantes blanches – pointure 44
@@ -273,7 +183,7 @@ récentes, et ton dressing reste visible plus longtemps.
 ```
 - **Photos** [1](https://cdn.shopify.com/s/files/1/1064/7214/5230/files/1786780506447.png) · [2](https://cdn.shopify.com/s/files/1/1064/7214/5230/files/1786780536865.png)
 
-### 16. Ballerines Massimo Dutti cuir rouge neuves P.40
+### 10. Ballerines Massimo Dutti cuir rouge neuves P.40
 - **Prix** 49 € · **État** Neuf avec étiquette · **Catégorie** Femmes › Chaussures › Ballerines · **Marque** Massimo Dutti · **Pointure** 40
 - 📸 *Une seule photo : ajouter profil, semelle et boîte*
 ```
@@ -288,7 +198,7 @@ récentes, et ton dressing reste visible plus longtemps.
 ```
 - **Photos** [1](https://cdn.shopify.com/s/files/1/1064/7214/5230/files/massimo-dutti-ballerines-rouge.png)
 
-### 17. Baskets Geox gris argent neuves P.35
+### 11. Baskets Geox gris argent neuves P.35
 - **Prix** 49 € · **État** Neuf avec étiquette · **Catégorie** Femmes › Chaussures › Baskets · **Marque** Geox · **Pointure** 35
 ```
 👟 Baskets Geox gris et argent, empiècements perforés – pointure 35
@@ -304,7 +214,7 @@ récentes, et ton dressing reste visible plus longtemps.
 
 ## 🔴 Plus lents (marque de niche, prix élevé ou taille peu courante)
 
-### 18. adidas x Stella McCartney Ultraboost 21 Metallic P.36
+### 12. adidas x Stella McCartney Ultraboost 21 Metallic P.36
 - **Prix** 89 € · **État** Neuf sans étiquette · **Catégorie** Femmes › Chaussures › Baskets · **Marque** adidas by Stella McCartney · **Pointure** 36
 ```
 👟 adidas x Stella McCartney – ASMC Ultraboost 21 Metallic – pointure 36
@@ -319,7 +229,7 @@ récentes, et ton dressing reste visible plus longtemps.
 ```
 - **Photos** [1](https://cdn.shopify.com/s/files/1/1064/7214/5230/files/1786206363863.png) · [2](https://cdn.shopify.com/s/files/1/1064/7214/5230/files/1786206344911.png) · [3](https://cdn.shopify.com/s/files/1/1064/7214/5230/files/1786774629047.jpg) · [4](https://cdn.shopify.com/s/files/1/1064/7214/5230/files/1786774628957.jpg) · [5](https://cdn.shopify.com/s/files/1/1064/7214/5230/files/1786774629014.jpg)
 
-### 19. Ballerines compensées Hogan 186 Zeppa crème turquoise P.36
+### 13. Ballerines compensées Hogan 186 Zeppa crème turquoise P.36
 - **Prix** 79 € · **État** Neuf sans étiquette · **Catégorie** Femmes › Chaussures › Ballerines · **Marque** Hogan · **Pointure** 36
 ```
 💎 Ballerines compensées Hogan 186 Zeppa – crème et vernis turquoise – pointure 36
@@ -334,7 +244,7 @@ récentes, et ton dressing reste visible plus longtemps.
 ```
 - **Photos** [1](https://cdn.shopify.com/s/files/1/1064/7214/5230/files/1786207176473.png) · [2](https://cdn.shopify.com/s/files/1/1064/7214/5230/files/1786207005022.png) · [3](https://cdn.shopify.com/s/files/1/1064/7214/5230/files/1786774628784.jpg)
 
-### 20. Robe Elisabetta Franchi asymétrique ivoire neuve T.42
+### 14. Robe Elisabetta Franchi asymétrique ivoire neuve T.42
 - **Prix** 99 € · **État** Neuf avec étiquette · **Catégorie** Femmes › Robes · **Marque** Elisabetta Franchi · **Taille** 42 FR / XL
 ```
 🤍 Robe asymétrique Elisabetta Franchi – ivoire – taille 46 IT = 42 FR
@@ -349,7 +259,7 @@ récentes, et ton dressing reste visible plus longtemps.
 ```
 - **Photos** [1](https://cdn.shopify.com/s/files/1/1064/7214/5230/files/1788340210461.png) · [2](https://cdn.shopify.com/s/files/1/1064/7214/5230/files/1788340313566.png) · [3](https://cdn.shopify.com/s/files/1/1064/7214/5230/files/elisabetta-franchi-robe-etiquette.jpg)
 
-### 21. Jupe midi Sonia Rykiel imprimé cerises neuve T.34
+### 15. Jupe midi Sonia Rykiel imprimé cerises neuve T.34
 - **Prix** 99 € · **État** Neuf avec étiquette · **Catégorie** Femmes › Jupes › Jupes midi · **Marque** Sonia Rykiel · **Taille** 34 / XS
 ```
 🍒 Jupe midi Sonia Rykiel – twill imprimé cerises, bleu ciel – taille 34
@@ -363,7 +273,7 @@ récentes, et ton dressing reste visible plus longtemps.
 ```
 - **Photos** [1](https://cdn.shopify.com/s/files/1/1064/7214/5230/files/sonia-rykiel-jupe-face.jpg) · [2](https://cdn.shopify.com/s/files/1/1064/7214/5230/files/sonia-rykiel-jupe-etiquette.png)
 
-### 22. Robe droite Pier Antonio Gaspari bleu marine neuve T.42
+### 16. Robe droite Pier Antonio Gaspari bleu marine neuve T.42
 - **Prix** 62 € · **État** Neuf avec étiquette · **Catégorie** Femmes › Robes · **Marque** Pier Antonio Gaspari · **Taille** 42
 ```
 💙 Robe droite Pier Antonio Gaspari – bleu marine – taille 42
@@ -378,7 +288,7 @@ récentes, et ton dressing reste visible plus longtemps.
 ```
 - **Photos** [1](https://cdn.shopify.com/s/files/1/1064/7214/5230/files/pier-antonio-gaspari-robe-face.png) · [2](https://cdn.shopify.com/s/files/1/1064/7214/5230/files/pier-antonio-gaspari-robe-dos.png) · [3](https://cdn.shopify.com/s/files/1/1064/7214/5230/files/pier-antonio-gaspari-robe-etiquette.jpg)
 
-### 23. Baskets montantes Philipp Plein Sport blanc violet neuves P.40
+### 17. Baskets montantes Philipp Plein Sport blanc violet neuves P.40
 - **Prix** 95 € · **État** Neuf avec étiquette · **Catégorie** Femmes › Chaussures › Baskets · **Marque** Philipp Plein Sport · **Pointure** 40
 ```
 💜 Baskets montantes Philipp Plein Sport – blanc et violet, logo doré – pointure 40
@@ -392,7 +302,7 @@ récentes, et ton dressing reste visible plus longtemps.
 ```
 - **Photos** [1](https://cdn.shopify.com/s/files/1/1064/7214/5230/files/1786790786445.png) · [2](https://cdn.shopify.com/s/files/1/1064/7214/5230/files/1786786490310.png)
 
-### 24. Demi-bottes Forma Legacy Waterproof noires neuves P.45
+### 18. Demi-bottes Forma Legacy Waterproof noires neuves P.45
 - **Prix** 159 € · **État** Neuf avec étiquette · **Catégorie** Hommes › Chaussures › Bottes · **Marque** Forma · **Pointure** 45
 - 📸 *Une seule photo : ajouter semelle, profil et boîte. À ce prix, ce sont les photos qui font la vente.*
 ```
@@ -407,6 +317,104 @@ récentes, et ton dressing reste visible plus longtemps.
 #forma #formaboots #formalegacy #bottes #bottines #bottesmoto #moto #biker #cuir #imperméable #waterproof #noir #hiver #chaussureshomme #pointure45 #45 #neuf
 ```
 - **Photos** [1](https://cdn.shopify.com/s/files/1/1064/7214/5230/files/forma-legacy-bottes-noir.jpg)
+
+## ⏸️ En attente de photos — pièces Morgan
+
+Mises de côté le 17/10 : à publier une fois photographiées (face, dos,
+étiquette en gros plan, détail). Elles ne sont pas en ligne sur la boutique.
+
+| # | Article | Prix |
+|---|---------|------|
+| M1 | Polo Morgan rouge — L | 19 € |
+| M2 | Polo Morgan blanc — L | 19 € |
+| M3 | Top Morgan camel lurex — L | 19 € |
+| M4 | Jean Morgan — 40 | 29 € |
+| M5 | Pantalon Morgan blanc — 40 | 29 € |
+| M6 | Robe Morgan marron — L | 49 € |
+
+### M1. Polo Morgan rouge écusson doré neuf étiquette T.L
+- **Prix** 19 € · **État** Neuf avec étiquette · **Catégorie** Femmes › Hauts et t-shirts › Polos · **Marque** Morgan · **Taille** L
+- 📸 **Photos à faire** : face, dos, étiquette en gros plan
+```
+👚 Polo Morgan rouge avec écusson doré brodé – taille L
+
+🏷️ Neuf avec étiquette, jamais porté
+💰 Valeur boutique ~35 €
+✅ 100 % authentique – authentifié en maison de vente
+📦 Envoi soigné sous 48 h
+
+#morgan #morgandetoi #polo #polofemme #rouge #écusson #doré #preppy #chic #casual #haut #modefemme #tailleL #L #neuf #neufavecetiquette #petitprix
+```
+
+### M2. Polo Morgan blanc neuf étiquette T.L
+- **Prix** 19 € · **État** Neuf avec étiquette · **Catégorie** Femmes › Hauts et t-shirts › Polos · **Marque** Morgan · **Taille** L
+- 📸 **Photos à faire**
+```
+👚 Polo Morgan blanc – taille L
+
+🏷️ Neuf avec étiquette, jamais porté
+💰 Valeur boutique ~35 €
+✅ 100 % authentique – authentifié en maison de vente
+📦 Envoi soigné sous 48 h
+
+#morgan #morgandetoi #polo #polofemme #poloblanc #blanc #basique #preppy #casual #haut #modefemme #tailleL #L #neuf #neufavecetiquette #petitprix
+```
+
+### M3. Top Morgan camel lurex neuf étiquette T.L
+- **Prix** 19 € · **État** Neuf avec étiquette · **Catégorie** Femmes › Hauts et t-shirts › Tops · **Marque** Morgan · **Taille** L
+- 📸 **Photos à faire**
+```
+✨ Top Morgan camel à fils lurex – taille L
+
+🏷️ Neuf avec étiquette, jamais porté
+💰 Valeur boutique ~40 €
+✅ 100 % authentique – authentifié en maison de vente
+📦 Envoi soigné sous 48 h
+
+#morgan #morgandetoi #top #lurex #pailleté #camel #beige #soirée #fêtes #chic #haut #modefemme #tailleL #L #neuf #neufavecetiquette #petitprix
+```
+
+### M4. Jean Morgan bleu clair neuf étiquette T.40
+- **Prix** 29 € · **État** Neuf avec étiquette · **Catégorie** Femmes › Jeans · **Marque** Morgan · **Taille** 40 / L
+- 📸 **Photos à faire**
+```
+👖 Jean Morgan bleu clair – taille 40
+
+🏷️ Neuf avec étiquette, jamais porté
+💰 Valeur boutique ~65 €
+✅ 100 % authentique – authentifié en maison de vente
+📦 Envoi soigné sous 48 h
+
+#morgan #morgandetoi #jean #jeans #denim #jeanfemme #bleuclair #basique #casual #modefemme #taille40 #40 #neuf #neufavecetiquette #petitprix
+```
+
+### M5. Pantalon Morgan blanc neuf étiquette T.40
+- **Prix** 29 € · **État** Neuf avec étiquette · **Catégorie** Femmes › Pantalons · **Marque** Morgan · **Taille** 40 / L
+- 📸 **Photos à faire**
+```
+🤍 Pantalon Morgan blanc – taille 40
+
+🏷️ Neuf avec étiquette, jamais porté
+💰 Valeur boutique ~65 €
+✅ 100 % authentique – authentifié en maison de vente
+📦 Envoi soigné sous 48 h
+
+#morgan #morgandetoi #pantalon #pantalonblanc #blanc #chic #été #élégant #modefemme #taille40 #40 #neuf #neufavecetiquette #petitprix
+```
+
+### M6. Robe Morgan marron neuve étiquette T.L
+- **Prix** 49 € · **État** Neuf avec étiquette · **Catégorie** Femmes › Robes · **Marque** Morgan · **Taille** L
+- 📸 **Photos à faire**
+```
+🤎 Robe Morgan marron – taille L
+
+🏷️ Neuve avec étiquette, jamais portée
+💰 Valeur boutique ~90 €
+✅ 100 % authentique – authentifiée en maison de vente
+📦 Envoi soigné sous 48 h
+
+#morgan #morgandetoi #robe #robemarron #marron #chocolat #automne #chic #modefemme #tailleL #L #neuf #neufavecetiquette
+```
 
 ---
 
