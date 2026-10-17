@@ -111,8 +111,8 @@ récentes, et ton dressing reste visible plus longtemps.
 📦 Envoi soigné sous 48 h
 
 #tommyjeans #tommyhilfiger #tommy #baskets #sneakers #basketshomme #basketsfemme #mixte #unisexe #noir #blanc #noiretblanc #pointure40 #40 #neuf #streetwear #casual
-- 📸 *Photo 1 = capture d'écran Google : la remplacer par une photo de ta paire (Vinted peut retirer une annonce avec des photos prises sur internet)*
 ```
+- 📸 *Photo 1 = capture d'écran Google : la remplacer par une photo de ta paire (Vinted peut retirer une annonce avec des photos prises sur internet)*
 - **Photos** [1](https://cdn.shopify.com/s/files/1/1064/7214/5230/files/Screenshot_2026-08-15-12-45-31-156_com.google.android.googlequicksearchbox-edit.jpg) · [2](https://cdn.shopify.com/s/files/1/1064/7214/5230/files/1786786531161.png)
 
 ### 5. Robe Sandro Noaim blanche rayée neuve étiquette T.40
