@@ -120,7 +120,7 @@ récentes, et ton dressing reste visible plus longtemps.
 ```
 👗 Robe Sandro modèle Noaim – blanche à fines rayures – taille 40
 
-🏷️ Neuve avec étiquette, jamais portée
+🏷️ Neuve avec étiquette, jamais portée (réf. R20662E)
 💰 Valeur boutique ~250 €
 ✅ 100 % authentique – authentifiée en maison de vente
 📦 Envoi soigné sous 48 h
