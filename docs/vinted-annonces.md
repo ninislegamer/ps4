@@ -279,12 +279,12 @@ récentes, et ton dressing reste visible plus longtemps.
 💙 Robe droite Pier Antonio Gaspari – bleu marine – taille 42
 
 🏷️ Neuve, jamais portée
-🇮🇹 Maison italienne, distribuée sur YOOX
+🇮🇹 Maison italienne de prêt-à-porter féminin
 💰 Valeur boutique ~180 €
 ✅ 100 % authentique – authentifiée en maison de vente
 📦 Envoi soigné sous 48 h
 
-#pierantoniogaspari #robe #robedroite #bleumarine #navy #bureau #workwear #élégant #cérémonie #italien #madeinitaly #créateur #taille42 #neuf #neufavecetiquette
+#pierantoniogaspari #robe #robedroite #bleumarine #navy #bureau #workwear #élégant #cérémonie #robechic #robebureau #italien #créateur #taille42 #neuf #neufavecetiquette
 ```
 - **Photos** [1](https://cdn.shopify.com/s/files/1/1064/7214/5230/files/pier-antonio-gaspari-robe-face.png) · [2](https://cdn.shopify.com/s/files/1/1064/7214/5230/files/pier-antonio-gaspari-robe-dos.png) · [3](https://cdn.shopify.com/s/files/1/1064/7214/5230/files/pier-antonio-gaspari-robe-etiquette.jpg)
 
