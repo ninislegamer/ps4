@@ -249,7 +249,7 @@ récentes, et ton dressing reste visible plus longtemps.
 ```
 🤍 Robe asymétrique Elisabetta Franchi – ivoire – taille 46 IT = 42 FR
 
-🏷️ Neuve, jamais portée
+🏷️ Neuve, jamais portée (réf. AB-040-76E4, coloris 360 Avorio)
 ✨ Viscose, manches et bas asymétriques
 💰 Valeur boutique ~250 €
 ✅ 100 % authentique – authentifiée en maison de vente
