@@ -205,6 +205,7 @@ footer{color:var(--muted);font-size:13px}
     <div class="tabs" role="tablist" aria-label="Choisir l'épisode">
       <button class="tab" role="tab" id="tab-fr" data-ep="fr" aria-selected="true">Version française<small>Comédie · 13 scènes</small></button>
       <button class="tab" role="tab" id="tab-jp" data-ep="jp" aria-selected="false">日本語版 · Anime<small>Sous-titré · 12 scènes</small></button>
+      <button class="tab" role="tab" id="tab-jpvf" data-ep="jp" data-vf="1" aria-selected="false">Anime · VF<small>Style japonais, en français</small></button>
     </div>
   </header>
 
@@ -724,7 +725,7 @@ jp:{badge:'第一話 · VOSTFR',scenes:[
     J('fennec','二つ星の力を見せてやる！','Futatsuboshi no chikara wo misete yaru!','Je vais vous montrer le pouvoir des deux étoiles !',{set:{fennec:{expr:'fierce'}},fx:['aura'],sfx:[{t:'ゴゴゴゴ',x:1290,y:330,r:6,s:100}]}),
     J('fennec','グッド！グッド！','Guddo! Guddo!','Validé ! Validé !',{set:{fennec:{expr:'joy',anim:'bounce'}},fx:['sparkle']})]},
   {bg:'night',cap:{jp:'夜のバーガー',fr:'Le burger de minuit'},steps:[
-    J('stitchou','ピース！ピース！','Pīsu! Pīsu!','Peace ! Peace !',{fx:['sparkle']}),
+    J('stitchou','ピース！ピース！','Pīsu! Pīsu!','Double V de la victoire !',{fx:['sparkle']}),
     J('stitchou','バーガー・エナジー、充電完了！','Bāgā enajī, jūden kanryō!','Énergie Burger : chargement terminé !',{set:{stitchou:{expr:'fierce'}},fx:['speedc']}),
     J('N','ポテトは…一瞬で消えた。','Poteto wa… isshun de kieta.','Les frites… disparurent en un instant.',{cls:'eat',sfx:[{t:'パクッ',x:1060,y:560,r:-6,s:100}]}),
     J('stitchou','べーっ！','Bē!','Bleeeh !',{set:{stitchou:{expr:'tongue',anim:'bounce'}}})]},
@@ -796,7 +797,7 @@ let names={};try{names=JSON.parse(localStorage.getItem('zarbis-names')||'{}')||{
 const S={ep:'fr',sc:0,step:0,playing:false,sound:false,started:false,photo:true};
 try{if(localStorage.getItem('zarbis-mode')==='draw')S.photo=false}catch(e){}
 let typeTimer=null,holdTimer=null,typing=false,fullText='';
-const nm=id=>(names[id]&&names[id].trim())||CAST[id]?.[S.ep]||id;
+const nm=id=>(names[id]&&names[id].trim())||CAST[id]?.[S.vf?'fr':S.ep]||id;
 const fill=t=>String(t).replace(/\{(\w+)\}/g,(m,k)=>CAST[k]?nm(k):m);
 const scene=()=>EP[S.ep].scenes[S.sc];
 const DEFS=`<defs>
@@ -881,7 +882,7 @@ function render(enter){
   renderNav();
 }
 function speakerLabel(who){
-  if(who==='N')return S.ep==='jp'?'ナレーション':'Narrateur';
+  if(who==='N')return S.ep==='jp'&&!S.vf?'ナレーション':'Narrateur';
   return nm(who);
 }
 function renderDialogue(step){
@@ -892,7 +893,7 @@ function renderDialogue(step){
   who.className='who'+(narr?' narr':'');
   who.style.setProperty('--who',narr?'':(CAST[step.who]?.col||'var(--ink)'));
   who.textContent=speakerLabel(step.who);
-  const jp=S.ep==='jp';
+  const jp=S.ep==='jp'&&!S.vf;
   fullText=jp?step.jp:fill(step.t);
   ro.hidden=!jp;sub.hidden=!jp;
   if(jp){ro.textContent=step.ro;sub.textContent=fill(step.t)}
@@ -902,6 +903,7 @@ function renderDialogue(step){
   const reduce=matchMedia('(prefers-reduced-motion: reduce)').matches;
   if(reduce||!S.started){line.textContent=fullText;typing=false;scheduleHold();return}
   line.textContent='';typing=true;let i=0;const chars=[...fullText],speed=jp?55:24;
+  dlg.classList.toggle('vf',S.ep==='jp'&&S.vf);
   blip(step.sfx?'boom':'blip');
   const tick=()=>{i++;line.textContent=chars.slice(0,i).join('');if(i<chars.length){typeTimer=setTimeout(tick,speed)}else{typing=false;scheduleHold()}};
   tick();
@@ -909,7 +911,7 @@ function renderDialogue(step){
 function scheduleHold(){
   clearTimeout(holdTimer);
   if(!S.playing)return;
-  const step=scene().steps[S.step],len=(S.ep==='jp'?(step.t||'').length:fullText.length);
+  const step=scene().steps[S.step],len=fill(step.t||'').length;
   holdTimer=setTimeout(()=>next(true),Math.max(2000,1100+len*48));
 }
 function finishTyping(){clearTimeout(typeTimer);$('line').textContent=fullText;typing=false;scheduleHold()}
@@ -936,12 +938,12 @@ function renderNav(){
   [...dots.children].forEach((b,i)=>{b.className=i===S.sc?'cur':(i<S.sc?'done':'')});
   $('counter').textContent=`Scène ${S.sc+1}/${scs.length} · réplique ${S.step+1}/${scene().steps.length}`;
 }
-function setEp(ep,keepCover){
-  S.ep=ep;S.sc=0;S.step=0;document.body.dataset.ep=ep;
-  document.querySelectorAll('.tab').forEach(t=>t.setAttribute('aria-selected',String(t.dataset.ep===ep)));
+function setEp(ep,vf){
+  S.ep=ep;S.vf=ep==='jp'&&!!vf;S.sc=0;S.step=0;document.body.dataset.ep=ep;
+  document.querySelectorAll('.tab').forEach(t=>t.setAttribute('aria-selected',String(t.dataset.ep===ep&&!!t.dataset.vf===S.vf)));
   $('bigplay').textContent=ep==='jp'?'▶ 再生 · Lancer l\'épisode':'▶ Lancer l\'épisode';
   $('dots').innerHTML='';
-  try{history.replaceState(null,'','#'+ep)}catch(e){}
+  try{history.replaceState(null,'','#'+ep+(S.vf?'vf':''))}catch(e){}
   render(true);renderCast();
 }
 
@@ -974,7 +976,7 @@ function renderCast(){
 }
 
 /* ---------- wiring ---------- */
-document.querySelectorAll('.tab').forEach(t=>t.onclick=()=>{setPlaying(false);setEp(t.dataset.ep)});
+document.querySelectorAll('.tab').forEach(t=>t.onclick=()=>{setPlaying(false);setEp(t.dataset.ep,t.dataset.vf)});
 $('next').onclick=()=>next(false);
 $('prev').onclick=()=>prev();
 $('play').onclick=()=>{if(!S.started)start(false);setPlaying(!S.playing)};
@@ -982,6 +984,7 @@ $('bigplay').onclick=()=>{start(true);render(false)};
 $('dlg').addEventListener('click',e=>{if(e.target.closest('button'))return;next(false)});
 $('dlg').addEventListener('keydown',e=>{if(e.key==='Enter'){e.preventDefault();next(false)}});
 $('other').onclick=e=>{e.stopPropagation();setEp(S.ep==='fr'?'jp':'fr');start(true);render(true)};
+window.__zarbis={goScene:i=>goScene(i),next:()=>next(false),state:()=>({sc:S.sc,step:S.step,typing}),lines:()=>EP[S.ep].scenes.map(sc=>sc.steps.map(st=>({who:st.who,t:fill(st.t),sfx:!!st.sfx})))};
 $('replay').onclick=e=>{e.stopPropagation();S.sc=0;S.step=0;start(true);render(true)};
 $('mode').onclick=()=>{S.photo=!S.photo;try{localStorage.setItem('zarbis-mode',S.photo?'photo':'draw')}catch(e){}syncMode();render(true)};
 function syncMode(){$('mode').setAttribute('aria-pressed',String(S.photo));$('mode').textContent=S.photo?'Vraies photos animées':'Personnages dessinés'}
@@ -993,6 +996,6 @@ document.addEventListener('keydown',e=>{
   if(e.key==='ArrowRight'||e.key===' '){e.preventDefault();next(false)}
   if(e.key==='ArrowLeft'){e.preventDefault();prev()}
 });
-setEp(location.hash==='#jp'?'jp':'fr');
+setEp(location.hash.startsWith('#jp')?'jp':'fr',location.hash==='#jpvf');
 })();
 </script>
