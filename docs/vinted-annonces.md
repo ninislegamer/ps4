@@ -208,7 +208,7 @@ récentes, et ton dressing reste visible plus longtemps.
 ✅ 100 % authentiques – authentifiées en maison de vente
 📦 Envoi soigné sous 48 h
 
-#geox #baskets #sneakers #basketsfemme #gris #argent #silver #confort #respirant #petitepointure #pointure35 #35 #neuf #casual
+#geox #baskets #sneakers #basketsfemme #basketsfille #ado #gris #argent #silver #confort #respirant #petitepointure #pointure35 #35 #neuf #casual
 ```
 - **Photos** [1](https://cdn.shopify.com/s/files/1/1064/7214/5230/files/geox-baskets-semelle.png) · [2](https://cdn.shopify.com/s/files/1/1064/7214/5230/files/geox-baskets-boite.png)
 
