@@ -179,6 +179,10 @@ footer{color:var(--muted);font-size:13px}
 .flashR{animation:flash .7s ease-out forwards}
 @keyframes flash{from{opacity:.95}to{opacity:0}}
 .tears{animation:tears .6s ease-in-out infinite alternate}
+.kb{transform-box:fill-box;transform-origin:50% 40%;animation:kb 9s ease-in-out infinite alternate}
+@keyframes kb{from{transform:scale(1)}to{transform:scale(1.07)}}
+.enter .panel{animation:panelin .5s cubic-bezier(.3,1.5,.5,1) both;transform-box:fill-box;transform-origin:50% 50%}
+@keyframes panelin{from{transform:scale(.7) rotate(-6deg);opacity:0}to{transform:none;opacity:1}}
 @keyframes tears{from{opacity:.55}to{opacity:1}}
 @media (prefers-reduced-motion:reduce){
   *,*::before,*::after{animation-duration:.001s!important;animation-iteration-count:1!important}
@@ -219,6 +223,7 @@ footer{color:var(--muted);font-size:13px}
       <button class="ctl" id="next" aria-label="Réplique suivante">Suivant ▶</button>
     </div>
     <div class="ctlrow">
+      <button class="ctl" id="mode" aria-pressed="true">Vraies photos animées</button>
       <button class="ctl" id="sound" aria-pressed="false">Bruitages : non</button>
       <span class="counter" id="counter"></span>
     </div>
@@ -242,7 +247,7 @@ footer{color:var(--muted);font-size:13px}
     <p>Les surnoms viennent des photos. Écris le vrai prénom ou le surnom de chacun : les deux épisodes le reprennent dans les dialogues et les sous-titres. C'est enregistré dans ce navigateur seulement.</p>
     <div class="cast" id="cast"></div>
   </section>
-  <footer>Personnages dessinés d'après les tenues et les poses des 20 photos. Les photos elles-mêmes ne sont pas dans la page.</footer>
+  <footer>Deux modes : tes 20 photos passées au filtre BD (VF) ou anime (version japonaise), ou les personnages dessinés d'après leurs tenues et leurs poses. Le bouton « Vraies photos animées » passe de l'un à l'autre.</footer>
 </div>
 
 <script>
@@ -754,11 +759,42 @@ jp:{badge:'第一話 · VOSTFR',scenes:[
     J('N','家族の物語は、まだ始まったばかり。','Kazoku no monogatari wa, mada hajimatta bakari.','L\'histoire de cette famille ne fait que commencer.',{sfx:[{t:'つづく',x:800,y:260,r:-3,s:150}]})]},
 ]}};
 
+/* ---------- real photos, stylized offline (img/fr-NN.webp = filtre BD, img/jp-NN.webp = filtre anime) ---------- */
+const DIM=[null,[877,667],[562,1000],[562,1000],[750,1000],[750,1000],[562,1000],[562,1000],[562,1000],[562,1000],[562,1000],[750,1000],[562,1000],[462,1000],[462,1000],[750,1000],[750,1000],[462,1000],[562,1000],[562,1000],[562,1000]];
+const PH={title:18,door8:4,flowers:12,shop:5,mirror:2,night:3,van:19,car:16,picnic:20,gym:15,grass:17,bench:8,park:6};
+const PSTEP={
+  fr:{door8:{2:11,4:4},flowers:{3:1},mirror:{0:9,1:2},gym:{4:14},bench:{3:10},park:{1:7,2:18,3:11,4:13}},
+  jp:{door8:{1:11,3:4},flowers:{3:1},mirror:{0:9,1:2},gym:{4:14},bench:{2:10},park:{1:7,2:18,3:13}}};
+const pad=n=>String(n).padStart(2,'0');
+function photoSVG(sc,chars,step,backList,frontList,tone,n,enter){
+  const jp=S.ep==='jp',src=`img/${S.ep}-${pad(n)}.webp`,[w,h]=DIM[n];
+  let pw=w*930/h,ph=930;if(pw>1480){pw=1480;ph=h*1480/w}
+  pw=f(pw);ph=f(ph);const cx=sc.logo?1120:800,x=f(cx-pw/2),y=f((1000-ph)/2),rot=n%2?-1.6:1.4;
+  let s=DEFS;
+  if(backList.includes('rays'))s+=fxBack(['rays'],chars,step.who);
+  else s+=`<image href="${src}" x="-80" y="-80" width="1760" height="1160" preserveAspectRatio="xMidYMid slice" filter="url(#blur)"/>`+rect(0,0,1600,1000,jp?'#fff4f7':'#ffcc1a',`opacity="${jp?.45:.3}"`);
+  if(backList.includes('speedc')||backList.includes('aura'))s+=speedSVG(800,500,jp?INK:'#fff',.55,240);
+  if(sc.logo)s+=raysSVG(800,500,'transparent',jp?'rgba(255,255,255,.35)':'rgba(255,255,255,.25)');
+  s+=`<g class="${enter?'enter':''}"><g class="panel"><g transform="rotate(${rot} ${cx} 500)">`
+    +rect(x+16,y+16,pw,ph,INK)
+    +`<rect x="${x-12}" y="${y-12}" width="${pw+24}" height="${ph+24}" fill="#fff" stroke="${INK}" stroke-width="8"/>`
+    +`<svg x="${x}" y="${y}" width="${pw}" height="${ph}" viewBox="0 0 ${w} ${h}" preserveAspectRatio="xMidYMid meet"><g class="kb"><image href="${src}" width="${w}" height="${h}" ${tone?'filter="url(#gray)"':''}/></g></svg>`
+    +(tone?`<rect x="${x}" y="${y}" width="${pw}" height="${ph}" fill="url(#tone)"/>`:'')
+    +`</g></g></g>`;
+  if(sc.logo)s+=jp?`<g transform="rotate(-2 400 420)"><text x="420" y="330" text-anchor="middle" class="sfx-t" font-size="96" style="fill:#d7193a;stroke:#fff;stroke-width:16">コルヌバリュー</text><text x="420" y="470" text-anchor="middle" class="sfx-t" font-size="130" style="fill:#d7193a;stroke:#fff;stroke-width:18">の伝説</text><text x="420" y="540" text-anchor="middle" font-family="'Zen Kaku Gothic New',sans-serif" font-weight="900" font-size="30" letter-spacing="6" fill="${INK}">CORNEBARRIEU NO DENSETSU</text></g>`
+    :`<g transform="rotate(-4 400 420)" text-anchor="middle"><text x="420" y="330" class="sfx-t" font-size="150" style="fill:#fff;stroke:#1f4fd1;stroke-width:22">LES</text><text x="420" y="480" class="sfx-t" font-size="150" style="fill:#fff;stroke:#1f4fd1;stroke-width:22">ZARBIS</text><text x="420" y="560" class="sfx-t" font-size="58" style="fill:#e2412f;stroke:${INK};stroke-width:10">DE CORNEBARRIEU</text></g>`;
+  s+=fxFront(frontList.filter(t=>t!=='tone'&&t!=='ballHold'&&t!=='ballSmash'),chars);
+  if(jp)s+=`<rect width="1600" height="1000" fill="url(#vig)" pointer-events="none"/>`;
+  s+=(step.sfx||[]).map(sfxSVG).join('');
+  return s;
+}
+
 /* ---------- state ---------- */
 const $=id=>document.getElementById(id);
 const svg=$('svg'),stage=$('stage');
 let names={};try{names=JSON.parse(localStorage.getItem('zarbis-names')||'{}')||{}}catch(e){names={}}
-const S={ep:'fr',sc:0,step:0,playing:false,sound:false,started:false};
+const S={ep:'fr',sc:0,step:0,playing:false,sound:false,started:false,photo:true};
+try{if(localStorage.getItem('zarbis-mode')==='draw')S.photo=false}catch(e){}
 let typeTimer=null,holdTimer=null,typing=false,fullText='';
 const nm=id=>(names[id]&&names[id].trim())||CAST[id]?.[S.ep]||id;
 const fill=t=>String(t).replace(/\{(\w+)\}/g,(m,k)=>CAST[k]?nm(k):m);
@@ -767,6 +803,7 @@ const DEFS=`<defs>
 <pattern id="tone" width="12" height="12" patternUnits="userSpaceOnUse"><circle cx="6" cy="6" r="2.6" fill="#000" opacity=".3"/></pattern>
 <pattern id="holes" width="36" height="36" patternUnits="userSpaceOnUse"><rect width="36" height="36" fill="#f2f2f2"/><circle cx="18" cy="18" r="10" fill="#2a3a2a"/></pattern>
 <filter id="gray"><feColorMatrix type="saturate" values="0"/></filter>
+<filter id="blur" x="-5%" y="-5%" width="110%" height="110%"><feGaussianBlur stdDeviation="22"/></filter>
 <radialGradient id="auraG" cx=".5" cy=".6" r=".5"><stop offset="0" stop-color="#7dffb0" stop-opacity=".85"/><stop offset="1" stop-color="#22b14c" stop-opacity="0"/></radialGradient>
 <radialGradient id="vig" cx=".5" cy=".5" r=".75"><stop offset=".62" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#2a0010" stop-opacity=".38"/></radialGradient>
 <linearGradient id="dusk" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#5aa0de"/><stop offset="1" stop-color="#cfe6f4"/></linearGradient>
@@ -774,9 +811,9 @@ const DEFS=`<defs>
 </defs>`;
 
 function stepState(){
-  const sc=scene(),chars=CH[sc.bg]();let cap=sc.cap,cls=[];
-  for(let i=0;i<=S.step;i++){const st=sc.steps[i];if(st.set)for(const id in st.set){const c=chars.find(x=>x.id===id);if(c)Object.assign(c,st.set[id])}if(st.cap)cap=st.cap;if(st.cls)cls.push(st.cls)}
-  return{chars,cap,cls,step:sc.steps[S.step]};
+  const sc=scene(),chars=CH[sc.bg]();let cap=sc.cap,cls=[],photo=PH[sc.bg];const ps=(PSTEP[S.ep]||{})[sc.bg]||{};
+  for(let i=0;i<=S.step;i++){const st=sc.steps[i];if(ps[i])photo=ps[i];if(st.set)for(const id in st.set){const c=chars.find(x=>x.id===id);if(c)Object.assign(c,st.set[id])}if(st.cap)cap=st.cap;if(st.cls)cls.push(st.cls)}
+  return{chars,cap,cls,photo,step:sc.steps[S.step]};
 }
 function speakerPos(chars,who){const c=chars.find(x=>x.id===who);return c?{x:c.x,y:c.y-330*(c.s||1)}:{x:800,y:450}}
 function fxBack(list,chars,who){
@@ -822,12 +859,13 @@ function actorsSVG(chars,who){
 
 function render(enter){
   STY=S.ep;SW=STY==='jp'?4:6;
-  const sc=scene(),{chars,cap,cls,step}=stepState(),bg=BG[sc.bg]();
+  const sc=scene(),{chars,cap,cls,photo,step}=stepState(),bg=BG[sc.bg]();
   const stepFx=step.fx||[],sceneFx=sc.fx||[];
   const backList=[...sceneFx,...stepFx].filter(x=>x==='rays'||x==='speedc'||x==='aura');
   const frontList=[...sceneFx,...stepFx].filter(x=>!(x==='rays'||x==='speedc'||x==='aura'));
   const tone=frontList.includes('tone');
-  svg.innerHTML=DEFS+`<g ${tone?'filter="url(#gray)"':''}>${bg.b}${fxBack(backList,chars,step.who)}</g>`
+  if(S.photo)svg.innerHTML=photoSVG(sc,chars,step,backList,frontList,tone,photo,enter);
+  else svg.innerHTML=DEFS+`<g ${tone?'filter="url(#gray)"':''}>${bg.b}${fxBack(backList,chars,step.who)}</g>`
     +logoSVG(sc)
     +`<g class="${enter?'enter':''}">${actorsSVG(chars,step.who)}</g>`
     +`<g ${tone?'filter="url(#gray)"':''}>${bg.f}</g>`
@@ -945,6 +983,9 @@ $('dlg').addEventListener('click',e=>{if(e.target.closest('button'))return;next(
 $('dlg').addEventListener('keydown',e=>{if(e.key==='Enter'){e.preventDefault();next(false)}});
 $('other').onclick=e=>{e.stopPropagation();setEp(S.ep==='fr'?'jp':'fr');start(true);render(true)};
 $('replay').onclick=e=>{e.stopPropagation();S.sc=0;S.step=0;start(true);render(true)};
+$('mode').onclick=()=>{S.photo=!S.photo;try{localStorage.setItem('zarbis-mode',S.photo?'photo':'draw')}catch(e){}syncMode();render(true)};
+function syncMode(){$('mode').setAttribute('aria-pressed',String(S.photo));$('mode').textContent=S.photo?'Vraies photos animées':'Personnages dessinés'}
+syncMode();
 $('sound').onclick=()=>{S.sound=!S.sound;if(S.sound&&!ac){try{ac=new (window.AudioContext||window.webkitAudioContext)()}catch(e){}}
   $('sound').setAttribute('aria-pressed',String(S.sound));$('sound').textContent=S.sound?'Bruitages : oui':'Bruitages : non';blip('blip')};
 document.addEventListener('keydown',e=>{
