@@ -190,7 +190,7 @@ récentes, et ton dressing reste visible plus longtemps.
 ❤️ Ballerines Massimo Dutti en cuir rouge à bride fine – pointure 40
 
 ✨ Neuves dans leur boîte d'origine
-💰 Valeur boutique ~90 €
+💰 Valeur boutique ~70 €
 ✅ 100 % authentiques – authentifiées en maison de vente
 📦 Envoi soigné sous 48 h
 
