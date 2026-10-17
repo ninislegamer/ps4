@@ -291,14 +291,14 @@ récentes, et ton dressing reste visible plus longtemps.
 ### 17. Baskets montantes Philipp Plein Sport blanc violet neuves P.40
 - **Prix** 95 € · **État** Neuf avec étiquette · **Catégorie** Femmes › Chaussures › Baskets · **Marque** Philipp Plein Sport · **Pointure** 40
 ```
-💜 Baskets montantes Philipp Plein Sport – blanc et violet, logo doré – pointure 40
+💜 Baskets montantes Philipp Plein Sport – blanc et violet, logo doré – pointure 40, mixte
 
 ✨ Neuves dans leur boîte d'origine
-💰 Valeur boutique ~250 €
+💰 Valeur boutique ~230 €
 ✅ 100 % authentiques – authentifiées en maison de vente
 📦 Envoi soigné sous 48 h
 
-#philippplein #philipppleinsport #pleinsport #baskets #sneakers #basketsmontantes #hightop #blanc #violet #doré #luxe #créateur #streetwear #pointure40 #40 #neuf
+#philippplein #philipppleinsport #pleinsport #baskets #sneakers #basketsmontantes #hightop #basketsfemme #basketshomme #mixte #blanc #violet #doré #luxe #créateur #streetwear #pointure40 #40 #neuf
 ```
 - **Photos** [1](https://cdn.shopify.com/s/files/1/1064/7214/5230/files/1786790786445.png) · [2](https://cdn.shopify.com/s/files/1/1064/7214/5230/files/1786786490310.png)
 
