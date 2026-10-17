@@ -1,0 +1,957 @@
+<title>Les Zarbis de Cornebarrieu</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Dela+Gothic+One&family=Gochi+Hand&family=Luckiest+Guy&family=Zen+Kaku+Gothic+New:wght@400;700;900&display=swap">
+<style>
+/* Layout: one TV-shaped stage framed like a comic page, with the dialogue box and cast cards under it.
+   The whole page changes identity with the episode: French comic book (warm paper, cobalt, yellow) or anime/manga (white paper, ink, red, sakura). */
+:root{
+  --paper:#fff3d2; --paper2:#f6e4b4; --ink:#231a17; --accent:#1f4fd1; --pop:#ffcc1a; --hot:#e2412f; --card:#fffaf0; --muted:#6b5a48;
+  --disp:'Luckiest Guy','Arial Black',Impact,system-ui,sans-serif;
+  --talk:'Gochi Hand','Comic Sans MS','Chalkboard SE',cursive;
+  --ui:'Zen Kaku Gothic New',system-ui,-apple-system,'Segoe UI',Roboto,sans-serif;
+  color-scheme:light;
+}
+body[data-ep="jp"]{
+  --paper:#fbf9f6; --paper2:#efe9e3; --ink:#151215; --accent:#d7193a; --pop:#ffd9e4; --hot:#d7193a; --card:#ffffff; --muted:#625a5e;
+  --disp:'Dela Gothic One','Hiragino Sans','Yu Gothic','Noto Sans JP',system-ui,sans-serif;
+  --talk:'Zen Kaku Gothic New','Hiragino Sans','Yu Gothic',system-ui,sans-serif;
+}
+*{box-sizing:border-box}
+[hidden]{display:none!important}
+html{background:var(--paper)}
+body{
+  background:var(--paper); color:var(--ink); font-family:var(--ui); font-size:15px; line-height:1.5;
+  background-image:radial-gradient(color-mix(in srgb,var(--ink) 9%,transparent) 1.2px,transparent 1.4px);
+  background-size:14px 14px;
+  padding-left:max(16px,env(safe-area-inset-left,0px)); padding-right:max(16px,env(safe-area-inset-right,0px));
+  padding-block:20px 48px;
+}
+.wrap{max-width:1120px;margin:0 auto;display:flex;flex-direction:column;gap:18px}
+
+/* Header */
+header{display:flex;flex-wrap:wrap;align-items:flex-end;justify-content:space-between;gap:14px}
+.brand{min-width:0}
+.brand h1{margin:0;font-family:var(--disp);font-weight:400;line-height:.95;letter-spacing:.01em;text-wrap:balance}
+.fr-only,.jp-only{display:none}
+body[data-ep="fr"] .fr-only{display:revert}
+body[data-ep="jp"] .jp-only{display:revert}
+.brand h1 .fr-only{font-size:clamp(34px,6vw,64px);color:var(--pop);-webkit-text-stroke:2px var(--ink);text-shadow:4px 4px 0 var(--accent)}
+.brand h1 .jp-only{font-size:clamp(28px,5vw,52px);color:var(--ink)}
+.brand h1 .jp-only em{font-style:normal;color:var(--accent)}
+.brand p{margin:6px 0 0;color:var(--muted);font-size:14px;max-width:60ch}
+.tabs{display:flex;gap:8px;flex-wrap:wrap}
+.tab{
+  font:inherit;font-weight:700;cursor:pointer;border:3px solid var(--ink);background:var(--card);color:var(--ink);
+  padding:9px 14px;border-radius:0;box-shadow:4px 4px 0 var(--ink);display:flex;flex-direction:column;align-items:flex-start;line-height:1.15;text-align:left
+}
+.tab small{font-weight:400;font-size:12px;color:var(--muted)}
+.tab[aria-selected="true"]{background:var(--ink);color:var(--paper);box-shadow:4px 4px 0 var(--accent)}
+.tab[aria-selected="true"] small{color:color-mix(in srgb,var(--paper) 75%,transparent)}
+.tab:focus-visible,.ctl:focus-visible,.dots button:focus-visible,.cast input:focus-visible{outline:3px solid var(--accent);outline-offset:2px}
+
+/* Stage */
+.stage{
+  position:relative;width:100%;max-width:100%;aspect-ratio:16/10;overflow:hidden;
+  border:4px solid var(--ink);background:#fff;container-type:inline-size;box-shadow:8px 8px 0 var(--ink)
+}
+body[data-ep="jp"] .stage{box-shadow:8px 8px 0 var(--accent)}
+.stage svg.scene{position:absolute;inset:0;width:100%;height:100%;display:block}
+.cap{
+  position:absolute;left:2%;top:3.5%;max-width:62%;
+  background:var(--pop);border:3px solid var(--ink);padding:.35em .7em;
+  font-family:var(--disp);font-size:clamp(11px,2.3cqw,24px);line-height:1.1;letter-spacing:.02em;text-transform:uppercase;
+  box-shadow:3px 3px 0 var(--ink)
+}
+body[data-ep="jp"] .cap{
+  left:auto;right:2.5%;top:4%;background:#fff;text-transform:none;display:flex;flex-direction:column;align-items:center;gap:.4em;padding:.6em .45em;box-shadow:none;border-width:2px
+}
+.cap .v{writing-mode:vertical-rl;font-size:clamp(13px,2.8cqw,30px);letter-spacing:.12em}
+.cap .h{font-family:var(--ui);font-weight:700;font-size:clamp(9px,1.25cqw,13px);writing-mode:horizontal-tb;max-width:9em;text-align:center;line-height:1.2}
+.ep-badge{
+  position:absolute;right:2%;bottom:3%;font:700 clamp(9px,1.3cqw,13px)/1 var(--ui);background:var(--ink);color:#fff;padding:.4em .6em;letter-spacing:.06em
+}
+body[data-ep="jp"] .ep-badge{right:auto;left:2%;background:var(--accent)}
+.startcover{
+  position:absolute;inset:auto 0 0 0;display:flex;justify-content:center;padding-bottom:4%;pointer-events:none
+}
+.bigplay{
+  pointer-events:auto;font-family:var(--disp);font-size:clamp(14px,2.6cqw,28px);cursor:pointer;color:var(--ink);
+  background:var(--pop);border:4px solid var(--ink);padding:.35em 1em;box-shadow:5px 5px 0 var(--ink);letter-spacing:.03em
+}
+body[data-ep="jp"] .bigplay{background:var(--accent);color:#fff}
+
+/* Controls */
+.controls{display:flex;flex-wrap:wrap;gap:8px;align-items:center;justify-content:space-between}
+.ctlrow{display:flex;gap:8px;flex-wrap:wrap}
+.ctl{
+  font:inherit;font-weight:700;font-size:14px;cursor:pointer;border:3px solid var(--ink);background:var(--card);color:var(--ink);
+  padding:7px 12px;box-shadow:3px 3px 0 var(--ink);min-height:42px
+}
+.ctl.primary{background:var(--accent);color:#fff}
+.ctl:active,.tab:active{transform:translate(2px,2px);box-shadow:1px 1px 0 var(--ink)}
+.ctl[aria-pressed="true"]{background:var(--ink);color:var(--paper)}
+.counter{font-weight:700;font-variant-numeric:tabular-nums;color:var(--muted);font-size:14px}
+.dots{display:flex;gap:4px;flex-wrap:wrap;width:100%}
+.dots button{flex:1 1 18px;min-width:14px;height:12px;border:2px solid var(--ink);background:var(--card);padding:0;cursor:pointer}
+.dots button.done{background:color-mix(in srgb,var(--accent) 45%,var(--card))}
+.dots button.cur{background:var(--accent)}
+
+/* Dialogue */
+.dlg{
+  position:relative;background:var(--card);border:4px solid var(--ink);padding:26px 18px 16px;min-height:132px;cursor:pointer;
+  box-shadow:6px 6px 0 var(--ink)
+}
+.who{
+  position:absolute;top:-17px;left:14px;background:var(--who,var(--ink));color:#fff;border:3px solid var(--ink);
+  font-family:var(--disp);font-size:16px;line-height:1;padding:6px 10px 5px;letter-spacing:.03em
+}
+.who.narr{background:var(--pop);color:var(--ink)}
+.line{font-family:var(--talk);font-size:clamp(20px,2.6vw,27px);line-height:1.25;margin:0;min-height:1.25em;text-wrap:pretty}
+.dlg.narrating .line{font-family:var(--ui);font-style:italic;font-size:clamp(16px,2vw,20px);color:var(--muted)}
+body[data-ep="jp"] .line{font-family:var(--disp);font-size:clamp(20px,2.8vw,30px);font-weight:400;letter-spacing:.04em}
+body[data-ep="jp"] .dlg.narrating .line{font-family:var(--talk);font-weight:700;font-style:normal;color:var(--ink)}
+.romaji{margin:6px 0 0;font-style:italic;color:var(--muted);font-size:14px}
+.sub{margin:8px 0 0;display:inline-block;background:var(--ink);color:#fff;padding:3px 8px;font-weight:700;font-size:clamp(14px,1.8vw,17px)}
+.hint{position:absolute;right:12px;bottom:8px;font-size:12px;color:var(--muted)}
+.endbox{display:flex;gap:10px;flex-wrap:wrap;margin-top:12px}
+.endbox[hidden]{display:none!important}
+
+/* Cast */
+section h2{font-family:var(--disp);font-weight:400;font-size:clamp(22px,3vw,30px);margin:10px 0 4px;letter-spacing:.02em}
+section > p{margin:0 0 12px;color:var(--muted);max-width:68ch}
+.cast{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:14px}
+.card{background:var(--card);border:3px solid var(--ink);display:flex;flex-direction:column;min-width:0}
+.card svg{display:block;width:100%;aspect-ratio:1/1;background:var(--paper2);border-bottom:3px solid var(--ink)}
+.card .body{padding:10px 12px 12px;display:flex;flex-direction:column;gap:6px;min-width:0}
+.card label{font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:.08em;color:var(--muted)}
+.card input{font:inherit;font-weight:700;font-size:16px;border:2px solid var(--ink);padding:6px 8px;background:#fff;color:var(--ink);width:100%;min-width:0}
+.card .seen{font-size:13px;color:var(--muted);margin:0}
+.card .jpn{font-family:'Dela Gothic One',var(--ui);font-size:13px;color:var(--accent)}
+.team{grid-column:1/-1;background:var(--card);border:3px dashed var(--ink);padding:12px 14px}
+.team strong{font-family:var(--disp);font-weight:400;font-size:18px;letter-spacing:.02em}
+.team p{margin:4px 0 0;color:var(--muted);font-size:14px}
+footer{color:var(--muted);font-size:13px}
+
+/* SVG text + animation */
+.t-disp{font-family:var(--disp)}
+.sfx-t{font-family:var(--disp);stroke:var(--ink);stroke-width:12;paint-order:stroke;stroke-linejoin:round}
+.actor,.anim,.talk,.sfx-pop,.ball,.petal,.conf,.zz,.spark,.fry,.spin,.scrollx,.auraP,.flashR,.mark{transform-box:fill-box}
+.anim,.talk{transform-origin:50% 100%}
+.enter .anim{animation:popin .45s cubic-bezier(.3,1.6,.5,1) both}
+.a-bounce{animation:bounce 1.1s ease-in-out infinite}
+.a-laugh{animation:laugh .32s ease-in-out infinite}
+.a-jump{animation:jump 1.6s ease-in-out infinite}
+.a-breathe{animation:breathe 2.6s ease-in-out infinite}
+.talk.on{animation:talk .5s ease-in-out infinite}
+.mark{animation:bob .8s ease-in-out infinite;transform-origin:50% 50%}
+@keyframes popin{from{transform:scale(.4) translateY(40px);opacity:0}to{transform:none;opacity:1}}
+@keyframes bounce{0%,100%{transform:translateY(0)}50%{transform:translateY(-22px)}}
+@keyframes laugh{0%,100%{transform:rotate(-2.5deg)}50%{transform:rotate(2.5deg) translateY(-6px)}}
+@keyframes jump{0%,100%{transform:translateY(0)}40%,60%{transform:translateY(-90px)}}
+@keyframes breathe{0%,100%{transform:scaleY(1)}50%{transform:scaleY(1.025)}}
+@keyframes talk{0%,100%{transform:translateY(0)}50%{transform:translateY(-7px)}}
+@keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-10px)}}
+.sfx-pop{transform-origin:50% 50%;animation:sfx .5s cubic-bezier(.3,1.8,.5,1) both}
+@keyframes sfx{from{transform:scale(.2) rotate(-12deg);opacity:0}to{transform:none;opacity:1}}
+.spin{animation:spin 40s linear infinite;transform-box:view-box}
+@keyframes spin{to{transform:rotate(360deg)}}
+.petal{animation:petal 9s linear infinite;transform-origin:50% 50%}
+@keyframes petal{from{transform:translate(0,0) rotate(0)}to{transform:translate(-300px,1150px) rotate(620deg)}}
+.conf{animation:conf 3.4s linear infinite;transform-origin:50% 50%}
+@keyframes conf{from{transform:translate(0,0) rotate(0)}to{transform:translate(60px,1150px) rotate(900deg)}}
+.zz{animation:zz 2.4s ease-out infinite;transform-origin:50% 50%}
+@keyframes zz{0%{transform:translate(0,0) scale(.6);opacity:0}20%{opacity:1}100%{transform:translate(60px,-160px) scale(1.2);opacity:0}}
+.spark{animation:spark 1.4s ease-in-out infinite;transform-origin:50% 50%}
+@keyframes spark{0%,100%{transform:scale(.3);opacity:.2}50%{transform:scale(1);opacity:1}}
+.eat .fry{animation:vanish .35s ease-in forwards}
+@keyframes vanish{to{transform:translateY(-60px) scale(.2);opacity:0}}
+.fry{transform-origin:50% 100%}
+.scrollx{animation:scrollx 2.2s linear infinite}
+@keyframes scrollx{to{transform:translateX(-600px)}}
+.ball{transform-origin:50% 50%;animation:spinball 1.2s linear infinite}
+@keyframes spinball{to{transform:rotate(360deg)}}
+.ball.smash{animation:smash 1s cubic-bezier(.3,.1,.6,1) forwards}
+@keyframes smash{0%{transform:translate(0,0)}18%{transform:translate(-20px,-70px) rotate(-90deg)}100%{transform:translate(640px,360px) rotate(720deg) scale(.55);opacity:.9}}
+.auraP{transform-origin:50% 100%;animation:aura .5s ease-in-out infinite alternate}
+@keyframes aura{from{transform:scale(.96,.94);opacity:.75}to{transform:scale(1.04,1.06);opacity:1}}
+.flashR{animation:flash .7s ease-out forwards}
+@keyframes flash{from{opacity:.95}to{opacity:0}}
+.tears{animation:tears .6s ease-in-out infinite alternate}
+@keyframes tears{from{opacity:.55}to{opacity:1}}
+@media (prefers-reduced-motion:reduce){
+  *,*::before,*::after{animation-duration:.001s!important;animation-iteration-count:1!important}
+  .petal,.conf,.zz,.spark,.spin,.scrollx,.ball:not(.smash){animation:none!important}
+}
+@media (max-width:560px){
+  .tab{flex:1 1 140px}
+  .dlg{padding:24px 14px 26px;min-height:120px}
+  .hint{display:none}
+}
+</style>
+
+<div class="wrap">
+  <header>
+    <div class="brand">
+      <h1><span class="fr-only">Les Zarbis de Cornebarrieu</span><span class="jp-only">コルヌバリューの<em>伝説</em></span></h1>
+      <p class="fr-only">Deux épisodes tirés de vos photos : une comédie en VF et une version anime japonaise. Mêmes héros, même tournoi de volley, mêmes chips.</p>
+      <p class="jp-only">Cornebarrieu no Densetsu : la même histoire en style anime, avec les dialogues en japonais, la lecture en romaji et les sous-titres en français.</p>
+    </div>
+    <div class="tabs" role="tablist" aria-label="Choisir l'épisode">
+      <button class="tab" role="tab" id="tab-fr" data-ep="fr" aria-selected="true">Version française<small>Comédie · 13 scènes</small></button>
+      <button class="tab" role="tab" id="tab-jp" data-ep="jp" aria-selected="false">日本語版 · Anime<small>Sous-titré · 12 scènes</small></button>
+    </div>
+  </header>
+
+  <div class="stage" id="stage">
+    <svg class="scene" id="svg" viewBox="0 0 1600 1000" preserveAspectRatio="xMidYMid slice" aria-hidden="true"></svg>
+    <div class="cap" id="cap"></div>
+    <div class="ep-badge" id="badge"></div>
+    <div class="startcover" id="cover"><button class="bigplay" id="bigplay">▶ Lancer l'épisode</button></div>
+  </div>
+
+  <div class="controls">
+    <div class="dots" id="dots" aria-label="Scènes"></div>
+    <div class="ctlrow">
+      <button class="ctl" id="prev" aria-label="Réplique précédente">◀ Retour</button>
+      <button class="ctl primary" id="play">▶ Lecture auto</button>
+      <button class="ctl" id="next" aria-label="Réplique suivante">Suivant ▶</button>
+    </div>
+    <div class="ctlrow">
+      <button class="ctl" id="sound" aria-pressed="false">Bruitages : non</button>
+      <span class="counter" id="counter"></span>
+    </div>
+  </div>
+
+  <div class="dlg" id="dlg" role="button" tabindex="0" aria-live="polite" aria-label="Dialogue, cliquer pour continuer">
+    <span class="who" id="who"></span>
+    <p class="line" id="line"></p>
+    <p class="romaji" id="romaji" hidden></p>
+    <span class="sub" id="sub" hidden></span>
+    <div class="endbox" id="endbox" hidden>
+      <button class="ctl primary" id="other"></button>
+      <button class="ctl" id="replay">Revoir depuis le début</button>
+    </div>
+    <span class="hint">Clic, Espace ou → pour avancer</span>
+  </div>
+
+  <section>
+    <h2 class="fr-only">La distribution</h2>
+    <h2 class="jp-only">登場人物 · Les personnages</h2>
+    <p>Les surnoms viennent des photos. Écris le vrai prénom ou le surnom de chacun : les deux épisodes le reprennent dans les dialogues et les sous-titres. C'est enregistré dans ce navigateur seulement.</p>
+    <div class="cast" id="cast"></div>
+  </section>
+  <footer>Personnages dessinés d'après les tenues et les poses des 20 photos. Les photos elles-mêmes ne sont pas dans la page.</footer>
+</div>
+
+<script>
+(()=>{
+/* ---------- tiny helpers ---------- */
+const INK='#231a17';
+let SW=6, STY='fr';
+const f=n=>Math.round(n*10)/10;
+const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+function rng(seed){return()=>{seed|=0;seed=seed+0x6D2B79F5|0;let t=Math.imul(seed^seed>>>15,1|seed);t=t+Math.imul(t^t>>>7,61|t)^t;return((t^t>>>14)>>>0)/4294967296}}
+const pa=(d,fill,x='')=>`<path d="${d}" fill="${fill}" stroke="${INK}" stroke-width="${SW}" stroke-linejoin="round" stroke-linecap="round" ${x}/>`;
+const ln=(d,c,w,x='')=>`<path d="${d}" fill="none" stroke="${c}" stroke-width="${w}" stroke-linecap="round" stroke-linejoin="round" ${x}/>`;
+const ci=(x,y,r,fill,st=true,x2='')=>`<circle cx="${x}" cy="${y}" r="${r}" fill="${fill}" ${st?`stroke="${INK}" stroke-width="${SW}"`:''} ${x2}/>`;
+const el=(x,y,rx,ry,fill,st=true,x2='')=>`<ellipse cx="${x}" cy="${y}" rx="${rx}" ry="${ry}" fill="${fill}" ${st?`stroke="${INK}" stroke-width="${SW}"`:''} ${x2}/>`;
+const rect=(x,y,w,h,fill,x2='')=>`<rect x="${x}" y="${y}" width="${w}" height="${h}" fill="${fill}" ${x2}/>`;
+const has=(c,a)=>(c.acc||[]).includes(a);
+function merge(a,b){const o={...a};for(const k in b){const v=b[k];o[k]=(v&&typeof v==='object'&&!Array.isArray(v))?{...(a[k]||{}),...v}:v}return o}
+
+/* ---------- cast (traits taken from the photos) ---------- */
+const SK1='#f6cfb0',SK2='#eebf9a',SK3='#f3c6a2';
+const VOL=(num,hair,extra={})=>merge({skin:SK3,eye:'#5a3a22',hair,top:{c:'#f4f4f2',print:'volley',num},bottom:{style:'shorts',c:'#1b1b1f',skinLegs:true},shoe:'#f4f4f4',acc:[]},extra);
+const CAST={
+  maman:{fr:'Maman Selfie',jp:'母上',col:'#c81d2a',main:true,
+    seen:'Robe rouge, cheveux bordeaux, mur de bougainvilliers, selfie en vélo.',
+    skin:SK1,eye:'#6b3b1f',hair:{style:'long',c:'#5e1426',hl:'#c2476a'},top:{c:'#d81e2c',print:'red',sleeveless:true},bottom:{style:'dress'},shoe:'#e9d7c8',acc:['earring']},
+  ombre:{fr:'La Ténébreuse',jp:'影姫',col:'#4b2433',main:true,
+    seen:'Tout en noir, casque sur les oreilles, sac à dos géant au rayon Mode Homme, pose de penseuse sur la chaise en Z.',
+    skin:SK3,eye:'#4a2a1a',hair:{style:'mid',c:'#2a1519',hl:'#a8405c'},top:{c:'#1d1b20',print:'black'},bottom:{style:'pants',c:'#2b2b30',wide:true},shoe:'#1b1b1f',acc:['phonesHead','backpack']},
+  fennec:{fr:'Le Fennec',jp:'フェネック',col:'#11865a',main:true,
+    seen:'Maillot de l\'Algérie à deux étoiles (avec l\'étiquette !), casque autour du cou, double pouce levé.',
+    skin:SK2,eye:'#4a2c1a',hair:{style:'curly',c:'#3b2417',hl:'#9a6a46'},top:{c:'#1f9a63',print:'dz',sleeve:'#0b5d3b'},bottom:{style:'pants',c:'#17171a',wide:true},shoe:'#17171a',acc:['glasses','phonesNeck','tag']},
+  kuromi:{fr:'Mini-Kuromi',jp:'クロミちゃん',col:'#6a32b8',main:true,
+    seen:'T-shirt et jean Kuromi, fou rire devant la porte n°8, fou rire en voiture, fou rire tout court.',
+    skin:SK1,eye:'#5a3a22',hair:{style:'long',c:'#8a5a36',hl:'#e0ad7c'},top:{c:'#5b2ca0',print:'kuromi'},bottom:{style:'pants',c:'#93b3d8',wide:true},shoe:'#1b1b1f',acc:['earring']},
+  stitchou:{fr:'Stitchou',jp:'スティッチちゃん',col:'#2f8fe0',main:true,
+    seen:'T-shirt au petit alien bleu, casquette rose, double V, langue tirée au fast-food.',
+    skin:SK2,eye:'#4a2c1a',hair:{style:'ponytail',c:'#5a3a24',hl:'#b07e55'},top:{c:'#62b3ec',print:'stitch'},bottom:{style:'shorts',c:'#2c4a7a',skinLegs:true},shoe:'#efe2cf',acc:['cap','earring']},
+  dormeur:{fr:'Le Dormeur',jp:'眠りの戦士',col:'#b8322a',main:true,
+    seen:'Endormi en voiture, avec sa peluche et son pantalon à nuages rouges.',
+    skin:SK1,eye:'#4a2c1a',hair:{style:'wavy',c:'#5a3524',hl:'#a06a48'},top:{c:'#f4f4f2',print:'white'},bottom:{style:'pants',c:'#1b1b1f',clouds:true},shoe:'#1b1b1f',acc:['plush']},
+  coach:{fr:'Coach',jp:'監督',col:'#1f7f45',main:true,
+    seen:'À la tête du VOCA M15 : lunettes, ballon en main, voix qui porte jusqu\'au parking.',
+    skin:SK1,eye:'#4a2c1a',hair:{style:'bob',c:'#3a2a22',hl:'#7a5a48'},top:{c:'#1d1b20',print:'voca'},bottom:{style:'shorts',c:'#24324f',skinLegs:true},shoe:'#d9d0c4',acc:['glasses']},
+  n6:VOL(6,{style:'ponytail',c:'#3a2018',hl:'#8a5a3a'},{fr:'n°6',jp:'6番'}),
+  n3:VOL(3,{style:'short',c:'#6b4a2e',hl:'#a07a52'},{fr:'n°3',jp:'3番'}),
+  n15:VOL(15,{style:'short',c:'#5a3a24',hl:'#9a6a46'},{fr:'n°15',jp:'15番'}),
+  n21:VOL(21,{style:'ponytail',c:'#2a1a14',hl:'#6a4a3a'},{fr:'n°21',jp:'21番',acc:['glasses']}),
+  n17:VOL(17,{style:'curly',c:'#9a6a40',hl:'#d8a878'},{fr:'n°17',jp:'17番'}),
+  n9:VOL(9,{style:'braids',c:'#d9b37a',hl:'#fff0c8'},{fr:'n°9',jp:'9番'}),
+  n8:VOL(8,{style:'braids',c:'#4a2a1a',hl:'#8a5a3a'},{fr:'n°8',jp:'8番'}),
+  lunettes:{fr:'Lunettes',jp:'メガネ',col:'#556',skin:SK1,eye:'#5a3a22',hair:{style:'ponytail',c:'#7a4a2a',hl:'#c08a5a'},top:{c:'#f4f4f2',print:'white'},bottom:{style:'pants',c:'#a9b6c6'},shoe:'#fff',acc:['glasses']},
+  grimace:{fr:'La Grimace',jp:'変顔くん',col:'#556',skin:SK1,eye:'#4a2c1a',hair:{style:'short',c:'#7a5030',hl:'#c08a5a'},top:{c:'#f4f4f2',print:'white'},bottom:{style:'pants',c:'#1b1b1f'},shoe:'#fff',acc:[]},
+  roses:{fr:'Chaussettes Roses',jp:'ピンク靴下',col:'#d0508a',skin:SK2,eye:'#4a2c1a',hair:{style:'curly',c:'#2a1810',hl:'#6a4a3a'},top:{c:'#f4f4f2',print:'white'},bottom:{style:'pants',c:'#4a4d55'},shoe:'#fff',acc:['earring']},
+  fond:{fr:'Le regard du fond',jp:'後ろの人',col:'#556',skin:SK1,eye:'#5a6a7a',hair:{style:'long',c:'#b8925a',hl:'#f0d8a8'},top:{c:'#6b4a3a',print:'black'},bottom:{style:'pants',c:'#333'},shoe:'#333',acc:['glasses']},
+};
+const MAIN=Object.keys(CAST).filter(k=>CAST[k].main);
+
+/* ---------- character drawing ---------- */
+const CURL=[[-118,-282],[-126,-332],[-116,-386],[-82,-430],[-30,-452],[26,-452],[78,-434],[116,-390],[126,-334],[118,-282],[-104,-242],[104,-242]];
+const CURLF=[[-92,-372,34],[-62,-410,38],[-20,-428,40],[26,-428,40],[68,-410,38],[98,-372,34],[-60,-380,28],[-14,-388,30],[34,-384,28],[78,-362,24],[-104,-332,26],[106,-328,24]];
+function backHair(h){
+  const c=h.c;
+  switch(h.style){
+    case 'long':return pa('M-110,-340 C-128,-470 128,-470 110,-340 L124,-135 Q60,-112 0,-120 Q-60,-112 -124,-135Z',c);
+    case 'mid':return pa('M-110,-340 C-128,-470 128,-470 110,-340 L118,-205 Q0,-185 -118,-205Z',c);
+    case 'bob':return pa('M-110,-340 C-128,-470 128,-470 110,-340 L114,-258 Q0,-240 -114,-258Z',c);
+    case 'ponytail':return pa('M60,-400 C175,-430 185,-290 125,-190 C118,-255 100,-320 66,-360Z',c)+ci(0,-338,106,c);
+    case 'braids':{let s='';for(const sx of[-1,1])for(let i=0;i<5;i++)s+=el(sx*(98+i*2),-300+i*36,20,22,c);return s+ci(0,-338,106,c)}
+    case 'curly':return CURL.map(([x,y])=>ci(x,y,44,c)).join('');
+    case 'wavy':return CURL.slice(0,10).map(([x,y])=>ci(f(x*.92),y+10,40,c)).join('');
+    default:return ci(0,-338,106,c);
+  }
+}
+function frontHair(h){
+  const c=h.c;let s='';
+  switch(h.style){
+    case 'long':case 'mid':case 'bob':
+      s=pa('M-106,-332 C-122,-455 122,-462 106,-332 C98,-388 62,-412 22,-396 C2,-420 -42,-412 -62,-392 C-82,-380 -98,-360 -106,-332Z',c)
+       +pa('M-106,-352 C-120,-300 -114,-258 -96,-228 C-90,-270 -88,-312 -82,-352Z',c)
+       +pa('M106,-352 C120,-300 114,-258 96,-228 C90,-270 88,-312 82,-352Z',c);break;
+    case 'curly':case 'wavy':s=CURLF.map(([x,y,r])=>ci(x,y,r,c)).join('');break;
+    case 'short':s=pa('M-104,-335 C-116,-452 116,-452 104,-335 C96,-372 82,-388 62,-378 L52,-398 L26,-374 L0,-400 L-26,-374 L-52,-394 L-64,-374 C-86,-382 -98,-366 -104,-335Z',c);break;
+    default:s=pa('M-102,-345 C-108,-450 108,-450 102,-345 C90,-400 42,-416 0,-414 C-42,-416 -90,-400 -102,-345Z',c)+ln('M2,-440 Q-4,-425 -12,-410',INK,3);
+  }
+  if(STY==='jp')s+=ln('M-62,-418 Q-10,-442 50,-422',h.hl||'#fff',10,'opacity=".6"');
+  return s;
+}
+const EMAP={smile:'open',laugh:'happy',tongue:'wink',smug:'half',sleep:'line',shock:'shock',cry:'happy',cryjoy:'happy',fierce:'open',neutral:'open',think:'half',sad:'open',joy:'happy',blink:'line',grimace:'half'};
+const MMAP={smile:'smile',laugh:'laugh',tongue:'tongue',smug:'smirk',sleep:'drool',shock:'o',cry:'frown',cryjoy:'laugh',fierce:'grit',neutral:'flat',think:'smirk',sad:'frown',joy:'laugh',blink:'smile',grimace:'pout'};
+function eye(x,t,iris,sk){
+  const y=-325;
+  if(t==='happy')return ln(`M${x-17},${y+4} Q${x},${y-16} ${x+17},${y+4}`,INK,7);
+  if(t==='line')return ln(`M${x-17},${y-2} Q${x},${y+8} ${x+17},${y-2}`,INK,6);
+  if(STY==='jp'){
+    if(t==='shock')return el(x,y,19,24,'#fff')+ci(x,y,5,INK,false);
+    let s=el(x,y+2,20,26,'#fff')+el(x,y+5,16,22,iris,false)+el(x,y+7,9,13,'#1a1010',false,'opacity=".85"')
+      +ci(x-7,y-6,6,'#fff',false)+ci(x+7,y+15,3,'#fff',false)+ln(`M${x-25},${y-14} Q${x},${y-34} ${x+25},${y-16}`,INK,8);
+    if(t==='half')s+=rect(x-28,y-38,56,32,sk)+ln(`M${x-25},${y-6} L${x+25},${y-6}`,INK,7);
+    return s;
+  }
+  if(t==='shock')return el(x,y,15,17,'#fff')+ci(x,y,4,INK,false);
+  let s=el(x,y,10,15,INK,false)+ci(x-3,y-6,4,'#fff',false);
+  if(t==='half')s+=rect(x-14,y-18,28,16,sk)+ln(`M${x-14},${y-2} L${x+14},${y-2}`,INK,6);
+  return s;
+}
+function mouth(t){
+  switch(t){
+    case 'laugh':return pa('M-30,-290 Q0,-284 30,-290 Q28,-246 0,-244 Q-28,-246 -30,-290Z','#7a1f2b')+el(0,-256,14,8,'#f07a8a',false);
+    case 'tongue':return ln('M-24,-284 Q0,-266 24,-284',INK,5)+pa('M-8,-277 Q-10,-246 6,-248 Q20,-250 16,-279Z','#f07a8a');
+    case 'smirk':return ln('M-18,-278 Q6,-270 26,-288',INK,5);
+    case 'drool':return el(4,-276,9,7,'#7a1f2b',false)+el(16,-262,5,9,'#bfe6ff',false);
+    case 'o':return el(0,-274,12,15,'#7a1f2b');
+    case 'grit':return `<rect x="-26" y="-292" width="52" height="22" rx="6" fill="#fff" stroke="${INK}" stroke-width="${SW*.7}"/>`+ln('M-24,-281 L24,-281',INK,2);
+    case 'flat':return ln('M-14,-278 L14,-278',INK,5);
+    case 'frown':return ln('M-20,-270 Q0,-288 20,-270',INK,5);
+    case 'pout':return el(0,-276,12,10,'#e46b7b');
+    default:return ln('M-24,-286 Q0,-262 24,-286',INK,5);
+  }
+}
+function brows(e){
+  if(e==='fierce')return ln('M-62,-374 L-16,-354',INK,9)+ln('M62,-374 L16,-354',INK,9);
+  if(e==='sad')return ln('M-60,-352 L-18,-370',INK,7)+ln('M60,-352 L18,-370',INK,7);
+  if(e==='shock')return ln('M-58,-372 Q-38,-388 -18,-372',INK,6)+ln('M58,-372 Q38,-388 18,-372',INK,6);
+  return '';
+}
+function face(c,e){
+  const E=EMAP[e]||'open',M=MMAP[e]||'smile',ex=STY==='jp'?40:36;
+  let s=E==='wink'?eye(-ex,'open',c.eye,c.skin)+eye(ex,'happy'):eye(-ex,E,c.eye,c.skin)+eye(ex,E,c.eye,c.skin);
+  s+=el(-64,-292,16,8,'#ff8fa3',false,'opacity=".55"')+el(64,-292,16,8,'#ff8fa3',false,'opacity=".55"');
+  s+=STY==='jp'?ln('M2,-302 L-2,-295',INK,3):el(0,-300,7,5,'#e3987a',false);
+  s+=mouth(M);
+  if(e==='cry'||e==='cryjoy')s+=`<g class="tears">${ln(`M${-ex},-312 L${-ex-8},-228`,'#6cc4ff',13,'opacity=".9"')}${ln(`M${ex},-312 L${ex+8},-228`,'#6cc4ff',13,'opacity=".9"')}</g>`;
+  if(e==='grimace')s+=ln('M-60,-360 L-18,-352',INK,6)+ln('M60,-366 L18,-350',INK,6);
+  return s;
+}
+function headSVG(c,e){
+  const sk=c.skin;
+  if(e==='down'){
+    const curly=c.hair.style==='curly'||c.hair.style==='wavy';
+    return ci(0,-300,104,c.hair.c)+(curly?CURLF.slice(0,6).map(([x,y,r])=>ci(x,y+44,r,c.hair.c)).join(''):ln('M-46,-385 Q0,-402 46,-385',INK,3,'opacity=".5"'));
+  }
+  let s=el(-98,-320,14,20,sk)+el(98,-320,14,20,sk);
+  s+=STY==='jp'?pa('M-98,-350 C-98,-446 98,-446 98,-350 C98,-292 52,-238 0,-230 C-52,-238 -98,-292 -98,-350Z',sk):ci(0,-332,100,sk);
+  s+=face(c,e)+frontHair(c.hair)+brows(e);
+  return s;
+}
+function legs(c){
+  const b=c.bottom,sk=c.skin;let s='';
+  if(b.style==='dress')s+=pa('M-42,-80 L-42,-14 L-14,-14 L-14,-80Z',sk)+pa('M14,-80 L14,-14 L42,-14 L42,-80Z',sk);
+  else if(b.style==='shorts')s+=pa('M-58,-80 L-56,-14 L-24,-14 L-22,-80Z',sk)+pa('M22,-80 L24,-14 L56,-14 L58,-80Z',sk)+pa('M-70,-118 L-76,-66 L-6,-66 L0,-92 L6,-66 L76,-66 L70,-118Z',b.c);
+  else{const w=b.wide?84:72;s+=pa(`M-68,-112 L-${w},-12 L-6,-12 L0,-88 L6,-12 L${w},-12 L68,-112Z`,b.c);
+    if(b.clouds)s+=[[-42,-62],[36,-86],[44,-34]].map(([x,y])=>el(x,y,16,9,'#d8322a',false)+el(x+10,y-6,10,8,'#d8322a',false)+el(x+4,y,20,6,'none',false,'stroke="#fff" stroke-width="2"')).join('');}
+  s+=el(-38,-10,36,15,c.shoe)+el(38,-10,36,15,c.shoe);
+  return s;
+}
+function torso(c){
+  const t=c.top;
+  return c.bottom.style==='dress'?pa('M-62,-245 Q0,-258 62,-245 L104,-60 Q0,-44 -104,-60Z',t.c):pa('M-72,-215 Q-72,-250 -40,-252 L40,-252 Q72,-250 72,-215 L70,-100 Q0,-88 -70,-100Z',t.c);
+}
+function printSVG(c){
+  const t=c.top;
+  switch(t.print){
+    case 'dz':{let s='';for(let x=-54;x<=54;x+=18)s+=ln(`M${x},-244 L${x},-102`,'#0e7a4b',7,'opacity=".55"');
+      s+=pa('M-20,-252 L0,-222 L20,-252Z','#d8262c')+ci(32,-196,17,'#fff')+`<path d="M32,-213 A17,17 0 0,0 32,-179Z" fill="#1f9a63"/>`
+        +`<path d="M37,-203 A8,8 0 1,0 37,-189 A6,6 0 1,1 37,-203Z" fill="#d8262c"/>`
+        +`<text x="32" y="-219" font-size="15" text-anchor="middle" fill="#f2c14e">★★</text>`;return s}
+    case 'kuromi':return pa('M-30,-140 C-42,-190 -46,-222 -30,-236 C-22,-216 -12,-206 0,-206 C12,-206 22,-216 30,-236 C46,-222 42,-190 30,-140Z','#1d1724')
+      +el(0,-160,21,16,'#fff')+ci(0,-192,7,'#ff9cc9',false)+el(-8,-162,3,4,INK,false)+el(8,-162,3,4,INK,false)
+      +`<text x="0" y="-110" text-anchor="middle" class="t-disp" font-size="24" fill="#ffb3d6" stroke="${INK}" stroke-width="3" paint-order="stroke">KUROMI</text>`;
+    case 'stitch':return pa('M-26,-180 L-68,-216 L-36,-156Z','#3d7fd9')+pa('M26,-180 L68,-216 L36,-156Z','#3d7fd9')+el(0,-165,32,26,'#3d7fd9')
+      +el(-12,-170,7,9,INK,false)+el(12,-170,7,9,INK,false)+el(0,-154,8,5,'#1b2a4a',false);
+    case 'godream':return `<g class="t-disp" text-anchor="middle" fill="#ff6fae" stroke="${INK}" stroke-width="3" paint-order="stroke"><text x="0" y="-196" font-size="30">GO</text><text x="0" y="-168" font-size="22">DREAM</text><text x="0" y="-140" font-size="30">HARD</text></g>`;
+    case 'volley':return pa('M-71,-168 L71,-168 L70,-100 Q0,-88 -70,-100Z','#1b1b1f')
+      +`<text x="0" y="-112" text-anchor="middle" class="t-disp" font-size="46" fill="#fff">${t.num}</text><text x="34" y="-200" text-anchor="middle" font-size="17" font-weight="900" fill="#22b14c" font-family="Arial,sans-serif">VOCA</text>`;
+    case 'voca':return `<text x="32" y="-200" text-anchor="middle" font-size="18" font-weight="900" fill="#36c463" font-family="Arial,sans-serif">VOCA</text>`;
+    case 'kikko':return `<path d="M30,-214 l9,5 v10 l-9,5 l-9,-5 v-10Z" fill="none" stroke="#fff" stroke-width="3"/>`;
+    case 'red':return pa('M-26,-250 L0,-190 L26,-250Z',c.skin)+[[-18,-228],[-9,-212],[0,-206],[9,-212],[18,-228]].map(([x,y])=>ci(x,y,4,'#f2c14e',false)).join('');
+    default:return '';
+  }
+}
+const POSES={
+  down:[[[-64,-228],[-94,-165],[-90,-106]],[[64,-228],[94,-165],[90,-106]]],
+  thumbs:[[[-64,-228],[-106,-168],[-52,-178],'thumb'],[[64,-228],[106,-168],[52,-178],'thumb']],
+  peace:[[[-64,-228],[-94,-165],[-90,-106]],[[64,-228],[130,-262],[120,-348],'v']],
+  peace2:[[[-64,-228],[-130,-262],[-120,-348],'v'],[[64,-228],[130,-262],[120,-348],'v']],
+  up:[[[-64,-228],[-118,-300],[-134,-402],'open'],[[64,-228],[118,-300],[134,-402],'open']],
+  think:[[[-64,-228],[-94,-165],[-40,-140]],[[64,-228],[80,-150],[34,-250]]],
+  selfie:[[[-64,-228],[-94,-165],[-90,-106]],[[64,-228],[150,-296],[176,-392],'phone']],
+  phone:[[[-64,-228],[-92,-160],[-22,-178]],[[64,-228],[92,-160],[22,-178]]],
+  spike:[[[-64,-228],[-130,-238],[-142,-300]],[[64,-228],[112,-334],[120,-444],'open']],
+  hold:[[[-64,-228],[-84,-158],[-30,-140]],[[64,-228],[84,-158],[30,-140]]],
+  wave:[[[-64,-228],[-94,-165],[-90,-106]],[[64,-228],[132,-282],[152,-362],'open']],
+  point:[[[-64,-228],[-94,-165],[-90,-106]],[[64,-228],[140,-236],[206,-258],'finger']],
+  pointL:[[[-64,-228],[-140,-236],[-206,-258],'finger'],[[64,-228],[94,-165],[90,-106]]],
+  cross:[[[-64,-228],[-90,-172],[44,-170]],[[64,-228],[90,-158],[-44,-156]]],
+  hide:[[[-64,-228],[-118,-268],[-14,-318]],[[64,-228],[118,-268],[14,-318]]],
+  hips:[[[-64,-228],[-122,-180],[-74,-128]],[[64,-228],[122,-180],[74,-128]]],
+};
+function arm(p,sl,sk){
+  const [a,b,h,x]=p,d=`M${a} L${b} L${h}`,fs=`stroke="${INK}" stroke-width="${f(SW*.7)}"`;
+  let s=ln(d,INK,24+SW*2)+ln(d,sk,24)+ci(a[0],a[1]+6,24,sl)+ci(h[0],h[1],16,sk);
+  if(x==='thumb')s+=`<rect x="${h[0]-6}" y="${h[1]-36}" width="13" height="26" rx="6" fill="${sk}" ${fs}/>`;
+  if(x==='v')s+=`<rect x="${h[0]-13}" y="${h[1]-48}" width="11" height="34" rx="5" fill="${sk}" ${fs} transform="rotate(-14 ${h[0]} ${h[1]})"/><rect x="${h[0]+2}" y="${h[1]-48}" width="11" height="34" rx="5" fill="${sk}" ${fs} transform="rotate(14 ${h[0]} ${h[1]})"/>`;
+  if(x==='open')s+=[-20,0,20].map(r=>`<rect x="${h[0]-4}" y="${h[1]-38}" width="9" height="26" rx="4" fill="${sk}" ${fs} transform="rotate(${r} ${h[0]} ${h[1]})"/>`).join('');
+  if(x==='phone')s+=`<rect x="${h[0]-20}" y="${h[1]-44}" width="40" height="66" rx="8" fill="#16161a" stroke="${INK}" stroke-width="3"/>`;
+  if(x==='finger'){const dir=Math.sign(h[0]);s+=`<rect x="${dir>0?h[0]+6:h[0]-34}" y="${h[1]-6}" width="28" height="11" rx="5" fill="${sk}" ${fs}/>`}
+  return s;
+}
+function drawChar(c,e='smile',pose='down'){
+  e=e||'smile';pose=pose||'down';
+  const sk=c.skin,sl=c.top.sleeveless?sk:(c.top.sleeve||c.top.c);
+  let s=backHair(c.hair);
+  if(has(c,'backpack'))s+=pa('M-108,-250 Q-112,-280 -80,-280 L80,-280 Q112,-280 108,-250 L116,-58 Q116,-36 92,-36 L-92,-36 Q-116,-36 -116,-58Z','#1b1b1f');
+  if(has(c,'pillow'))s+=`<rect x="-220" y="-430" width="130" height="170" rx="30" fill="#b9d3ee" stroke="${INK}" stroke-width="${SW}"/>`+ln('M-200,-400 L-110,-400 M-200,-360 L-110,-360 M-200,-320 L-110,-320 M-180,-425 L-180,-265 M-140,-425 L-140,-265','#5b8fd0',5);
+  s+=legs(c)+torso(c)+printSVG(c);
+  s+=rect(-20,-262,40,32,sk);
+  s+=headSVG(c,e);
+  if(e!=='down'){
+    if(has(c,'glasses'))s+=`<rect x="-70" y="-350" width="62" height="48" rx="15" fill="rgba(255,255,255,.18)" stroke="${INK}" stroke-width="5"/><rect x="8" y="-350" width="62" height="48" rx="15" fill="rgba(255,255,255,.18)" stroke="${INK}" stroke-width="5"/>`+ln('M-8,-332 Q0,-340 8,-332',INK,4);
+    if(has(c,'cap'))s+=pa('M-104,-372 C-100,-478 100,-478 104,-372Z','#ff6fae')+pa('M-104,-372 Q-160,-374 -178,-354 Q-120,-346 -50,-372Z','#ff6fae')+ci(0,-470,8,'#ff6fae');
+    if(has(c,'earring'))s+=ci(-96,-284,6,'#f2c14e',false);
+  }
+  if(has(c,'phonesHead')){const y=e==='down'?30:0;s+=ln(`M-110,${-345+y} C-115,${-472+y} 115,${-472+y} 110,${-345+y}`,INK,22)+ln(`M-110,${-345+y} C-115,${-472+y} 115,${-472+y} 110,${-345+y}`,'#2a2a30',14)+`<rect x="-130" y="${-372+y}" width="38" height="72" rx="16" fill="#2a2a30" stroke="${INK}" stroke-width="${SW}"/><rect x="92" y="${-372+y}" width="38" height="72" rx="16" fill="#2a2a30" stroke="${INK}" stroke-width="${SW}"/>`}
+  if(has(c,'phonesNeck'))s+=ln('M-72,-236 C-60,-204 60,-204 72,-236',INK,18)+ln('M-72,-236 C-60,-204 60,-204 72,-236','#22355f',11)+el(-72,-238,24,30,'#22355f')+el(72,-238,24,30,'#22355f');
+  if(has(c,'backpack'))s+=ln('M-50,-250 L-58,-118',INK,22)+ln('M50,-250 L58,-118',INK,22)+ln('M-50,-250 L-58,-118','#2b2b30',14)+ln('M50,-250 L58,-118','#2b2b30',14);
+  const P=POSES[pose]||POSES.down;
+  for(const p of P)s+=arm(p,sl,sk);
+  if(pose==='phone')s+=`<rect x="-26" y="-226" width="52" height="76" rx="9" fill="#16161a" stroke="${INK}" stroke-width="4"/>`;
+  if(has(c,'tag'))s+=ln('M66,-236 L90,-222',INK,3)+`<rect x="84" y="-224" width="28" height="44" rx="4" fill="#fff" stroke="${INK}" stroke-width="4" transform="rotate(10 98 -202)"/>`+ln('M90,-206 L108,-203 M90,-198 L106,-195',INK,2);
+  if(has(c,'plush'))s+=el(36,-140,50,54,'#16161a')+el(36,-128,30,34,'#fff',false)+ci(20,-170,5,'#fff',false)+ci(52,-170,5,'#fff',false)+el(36,-152,8,6,'#ff9cc9',false)+el(76,-150,12,7,'#ff9cc9',false);
+  return s;
+}
+
+/* ---------- backgrounds ---------- */
+function shelves(r,x0,x1,y0,y1){let s='';for(let y=y0;y<y1;y+=70){s+=rect(x0,y+56,x1-x0,10,'#9aa3ad');for(let x=x0;x<x1;){const w=14+r()*30;s+=rect(f(x),y+14+f(r()*10),f(w-4),f(42-r()*10),['#e94b3c','#f2c51b','#3d8bd9','#ffffff','#7ac46a','#1d1d22','#f29bc4'][Math.floor(r()*7)]);x+=w}}return s}
+function bushes(r,n,y0,y1,cols,rmin=40,rmax=110){let s='';for(let i=0;i<n;i++)s+=ci(f(r()*1640-20),f(y0+r()*(y1-y0)),f(rmin+r()*(rmax-rmin)),cols[Math.floor(r()*cols.length)],false);return s}
+const BG={
+  title(){return{b:'',f:''}},
+  door8(){const r=rng(8);let b=rect(0,0,1600,1000,'#c3c7cf')+rect(1130,0,470,770,'#ece5d8')
+    +`<path d="M1130,120 L1600,40 L1600,560 C1480,470 1400,420 1300,420 L1130,470Z" fill="#000" opacity=".09"/>`
+    +`<rect x="770" y="160" width="380" height="610" fill="#dcd8d0" stroke="${INK}" stroke-width="5"/>`+rect(810,205,300,565,'#15161a')+`<rect x="830" y="470" width="46" height="10" rx="4" fill="#8a8d92"/>`
+    +`<text x="560" y="360" class="t-disp" font-size="240" fill="#5c6068" stroke="#3a3d42" stroke-width="5">8</text><rect x="600" y="440" width="44" height="60" rx="6" fill="#2a2c30"/>`
+    +rect(0,770,1600,230,'#bab3a7')+rect(0,770,770,26,'#55575b');
+    for(let x=6;x<770;x+=18)b+=rect(x,774,8,18,'#2d2e31');
+    b+=`<path d="M0,1000 L0,860 C300,820 700,860 1000,1000Z" fill="#fff3c9" opacity=".45"/>`;
+    b+=bushes(r,10,760,800,['#6e9a3e','#87b04a'],14,28).replace(/cx="(\d+(\.\d+)?)"/g,(m,x)=>`cx="${1280+(+x%300)}"`);
+    b+=`<g stroke="#c99a4e" stroke-width="12" stroke-linecap="round"><path d="M1380,640 L1380,790 M1500,640 L1500,790 M1370,700 L1510,700 M1400,560 L1400,700 M1490,560 L1490,700"/></g>`;
+    return{b,f:''}},
+  shop(){const r=rng(11);let b=rect(0,0,1600,1000,'#e9e6df')+rect(0,0,1600,250,'#a9adb2');
+    for(let y=40;y<250;y+=60)b+=rect(0,y,1600,12,'#f7f7f2');
+    b+=shelves(r,420,1600,300,650)+rect(0,650,1600,350,'#ece9e2');
+    for(let x=0;x<1600;x+=120)b+=ln(`M${x},650 L${x-200},1000`,'#d6d2c9',3);
+    b+=`<rect x="620" y="40" width="340" height="180" fill="#3a9ad9" stroke="${INK}" stroke-width="5"/><text x="660" y="120" class="t-disp" font-size="62" fill="#fff">MODE</text><text x="660" y="190" class="t-disp" font-size="62" fill="#fff">HOMME</text>`;
+    b+=rect(0,330,330,30,'#c99a5e')+rect(250,330,60,670,'#d8ad6e');
+    [['#c89b5a',30],['#9a9a96',110],['#f2f0ea',190]].forEach(([c,x])=>{b+=`<rect x="${x}" y="370" width="74" height="480" rx="6" fill="${c}" stroke="${INK}" stroke-width="4"/>`});
+    b+=`<rect x="150" y="560" width="70" height="96" fill="#e8d6b0" stroke="${INK}" stroke-width="3"/><text x="185" y="625" text-anchor="middle" class="t-disp" font-size="34" fill="${INK}">5 €</text>`;
+    let cage='';for(let x=1180;x<1600;x+=24)cage+=ln(`M${x},640 L${x},900`,'#f2d21b',5);for(let y=640;y<900;y+=26)cage+=ln(`M1170,${y} L1600,${y}`,'#f2d21b',5);
+    b+=cage;return{b,f:''}},
+  mirror(){const r=rng(5);let b=rect(0,0,1600,1000,'#efebe4')+`<rect x="40" y="200" width="360" height="800" fill="#d9d6cf" stroke="${INK}" stroke-width="5"/>`+rect(80,240,280,760,'#5b6270');
+    b+=`<rect x="1180" y="700" width="420" height="300" fill="#fafafa" stroke="${INK}" stroke-width="5"/>`+`<rect x="1240" y="610" width="200" height="92" rx="10" fill="#f6f6f6" stroke="${INK}" stroke-width="4"/>`;
+    for(let x=1252;x<1430;x+=22)b+=ln(`M${x},620 L${x},694`,'#c9c9c9',4);
+    for(let i=0;i<14;i++)b+=ci(1480+f(r()*100),f(260+i*30),5,'#ffe28a',false,'opacity=".9"');
+    b+=rect(0,940,1600,60,'#d8d2c6');return{b,f:''}},
+  flowers(){const r=rng(21);let b=rect(0,0,1600,1000,'#d9c094');for(let x=0;x<1600;x+=44)b+=rect(x,0,34,1000,'#c9a764')+ln(`M${x},${f(r()*1000)} L${x+34},${f(r()*1000)}`,'#8e6b33',3);
+    for(let i=0;i<70;i++){const x=f(r()*1600),y=f(r()*1000);b+=el(x,y,f(30+r()*30),f(18+r()*14),['#5f8f5a','#7aa874','#4c7a48','#94b98a'][Math.floor(r()*4)],false,`transform="rotate(${f(r()*180)} ${x} ${y})"`)}
+    for(let i=0;i<46;i++){const x=f(r()*1600),y=f(r()*1000),c=['#e8247a','#f04a9b','#c21aa8','#ff6fae'][Math.floor(r()*4)],R=f(22+r()*26);b+=[0,72,144,216,288].map(a=>ci(f(x+R*Math.cos(a*Math.PI/180)),f(y+R*Math.sin(a*Math.PI/180)),f(R*.8),c,false)).join('')+ci(x,y,6,'#ffe08a',false)}
+    return{b,f:''}},
+  night(){const r=rng(31);let b=rect(0,0,1600,1000,'#0e1622')+bushes(r,40,-40,560,['#15291a','#1d3a20','#24452a','#2e5432']);
+    b+=ci(560,470,6,'#ff4a4a',false)+ci(600,474,5,'#ff4a4a',false)+ci(1120,470,6,'#cfe8ff',false)+ci(1240,480,4,'#cfe8ff',false);
+    b+=rect(0,560,1600,10,'#111')+[...Array(17)].map((_,i)=>rect(i*100,560,8,300,'#111')).join('');
+    b+=`<rect x="250" y="600" width="1100" height="380" rx="20" fill="url(#holes)" stroke="#111" stroke-width="10"/>`;
+    let fr='';const R2=rng(4);for(let i=0;i<9;i++)fr+=`<g class="fry" style="animation-delay:${f(i*.12)}s"><rect x="${f(560+i*34)}" y="${f(840-R2()*40)}" width="18" height="${f(120+R2()*40)}" rx="4" fill="#f6c84a" stroke="${INK}" stroke-width="4" transform="rotate(${f(-20+R2()*40)} ${f(570+i*34)} 930)"/></g>`;
+    const ff=`<path d="M0,790 L1600,760 L1600,1000 L0,1000Z" fill="#7fa77a" stroke="${INK}" stroke-width="5"/>`
+      +`<path d="M60,820 L520,800 L560,1000 L40,1000Z" fill="#f4f1ea" stroke="${INK}" stroke-width="4"/>`
+      +el(250,880,150,46,'#d99a4a')+el(250,905,160,22,'#6fbf4a')+el(250,925,150,24,'#5a3420')+el(250,950,140,26,'#e0a656')
+      +[...Array(10)].map((_,i)=>el(f(170+i*18),f(858+(i%3)*8),4,2.4,'#fff6d8',false)).join('')
+      +`<path d="M420,960 C460,930 500,950 520,920 C540,950 470,980 420,960Z" fill="#a8261c"/>`
+      +`<rect x="520" y="880" width="420" height="120" rx="10" fill="#efe6d4" stroke="${INK}" stroke-width="4"/>`+fr
+      +`<rect x="1170" y="640" width="190" height="300" rx="8" fill="#3fb84a" stroke="${INK}" stroke-width="5"/>`+ln('M1265,640 L1290,520',INK,14)+ln('M1265,640 L1290,520','#fff',8)
+      +`<path d="M1170,640 L1200,600 L1330,600 L1360,640Z" fill="#2f9a3a" stroke="${INK}" stroke-width="4"/>`;
+    return{b,f:ff}},
+  van(){const r=rng(41);let b=rect(0,0,1600,1000,'#e6cf9f')+rect(0,0,1600,170,'#7a4a3a');
+    for(let y=20;y<170;y+=30)b+=ln(`M0,${y} L1600,${y}`,'#5a3328',4);
+    b+=`<rect x="300" y="40" width="120" height="70" fill="#bcd7ea" stroke="${INK}" stroke-width="4"/><rect x="1000" y="40" width="120" height="70" fill="#bcd7ea" stroke="${INK}" stroke-width="4"/>`;
+    b+=`<rect x="140" y="400" width="220" height="200" fill="#fff" stroke="${INK}" stroke-width="5"/>`+rect(160,420,180,160,'#cfdbe4');
+    b+=rect(0,770,1600,230,'#6d6d70');for(let i=0;i<140;i++)b+=ci(f(r()*1600),f(780+r()*220),f(2+r()*4),['#8a8a8e','#55555a','#9a9aa0'][Math.floor(r()*3)],false);
+    b+=`<path d="M930,900 L930,420 Q940,300 1060,280 L1640,260 L1640,900Z" fill="#141519" stroke="${INK}" stroke-width="6"/>`
+      +el(1080,905,90,90,'#222')+el(1080,905,50,50,'#888')+el(1500,905,90,90,'#222')+el(1500,905,50,50,'#888');
+    b+=`<g transform="rotate(-2 1290 520)"><rect x="1000" y="360" width="580" height="320" fill="#fbfbfb" stroke="${INK}" stroke-width="5"/>`
+      +`<text x="1040" y="540" font-family="'Arial Black',Impact,sans-serif" font-weight="900" font-size="170" fill="#22b14c" stroke="#0d5e27" stroke-width="3">VOCA</text>`
+      +`<text x="1050" y="620" font-family="Arial,sans-serif" font-size="46" font-weight="700" fill="#111">Volley Cornebarrieu</text>`
+      +ci(1028,382,7,'#ccc')+ci(1552,382,7,'#ccc')+`</g>`;
+    return{b,f:''}},
+  car(){const r=rng(51);let trees='';for(let i=0;i<14;i++)trees+=ci(i*110,f(380+r()*80),f(70+r()*40),['#5b9a3a','#78b04a','#4a8a30'][i%3],false);
+    let b=rect(0,0,1600,1000,'#dcdcd8')+`<defs><clipPath id="win"><path d="M0,140 L360,170 L380,560 L0,620Z"/></clipPath></defs>`
+      +`<g clip-path="url(#win)">${rect(0,100,400,540,'#bfe3f7')}<g class="scrollx">${trees}<g transform="translate(1540,0)">${trees}</g></g>${rect(0,540,400,100,'#8d8f91')}</g>`
+      +`<path d="M0,140 L360,170 L380,560 L0,620Z" fill="none" stroke="#2a2b2e" stroke-width="20"/>`
+      +`<path d="M640,250 L1220,250 L1190,470 L670,470Z" fill="#cfe7f2" stroke="#2a2b2e" stroke-width="16"/>`+rect(700,420,460,40,'#7aa0a8')
+      +`<rect x="660" y="60" width="300" height="40" rx="12" fill="#c8c8c4"/>`
+      +`<rect x="250" y="430" width="250" height="220" rx="40" fill="#1d1e22"/><rect x="1000" y="430" width="250" height="220" rx="40" fill="#1d1e22"/>`;
+    const fg=`<path d="M0,820 Q800,760 1600,820 L1600,1000 L0,1000Z" fill="#26272c" stroke="${INK}" stroke-width="5"/>`+ln('M90,760 L700,900',INK,18)+ln('M1520,760 L900,900',INK,18);
+    return{b,f:fg}},
+  picnic(){const r=rng(61);let b=`<rect width="1600" height="1000" fill="url(#sky)"/>`
+      +rect(0,440,1600,140,'#d8e6ef')+`<rect x="160" y="420" width="300" height="140" rx="30" fill="#f4f4f2" stroke="${INK}" stroke-width="4"/><rect x="620" y="440" width="260" height="120" rx="30" fill="#e2312b" stroke="${INK}" stroke-width="4"/><rect x="1010" y="430" width="240" height="130" rx="30" fill="#2d3d34" stroke="${INK}" stroke-width="4"/>`
+      +[230,390,690,820,1070,1190].map(x=>ci(x,560,30,'#222',false)).join('')
+      +bushes(r,18,180,420,['#5fa83a','#7cc04a','#4c9030'],60,110).replace(/cx="(\d+(\.\d+)?)"/g,(m,x)=>`cx="${1150+(+x%450)}"`)
+      +rect(0,580,1600,420,'#b39a8a');
+    for(let x=-40;x<1640;x+=46)b+=rect(x,60,26,160,'#6d5c4a');b+=rect(0,200,1600,26,'#5a4a3a');
+    const fg=`<path d="M60,770 L1520,700 L1600,830 L0,900Z" fill="#a47c52" stroke="${INK}" stroke-width="5"/>`+ln('M40,820 L1560,760',INK,3)+ln('M30,860 L1580,800',INK,3)
+      +`<rect x="440" y="700" width="150" height="80" rx="14" fill="#a9d6c2" stroke="${INK}" stroke-width="4"/>`+rect(500,700,26,80,'#efe6d0')
+      +`<rect x="700" y="610" width="56" height="140" rx="12" fill="#e8f4fb" stroke="${INK}" stroke-width="4" opacity=".95"/>`
+      +`<path d="M840,640 L960,620 L980,740 L850,750Z" fill="#f3d36b" stroke="${INK}" stroke-width="4"/>`
+      +rect(200,900,60,100,'#7a5a3a')+rect(1340,860,60,140,'#7a5a3a');
+    return{b,f:fg}},
+  grass(){const r=rng(71);let b=rect(0,0,1600,1000,'#3f7a32')+bushes(r,80,-60,700,['#2f6a2a','#4a8a3a','#5fa046','#3a7a30','#e9f2df'],50,120)+rect(0,680,1600,320,'#6aa84f');
+    for(let i=0;i<120;i++){const x=f(r()*1600),y=f(690+r()*310);b+=ln(`M${x},${y} l${f(-6+r()*12)},-18`,'#4f8a3a',3)}
+    const fg=`<path d="M40,770 L600,740 L620,1000 L20,1000Z" fill="#c8a06a" stroke="${INK}" stroke-width="5"/>`
+      +[[120,760],[230,740],[350,770],[460,750],[180,830],[400,820]].map(([x,y],i)=>`<g transform="rotate(${-20+i*9} ${x} ${y})"><rect x="${x-50}" y="${y-40}" width="100" height="80" rx="12" fill="#e01f26" stroke="${INK}" stroke-width="4"/>${ci(x,y,22,'#f6c400',false)}</g>`).join('')
+      +`<text x="80" y="960" font-family="'Gochi Hand',cursive" font-size="44" fill="#1b2a6a" transform="rotate(-2 80 960)">VOCA CORNEBARRIEU M15  (11)</text>`;
+    return{b,f:fg}},
+  gym(){let b=rect(0,0,1600,1000,'#cfd6d3')+rect(0,0,1600,170,'#7fb5a8');
+    for(let x=0;x<1600;x+=40)b+=ln(`M${x},170 L${x},700`,'#bcc4c0',2);
+    b+=ln('M0,170 L1600,120',  '#b07a48',26)+ln('M300,0 L300,700','#c48a52',30)+ln('M1300,0 L1300,700','#c48a52',30)+ln('M0,60 L800,170 L1600,60','#b07a48',22);
+    b+=`<rect x="620" y="190" width="360" height="150" fill="#16161a" stroke="${INK}" stroke-width="5"/><text x="700" y="290" class="t-disp" font-size="78" fill="#ff3b30" text-anchor="middle">25</text><text x="900" y="290" class="t-disp" font-size="78" fill="#ff3b30" text-anchor="middle">23</text><text x="700" y="325" font-size="20" fill="#ddd" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700">LOCAUX</text><text x="900" y="325" font-size="20" fill="#ddd" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700">VISITEURS</text>`;
+    b+=rect(0,700,1600,300,'#2aa198')+ln('M0,800 L1600,760','#f2d21b',8)+ln('M0,930 L1600,880','#d84a3a',6)+ln('M200,1000 L520,700','#fff',5)+ln('M1400,1000 L1100,700','#fff',5);
+    let net='';for(let x=70;x<1530;x+=28)net+=ln(`M${x},450 L${x},600`,'#222',2);for(let y=450;y<=600;y+=25)net+=ln(`M70,${y} L1530,${y}`,'#222',2);
+    b+=rect(60,380,18,380,'#f4f4f4')+rect(1522,380,18,380,'#f4f4f4')+net+rect(70,440,1460,16,'#f4f4f4');
+    return{b,f:''}},
+  park(){const r=rng(81);let b=`<rect width="1600" height="1000" fill="url(#dusk)"/>`
+      +`<rect x="1100" y="560" width="160" height="140" fill="#b56a4a"/><rect x="1260" y="520" width="340" height="180" fill="#f0f0f0"/>`+[...Array(8)].map((_,i)=>rect(1280+i*40,540,24,16,'#9ab')).join('')
+      +`<rect x="0" y="540" width="200" height="160" fill="#e8e8e8"/>`+bushes(r,26,620,690,['#3f6a2f','#557a3a'],20,46)
+      +rect(0,690,1600,310,'#c9b27c');
+    for(let i=0;i<220;i++){const x=f(r()*1600),y=f(700+r()*300);b+=ln(`M${x},${y} l${f(-10+r()*20)},-14`,['#a8915a','#8a7a4a','#d8c48c'][i%3],3)}
+    b+=`<g fill="#8f3b2b" stroke="${INK}" stroke-width="5" stroke-linejoin="round"><path d="M880,880 L1200,880 L1200,930 L880,930Z"/><path d="M1000,790 L1080,790 L1200,880 L1120,880Z"/><path d="M990,750 L1240,750 L1240,790 L990,790Z"/><path d="M1190,520 L1250,520 L1250,790 L1190,790Z"/></g>`;
+    return{b,f:''}},
+  bench(){const r=rng(91);let b=rect(0,0,1600,1000,'#3b302c');
+    for(let y=0;y<700;y+=26){b+=ln(`M0,${y} L1600,${y}`,'#2a221f',3);for(let x=(y/26%2)*30;x<1600;x+=60)b+=ln(`M${x},${y} L${x},${y+26}`,'#2a221f',3)}
+    b+=`<rect x="60" y="120" width="400" height="580" fill="#4b5560" stroke="#111" stroke-width="10"/>`+ln('M260,120 L260,700','#111',8)
+      +`<rect x="1080" y="200" width="520" height="130" fill="#f2a6c8"/><text x="1340" y="285" text-anchor="middle" font-family="'Gochi Hand',cursive" font-size="58" fill="#3b1a2a">Institut de beauté</text>`
+      +rect(1080,330,520,370,'#55606a')+`<path d="M1200,400 C1220,460 1260,520 1240,600" fill="none" stroke="#ffe36a" stroke-width="6"/>`
+      +`<rect x="860" y="420" width="100" height="200" rx="10" fill="#f2c51b" stroke="${INK}" stroke-width="5"/>`
+      +rect(720,0,40,700,'#8a7a66')+bushes(r,22,-80,160,['#5f8f3a','#78a84a','#4c7a30'],50,90)
+      +rect(0,700,1600,300,'#b8b6b0');
+    for(let i=0;i<160;i++)b+=ci(f(r()*1600),f(710+r()*290),2,'#8a8884',false);
+    const fg=`<rect x="140" y="820" width="1320" height="80" fill="#a9a7a1" stroke="${INK}" stroke-width="5"/><rect x="200" y="900" width="160" height="100" fill="#97958f" stroke="${INK}" stroke-width="5"/><rect x="1240" y="900" width="160" height="100" fill="#97958f" stroke="${INK}" stroke-width="5"/>`;
+    return{b,f:fg}},
+};
+
+/* ---------- effects ---------- */
+function raysSVG(cx,cy,a,b2,n=22){let s='';for(let i=0;i<n;i+=2){const a1=i/n*Math.PI*2,a2=(i+1)/n*Math.PI*2;s+=`<path d="M${cx},${cy} L${f(cx+2200*Math.cos(a1))},${f(cy+2200*Math.sin(a1))} L${f(cx+2200*Math.cos(a2))},${f(cy+2200*Math.sin(a2))}Z" fill="${b2}"/>`}
+  return rect(0,0,1600,1000,a)+`<g class="spin" style="transform-origin:${cx}px ${cy}px">${s}</g>`}
+function speedSVG(cx,cy,col,op,inner=320){const r=rng(7);let s='';for(let i=0;i<80;i++){const a=r()*Math.PI*2,w=.004+r()*.012,r0=inner+r()*180;s+=`<path d="M${f(cx+r0*Math.cos(a))},${f(cy+r0*Math.sin(a))} L${f(cx+1600*Math.cos(a-w))},${f(cy+1600*Math.sin(a-w))} L${f(cx+1600*Math.cos(a+w))},${f(cy+1600*Math.sin(a+w))}Z" fill="${col}"/>`}return `<g opacity="${op}">${s}</g>`}
+function sakuraSVG(n=28){const r=rng(3);let s='';for(let i=0;i<n;i++){const x=f(r()*1900),d=f(7+r()*6),dl=f(-r()*d),sc=f(.7+r()*.9);s+=`<g transform="translate(${x},-40) scale(${sc})"><g class="petal" style="animation-duration:${d}s;animation-delay:${dl}s"><path d="M0,-14 C12,-14 16,0 0,14 C-16,0 -12,-14 0,-14Z" fill="#f9c3d3" stroke="#e57f9f" stroke-width="2"/></g></g>`}return s}
+function confettiSVG(){const r=rng(9);let s='';for(let i=0;i<50;i++){const x=f(r()*1600),d=f(2.4+r()*2),dl=f(-r()*d);s+=`<g transform="translate(${x},-30)"><g class="conf" style="animation-duration:${d}s;animation-delay:${dl}s"><rect width="18" height="10" fill="${['#22b14c','#ffffff','#ffcc1a','#e2412f','#1f4fd1','#f7a1c4'][i%6]}" stroke="${INK}" stroke-width="1.5"/></g></g>`}return s}
+function sparkleSVG(){const r=rng(13);let s='';for(let i=0;i<10;i++){const x=f(200+r()*1200),y=f(120+r()*600),sc=f(.6+r()*1);s+=`<g transform="translate(${x},${y}) scale(${sc})"><g class="spark" style="animation-delay:${f(-r()*1.4)}s"><path d="M0,-40 Q6,-6 40,0 Q6,6 0,40 Q-6,6 -40,0 Q-6,-6 0,-40Z" fill="#fff6a8" stroke="${INK}" stroke-width="3"/></g></g>`}return s}
+function zzzSVG(x,y){return [0,.8,1.6].map(d=>`<g transform="translate(${x},${y})"><g class="zz" style="animation-delay:-${d}s"><text class="t-disp" font-size="64" fill="#fff" stroke="${INK}" stroke-width="6" paint-order="stroke">Z</text></g></g>`).join('')}
+function gloomSVG(){const r=rng(17);let s=rect(0,0,1600,1000,'#1d2440','opacity=".38"');for(let i=0;i<60;i++){const x=f(r()*1600),y=f(r()*900);s+=ln(`M${x},${y} l0,${f(60+r()*80)}`,'#a9b8de',3,'opacity=".7"')}
+  return s+`<g transform="translate(800,170)">${el(0,0,240,70,'#5a6178')}${el(-150,20,120,60,'#5a6178')}${el(150,20,130,60,'#5a6178')}</g>`}
+function ballSVG(x,y,smash){return `<g transform="translate(${x},${y})"><g class="ball${smash?' smash':''}"><circle r="40" fill="#ffd23a" stroke="${INK}" stroke-width="5"/>${ln('M-38,-10 Q0,-30 38,-10',  '#2a56c6',9)}${ln('M-30,22 Q0,0 30,22','#2a56c6',9)}${ln('M-6,-40 Q-22,0 -6,40','#2a56c6',7)}</g></g>`}
+
+/* ---------- scenes ---------- */
+const C=(id,x,y,s,expr,pose,anim,over)=>({id,x,y,s,expr,pose,anim,over});
+const L=(who,t,o={})=>({who,t,...o});
+const J=(who,jp,ro,t,o={})=>({who,jp,ro,t,...o});
+const CH={
+  title:()=>[C('kuromi',290,975,.8,'laugh','down','laugh'),C('fennec',540,960,.95,'smile','thumbs','bounce'),C('ombre',1070,960,.95,'smug','cross'),C('stitchou',1310,975,.78,'tongue','peace2','bounce'),C('maman',800,965,1,'smile','wave')],
+  door8:()=>[C('maman',470,965,1,'shock','hips'),C('kuromi',960,955,.85,'laugh','down','laugh')],
+  flowers:()=>[C('maman',800,990,1.08,'smug','selfie')],
+  shop:()=>[C('ombre',640,965,1,'neutral','down'),C('maman',1160,965,1,'smile','pointL')],
+  mirror:()=>[C('stitchou',330,975,.78,'shock','point'),C('fennec',860,965,1.05,'smile','thumbs')],
+  night:()=>[C('stitchou',800,905,.95,'tongue','peace',null,{top:{c:'#7a5a9a',print:'godream'},acc:['earring']})],
+  van:()=>[C('coach',330,965,.95,'fierce','wave'),C('fennec',600,970,.9,'smile','thumbs'),C('ombre',840,970,.9,'smug','cross')],
+  car:()=>[C('fond',930,640,.55,'neutral','down'),C('n21',380,880,1.05,'sleep','down',null,{top:{c:'#f4f4f2',print:'white'},bottom:{style:'pants',c:'#1b1b1f'},acc:['glasses','pillow']}),C('dormeur',1120,880,1.05,'sleep','hold','breathe')],
+  picnic:()=>[C('lunettes',300,950,.95,'smile','cross'),C('grimace',620,930,.82,'grimace','down'),C('roses',1250,940,.95,'smile','hold')],
+  gym:()=>[C('n3',230,965,.88,'smile','down'),C('n21',470,965,.88,'smile','hold'),C('n15',1100,965,.9,'smile','down'),C('coach',1390,965,.95,'fierce','hips'),C('n6',800,940,.95,'fierce','spike','jump')],
+  grass:()=>[C('n8',470,975,.92,'smile','hold'),C('n21',800,960,.92,'smile','hold'),C('n9',1120,975,.92,'smile','down'),C('n17',800,1230,.95,'laugh','hold')],
+  bench:()=>[C('fennec',600,915,1,'smug','hold',null,{top:{c:'#1d1b20',print:'kikko'},acc:['glasses']}),C('ombre',1000,915,1,'smug','cross',null,{acc:[]})],
+  park:()=>[C('ombre',1110,775,.8,'think','think',null,{acc:['phonesHead']}),C('kuromi',230,975,.75,'laugh','down','laugh'),C('stitchou',500,970,.8,'smile','phone'),C('fennec',780,985,.85,'smile','thumbs'),C('maman',1380,985,.95,'smile','selfie')],
+};
+const WIN={n3:{expr:'joy',pose:'up',anim:'bounce'},n21:{expr:'joy',pose:'up',anim:'bounce'},n15:{expr:'joy',pose:'up',anim:'bounce'},coach:{expr:'joy',pose:'up',anim:'bounce'},n6:{expr:'joy',pose:'up',anim:'bounce'}};
+const WINJP=Object.fromEntries(Object.keys(WIN).map(k=>[k,{...WIN[k],expr:'cryjoy'}]));
+const EP={
+fr:{badge:'ÉPISODE 1 · VF',scenes:[
+  {bg:'title',cap:'Épisode 1 : Opération Tournoi',fx:['rays'],logo:['LES ZARBIS','DE CORNEBARRIEU'],steps:[
+    L('N','Une famille. Une équipe de volley. Zéro neurone de calme.'),
+    L('N','Voici les Zarbis de Cornebarrieu. Épisode 100 % véridique (à 12 % près).',{sfx:[{t:'TADAAA !',x:1300,y:440,r:8,s:90}]})]},
+  {bg:'door8',cap:'7 h 02 · Porte n°8',steps:[
+    L('N','7 h 02. {kuromi} rigole depuis 6 h 58. Personne ne sait pourquoi.',{sfx:[{t:'HI HI HI !',x:1200,y:300,r:-8,s:90}]}),
+    L('maman','Mais pourquoi tu ris ?'),
+    L('kuromi','J\'sais pas… mais c\'est TROP drôle !'),
+    L('maman','… Bon. C\'est contagieux. HA HA HA !',{set:{maman:{expr:'laugh',anim:'laugh'}},sfx:[{t:'HA HA !',x:430,y:320,r:6,s:100}]}),
+    L('N','À 7 h 05, toute la rue rigole. Personne ne sait toujours pas pourquoi.')]},
+  {bg:'flowers',cap:'Pendant ce temps…',steps:[
+    L('N','Pendant ce temps, {maman} a trouvé le seul mur de fleurs à 30 km à la ronde.'),
+    L('maman','Attendez, je prends juste une photo. Ou quarante.',{sfx:[{t:'CLIC !',x:1250,y:250,r:10,s:90}]}),
+    L('N','Photo n°38. La lumière est enfin parfaite.',{set:{maman:{expr:'smile'}},fx:['flash'],sfx:[{t:'CLIC CLIC CLIC',x:800,y:200,r:-4,s:80}]}),
+    L('maman','Bon… on recommence. J\'avais les yeux fermés.',{set:{maman:{expr:'blink'}}})]},
+  {bg:'shop',cap:'Samedi 10 h 15 · Rayon Mode Homme',steps:[
+    L('maman','{ombre}, tu le veux vraiment, ce sac géant ?'),
+    L('ombre','Oui. Il est assez grand pour ranger mes pensées sombres.',{set:{ombre:{expr:'smug'}}}),
+    L('maman','Et tes cahiers ?',{set:{maman:{expr:'shock'}}}),
+    L('ombre','… Il reste de la place à côté des pensées.'),
+    L('N','Le sac pèse 300 grammes vide. 14 kilos avec les pensées.',{sfx:[{t:'BOUM',x:640,y:950,r:0,s:90}]})]},
+  {bg:'mirror',cap:'Dans la chambre',steps:[
+    L('stitchou','{fennec} ! T\'as encore l\'étiquette sur le maillot !'),
+    L('fennec','C\'est fait exprès. Comme ça, je reste neuf.',{set:{fennec:{expr:'smug'}}}),
+    L('fennec','Deux étoiles sur le maillot, deux pouces en l\'air. Validé. Validé.',{set:{fennec:{expr:'smile',anim:'bounce'}},fx:['sparkle'],sfx:[{t:'CLIC CLIC',x:1270,y:330,r:8,s:80}]}),
+    L('stitchou','C\'est le maillot le plus validé de l\'histoire.',{set:{stitchou:{expr:'laugh'}}})]},
+  {bg:'night',cap:'21 h 30 · Opération Frites',steps:[
+    L('N','Règle n°1 de {stitchou} : on ne partage pas les frites.'),
+    L('stitchou','Je les mange pas, les frites… je les ADOPTE.',{set:{stitchou:{expr:'smug'}}}),
+    L('N','Une frite disparaît. Puis deux. Puis toute la famille adoptive.',{cls:'eat',sfx:[{t:'CROC !',x:1060,y:560,r:-6,s:90}]}),
+    L('stitchou','Bleeeeh !',{set:{stitchou:{expr:'tongue',anim:'bounce'}}})]},
+  {bg:'van',cap:'Dimanche 6 h 30 · Le van officiel',steps:[
+    L('coach','Tout le monde dans le van ! On a un tournoi à gagner !',{sfx:[{t:'GO GO GO !',x:330,y:290,r:-6,s:80}]}),
+    L('fennec','Coach, j\'ai pris mon casque, mon maillot… et zéro heure de sommeil.'),
+    L('ombre','Prêts. Moi et mes pensées sombres.'),
+    L('N','Le van démarre. La moitié de l\'équipe est déjà en mode avion.',{sfx:[{t:'VROUUUM',x:1250,y:960,r:-3,s:100}]})]},
+  {bg:'car',cap:'Kilomètre 3',fx:[{type:'zzz',x:1230,y:420},{type:'zzz',x:500,y:420}],steps:[
+    L('N','Kilomètre 3. La moitié de l\'équipe dort déjà.'),
+    L('dormeur','Zzz… smash… zzz… chips… zzz…'),
+    L('fond','On est bientôt arrivés ?',{set:{fond:{expr:'sad'}}}),
+    L('N','Non. Il reste 247 kilomètres.',{sfx:[{t:'…',x:800,y:330,s:130}]})]},
+  {bg:'picnic',cap:'Aire d\'autoroute · 12 h 04',steps:[
+    L('N','Pause déjeuner sur l\'aire d\'autoroute. Ambiance : très professionnelle.'),
+    L('N','{grimace} prépare son visage de match.',{sfx:[{t:'POUF',x:640,y:360,r:-8,s:70}]}),
+    L('roses','Chaussettes roses et claquettes. C\'est ça, le style des champions.'),
+    L('lunettes','On peut manger, ou il faut encore poser pour la photo ?')]},
+  {bg:'gym',cap:'Le match',steps:[
+    L('coach','Allez VOCA ! Concentrés ! On joue ensemble !'),
+    L('N','Balle de match. Le gymnase retient son souffle.',{fx:['ballHold']}),
+    L('n6','SMAAAASH !',{fx:['ballSmash','speed','flash'],sfx:[{t:'PAF !!!',x:1200,y:330,r:-10,s:150}]}),
+    L('N','Le ballon est encore en orbite. La NASA a appelé pour le récupérer.'),
+    L('coach','ON A GAGNÉ !!!',{set:WIN,fx:['confetti'],sfx:[{t:'VOCAAA !',x:800,y:200,r:-4,s:130}]})]},
+  {bg:'grass',cap:'Après la victoire',steps:[
+    L('n21','Bouge pas. On te fait des tresses de champion.'),
+    L('n17','Je peux manger des chips pendant ?'),
+    L('n8','Non ! … Bon, d\'accord.',{set:{n8:{expr:'laugh'}}}),
+    L('N','Le carton n°11 contenait 24 paquets de chips. Il en reste 0.',{sfx:[{t:'CRONCH',x:330,y:640,r:-8,s:90}]})]},
+  {bg:'bench',cap:'Avant…',steps:[
+    L('N','Avant : on leur annonce qu\'on a gagné le tournoi.'),
+    L('fennec','Normal. On est trop forts.'),
+    L('ombre','Évidemment.'),
+    L('N','Après : on leur annonce qu\'il n\'y a plus de chips.',{cap:'Après…',set:{fennec:{expr:'down'},ombre:{expr:'down',pose:'hide'}},fx:['gloom'],sfx:[{t:'…',x:800,y:290,s:140}]})]},
+  {bg:'park',cap:'Fin de journée · Au parc',steps:[
+    L('ombre','Je médite sur la chaise en Z. Ne me dérangez pas.'),
+    L('stitchou','Trop tard. T\'es en story.',{set:{stitchou:{expr:'tongue'}}}),
+    L('maman','Tout le monde regarde Maman ! Photo de famille !',{set:{ombre:{expr:'smile',pose:'peace'}}}),
+    L('kuromi','HI HI HI !',{fx:['flash'],sfx:[{t:'CLIC !',x:1380,y:300,r:8,s:90}]}),
+    L('N','FIN de l\'épisode 1. Les Zarbis reviendront. Avec des chips.',{sfx:[{t:'FIN',x:800,y:260,r:-3,s:170}]})]},
+]},
+jp:{badge:'第一話 · VOSTFR',scenes:[
+  {bg:'title',cap:{jp:'第一話',fr:'Épisode 1'},fx:['rays','sakura'],logo:['コルヌバリューの伝説','CORNEBARRIEU NO DENSETSU'],steps:[
+    J('N','コルヌバリューの町に…伝説の一族がいた。','Korunubaryū no machi ni… densetsu no ichizoku ga ita.','Dans la ville de Cornebarrieu… vivait un clan légendaire.'),
+    J('N','そして、伝説のバレー部も。','Soshite, densetsu no barē-bu mo.','Et un club de volley tout aussi légendaire.',{sfx:[{t:'ドーン！',x:1300,y:440,r:8,s:100}]})]},
+  {bg:'door8',cap:{jp:'八番の扉',fr:'La porte n°8'},fx:['sakura'],steps:[
+    J('N','八番の扉の前で、少女は笑い続けていた。','Hachiban no tobira no mae de, shōjo wa warai tsuzukete ita.','Devant la porte n°8, la petite riait sans pouvoir s\'arrêter.'),
+    J('kuromi','笑いの術！発動！','Warai no jutsu! Hatsudō!','Technique du Rire… activation !',{fx:['speedc'],sfx:[{t:'ドドドド',x:1220,y:300,r:-8,s:90}]}),
+    J('maman','な…なんて力なの…！','Na… nante chikara na no…!','Qu… quelle puissance… !',{set:{maman:{expr:'shock'}}}),
+    J('N','その笑いは、半径十キロに届いた。','Sono warai wa, hankei jukkiro ni todoita.','Son rire porta sur un rayon de dix kilomètres.',{set:{maman:{expr:'laugh',anim:'laugh'}}})]},
+  {bg:'flowers',cap:{jp:'花の母上',fr:'La Mère des fleurs'},fx:['sakura'],steps:[
+    J('maman','花たちよ、私の背景になりなさい。','Hana-tachi yo, watashi no haikei ni narinasai.','Fleurs… devenez mon décor.'),
+    J('N','母上の必殺技――','Hahaue no hissatsu-waza…','La technique secrète de Mère…',{fx:['speedc']}),
+    J('maman','自撮りの眼！','Jidori no Me!','L\'Œil du Selfie !',{set:{maman:{expr:'smile'}},fx:['sparkle','flash'],sfx:[{t:'キラッ',x:1250,y:250,r:10,s:110}]}),
+    J('N','撮影枚数：三十八枚。','Satsuei maisū: sanjūhachi-mai.','Nombre de photos prises : 38.',{set:{maman:{expr:'blink'}}})]},
+  {bg:'shop',cap:{jp:'影の姫',fr:'La Princesse de l\'Ombre'},steps:[
+    J('N','影姫。音のない世界に生きる者。','Kage-hime. Oto no nai sekai ni ikiru mono.','Kage-hime, la Princesse de l\'Ombre. Un être qui vit dans un monde sans bruit.'),
+    J('ombre','このカバンには…世界が入る。','Kono kaban ni wa… sekai ga hairu.','Dans ce sac… le monde entier peut tenir.',{set:{ombre:{expr:'smug'}}}),
+    J('maman','教科書は？','Kyōkasho wa?','Et tes manuels ?',{set:{maman:{expr:'shock'}}}),
+    J('ombre','ヘッドホン装着。沈黙モード。','Heddohon sōchaku. Chinmoku mōdo.','Casque en place. Mode silence.',{fx:['tone'],sfx:[{t:'シーン…',x:1010,y:290,r:0,s:100}]})]},
+  {bg:'mirror',cap:{jp:'緑の戦士',fr:'Le combattant vert'},steps:[
+    J('stitchou','フェネック！タグがついたままだよ！','Fenekku! Tagu ga tsuita mama da yo!','{fennec} ! T\'as encore l\'étiquette !'),
+    J('fennec','わざとだ。新品のままでいるために。','Wazato da. Shinpin no mama de iru tame ni.','C\'est voulu. Pour rester neuf.',{set:{fennec:{expr:'smug'}}}),
+    J('fennec','二つ星の力を見せてやる！','Futatsuboshi no chikara wo misete yaru!','Je vais vous montrer le pouvoir des deux étoiles !',{set:{fennec:{expr:'fierce'}},fx:['aura'],sfx:[{t:'ゴゴゴゴ',x:1290,y:330,r:6,s:100}]}),
+    J('fennec','グッド！グッド！','Guddo! Guddo!','Validé ! Validé !',{set:{fennec:{expr:'joy',anim:'bounce'}},fx:['sparkle']})]},
+  {bg:'night',cap:{jp:'夜のバーガー',fr:'Le burger de minuit'},steps:[
+    J('stitchou','ピース！ピース！','Pīsu! Pīsu!','Peace ! Peace !',{fx:['sparkle']}),
+    J('stitchou','バーガー・エナジー、充電完了！','Bāgā enajī, jūden kanryō!','Énergie Burger : chargement terminé !',{set:{stitchou:{expr:'fierce'}},fx:['speedc']}),
+    J('N','ポテトは…一瞬で消えた。','Poteto wa… isshun de kieta.','Les frites… disparurent en un instant.',{cls:'eat',sfx:[{t:'パクッ',x:1060,y:560,r:-6,s:100}]}),
+    J('stitchou','べーっ！','Bē!','Bleeeh !',{set:{stitchou:{expr:'tongue',anim:'bounce'}}})]},
+  {bg:'van',cap:{jp:'旅立ち',fr:'Le départ'},steps:[
+    J('coach','全員、乗れ！運命の大会へ！','Zen\'in, nore! Unmei no taikai e!','Tout le monde à bord ! Direction le tournoi du destin !',{sfx:[{t:'ザッ',x:330,y:290,s:100}]}),
+    J('fennec','準備はできてる。寝てないけど。','Junbi wa dekiteru. Netenai kedo.','Tout est prêt. Sauf mon sommeil.'),
+    J('ombre','…行こう。','…Ikō.','… Allons-y.'),
+    J('N','VOCAの戦士たちは、旅立った。','VOCA no senshi-tachi wa, tabidatta.','Les guerriers du VOCA prirent la route.',{sfx:[{t:'ブロロロ',x:1250,y:960,r:-3,s:100}]})]},
+  {bg:'car',cap:{jp:'眠りの車',fr:'La voiture du sommeil'},fx:[{type:'zzz',x:1230,y:420},{type:'zzz',x:500,y:420}],steps:[
+    J('N','眠りの戦士は、赤い雲の夢を見る…','Nemuri no senshi wa, akai kumo no yume wo miru…','Le guerrier du sommeil rêve de nuages rouges…'),
+    J('dormeur','むにゃ…スマッシュ…むにゃ…','Munya… sumasshu… munya…','Mmh… smash… mmh…',{sfx:[{t:'スヤァ',x:1320,y:300,r:8,s:90}]}),
+    J('fond','…まだ？','…Mada?','… On arrive bientôt ?',{set:{fond:{expr:'sad'}}}),
+    J('N','残り、二百四十七キロ。','Nokori, nihyaku-yonjūnana kiro.','Il reste 247 kilomètres.')]},
+  {bg:'grass',cap:{jp:'戦いの掟',fr:'La règle d\'avant-combat'},fx:['sakura'],steps:[
+    J('n21','戦いの前に、髪を編む。それが掟。','Tatakai no mae ni, kami wo amu. Sore ga okite.','Avant le combat, on tresse les cheveux. C\'est la règle.'),
+    J('n17','ポテチ食べてもいい？','Potechi tabete mo ii?','Je peux manger des chips ?'),
+    J('n8','だめ！…いや、いいよ。','Dame! …Iya, ii yo.','Non ! … Bon, d\'accord.',{set:{n8:{expr:'laugh'}}})]},
+  {bg:'gym',cap:{jp:'決戦',fr:'Le combat final'},steps:[
+    J('coach','がんばろう、VOCA！','Ganbarō, VOCA!','On se donne à fond, VOCA !'),
+    J('n3','おう！！','Ō!!','OUAIS !!',{set:{n3:{expr:'fierce'},n21:{expr:'fierce'},n15:{expr:'fierce'}}}),
+    J('N','マッチポイント。時が、止まった。','Matchi pointo. Toki ga, tomatta.','Balle de match. Le temps s\'arrêta.',{fx:['tone','ballHold']}),
+    J('n6','必殺！コルヌバリュー・スマッシュ！！','Hissatsu! Korunubaryū Sumasshu!!','Coup ultime : SMASH DE CORNEBARRIEU !!',{fx:['ballSmash','speed','flash'],sfx:[{t:'ドカーン！！',x:1180,y:330,r:-10,s:130}]}),
+    J('coach','勝ったぁぁぁ！！','Kattaaaa!!','ON A GAGNÉÉÉ !!',{set:WINJP,fx:['confetti','sakura']})]},
+  {bg:'bench',cap:{jp:'勝利のあと',fr:'Après la victoire'},steps:[
+    J('fennec','我々は…最強だ。','Wareware wa… saikyō da.','Nous sommes… les plus forts.'),
+    J('ombre','当然。','Tōzen.','Évidemment.'),
+    J('N','しかし――ポテチは、もうなかった。','Shikashi… potechi wa, mō nakatta.','Mais… il n\'y avait plus de chips.',{set:{fennec:{expr:'down'},ombre:{expr:'down',pose:'hide'}},fx:['gloom'],sfx:[{t:'ズーン',x:800,y:290,s:130}]})]},
+  {bg:'park',cap:{jp:'つづく',fr:'À suivre'},fx:['sakura'],steps:[
+    J('ombre','このZの椅子で…宇宙を考える。','Kono Zetto no isu de… uchū wo kangaeru.','Sur cette chaise en Z… je médite sur l\'univers.'),
+    J('stitchou','撮ったよー！','Totta yō!','C\'est filmé !',{set:{stitchou:{expr:'tongue'}}}),
+    J('maman','みんな、笑って！','Minna, waratte!','Tout le monde, souriez !',{set:{ombre:{expr:'smile',pose:'peace'}},fx:['flash']}),
+    J('N','家族の物語は、まだ始まったばかり。','Kazoku no monogatari wa, mada hajimatta bakari.','L\'histoire de cette famille ne fait que commencer.',{sfx:[{t:'つづく',x:800,y:260,r:-3,s:150}]})]},
+]}};
+
+/* ---------- state ---------- */
+const $=id=>document.getElementById(id);
+const svg=$('svg'),stage=$('stage');
+let names={};try{names=JSON.parse(localStorage.getItem('zarbis-names')||'{}')||{}}catch(e){names={}}
+const S={ep:'fr',sc:0,step:0,playing:false,sound:false,started:false};
+let typeTimer=null,holdTimer=null,typing=false,fullText='';
+const nm=id=>(names[id]&&names[id].trim())||CAST[id]?.[S.ep]||id;
+const fill=t=>String(t).replace(/\{(\w+)\}/g,(m,k)=>CAST[k]?nm(k):m);
+const scene=()=>EP[S.ep].scenes[S.sc];
+const DEFS=`<defs>
+<pattern id="tone" width="12" height="12" patternUnits="userSpaceOnUse"><circle cx="6" cy="6" r="2.6" fill="#000" opacity=".3"/></pattern>
+<pattern id="holes" width="36" height="36" patternUnits="userSpaceOnUse"><rect width="36" height="36" fill="#f2f2f2"/><circle cx="18" cy="18" r="10" fill="#2a3a2a"/></pattern>
+<filter id="gray"><feColorMatrix type="saturate" values="0"/></filter>
+<radialGradient id="auraG" cx=".5" cy=".6" r=".5"><stop offset="0" stop-color="#7dffb0" stop-opacity=".85"/><stop offset="1" stop-color="#22b14c" stop-opacity="0"/></radialGradient>
+<radialGradient id="vig" cx=".5" cy=".5" r=".75"><stop offset=".62" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#2a0010" stop-opacity=".38"/></radialGradient>
+<linearGradient id="dusk" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#5aa0de"/><stop offset="1" stop-color="#cfe6f4"/></linearGradient>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2f8be0"/><stop offset="1" stop-color="#bfe2fb"/></linearGradient>
+</defs>`;
+
+function stepState(){
+  const sc=scene(),chars=CH[sc.bg]();let cap=sc.cap,cls=[];
+  for(let i=0;i<=S.step;i++){const st=sc.steps[i];if(st.set)for(const id in st.set){const c=chars.find(x=>x.id===id);if(c)Object.assign(c,st.set[id])}if(st.cap)cap=st.cap;if(st.cls)cls.push(st.cls)}
+  return{chars,cap,cls,step:sc.steps[S.step]};
+}
+function speakerPos(chars,who){const c=chars.find(x=>x.id===who);return c?{x:c.x,y:c.y-330*(c.s||1)}:{x:800,y:450}}
+function fxBack(list,chars,who){
+  let s='';const jp=S.ep==='jp';
+  for(const fx of list){
+    if(fx==='rays')s+=jp?raysSVG(800,520,'#fff4f7','#ffd9e4'):raysSVG(800,560,'#ffcc1a','#ff9f1a');
+    if(fx==='speedc'){const p=speakerPos(chars,who);s+=rect(0,0,1600,1000,'#fff','opacity=".55"')+speedSVG(p.x,p.y,INK,.55,300)}
+    if(fx==='aura'){const c=chars.find(x=>x.id===who);if(c)s+=`<g transform="translate(${c.x},${c.y}) scale(${c.s})"><g class="auraP"><ellipse cx="0" cy="-260" rx="260" ry="330" fill="url(#auraG)"/>${[-170,-90,0,90,170].map((x,i)=>`<path d="M${x},-20 C${x-40},-200 ${x+50},-300 ${x+10},-${430+i%2*60} C${x+70},-300 ${x+60},-160 ${x+30},-20Z" fill="#5be08f" opacity=".5"/>`).join('')}</g></g>`}
+  }
+  return s;
+}
+function fxFront(list,chars){
+  let s='';
+  for(const fx of list){
+    const t=typeof fx==='string'?fx:fx.type;
+    if(t==='sakura')s+=sakuraSVG();
+    if(t==='confetti')s+=confettiSVG();
+    if(t==='sparkle')s+=sparkleSVG();
+    if(t==='zzz')s+=zzzSVG(fx.x,fx.y);
+    if(t==='gloom')s+=gloomSVG();
+    if(t==='tone')s+=`<rect width="1600" height="1000" fill="url(#tone)"/>`;
+    if(t==='speed')s+=speedSVG(900,470,S.ep==='jp'?INK:'#fff',.4,360);
+    if(t==='flash')s+=`<rect class="flashR" width="1600" height="1000" fill="#fff"/>`;
+    if(t==='ballHold'||t==='ballSmash'){const c=chars.find(x=>x.id==='n6');if(c)s+=ballSVG(f(c.x+122*c.s),f(c.y-490*c.s),t==='ballSmash')}
+  }
+  return s;
+}
+function logoSVG(sc){
+  if(!sc.logo)return '';
+  const jp=S.ep==='jp';
+  return jp?`<g text-anchor="middle"><text x="800" y="230" class="sfx-t" font-size="112" style="fill:#d7193a;stroke:#fff;stroke-width:16">${esc(sc.logo[0])}</text><text x="800" y="300" font-family="'Zen Kaku Gothic New',sans-serif" font-weight="900" font-size="38" letter-spacing="10" fill="${INK}">${esc(sc.logo[1])}</text></g>`
+    :`<g text-anchor="middle" transform="rotate(-3 800 200)"><text x="800" y="230" class="sfx-t" font-size="170" style="fill:#fff;stroke:#1f4fd1;stroke-width:22">${esc(sc.logo[0])}</text><text x="800" y="310" class="sfx-t" font-size="64" style="fill:#e2412f;stroke:${INK};stroke-width:10">${esc(sc.logo[1])}</text></g>`;
+}
+function sfxSVG(x){return `<g transform="translate(${x.x},${x.y}) rotate(${x.r||0})"><g class="sfx-pop"><text class="sfx-t" font-size="${x.s||110}" text-anchor="middle" style="fill:${S.ep==='jp'?'#fff':'#ffcc1a'}">${esc(x.t)}</text></g></g>`}
+function actorsSVG(chars,who){
+  return chars.map(c=>{
+    const base=c.over?merge(CAST[c.id],c.over):CAST[c.id];
+    const talk=c.id===who&&who!=='N';
+    const mark=talk?`<g class="mark"><path d="M-22,-520 L22,-520 L0,-490Z" fill="${CAST[c.id].col}" stroke="${INK}" stroke-width="4"/></g>`:'';
+    return `<g transform="translate(${c.x},${c.y}) scale(${c.s||1})"><g class="anim${c.anim?' a-'+c.anim:''}"><g class="talk${talk?' on':''}">${drawChar(base,c.expr,c.pose)}${mark}</g></g></g>`;
+  }).join('');
+}
+
+function render(enter){
+  STY=S.ep;SW=STY==='jp'?4:6;
+  const sc=scene(),{chars,cap,cls,step}=stepState(),bg=BG[sc.bg]();
+  const stepFx=step.fx||[],sceneFx=sc.fx||[];
+  const backList=[...sceneFx,...stepFx].filter(x=>x==='rays'||x==='speedc'||x==='aura');
+  const frontList=[...sceneFx,...stepFx].filter(x=>!(x==='rays'||x==='speedc'||x==='aura'));
+  const tone=frontList.includes('tone');
+  svg.innerHTML=DEFS+`<g ${tone?'filter="url(#gray)"':''}>${bg.b}${fxBack(backList,chars,step.who)}</g>`
+    +logoSVG(sc)
+    +`<g class="${enter?'enter':''}">${actorsSVG(chars,step.who)}</g>`
+    +`<g ${tone?'filter="url(#gray)"':''}>${bg.f}</g>`
+    +fxFront(frontList,chars)
+    +(S.ep==='jp'?`<rect width="1600" height="1000" fill="url(#vig)" pointer-events="none"/>`:'')
+    +(step.sfx||[]).map(sfxSVG).join('');
+  stage.className='stage '+cls.join(' ');
+  const capEl=$('cap');
+  if(S.ep==='jp'&&typeof cap==='object')capEl.innerHTML=`<span class="v">${esc(cap.jp)}</span><span class="h">${esc(fill(cap.fr))}</span>`;
+  else capEl.textContent=fill(typeof cap==='object'?cap.fr:cap);
+  $('badge').textContent=EP[S.ep].badge;
+  renderDialogue(step);
+  renderNav();
+}
+function speakerLabel(who){
+  if(who==='N')return S.ep==='jp'?'ナレーション':'Narrateur';
+  return nm(who);
+}
+function renderDialogue(step){
+  clearTimeout(typeTimer);clearTimeout(holdTimer);
+  const dlg=$('dlg'),who=$('who'),line=$('line'),ro=$('romaji'),sub=$('sub');
+  const narr=step.who==='N';
+  dlg.classList.toggle('narrating',narr);
+  who.className='who'+(narr?' narr':'');
+  who.style.setProperty('--who',narr?'':(CAST[step.who]?.col||'var(--ink)'));
+  who.textContent=speakerLabel(step.who);
+  const jp=S.ep==='jp';
+  fullText=jp?step.jp:fill(step.t);
+  ro.hidden=!jp;sub.hidden=!jp;
+  if(jp){ro.textContent=step.ro;sub.textContent=fill(step.t)}
+  const isLast=S.sc===EP[S.ep].scenes.length-1&&S.step===scene().steps.length-1;
+  $('endbox').hidden=!isLast;
+  $('other').textContent=S.ep==='fr'?'Voir la version japonaise ▶':'Voir la version française ▶';
+  const reduce=matchMedia('(prefers-reduced-motion: reduce)').matches;
+  if(reduce||!S.started){line.textContent=fullText;typing=false;scheduleHold();return}
+  line.textContent='';typing=true;let i=0;const chars=[...fullText],speed=jp?55:24;
+  blip(step.sfx?'boom':'blip');
+  const tick=()=>{i++;line.textContent=chars.slice(0,i).join('');if(i<chars.length){typeTimer=setTimeout(tick,speed)}else{typing=false;scheduleHold()}};
+  tick();
+}
+function scheduleHold(){
+  clearTimeout(holdTimer);
+  if(!S.playing)return;
+  const step=scene().steps[S.step],len=(S.ep==='jp'?(step.t||'').length:fullText.length);
+  holdTimer=setTimeout(()=>next(true),Math.max(2000,1100+len*48));
+}
+function finishTyping(){clearTimeout(typeTimer);$('line').textContent=fullText;typing=false;scheduleHold()}
+function next(auto){
+  if(!S.started)start(false);
+  if(typing&&!auto){finishTyping();return}
+  const n=scene().steps.length;
+  if(S.step<n-1){S.step++;render(false)}
+  else if(S.sc<EP[S.ep].scenes.length-1){S.sc++;S.step=0;render(true)}
+  else{setPlaying(false)}
+}
+function prev(){
+  if(S.step>0)S.step--;
+  else if(S.sc>0){S.sc--;S.step=scene().steps.length-1}
+  render(false);
+}
+function goScene(i){S.sc=i;S.step=0;if(!S.started)start(false);render(true)}
+function setPlaying(p){S.playing=p;$('play').textContent=p?'❚❚ Pause':'▶ Lecture auto';if(p){if(!typing)scheduleHold()}else clearTimeout(holdTimer)}
+function start(play){S.started=true;$('cover').hidden=true;if(play)setPlaying(true)}
+function renderNav(){
+  const scs=EP[S.ep].scenes;
+  const dots=$('dots');
+  if(dots.childElementCount!==scs.length){dots.innerHTML=scs.map((s,i)=>`<button aria-label="Scène ${i+1}"></button>`).join('');[...dots.children].forEach((b,i)=>b.onclick=()=>goScene(i))}
+  [...dots.children].forEach((b,i)=>{b.className=i===S.sc?'cur':(i<S.sc?'done':'')});
+  $('counter').textContent=`Scène ${S.sc+1}/${scs.length} · réplique ${S.step+1}/${scene().steps.length}`;
+}
+function setEp(ep,keepCover){
+  S.ep=ep;S.sc=0;S.step=0;document.body.dataset.ep=ep;
+  document.querySelectorAll('.tab').forEach(t=>t.setAttribute('aria-selected',String(t.dataset.ep===ep)));
+  $('bigplay').textContent=ep==='jp'?'▶ 再生 · Lancer l\'épisode':'▶ Lancer l\'épisode';
+  $('dots').innerHTML='';
+  try{history.replaceState(null,'','#'+ep)}catch(e){}
+  render(true);renderCast();
+}
+
+/* ---------- sound (opt-in) ---------- */
+let ac=null;
+function blip(kind){
+  if(!S.sound||!ac)return;
+  try{const o=ac.createOscillator(),g=ac.createGain(),t=ac.currentTime;
+    if(kind==='boom'){o.type='triangle';o.frequency.setValueAtTime(220,t);o.frequency.exponentialRampToValueAtTime(55,t+.35);g.gain.setValueAtTime(.18,t);g.gain.exponentialRampToValueAtTime(.001,t+.4)}
+    else{o.type='square';o.frequency.setValueAtTime(S.ep==='jp'?880:620,t);g.gain.setValueAtTime(.04,t);g.gain.exponentialRampToValueAtTime(.001,t+.08)}
+    o.connect(g).connect(ac.destination);o.start(t);o.stop(t+.45)}catch(e){}
+}
+
+/* ---------- cast cards ---------- */
+function renderCast(){
+  STY=S.ep;SW=STY==='jp'?4:6;
+  const pose={maman:'selfie',ombre:'cross',fennec:'thumbs',kuromi:'down',stitchou:'peace',dormeur:'hold',coach:'wave'};
+  const expr={maman:'smug',ombre:'smug',fennec:'smile',kuromi:'laugh',stitchou:'tongue',dormeur:'sleep',coach:'smile'};
+  $('cast').innerHTML=MAIN.map(id=>{const c=CAST[id];return `<div class="card"><svg viewBox="-200 -520 400 400" aria-hidden="true">${drawChar(c,expr[id],pose[id])}</svg><div class="body">
+    <label for="nm-${id}">${S.ep==='jp'?`<span class="jpn">${esc(c.jp)}</span> · `:''}Prénom ou surnom</label>
+    <input id="nm-${id}" data-id="${id}" value="${esc(names[id]||'')}" placeholder="${esc(c[S.ep])}" maxlength="24" autocomplete="off">
+    <p class="seen">${esc(c.seen)}</p></div></div>`}).join('')
+    +`<div class="team"><strong>Et toute l'équipe VOCA Volley Cornebarrieu M15</strong><p>Les n°3, 6, 8, 9, 15, 17 et 21, plus les passagers du van et de l'aire d'autoroute (${esc(CAST.lunettes[S.ep])}, ${esc(CAST.grimace[S.ep])}, ${esc(CAST.roses[S.ep])}). Dis-moi qui est qui et je leur donne leur vrai prénom.</p></div>`;
+  $('cast').querySelectorAll('input').forEach(inp=>inp.addEventListener('input',()=>{
+    names[inp.dataset.id]=inp.value;try{localStorage.setItem('zarbis-names',JSON.stringify(names))}catch(e){}
+    const st=scene().steps[S.step];$('who').textContent=speakerLabel(st.who);
+    if(!typing){fullText=S.ep==='jp'?st.jp:fill(st.t);$('line').textContent=fullText;if(S.ep==='jp')$('sub').textContent=fill(st.t)}
+    const cap=stepState().cap;if(!(S.ep==='jp'&&typeof cap==='object'))$('cap').textContent=fill(typeof cap==='object'?cap.fr:cap);
+  }));
+}
+
+/* ---------- wiring ---------- */
+document.querySelectorAll('.tab').forEach(t=>t.onclick=()=>{setPlaying(false);setEp(t.dataset.ep)});
+$('next').onclick=()=>next(false);
+$('prev').onclick=()=>prev();
+$('play').onclick=()=>{if(!S.started)start(false);setPlaying(!S.playing)};
+$('bigplay').onclick=()=>{start(true);render(false)};
+$('dlg').addEventListener('click',e=>{if(e.target.closest('button'))return;next(false)});
+$('dlg').addEventListener('keydown',e=>{if(e.key==='Enter'){e.preventDefault();next(false)}});
+$('other').onclick=e=>{e.stopPropagation();setEp(S.ep==='fr'?'jp':'fr');start(true);render(true)};
+$('replay').onclick=e=>{e.stopPropagation();S.sc=0;S.step=0;start(true);render(true)};
+$('sound').onclick=()=>{S.sound=!S.sound;if(S.sound&&!ac){try{ac=new (window.AudioContext||window.webkitAudioContext)()}catch(e){}}
+  $('sound').setAttribute('aria-pressed',String(S.sound));$('sound').textContent=S.sound?'Bruitages : oui':'Bruitages : non';blip('blip')};
+document.addEventListener('keydown',e=>{
+  if(e.target.matches('input'))return;
+  if(e.key==='ArrowRight'||e.key===' '){e.preventDefault();next(false)}
+  if(e.key==='ArrowLeft'){e.preventDefault();prev()}
+});
+setEp(location.hash==='#jp'?'jp':'fr');
+})();
+</script>
