@@ -255,7 +255,7 @@ récentes, et ton dressing reste visible plus longtemps.
 ✅ 100 % authentique – authentifiée en maison de vente
 📦 Envoi soigné sous 48 h
 
-#elisabettafranchi #robe #robeivoire #ivoire #blanc #asymétrique #cérémonie #mariage #invitée #chic #luxe #italien #créateur #taille42 #neuf #neufavecetiquette
+#elisabettafranchi #robe #robeivoire #ivoire #blanc #asymétrique #cérémonie #mariage #mariagecivil #mairie #robedemariée #baptême #chic #luxe #italien #créateur #taille42 #neuf #neufavecetiquette
 ```
 - **Photos** [1](https://cdn.shopify.com/s/files/1/1064/7214/5230/files/1788340210461.png) · [2](https://cdn.shopify.com/s/files/1/1064/7214/5230/files/1788340313566.png) · [3](https://cdn.shopify.com/s/files/1/1064/7214/5230/files/elisabetta-franchi-robe-etiquette.jpg)
 
