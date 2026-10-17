@@ -101,7 +101,7 @@ récentes, et ton dressing reste visible plus longtemps.
 - **Photos** [1](https://cdn.shopify.com/s/files/1/1064/7214/5230/files/bash-short-fegor-face.png) · [2](https://cdn.shopify.com/s/files/1/1064/7214/5230/files/bash-short-fegor-etiquette.png)
 
 ### 4. Baskets Tommy Jeans noir blanc neuves P.40
-- **Prix** 65 € · **État** Neuf avec étiquette · **Catégorie** Hommes › Chaussures › Baskets · **Marque** Tommy Jeans · **Pointure** 40
+- **Prix** 65 € · **État** Neuf avec étiquette · **Catégorie** Femmes › Chaussures › Baskets (modèle mixte) · **Marque** Tommy Jeans · **Pointure** 40
 ```
 👟 Baskets basses Tommy Jeans noir et blanc – pointure 40, mixte
 
@@ -111,6 +111,7 @@ récentes, et ton dressing reste visible plus longtemps.
 📦 Envoi soigné sous 48 h
 
 #tommyjeans #tommyhilfiger #tommy #baskets #sneakers #basketshomme #basketsfemme #mixte #unisexe #noir #blanc #noiretblanc #pointure40 #40 #neuf #streetwear #casual
+- 📸 *Photo 1 = capture d'écran Google : la remplacer par une photo de ta paire (Vinted peut retirer une annonce avec des photos prises sur internet)*
 ```
 - **Photos** [1](https://cdn.shopify.com/s/files/1/1064/7214/5230/files/Screenshot_2026-08-15-12-45-31-156_com.google.android.googlequicksearchbox-edit.jpg) · [2](https://cdn.shopify.com/s/files/1/1064/7214/5230/files/1786786531161.png)
 
