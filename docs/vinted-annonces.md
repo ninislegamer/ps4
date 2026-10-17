@@ -269,7 +269,7 @@ récentes, et ton dressing reste visible plus longtemps.
 ✅ 100 % authentique – authentifiée en maison de vente
 📦 Envoi soigné sous 48 h
 
-#soniarykiel #jupe #jupemidi #cerises #cherry #imprimé #bleuciel #babyblue #pastel #rétro #vintage #parisienne #créateur #luxe #taille34 #xs #neuf
+#soniarykiel #jupe #jupemidi #cerises #cherry #imprimé #bleuciel #babyblue #pastel #rétro #cherryprint #parisienne #marquefrançaise #créateur #luxe #taille34 #xs #neuf
 ```
 - **Photos** [1](https://cdn.shopify.com/s/files/1/1064/7214/5230/files/sonia-rykiel-jupe-face.jpg) · [2](https://cdn.shopify.com/s/files/1/1064/7214/5230/files/sonia-rykiel-jupe-etiquette.png)
 
