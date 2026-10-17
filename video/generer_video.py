@@ -11,17 +11,21 @@ import argparse
 import io
 import json
 import subprocess
+import tempfile
 import urllib.request
 from pathlib import Path
 
 from PIL import Image, ImageDraw, ImageFont, ImageOps
+
+from musique import composer, ecrire_wav
 
 RACINE = Path(__file__).resolve().parent.parent
 PRODUITS = Path(__file__).resolve().parent / "produits.json"
 SORTIE = RACINE / "exports" / "maison-nsaia-tiktok.mp4"
 
 L, H, FPS = 1080, 1920, 30
-DUREE_INTRO, DUREE_ARTICLE, DUREE_OUTRO, FONDU = 2.0, 2.6, 3.0, 0.35
+# intro et articles durent une mesure de musique chacun (voir musique.py)
+DUREE_INTRO, DUREE_ARTICLE, DUREE_OUTRO, FONDU = 2.6, 2.6, 3.0, 0.35
 
 # Couleurs du thème (docs/01-theme.md)
 FOND = (250, 249, 247)
@@ -132,12 +136,15 @@ def main():
     sequences.append((carte_texte("maison-nsaia.fr", "Pièces uniques, neuves ou comme neuves", "Lien en bio · Livraison en France"), DUREE_OUTRO))
 
     Path(args.sortie).parent.mkdir(parents=True, exist_ok=True)
+    duree = sum(int(d * FPS) for _, d in sequences) / FPS
+    wav = Path(tempfile.mkdtemp()) / "musique.wav"
+    ecrire_wav(composer(duree, DUREE_INTRO), wav)
     ffmpeg = subprocess.Popen(
         ["ffmpeg", "-y", "-loglevel", "error",
          "-f", "rawvideo", "-pix_fmt", "rgb24", "-s", f"{L}x{H}", "-r", str(FPS), "-i", "-",
-         "-f", "lavfi", "-i", "anullsrc=r=44100:cl=stereo",
+         "-i", str(wav),
          "-c:v", "libx264", "-preset", "medium", "-crf", "20", "-pix_fmt", "yuv420p",
-         "-c:a", "aac", "-shortest", "-movflags", "+faststart", args.sortie],
+         "-c:a", "aac", "-b:a", "192k", "-shortest", "-movflags", "+faststart", args.sortie],
         stdin=subprocess.PIPE,
     )
 
