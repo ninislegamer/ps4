@@ -128,7 +128,6 @@ récentes, et ton dressing reste visible plus longtemps.
 #sandro #sandroparis #robe #robesandro #robeblanche #rayures #rayée #robeété #chic #parisienne #modefemme #taille40 #40 #neuf #neufavecetiquette #marquefrançaise #créateur
 ```
 - **Photos** [1](https://cdn.shopify.com/s/files/1/1064/7214/5230/files/sandro-robe-face.png) · [2](https://cdn.shopify.com/s/files/1/1064/7214/5230/files/sandro-robe-etiquette.png)
-- ⚠️ *`stock.md` notait de retirer la Sandro de Vinted, car une pièce neuve sort du périmètre de Vinted Pro. À trancher avant de la remettre en ligne.*
 
 ### 6. Polo Morgan rouge écusson doré neuf étiquette T.L
 - **Prix** 19 € · **État** Neuf avec étiquette · **Catégorie** Femmes › Hauts et t-shirts › Polos · **Marque** Morgan · **Taille** L
