@@ -7,8 +7,10 @@ Pour chaque annonce dans l'appli Vinted : photos → titre → description (copi
 le bloc entier, hashtags compris) → catégorie → marque → taille → état → prix.
 Photos : ouvrir chaque lien, appui long → enregistrer, puis les ajouter.
 
-> ⚠️ Dès qu'une annonce est en ligne sur Vinted : **stock à 0 sur Shopify**
-> (achat immédiat sur Vinted, risque de vendre deux fois la même pièce).
+> **Choix retenu (17/10)** : les pièces restent en stock sur Shopify pendant
+> qu'elles sont sur Vinted. La boutique n'est pas encore référencée, donc le
+> risque de double achat est faible ; s'il arrive, annulation et remboursement
+> côté boutique.
 
 ## Comment le tri a été fait
 
@@ -408,9 +410,9 @@ récentes, et ton dressing reste visible plus longtemps.
 
 ---
 
-## Après chaque publication Vinted
+## Après une vente Vinted
 
-1. Shopify : stock à **0** pour la pièce publiée.
-2. Vente conclue → tag `Vendu` sur Shopify + ligne dans
-   `exports/maison-nsaia-registres.xlsx`.
-3. Annonce retirée sans vente → remettre le stock Shopify à 1.
+1. Shopify : stock à **0** et tag `Vendu` sur la pièce vendue.
+2. Ligne dans `exports/maison-nsaia-registres.xlsx`.
+3. Double achat (Vinted + boutique) : annuler et rembourser la commande
+   boutique.
