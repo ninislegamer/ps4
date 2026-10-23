@@ -805,12 +805,30 @@ Canal : Vinted, pas la boutique.
 | LACOSTE sneakers P.42 | Mme Aouimeur Siham | 70 € | 59,88 € | 8,68 € | **+1,44 €** | 09/08/2026 |
 | Veste en jean ARMANI EXCHANGE T.S | Mme Aouimeur Siham | 50 € | 27,57 € | 6,20 € | **+16,23 €** | 09/08/2026 |
 | HAVAIANAS Slim — 2 paires à 14 € | *à préciser* | 28 € | 21,53 € | 3,47 € | **+2,99 €** | 10/08/2026 |
-| **TOTAL ENCAISSÉ** | | **373 €** | **277,52 €** | **46,25 €** | **+49,21 €** | |
-| SALOMON X Ultra 5 Mid GTX P.44 | Client Vinted (Italie) | 100 € | 79,05 € | 12,40 € | **+8,55 €** | **en attente** ¹ |
+| SALOMON X Ultra 5 Mid GTX P.44 | Client Vinted (Italie) | 100 € | 79,05 € | 12,40 € | **+8,55 €** | 21/08/2026 ¹ |
+| NEW BALANCE GS 1906 Alkaline Green P.38½ | « Calvimo » (Vinted) | 99 € | 77,97 € | 12,28 € | **+8,76 €** | 10/09/2026 |
+| HAVAIANAS Slim — 1 paire à 15 € | « amaliagogoi » (Vinted) | 15 € | 10,77 € | 1,86 € | **+2,37 €** | 10/09/2026 |
+| **TOTAL ENCAISSÉ — 3ᵉ trimestre 2026** | | **587 €** | **445,31 €** | **72,79 €** | **+68,90 €** | |
+| BALLERINES MASSIMO DUTTI P.41 | « anavdlr » (Vinted) | 50 € | 27,57 € | 6,20 € | **+16,23 €** | **en attente** — vendue le 17/10, relève du 4ᵉ trimestre |
 
-¹ *Vinted retient le paiement jusqu'à validation de la réception. Tant que le
-virement n'est pas arrivé, la vente ne s'inscrit pas au livre des recettes —
-c'est l'encaissement qui compte, pas la vente.*
+¹ *Vendue le 12/08, inscrite au 21/08 : c'est la date du virement Vinted qui
+compte, pas celle de la vente.*
+
+*Coût réel = prix facturé par la maison de vente + livraison répartie
+(2,37 € par unité). Emballage et abonnements non déduits.*
+
+### Déclaration du 3ᵉ trimestre — payée
+
+| | |
+|---|---|
+| Achat-revente (Maison Nsaia) | 587 € |
+| Prestation de services commerciaux (autre activité) | 40 € |
+| **Chiffre d'affaires déclaré** | **627 €** |
+| **URSSAF payée** | **81 €** — dont 72,79 € sur la revente, ≈ 8,21 € sur la prestation |
+| **Reste après URSSAF** | **546 €** — dont 514,21 € pour la revente |
+
+Sur les 587 € encaissés : 445,31 € couvrent le coût d'achat des articles,
+72,79 € partent à l'URSSAF, **68,90 € de bénéfice net**.
 
 ## Les Hoka et les Nike ne sont pas des ventes
 
@@ -837,6 +855,10 @@ mais elle ne se déclare pas.
 
 **Tu as mis 18,60 € de côté pour rien.** Ils te reviennent — laisse-les sur le
 compte de provision, ils couvriront la vente suivante.
+
+> **Mise à jour du 23/10 :** avec la Salomon (encaissée le 21/08), la New Balance
+> Alkaline Green et une paire de Havaianas (encaissées le 10/09), le montant du
+> 3ᵉ trimestre passe à **587 €**, soit 72,79 € d'URSSAF.
 
 Et pour la déclaration du 3ᵉ trimestre, avant le 31 octobre : **déclarer 373 €**,
 pas 465, pas 493. Déclarer les 150 € des Hoka et des Nike te coûterait 18,60 € de
