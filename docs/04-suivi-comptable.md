@@ -33,6 +33,12 @@ chaque année par activité, avec la date limite de déclaration et l'URSSAF.
   Les virements Uber continuent d'être inscrits au livre, mais leur URSSAF ne doit
   pas être payée une seconde fois. Organisation à définir.
 - Articles gardés pour soi et apports personnels : jamais au livre des recettes.
+- **Compte bancaire de réception (au 23/10/2026)** : les virements **Hiflow**
+  arrivent encore sur le **compte personnel** (RIB pas encore modifié) ; le RIB
+  **Uber** a normalement déjà été passé sur le compte professionnel. Une recette
+  reçue sur le compte perso s'inscrit quand même au livre, à la date du virement
+  reçu. La transférer ensuite vers le compte pro n'est **pas** une nouvelle recette :
+  ne pas l'inscrire une deuxième fois.
 
 ## 3ᵉ trimestre 2026 (juillet–septembre) — déclaré et payé
 
@@ -92,3 +98,5 @@ activités confondues sur le trimestre.
 - [ ] Autres plateformes de convoyage : ajouter chaque virement (plateforme, date, montant).
 - [ ] Uber : décider comment suivre les virements dont l'URSSAF est déjà prélevée.
 - [ ] Confirmer sur autoentrepreneur.urssaf.fr le taux des prestations et du convoyage.
+- [ ] Hiflow (et chaque nouvelle plateforme de convoyage) : remplacer le RIB perso par le RIB du compte pro.
+- [ ] Uber : vérifier que le RIB enregistré est bien celui du compte pro.
