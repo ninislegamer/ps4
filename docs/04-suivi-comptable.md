@@ -74,7 +74,7 @@ activités confondues sur le trimestre.
 
 | Encaissé le | Client | Objet | Montant | Nature | Statut |
 |---|---|---|---|---|---|
-| 22/10/2026 | Hiflow | Convoyage automobile, premières missions | 161,80 € | Convoyage automobile | Encaissé (ligne 11) |
+| 22/10/2026 | Hiflow | Convoyages automobiles | 161,80 € | Convoyage automobile | Encaissé (ligne 11) |
 | — | « anavdlr » (Vinted) | Ballerines Massimo Dutti P.41, vendues le 17/10 | 50 € | Achat-revente | **En attente du virement Vinted** — coût 27,57 €, marge prévue +16,23 € |
 
 - URSSAF à provisionner : ≈ 34,46 € sur le convoyage, ≈ 6,20 € sur les ballerines
