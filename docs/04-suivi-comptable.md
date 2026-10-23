@@ -33,6 +33,11 @@ chaque année par activité, avec la date limite de déclaration et l'URSSAF.
   Les virements Uber continuent d'être inscrits au livre, mais leur URSSAF ne doit
   pas être payée une seconde fois. Organisation à définir.
 - Articles gardés pour soi et apports personnels : jamais au livre des recettes.
+- **Registre des objets mobiliers : conservé (décision du 23/10/2026).** À remplir
+  à chaque achat et à chaque sortie, comme le registre des achats. Les achats futurs
+  seront uniquement du neuf en maison de vente (plus d'occasion), mais le registre
+  reste tenu : il couvre les articles d'occasion encore en stock et prouve
+  l'origine de chaque article en cas de contrôle.
 - **Compte bancaire de réception (au 23/10/2026)** : les virements **Hiflow**
   arrivent encore sur le **compte personnel** (RIB pas encore modifié) ; le RIB
   **Uber** a normalement déjà été passé sur le compte professionnel. Une recette
