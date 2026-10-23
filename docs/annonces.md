@@ -806,13 +806,29 @@ Canal : Vinted, pas la boutique.
 | Veste en jean ARMANI EXCHANGE T.S | Mme Aouimeur Siham | 50 € | 27,57 € | 6,20 € | **+16,23 €** | 09/08/2026 |
 | HAVAIANAS Slim — 2 paires à 14 € | *à préciser* | 28 € | 21,53 € | 3,47 € | **+2,99 €** | 10/08/2026 |
 | SALOMON X Ultra 5 Mid GTX P.44 | Client Vinted (Italie) | 100 € | 79,05 € | 12,40 € | **+8,55 €** | 21/08/2026 ¹ |
-| NEW BALANCE GS 1906 Alkaline Green P.38½ | « Calvimo » (Vinted) | 99 € | | 12,28 € | | 10/09/2026 |
-| HAVAIANAS Slim — 1 paire à 15 € | « amaliagogoi » (Vinted) | 15 € | | 1,86 € | | 10/09/2026 |
-| **TOTAL ENCAISSÉ — 3ᵉ trimestre 2026** | | **587 €** | | **72,79 €** | | |
-| BALLERINES MASSIMO DUTTI P.41 | « anavdlr » (Vinted) | 50 € | | 6,20 € | | **en attente** — vendue le 17/10, relève du 4ᵉ trimestre |
+| NEW BALANCE GS 1906 Alkaline Green P.38½ | « Calvimo » (Vinted) | 99 € | 77,97 € | 12,28 € | **+8,76 €** | 10/09/2026 |
+| HAVAIANAS Slim — 1 paire à 15 € | « amaliagogoi » (Vinted) | 15 € | 10,77 € | 1,86 € | **+2,37 €** | 10/09/2026 |
+| **TOTAL ENCAISSÉ — 3ᵉ trimestre 2026** | | **587 €** | **445,31 €** | **72,79 €** | **+68,90 €** | |
+| BALLERINES MASSIMO DUTTI P.41 | « anavdlr » (Vinted) | 50 € | 27,57 € | 6,20 € | **+16,23 €** | **en attente** — vendue le 17/10, relève du 4ᵉ trimestre |
 
 ¹ *Vendue le 12/08, inscrite au 21/08 : c'est la date du virement Vinted qui
 compte, pas celle de la vente.*
+
+*Coût réel = prix facturé par la maison de vente + livraison répartie
+(2,37 € par unité). Emballage et abonnements non déduits.*
+
+### Déclaration du 3ᵉ trimestre — payée
+
+| | |
+|---|---|
+| Achat-revente (Maison Nsaia) | 587 € |
+| Prestation de services commerciaux (autre activité) | 40 € |
+| **Chiffre d'affaires déclaré** | **627 €** |
+| **URSSAF payée** | **81 €** — dont 72,79 € sur la revente, ≈ 8,21 € sur la prestation |
+| **Reste après URSSAF** | **546 €** — dont 514,21 € pour la revente |
+
+Sur les 587 € encaissés : 445,31 € couvrent le coût d'achat des articles,
+72,79 € partent à l'URSSAF, **68,90 € de bénéfice net**.
 
 ## Les Hoka et les Nike ne sont pas des ventes
 
