@@ -28,7 +28,11 @@ chaque année par activité, avec la date limite de déclaration et l'URSSAF.
 - Uber : une ligne par virement Uber, client « Divers clients », justificatif =
   relevé de paiements Uber.
 - Convoyage : une ligne par virement, client = nom de la plateforme, justificatif =
-  relevé de missions de la plateforme.
+  facture de la plateforme. **On n'inscrit que le montant de la prestation.** Les
+  frais remboursés (carburant, péage, train…) sont des débours, séparés sur la
+  facture Hiflow et remboursés au réel : ils ne sont **pas** du chiffre d'affaires.
+  Le numéro de facture et le montant des frais sont notés dans la colonne
+  « Référence ». Garder la facture et les tickets de frais.
 - **Uber prélève directement l'URSSAF à partir du 4ᵉ trimestre 2026 (octobre).**
   Les virements Uber continuent d'être inscrits au livre, mais leur URSSAF ne doit
   pas être payée une seconde fois. Organisation à définir.
@@ -89,10 +93,10 @@ activités confondues sur le trimestre.
 
 | Encaissé le | Client | Objet | Montant | Nature | Statut |
 |---|---|---|---|---|---|
-| 23/10/2026 | Hiflow | Convoyages automobiles | 161,80 € | Convoyage automobile | Encaissé (ligne 11) |
+| 23/10/2026 | Hiflow | Convoyages automobiles — facture n°HIFNACIZR2026-S-3147 du 16/10/2026 | 67 € (virement de 161,80 € dont 94,80 € de frais, hors CA) | Convoyage automobile | Encaissé (ligne 11) |
 | — | « anavdlr » (Vinted) | Ballerines Massimo Dutti P.41, vendues le 17/10 | 50 € | Achat-revente | **En attente du virement Vinted** — coût 27,57 €, marge prévue +16,23 € |
 
-- URSSAF à provisionner : ≈ 34,46 € sur le convoyage, ≈ 6,20 € sur les ballerines
+- URSSAF à provisionner : ≈ 14,27 € sur le convoyage (67 € × 21,3 %), ≈ 6,20 € sur les ballerines
   une fois encaissées.
 - Déclaration du 4ᵉ trimestre : en janvier 2027, uniquement les montants encaissés
   à partir du 1ᵉʳ octobre.
