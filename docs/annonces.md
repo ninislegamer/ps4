@@ -806,8 +806,8 @@ Canal : Vinted, pas la boutique.
 | Veste en jean ARMANI EXCHANGE T.S | Mme Aouimeur Siham | 50 € | 27,57 € | 6,20 € | **+16,23 €** | 09/08/2026 |
 | HAVAIANAS Slim — 2 paires à 14 € | *à préciser* | 28 € | 21,53 € | 3,47 € | **+2,99 €** | 10/08/2026 |
 | SALOMON X Ultra 5 Mid GTX P.44 | Client Vinted (Italie) | 100 € | 79,05 € | 12,40 € | **+8,55 €** | 21/08/2026 ¹ |
-| NEW BALANCE GS 1906 Alkaline Green P.38½ | Client Vinted | 99 € | | 12,28 € | | 10/09/2026 |
-| HAVAIANAS Slim — 1 paire à 15 € | Client Vinted | 15 € | | 1,86 € | | 10/09/2026 |
+| NEW BALANCE GS 1906 Alkaline Green P.38½ | « Calvimo » (Vinted) | 99 € | | 12,28 € | | 10/09/2026 |
+| HAVAIANAS Slim — 1 paire à 15 € | « amaliagogoi » (Vinted) | 15 € | | 1,86 € | | 10/09/2026 |
 | **TOTAL ENCAISSÉ — 3ᵉ trimestre 2026** | | **587 €** | | **72,79 €** | | |
 
 ¹ *Vendue le 12/08, inscrite au 21/08 : c'est la date du virement Vinted qui
