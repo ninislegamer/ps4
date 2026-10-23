@@ -33,6 +33,7 @@ chaque année par activité, avec la date limite de déclaration et l'URSSAF.
   facture Hiflow et remboursés au réel : ils ne sont **pas** du chiffre d'affaires.
   Le numéro de facture et le montant des frais sont notés dans la colonne
   « Référence ». Garder la facture et les tickets de frais.
+  Les factures sont rangées dans `exports/justificatifs/` (nom : date-plateforme-facture-numéro).
 - **Uber prélève directement l'URSSAF à partir du 4ᵉ trimestre 2026 (octobre).**
   Les virements Uber continuent d'être inscrits au livre, mais leur URSSAF ne doit
   pas être payée une seconde fois. Organisation à définir.
@@ -93,7 +94,7 @@ activités confondues sur le trimestre.
 
 | Encaissé le | Client | Objet | Montant | Nature | Statut |
 |---|---|---|---|---|---|
-| 23/10/2026 | Hiflow | Convoyages automobiles — facture n°HIFNACIZR2026-S-3147 du 16/10/2026 | 67 € (virement de 161,80 € dont 94,80 € de frais, hors CA) | Convoyage automobile | Encaissé (ligne 11) |
+| 23/10/2026 | Hiflow (FREECARS SAS) | Convoyages automobiles — 3 missions du 13 au 15/10, facture n°HIFNACIZR2026-S-3147 du 21/10/2026 (`exports/justificatifs/`) | 67 € (virement de 161,80 € dont 94,80 € de frais, hors CA) | Convoyage automobile | Encaissé (ligne 11) |
 | — | « anavdlr » (Vinted) | Ballerines Massimo Dutti P.41, vendues le 17/10 | 50 € | Achat-revente | **En attente du virement Vinted** — coût 27,57 €, marge prévue +16,23 € |
 
 - URSSAF à provisionner : ≈ 14,27 € sur le convoyage (67 € × 21,3 %), ≈ 6,20 € sur les ballerines
