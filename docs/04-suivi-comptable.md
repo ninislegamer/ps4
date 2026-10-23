@@ -16,6 +16,10 @@ onglet « Livre des recettes ».*
 Une seule micro-entreprise : **toutes** les recettes vont au même livre des
 recettes, distinguées par la colonne « Nature de la recette ».
 
+La colonne J « Trimestre » (ex. `2026 T4`) se calcule depuis la date
+d'encaissement. L'onglet **« Par trimestre »** totalise chaque trimestre et
+chaque année par activité, avec la date limite de déclaration et l'URSSAF.
+
 ## Règles de tenue
 
 - On inscrit la **date d'encaissement** (jour où l'argent arrive), pas la date de
