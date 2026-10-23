@@ -34,6 +34,12 @@ chaque année par activité, avec la date limite de déclaration et l'URSSAF.
   Le numéro de facture et le montant des frais sont notés dans la colonne
   « Référence ». Garder la facture et les tickets de frais.
   Les factures sont rangées dans `exports/justificatifs/` (nom : date-plateforme-facture-numéro).
+- **Frais exceptionnels Hiflow (décision du 23/10/2026)** : traités comme des frais
+  de mission, hors chiffre d'affaires, au même titre que le péage et le transport
+  (repas et café pendant la mission, hôtel, imprévus). Le tabac n'en fait pas
+  partie. Point de vigilance : l'URSSAF peut considérer les dépenses personnelles
+  (repas, café) comme une rémunération ; à confirmer au 3698 en cas de doute.
+  Écart en jeu sur la facture du 21/10 : 23 € de CA, soit ≈ 4,90 € d'URSSAF.
 - **Uber prélève directement l'URSSAF à partir du 4ᵉ trimestre 2026 (octobre).**
   Les virements Uber continuent d'être inscrits au livre, mais leur URSSAF ne doit
   pas être payée une seconde fois. Organisation à définir.
