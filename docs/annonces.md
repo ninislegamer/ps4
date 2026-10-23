@@ -809,6 +809,7 @@ Canal : Vinted, pas la boutique.
 | NEW BALANCE GS 1906 Alkaline Green P.38½ | « Calvimo » (Vinted) | 99 € | | 12,28 € | | 10/09/2026 |
 | HAVAIANAS Slim — 1 paire à 15 € | « amaliagogoi » (Vinted) | 15 € | | 1,86 € | | 10/09/2026 |
 | **TOTAL ENCAISSÉ — 3ᵉ trimestre 2026** | | **587 €** | | **72,79 €** | | |
+| BALLERINES MASSIMO DUTTI P.41 | Client Vinted | 50 € | | 6,20 € | | **en attente** — vendue le 17/10, relève du 4ᵉ trimestre |
 
 ¹ *Vendue le 12/08, inscrite au 21/08 : c'est la date du virement Vinted qui
 compte, pas celle de la vente.*
