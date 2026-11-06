@@ -1,6 +1,6 @@
 # Suivi comptable — micro-entreprise
 
-*Mis à jour le 23/10/2026. Source de vérité : `exports/maison-nsaia-registres.xlsx`,
+*Mis à jour le 06/11/2026. Source de vérité : `exports/maison-nsaia-registres.xlsx`,
 onglet « Livre des recettes ».*
 
 ---
@@ -90,10 +90,17 @@ activités confondues sur le trimestre.
 | Encaissé le | Client | Objet | Montant | Nature | Statut |
 |---|---|---|---|---|---|
 | 23/10/2026 | Hiflow | Convoyages automobiles | 161,80 € | Convoyage automobile | Encaissé (ligne 11) |
+| 05/11/2026 | Hiflow | Facture HIFNACIZR2026-S-3148 du 02/11 : prestation 162 € + frais 283 € | 445 € | Convoyage automobile | Encaissé (ligne 12), compte perso |
 | — | « anavdlr » (Vinted) | Ballerines Massimo Dutti P.41, vendues le 17/10 | 50 € | Achat-revente | **En attente du virement Vinted** — coût 27,57 €, marge prévue +16,23 € |
 
-- URSSAF à provisionner : ≈ 34,46 € sur le convoyage, ≈ 6,20 € sur les ballerines
+- URSSAF à provisionner : **≈ 129,25 €** sur le convoyage (606,80 € × 21,3 % :
+  34,46 € pour le 23/10 + 94,79 € pour le 05/11), ≈ 6,20 € sur les ballerines
   une fois encaissées.
+- **Frais Hiflow** : les frais remboursés (carburant, péages, trajets retour…)
+  entrent dans le chiffre d'affaires et supportent l'URSSAF. Ils ne sont pas
+  déductibles en micro-entreprise. Seuls de vrais débours (dépense engagée au nom
+  et pour le compte du client, refacturée à l'euro près sur justificatif à son
+  nom) en seraient exclus — ce n'est pas le cas des frais avancés par le convoyeur.
 - Déclaration du 4ᵉ trimestre : en janvier 2027, uniquement les montants encaissés
   à partir du 1ᵉʳ octobre.
 
