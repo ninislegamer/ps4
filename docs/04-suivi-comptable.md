@@ -11,7 +11,7 @@ onglet « Livre des recettes ».*
 |---|---|---|
 | **Achat-revente** | Maison Nsaia — revente de pièces (Vinted, main propre, boutique Shopify) | 12,4 % |
 | **Prestation de services** | Livraisons **Uber** — clients divers, pas de nom à inscrire | 21,3 % (à confirmer) |
-| **Convoyage automobile** | Missions via plateformes : **Hiflow** (société FREECARS SAS ; d'autres à venir) | 21,3 % (à confirmer) |
+| **Convoyage automobile** | Missions via plateformes : **Hiflow** (société FREECARS SAS), **Pop Valet** (partenariat depuis novembre 2026, 1ʳᵉ mission le 09/11/2026) | 21,3 % (à confirmer) |
 
 Une seule micro-entreprise : **toutes** les recettes vont au même livre des
 recettes, distinguées par la colonne « Nature de la recette ».
@@ -29,7 +29,8 @@ chaque année par activité, avec la date limite de déclaration et l'URSSAF.
   relevé de paiements Uber.
 - Convoyage : une ligne par virement, client = nom de la plateforme, justificatif =
   relevé de missions ou facture de la plateforme.
-- **Convoyage Hiflow : seul le montant des prestations est inscrit comme recette.**
+- **Convoyage Hiflow : seul le montant des prestations est inscrit comme recette
+  (règle validée le 08/11/2026, à appliquer à chaque virement Hiflow).**
   Les remboursements de frais (carburant, péages, transport, frais exceptionnels)
   versés dans le même virement restent hors chiffre d'affaires ; c'est aussi sur
   la seule prestation que l'URSSAF a fait son calcul. Le total du virement et la
@@ -96,6 +97,7 @@ activités confondues sur le trimestre.
 |---|---|---|---|---|---|
 | 23/10/2026 | Hiflow | Convoyages automobiles | 161,80 € | Convoyage automobile | Encaissé (ligne 11) |
 | 05/11/2026 | Hiflow (FREECARS SAS) | 7 convoyages du 19/10 au 30/10 — facture HIFNACIZR2026-S-3148 | 162,00 € | Convoyage automobile | Encaissé (ligne 12) — virement de 445 € dont 283 € de frais remboursés, hors CA |
+| — | Pop Valet | 1ʳᵉ mission de convoyage le lundi 09/11/2026 | — | Convoyage automobile | **À inscrire au jour du virement Pop Valet** |
 | — | « anavdlr » (Vinted) | Ballerines Massimo Dutti P.41, vendues le 17/10 | 50 € | Achat-revente | **En attente du virement Vinted** — coût 27,57 €, marge prévue +16,23 € |
 
 - Convoyage Hiflow encaissé au 4ᵉ trimestre : **323,80 €** (161,80 € + 162 €).
@@ -112,5 +114,6 @@ activités confondues sur le trimestre.
 - [ ] Autres plateformes de convoyage : ajouter chaque virement (plateforme, date, montant).
 - [ ] Uber : décider comment suivre les virements dont l'URSSAF est déjà prélevée.
 - [ ] Confirmer sur autoentrepreneur.urssaf.fr le taux des prestations et du convoyage.
+- [ ] Pop Valet : inscrire au livre des recettes chaque virement reçu (date du virement, montant des prestations, relevé/facture Pop Valet en justificatif). Vérifier si Pop Valet rembourse aussi des frais et sur quel compte arrive le virement.
 - [ ] Hiflow (et chaque nouvelle plateforme de convoyage) : remplacer le RIB perso par le RIB du compte pro.
 - [ ] Uber : vérifier que le RIB enregistré est bien celui du compte pro.
