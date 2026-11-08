@@ -1,6 +1,6 @@
 # Suivi comptable — micro-entreprise
 
-*Mis à jour le 23/10/2026. Source de vérité : `exports/maison-nsaia-registres.xlsx`,
+*Mis à jour le 08/11/2026. Source de vérité : `exports/maison-nsaia-registres.xlsx`,
 onglet « Livre des recettes ».*
 
 ---
@@ -11,7 +11,7 @@ onglet « Livre des recettes ».*
 |---|---|---|
 | **Achat-revente** | Maison Nsaia — revente de pièces (Vinted, main propre, boutique Shopify) | 12,4 % |
 | **Prestation de services** | Livraisons **Uber** — clients divers, pas de nom à inscrire | 21,3 % (à confirmer) |
-| **Convoyage automobile** | Missions via plateformes : **Hiflow** (d'autres à venir) | 21,3 % (à confirmer) |
+| **Convoyage automobile** | Missions via plateformes : **Hiflow** (société FREECARS SAS ; d'autres à venir) | 21,3 % (à confirmer) |
 
 Une seule micro-entreprise : **toutes** les recettes vont au même livre des
 recettes, distinguées par la colonne « Nature de la recette ».
@@ -28,7 +28,12 @@ chaque année par activité, avec la date limite de déclaration et l'URSSAF.
 - Uber : une ligne par virement Uber, client « Divers clients », justificatif =
   relevé de paiements Uber.
 - Convoyage : une ligne par virement, client = nom de la plateforme, justificatif =
-  relevé de missions de la plateforme.
+  relevé de missions ou facture de la plateforme.
+- **Convoyage Hiflow : seul le montant des prestations est inscrit comme recette.**
+  Les remboursements de frais (carburant, péages, transport, frais exceptionnels)
+  versés dans le même virement restent hors chiffre d'affaires ; c'est aussi sur
+  la seule prestation que l'URSSAF a fait son calcul. Le total du virement et la
+  part de frais sont notés dans la colonne « Référence ».
 - **Uber prélève directement l'URSSAF à partir du 4ᵉ trimestre 2026 (octobre).**
   Les virements Uber continuent d'être inscrits au livre, mais leur URSSAF ne doit
   pas être payée une seconde fois. Organisation à définir.
@@ -90,10 +95,14 @@ activités confondues sur le trimestre.
 | Encaissé le | Client | Objet | Montant | Nature | Statut |
 |---|---|---|---|---|---|
 | 23/10/2026 | Hiflow | Convoyages automobiles | 161,80 € | Convoyage automobile | Encaissé (ligne 11) |
+| 05/11/2026 | Hiflow (FREECARS SAS) | 7 convoyages du 19/10 au 30/10 — facture HIFNACIZR2026-S-3148 | 162,00 € | Convoyage automobile | Encaissé (ligne 12) — virement de 445 € dont 283 € de frais remboursés, hors CA |
 | — | « anavdlr » (Vinted) | Ballerines Massimo Dutti P.41, vendues le 17/10 | 50 € | Achat-revente | **En attente du virement Vinted** — coût 27,57 €, marge prévue +16,23 € |
 
-- URSSAF à provisionner : ≈ 34,46 € sur le convoyage, ≈ 6,20 € sur les ballerines
-  une fois encaissées.
+- Convoyage Hiflow encaissé au 4ᵉ trimestre : **323,80 €** (161,80 € + 162 €).
+- URSSAF à provisionner : ≈ **68,97 €** sur le convoyage (21,3 %), ≈ 6,20 € sur les
+  ballerines une fois encaissées.
+- Livraisons Uber : aucun virement inscrit au 4ᵉ trimestre pour l'instant (URSSAF
+  prélevée par Uber).
 - Déclaration du 4ᵉ trimestre : en janvier 2027, uniquement les montants encaissés
   à partir du 1ᵉʳ octobre.
 
