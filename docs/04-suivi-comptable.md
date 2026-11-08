@@ -35,6 +35,12 @@ chaque année par activité, avec la date limite de déclaration et l'URSSAF.
   versés dans le même virement restent hors chiffre d'affaires ; c'est aussi sur
   la seule prestation que l'URSSAF a fait son calcul. Le total du virement et la
   part de frais sont notés dans la colonne « Référence ».
+- **Convoyage Pop Valet (règle du 08/11/2026)** : la facture Pop Valet ne contient
+  que les prestations. Son montant s'inscrit en entier au livre des recettes, à la
+  date du virement, et l'URSSAF se calcule directement dessus (21,3 %). Pop Valet
+  rembourse l'**essence** et les **péages** à part, plus tard, par un autre virement :
+  ces remboursements **ne sont pas des recettes**. Ils ne s'inscrivent pas au livre
+  et ne comptent pas dans l'URSSAF.
 - **Uber prélève directement l'URSSAF à partir du 4ᵉ trimestre 2026 (octobre).**
   Les virements Uber continuent d'être inscrits au livre, mais leur URSSAF ne doit
   pas être payée une seconde fois. Organisation à définir.
@@ -114,6 +120,6 @@ activités confondues sur le trimestre.
 - [ ] Autres plateformes de convoyage : ajouter chaque virement (plateforme, date, montant).
 - [ ] Uber : décider comment suivre les virements dont l'URSSAF est déjà prélevée.
 - [ ] Confirmer sur autoentrepreneur.urssaf.fr le taux des prestations et du convoyage.
-- [ ] Pop Valet : inscrire au livre des recettes chaque virement reçu (date du virement, montant des prestations, relevé/facture Pop Valet en justificatif). Vérifier si Pop Valet rembourse aussi des frais et sur quel compte arrive le virement.
+- [ ] Pop Valet : inscrire au livre des recettes chaque virement reçu (date du virement, montant des prestations, relevé/facture Pop Valet en justificatif). Les remboursements d'essence et de péage, versés à part, ne s'inscrivent pas. Vérifier sur quel compte arrive le virement.
 - [ ] Hiflow (et chaque nouvelle plateforme de convoyage) : remplacer le RIB perso par le RIB du compte pro.
 - [ ] Uber : vérifier que le RIB enregistré est bien celui du compte pro.
