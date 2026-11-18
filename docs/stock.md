@@ -90,7 +90,7 @@ Et deux charges fixes indépendantes des ventes :
 | **Mrs.Ertha** gilets flottaison ×4 | 3-6 ans | 37,80 € | 20 € Decathlon | 19 €/gilet | 9,42 € | 1,14 € | **27,64 €** | Leboncoin + Vinted |
 | **Robby** VP550W pompes immergées ×3, 2 à vendre | Très bon état | 45 € le lot de 3 | **54,90 €** neuve, idealo | **42 €/pompe** | 10,42 € | 0 € | **38,85 €** | Leboncoin, main propre |
 | Robe **Sandro** blanche | 40 | 50,04 € | Once Again −90 % | **89 €** | 11,04 € | 1,34 € | **26,59 €** | Boutique |
-| Ballerines **Massimo Dutti** rouge | 40 IT | 25 € | 70 € | **59 €** | 7,32 € | 0,89 € | **25,80 €** | Leboncoin + eBay |
+| Ballerines **Massimo Dutti** rouge | 41 | 25 € | 70 € | **59 €** | 7,32 € | 0,89 € | **25,80 €** | Leboncoin + eBay |
 | Robe **Chiara Ferragni** bustier | M | 38 € | YOOX −85 % | **69 €** | 8,56 € | 1,04 € | **21,41 €** | Boutique + Leboncoin |
 | Robe **Pier Antonio Gaspari** marine | 42 | 30 € | YOOX −69 %, Joli Closet −70 % | **59 €** | 7,32 € | 0,89 € | **20,80 €** | Boutique + Leboncoin |
 | Baskets **Geox** gris / argent | 35 | 25 € | **55 €** | **49 €** | 6,08 € | 0,74 € | **17,19 €** | Leboncoin + eBay |

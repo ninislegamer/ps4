@@ -621,16 +621,16 @@ uniquement, pas d'expédition.
 sur la 122. Une photo du défaut vaut mieux qu'une phrase : elle prouve la bonne
 foi et coupe court à la négociation.
 
-## Ballerines MASSIMO DUTTI P.40 IT — 61 €
+## Ballerines MASSIMO DUTTI P.41 — 61 €
 
 *coût **27,57 €** · marge **25,87 €*** · *59 → 61 € le 14/08, marché 70 €*
 
 ```
-Ballerines MASSIMO DUTTI cuir rouge P.40 IT
+Ballerines MASSIMO DUTTI cuir rouge P.41
 ```
 ```
 Ballerines MASSIMO DUTTI en cuir rouge, bride à la cheville.
-Pointure 40 IT. Traces d'essayage, jamais portées à l'extérieur.
+Pointure 41. Traces d'essayage, jamais portées à l'extérieur.
 ```
 
 ## Baskets GEOX P.35 — 54 €
@@ -809,7 +809,7 @@ Canal : Vinted, pas la boutique.
 | NEW BALANCE GS 1906 Alkaline Green P.38½ | « Calvimo » (Vinted) | 99 € | 77,97 € | 12,28 € | **+8,76 €** | 10/09/2026 |
 | HAVAIANAS Slim — 1 paire à 15 € | « amaliagogoi » (Vinted) | 15 € | 10,77 € | 1,86 € | **+2,37 €** | 10/09/2026 |
 | **TOTAL ENCAISSÉ — 3ᵉ trimestre 2026** | | **587 €** | **445,31 €** | **72,79 €** | **+68,90 €** | |
-| BALLERINES MASSIMO DUTTI P.40 IT | « anavdlr » (Vinted) | 50 € | 27,57 € | — | **annulée** | encaissée le 09/11, retournée (pointure erronée), remboursement de 50 € à verser |
+| BALLERINES MASSIMO DUTTI P.41 | « anavdlr » (Vinted) | 50 € | 27,57 € | — | **annulée** | encaissée le 09/11, retournée (erreur de pointure), remboursement de 50 € à verser |
 
 ¹ *Vendue le 12/08, inscrite au 21/08 : c'est la date du virement Vinted qui
 compte, pas celle de la vente.*
