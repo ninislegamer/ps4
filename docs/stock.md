@@ -374,7 +374,9 @@ des annonces identiques rend impossible : 49 € de marge annoncés, 15 € rée
 - **Yeezy 700 V3** — état insuffisant (portée) au regard de la règle « occasion
   uniquement en très bon état », et risque de contrefaçon non levé.
 - **Ballerines Massimo Dutti** — article très demandé, mais Massimo Dutti relève
-  du groupe Inditex : ni sportswear, ni créateur. Vendues sur Leboncoin et eBay.
+  du groupe Inditex : ni sportswear, ni créateur. **Exception depuis le
+  18/11/2026** : remises en vente sur la boutique à 50 € et sur Vinted à 60 €,
+  après le retour de l'acheteuse « anavdlr ».
   État : **neuves dans leur boîte d'origine, avec traces d'essayage**.
 - **Baskets Geox** — marque italienne grand public positionnée sur le confort,
   même cas que Massimo Dutti : hors des trois niveaux. Marché vérifié :

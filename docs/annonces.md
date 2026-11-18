@@ -631,9 +631,14 @@ uniquement, pas d'expédition.
 sur la 122. Une photo du défaut vaut mieux qu'une phrase : elle prouve la bonne
 foi et coupe court à la négociation.
 
-## Ballerines MASSIMO DUTTI P.41 — 61 €
+## Ballerines MASSIMO DUTTI P.41 — 50 € boutique, 60 € Vinted
 
-*coût **27,57 €** · marge **25,87 €*** · *59 → 61 € le 14/08, marché 70 €*
+*coût **27,57 €** · marge **16,23 €** à 50 € (boutique), **24,99 €** à 60 € (Vinted)*
+· *remises en vente le 18/11/2026 après retour*
+
+Prix Vinted volontairement plus haut que la boutique : la boutique reste le prix
+le plus bas. Dès qu'une vente est conclue sur un canal, retirer l'autre annonce
+(stock à 0 sur Shopify ou annonce Vinted supprimée).
 
 ```
 Ballerines MASSIMO DUTTI cuir rouge P.41 - neuves, traces d'essayage
