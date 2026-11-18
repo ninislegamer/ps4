@@ -5,11 +5,13 @@ Coûts et prix : voir `exports/maison-nsaia-stock.xlsx`.
 
 **Règle d'état — pour toutes les annonces (Vinted, Leboncoin, eBay, boutique Shopify)** —
 l'état annoncé est celui du bordereau de la maison de vente, jamais mieux. Un
-article noté « traces d'essayage » s'annonce **« traces d'essayage »** : jamais
-« neuf », « neuf avec étiquette » ni « neuf avec boîte », ni en titre, ni en
-description, ni en étiquette (tag) Shopify. Seul un lot noté « neuf » au
-bordereau peut être annoncé neuf. Raison : voir « Pourquoi pas « neuves » »
-(Hogan) plus bas.
+article noté « traces d'essayage » s'annonce **« neuf(s) / neuve(s) avec traces
+d'essayage »** (« neuves dans leur boîte d'origine, avec traces d'essayage » si la
+boîte est là) : la mention « traces d'essayage » figure **toujours** dans le titre
+et la description, jamais « neuf » seul ni « neuf avec étiquette ». Seul un lot
+noté « neuf » sans réserve au bordereau peut être annoncé neuf tout court.
+Choix de l'exploitant (18/11/2026), en connaissance de la note « Pourquoi pas
+« neuves » » (Hogan) plus bas.
 
 **Règle de canal** — Vinted et eBay sont réservés aux pièces qui ne sont pas sur
 la boutique. Tout le reste va sur la boutique **et** sur Leboncoin sans paiement
@@ -634,15 +636,16 @@ foi et coupe court à la négociation.
 *coût **27,57 €** · marge **25,87 €*** · *59 → 61 € le 14/08, marché 70 €*
 
 ```
-Ballerines MASSIMO DUTTI cuir rouge P.41
+Ballerines MASSIMO DUTTI cuir rouge P.41 - neuves, traces d'essayage
 ```
 ```
 Ballerines MASSIMO DUTTI en cuir rouge, bride à la cheville.
-Pointure 41. Traces d'essayage, jamais portées à l'extérieur.
+Pointure 41. Neuves dans leur boîte d'origine, avec traces
+d'essayage. Jamais portées à l'extérieur.
 ```
 
-État Vinted / Leboncoin : **« Très bon état »**, avec la mention « traces
-d'essayage » dans la description. Jamais « Neuf ».
+État Vinted / Leboncoin : **« Très bon état »**, avec « neuves dans leur boîte
+d'origine, avec traces d'essayage » dans la description.
 
 ## Baskets GEOX P.35 — 54 €
 

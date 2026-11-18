@@ -8,7 +8,7 @@ Répondre en français.
   trimestres déclarés ; ventes en attente ; règles de tenue).
 - **Annonces (Vinted, Leboncoin, eBay, Shopify)** : l'état annoncé est celui du
   bordereau de la maison de vente. « Traces d'essayage » au bordereau =
-  « traces d'essayage » dans l'annonce, jamais « neuf ». Règle détaillée en tête
+  « neuf(s) avec traces d'essayage » dans l'annonce, jamais « neuf » seul. Règle détaillée en tête
   de `docs/annonces.md`.
 - Registres légaux : `exports/maison-nsaia-registres.xlsx` (livre des recettes,
   registre des achats, objets mobiliers). Toute nouvelle recette s'y inscrit à la
