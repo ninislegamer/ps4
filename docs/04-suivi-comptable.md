@@ -1,6 +1,6 @@
 # Suivi comptable — micro-entreprise
 
-*Mis à jour le 23/10/2026. Source de vérité : `exports/maison-nsaia-registres.xlsx`,
+*Mis à jour le 18/11/2026. Source de vérité : `exports/maison-nsaia-registres.xlsx`,
 onglet « Livre des recettes ».*
 
 ---
@@ -90,16 +90,30 @@ activités confondues sur le trimestre.
 | Encaissé le | Client | Objet | Montant | Nature | Statut |
 |---|---|---|---|---|---|
 | 23/10/2026 | Hiflow | Convoyages automobiles | 161,80 € | Convoyage automobile | Encaissé (ligne 11) |
-| — | « anavdlr » (Vinted) | Ballerines Massimo Dutti P.41, vendues le 17/10 | 50 € | Achat-revente | **En attente du virement Vinted** — coût 27,57 €, marge prévue +16,23 € |
+| 09/11/2026 | « anavdlr » (Vinted) | Ballerines Massimo Dutti P.40 IT, vendues le 17/10 | 50 € | Achat-revente | Encaissé (ligne 12) — **puis retournées** |
+| *à venir* | « anavdlr » | Remboursement des ballerines par PayPal | **−50 €** | Achat-revente | **À verser** — ligne rectificative à inscrire le jour du paiement |
 
-- URSSAF à provisionner : ≈ 34,46 € sur le convoyage, ≈ 6,20 € sur les ballerines
-  une fois encaissées.
+**Retour des ballerines Massimo Dutti.** L'annonce indiquait P.41 alors que la
+paire fait **40 IT** : erreur de pointure de notre part. L'acheteuse a renvoyé la
+paire hors du délai de rétractation de 14 jours, mais un article non conforme à
+son annonce relève de la garantie légale de conformité (2 ans pour un vendeur
+professionnel) : le remboursement est dû. Vinted ayant déjà versé les 50 € le
+09/11, le remboursement se fait par PayPal (envoi « entre proches », motif
+« remboursement des ballerines ») : garder la capture de la transaction comme
+justificatif de la ligne −50 €. Vente annulée : net 0 € de chiffre d'affaires et
+0 € d'URSSAF. Article revenu en stock (registre des objets mobiliers,
+n° 17), pointure corrigée dans les registres.
+
+- URSSAF à provisionner : ≈ 34,46 € sur le convoyage. Rien sur les ballerines une
+  fois le remboursement inscrit (+50 € − 50 € = 0 €).
 - Déclaration du 4ᵉ trimestre : en janvier 2027, uniquement les montants encaissés
   à partir du 1ᵉʳ octobre.
 
 ## À faire
 
-- [ ] Ballerines Massimo Dutti : inscrire au livre des recettes le jour du virement Vinted.
+- [x] Ballerines Massimo Dutti : 50 € inscrits au livre des recettes le 09/11/2026 (ligne 12).
+- [ ] Ballerines Massimo Dutti : rembourser 50 € par PayPal, puis inscrire la ligne −50 € à la date du paiement.
+- [ ] Ballerines Massimo Dutti : corriger la pointure (40 IT) dans l'annonce avant de les remettre en vente.
 - [ ] Autres plateformes de convoyage : ajouter chaque virement (plateforme, date, montant).
 - [ ] Uber : décider comment suivre les virements dont l'URSSAF est déjà prélevée.
 - [ ] Confirmer sur autoentrepreneur.urssaf.fr le taux des prestations et du convoyage.
