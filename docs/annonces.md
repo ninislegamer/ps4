@@ -3,6 +3,14 @@
 Intitulés repris des factures ADN : tailles, modèles et états y sont exacts.
 Coûts et prix : voir `exports/maison-nsaia-stock.xlsx`.
 
+**Règle d'état — pour toutes les annonces (Vinted, Leboncoin, eBay, boutique Shopify)** —
+l'état annoncé est celui du bordereau de la maison de vente, jamais mieux. Un
+article noté « traces d'essayage » s'annonce **« traces d'essayage »** : jamais
+« neuf », « neuf avec étiquette » ni « neuf avec boîte », ni en titre, ni en
+description, ni en étiquette (tag) Shopify. Seul un lot noté « neuf » au
+bordereau peut être annoncé neuf. Raison : voir « Pourquoi pas « neuves » »
+(Hogan) plus bas.
+
 **Règle de canal** — Vinted et eBay sont réservés aux pièces qui ne sont pas sur
 la boutique. Tout le reste va sur la boutique **et** sur Leboncoin sans paiement
 sécurisé. Dès qu'un acheteur Leboncoin dit oui : stock à 0 sur Shopify **avant**
@@ -632,6 +640,9 @@ Ballerines MASSIMO DUTTI cuir rouge P.41
 Ballerines MASSIMO DUTTI en cuir rouge, bride à la cheville.
 Pointure 41. Traces d'essayage, jamais portées à l'extérieur.
 ```
+
+État Vinted / Leboncoin : **« Très bon état »**, avec la mention « traces
+d'essayage » dans la description. Jamais « Neuf ».
 
 ## Baskets GEOX P.35 — 54 €
 
