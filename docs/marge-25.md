@@ -43,7 +43,7 @@ pas** — non pas parce que le prix est mal fixé, mais parce que **la marchandi
 | **Philipp Plein Sport** P.40 | 89 € | **95 €** | 23,34 € | ~100 € Stylight *(à confirmer)* |
 | **Geox** P.35 | 49 € | **54 €** | 23,20 € | 55 € |
 | **Pier Antonio Gaspari** T.42 | 59 € | **62 €** | **25,46 €** | ~100 € YOOX −69 % |
-| **Massimo Dutti** P.41 | 59 € | **61 €** | **25,87 €** | 70 € |
+| **Massimo Dutti** P.40 IT | 59 € | **61 €** | **25,87 €** | 70 € |
 | **Karl Lagerfeld** blazer T.36 | 89 € | **91 €** | **25,58 €** | dès 229 € neuf *(à confirmer)* |
 | **Beyblade** lot n°299 | 49 € | **55 €** | 7,47 € | idem n°159 |
 | **Yeezy 700 V3** T.38 | — | **105 €** | 26,61 € | 140 € neuve, wehaveit.fr |
