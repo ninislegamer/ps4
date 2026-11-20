@@ -92,6 +92,7 @@ activités confondues sur le trimestre.
 | 23/10/2026 | Hiflow | Convoyages automobiles | 161,80 € | Convoyage automobile | Encaissé (ligne 11) |
 | 09/11/2026 | « anavdlr » (Vinted) | Ballerines Massimo Dutti P.41, vendues le 17/10 | 50 € | Achat-revente | Encaissé (ligne 12) — **puis retournées** |
 | 19/11/2026 | « anavdlr » | Remboursement des ballerines par PayPal | **−50 €** | Achat-revente | Versé — ligne rectificative (ligne 13) |
+| — | Acheteur (à préciser) | Combinaison de pluie BMW Overall ProRain XL | 135 € | Achat-revente | **En attente du paiement** — contre-proposition à 135 € acceptée ; coût réel 70,94 €, URSSAF 16,74 €, marge prévue **+47,32 €** |
 
 **Retour des ballerines Massimo Dutti.** La paire fait bien du **41** (vérifié
 sur la paire le 18/11/2026). L'acheteuse l'a renvoyée pour une erreur de pointure,
@@ -105,6 +106,7 @@ n° 17).
 
 - URSSAF à provisionner : ≈ 34,46 € sur le convoyage. Rien sur les ballerines :
   remboursement inscrit (+50 € − 50 € = 0 €).
+- Combinaison BMW : ≈ 16,74 € d'URSSAF à provisionner une fois les 135 € encaissés.
 - Déclaration du 4ᵉ trimestre : en janvier 2027, uniquement les montants encaissés
   à partir du 1ᵉʳ octobre.
 
@@ -114,6 +116,7 @@ n° 17).
 - [x] Ballerines Massimo Dutti : 50 € remboursés par PayPal le 19/11/2026, ligne −50 € inscrite (ligne 13).
 - [ ] Ballerines Massimo Dutti : conserver la capture de la transaction PayPal du 19/11 avec les justificatifs.
 - [ ] Ballerines Massimo Dutti : vérifier l'état réel (neuves ou traces d'essayage) avant de les remettre en vente sur le site Shopify.
+- [ ] Combinaison BMW ProRain : inscrire les 135 € au livre des recettes le jour où ils arrivent (client, canal, mode de règlement).
 - [ ] Autres plateformes de convoyage : ajouter chaque virement (plateforme, date, montant).
 - [ ] Uber : décider comment suivre les virements dont l'URSSAF est déjà prélevée.
 - [ ] Confirmer sur autoentrepreneur.urssaf.fr le taux des prestations et du convoyage.

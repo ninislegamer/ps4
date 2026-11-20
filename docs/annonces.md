@@ -686,7 +686,7 @@ Pointure 40. NEUVES avec boîte.
 95 €.
 ```
 
-## Combinaison de pluie BMW ProRain XL — 139 €
+## Combinaison de pluie BMW ProRain XL — VENDUE 135 € (encaissement en attente)
 
 *coût **71,54 €** · marge **50,22 €***
 
