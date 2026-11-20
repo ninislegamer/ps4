@@ -28,13 +28,21 @@ chaque année par activité, avec la date limite de déclaration et l'URSSAF.
 - Uber : une ligne par virement Uber, client « Divers clients », justificatif =
   relevé de paiements Uber.
 - Convoyage : une ligne par virement, client = nom de la plateforme, justificatif =
-  relevé de missions ou facture de la plateforme.
+  facture ou relevé de missions de la plateforme. Les factures sont rangées dans
+  `exports/justificatifs/` (nom : date-plateforme-facture-numéro).
 - **Convoyage Hiflow : seul le montant des prestations est inscrit comme recette
-  (règle validée le 08/11/2026, à appliquer à chaque virement Hiflow).**
-  Les remboursements de frais (carburant, péages, transport, frais exceptionnels)
-  versés dans le même virement restent hors chiffre d'affaires ; c'est aussi sur
-  la seule prestation que l'URSSAF a fait son calcul. Le total du virement et la
-  part de frais sont notés dans la colonne « Référence ».
+  (règle du 23/10/2026, confirmée le 08/11 et le 20/11/2026, à appliquer à chaque
+  virement Hiflow).** Les remboursements de frais (carburant, péages, transport,
+  frais exceptionnels) versés dans le même virement sont des débours, séparés sur
+  la facture Hiflow : ils restent hors chiffre d'affaires, et l'URSSAF ne se
+  calcule que sur la prestation. Le numéro de facture, le total du virement et la
+  part de frais sont notés dans la colonne « Référence ». Garder la facture et les
+  tickets de frais.
+- **Frais exceptionnels Hiflow (décision du 23/10/2026)** : traités comme des frais
+  de mission, hors chiffre d'affaires, au même titre que le péage et le transport
+  (repas et café pendant la mission, hôtel, imprévus). Le tabac n'en fait pas
+  partie. Point de vigilance : l'URSSAF peut considérer les dépenses personnelles
+  (repas, café) comme une rémunération ; à confirmer au 3698 en cas de doute.
 - **Convoyage Pop Valet (règle du 08/11/2026)** : la facture Pop Valet ne contient
   que les prestations. Son montant s'inscrit en entier au livre des recettes, à la
   date du virement, et l'URSSAF se calcule directement dessus (21,3 %). Pop Valet
@@ -101,7 +109,7 @@ activités confondues sur le trimestre.
 
 | Encaissé le | Client | Objet | Montant | Nature | Statut |
 |---|---|---|---|---|---|
-| 23/10/2026 | Hiflow | Convoyages automobiles | 161,80 € | Convoyage automobile | Encaissé (ligne 11) |
+| 23/10/2026 | Hiflow (FREECARS SAS) | 3 convoyages du 13 au 15/10 — facture HIFNACIZR2026-S-3147 du 21/10/2026 (`exports/justificatifs/`) | 67,00 € | Convoyage automobile | Encaissé (ligne 11) — virement de 161,80 € dont 94,80 € de frais remboursés, hors CA |
 | 05/11/2026 | Hiflow (FREECARS SAS) | 7 convoyages du 19/10 au 30/10 — facture HIFNACIZR2026-S-3148 | 162,00 € | Convoyage automobile | Encaissé (ligne 12) — virement de 445 € dont 283 € de frais remboursés, hors CA |
 | 09/11/2026 | « anavdlr » (Vinted) | Ballerines Massimo Dutti P.41, vendues le 17/10 | 50 € | Achat-revente | Encaissé (ligne 13) — **puis retournées** |
 | 19/11/2026 | « anavdlr » | Remboursement des ballerines par PayPal | **−50 €** | Achat-revente | Versé — ligne rectificative (ligne 14) |
@@ -118,8 +126,9 @@ transaction comme justificatif de la ligne −50 € (ligne 14). Vente annulée 
 0 € d'URSSAF. Article revenu en stock (registre des objets mobiliers,
 n° 17).
 
-- Convoyage Hiflow encaissé au 4ᵉ trimestre : **323,80 €** (161,80 € + 162 €).
-- URSSAF à provisionner : ≈ **68,97 €** sur le convoyage (21,3 %). Rien sur les
+- Convoyage Hiflow encaissé au 4ᵉ trimestre : **229 €** de prestations (67 € + 162 €) ;
+  les 377,80 € de frais remboursés sont hors CA.
+- URSSAF à provisionner : ≈ **48,78 €** sur le convoyage (229 € × 21,3 %). Rien sur les
   ballerines : remboursement inscrit (+50 € − 50 € = 0 €).
 - Combinaison BMW : ≈ 16,74 € d'URSSAF à provisionner une fois les 135 € encaissés.
 - Livraisons Uber : aucun virement inscrit au 4ᵉ trimestre pour l'instant (URSSAF
