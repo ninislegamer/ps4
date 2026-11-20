@@ -11,7 +11,7 @@ onglet « Livre des recettes ».*
 |---|---|---|
 | **Achat-revente** | Maison Nsaia — revente de pièces (Vinted, main propre, boutique Shopify) | 12,4 % |
 | **Prestation de services** | Livraisons **Uber** — clients divers, pas de nom à inscrire | 21,3 % (à confirmer) |
-| **Convoyage automobile** | Missions via plateformes : **Hiflow** (d'autres à venir) | 21,3 % (à confirmer) |
+| **Convoyage automobile** | Missions via plateformes : **Hiflow** (société FREECARS SAS), **Pop Valet** (partenariat depuis novembre 2026, 1ʳᵉ mission le 09/11/2026) | 21,3 % (à confirmer) |
 
 Une seule micro-entreprise : **toutes** les recettes vont au même livre des
 recettes, distinguées par la colonne « Nature de la recette ».
@@ -28,7 +28,19 @@ chaque année par activité, avec la date limite de déclaration et l'URSSAF.
 - Uber : une ligne par virement Uber, client « Divers clients », justificatif =
   relevé de paiements Uber.
 - Convoyage : une ligne par virement, client = nom de la plateforme, justificatif =
-  relevé de missions de la plateforme.
+  relevé de missions ou facture de la plateforme.
+- **Convoyage Hiflow : seul le montant des prestations est inscrit comme recette
+  (règle validée le 08/11/2026, à appliquer à chaque virement Hiflow).**
+  Les remboursements de frais (carburant, péages, transport, frais exceptionnels)
+  versés dans le même virement restent hors chiffre d'affaires ; c'est aussi sur
+  la seule prestation que l'URSSAF a fait son calcul. Le total du virement et la
+  part de frais sont notés dans la colonne « Référence ».
+- **Convoyage Pop Valet (règle du 08/11/2026)** : la facture Pop Valet ne contient
+  que les prestations. Son montant s'inscrit en entier au livre des recettes, à la
+  date du virement, et l'URSSAF se calcule directement dessus (21,3 %). Pop Valet
+  rembourse l'**essence** et les **péages** à part, plus tard, par un autre virement :
+  ces remboursements **ne sont pas des recettes**. Ils ne s'inscrivent pas au livre
+  et ne comptent pas dans l'URSSAF.
 - **Uber prélève directement l'URSSAF à partir du 4ᵉ trimestre 2026 (octobre).**
   Les virements Uber continuent d'être inscrits au livre, mais leur URSSAF ne doit
   pas être payée une seconde fois. Organisation à définir.
@@ -90,8 +102,10 @@ activités confondues sur le trimestre.
 | Encaissé le | Client | Objet | Montant | Nature | Statut |
 |---|---|---|---|---|---|
 | 23/10/2026 | Hiflow | Convoyages automobiles | 161,80 € | Convoyage automobile | Encaissé (ligne 11) |
-| 09/11/2026 | « anavdlr » (Vinted) | Ballerines Massimo Dutti P.41, vendues le 17/10 | 50 € | Achat-revente | Encaissé (ligne 12) — **puis retournées** |
-| 19/11/2026 | « anavdlr » | Remboursement des ballerines par PayPal | **−50 €** | Achat-revente | Versé — ligne rectificative (ligne 13) |
+| 05/11/2026 | Hiflow (FREECARS SAS) | 7 convoyages du 19/10 au 30/10 — facture HIFNACIZR2026-S-3148 | 162,00 € | Convoyage automobile | Encaissé (ligne 12) — virement de 445 € dont 283 € de frais remboursés, hors CA |
+| 09/11/2026 | « anavdlr » (Vinted) | Ballerines Massimo Dutti P.41, vendues le 17/10 | 50 € | Achat-revente | Encaissé (ligne 13) — **puis retournées** |
+| 19/11/2026 | « anavdlr » | Remboursement des ballerines par PayPal | **−50 €** | Achat-revente | Versé — ligne rectificative (ligne 14) |
+| — | Pop Valet | 1ʳᵉ mission de convoyage le lundi 09/11/2026 | — | Convoyage automobile | **À inscrire au jour du virement Pop Valet** |
 | — | Acheteur (à préciser) | Combinaison de pluie BMW Overall ProRain XL | 135 € | Achat-revente | **En attente du paiement** — contre-proposition à 135 € acceptée ; coût réel 70,94 €, URSSAF 16,74 €, marge prévue **+47,32 €** |
 
 **Retour des ballerines Massimo Dutti.** La paire fait bien du **41** (vérifié
@@ -100,25 +114,29 @@ hors du délai de rétractation de 14 jours : le remboursement est un geste
 commercial. Vinted ayant déjà versé les 50 € le
 09/11, le remboursement a été fait par PayPal le **19/11/2026** (envoi « entre
 proches », motif « remboursement des ballerines ») : garder la capture de la
-transaction comme justificatif de la ligne −50 € (ligne 13). Vente annulée : net 0 € de chiffre d'affaires et
+transaction comme justificatif de la ligne −50 € (ligne 14). Vente annulée : net 0 € de chiffre d'affaires et
 0 € d'URSSAF. Article revenu en stock (registre des objets mobiliers,
 n° 17).
 
-- URSSAF à provisionner : ≈ 34,46 € sur le convoyage. Rien sur les ballerines :
-  remboursement inscrit (+50 € − 50 € = 0 €).
+- Convoyage Hiflow encaissé au 4ᵉ trimestre : **323,80 €** (161,80 € + 162 €).
+- URSSAF à provisionner : ≈ **68,97 €** sur le convoyage (21,3 %). Rien sur les
+  ballerines : remboursement inscrit (+50 € − 50 € = 0 €).
 - Combinaison BMW : ≈ 16,74 € d'URSSAF à provisionner une fois les 135 € encaissés.
+- Livraisons Uber : aucun virement inscrit au 4ᵉ trimestre pour l'instant (URSSAF
+  prélevée par Uber).
 - Déclaration du 4ᵉ trimestre : en janvier 2027, uniquement les montants encaissés
   à partir du 1ᵉʳ octobre.
 
 ## À faire
 
-- [x] Ballerines Massimo Dutti : 50 € inscrits au livre des recettes le 09/11/2026 (ligne 12).
-- [x] Ballerines Massimo Dutti : 50 € remboursés par PayPal le 19/11/2026, ligne −50 € inscrite (ligne 13).
+- [x] Ballerines Massimo Dutti : 50 € inscrits au livre des recettes le 09/11/2026 (ligne 13).
+- [x] Ballerines Massimo Dutti : 50 € remboursés par PayPal le 19/11/2026, ligne −50 € inscrite (ligne 14).
 - [ ] Ballerines Massimo Dutti : conserver la capture de la transaction PayPal du 19/11 avec les justificatifs.
 - [ ] Ballerines Massimo Dutti : vérifier l'état réel (neuves ou traces d'essayage) avant de les remettre en vente sur le site Shopify.
 - [ ] Combinaison BMW ProRain : inscrire les 135 € au livre des recettes le jour où ils arrivent (client, canal, mode de règlement).
 - [ ] Autres plateformes de convoyage : ajouter chaque virement (plateforme, date, montant).
 - [ ] Uber : décider comment suivre les virements dont l'URSSAF est déjà prélevée.
 - [ ] Confirmer sur autoentrepreneur.urssaf.fr le taux des prestations et du convoyage.
+- [ ] Pop Valet : inscrire au livre des recettes chaque virement reçu (date du virement, montant des prestations, relevé/facture Pop Valet en justificatif). Les remboursements d'essence et de péage, versés à part, ne s'inscrivent pas. Vérifier sur quel compte arrive le virement.
 - [ ] Hiflow (et chaque nouvelle plateforme de convoyage) : remplacer le RIB perso par le RIB du compte pro.
 - [ ] Uber : vérifier que le RIB enregistré est bien celui du compte pro.
