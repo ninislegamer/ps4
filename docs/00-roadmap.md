@@ -230,6 +230,23 @@ Maison Nsaia
 - Collection « Déjà vendu » créée (Salomon, Armani Exchange, Lacoste, sac
   Karl Lagerfeld) — automatique par tag, visible dans le menu principal.
 
+### Procédure à chaque vente — boutique Shopify
+
+*Règle fixée le 19/10/2026, après la vente des ballerines Massimo Dutti.*
+
+Dès qu'un article est vendu, quel que soit le canal (boutique, Vinted, eBay,
+Leboncoin, main propre) :
+
+1. **Stock à 0** sur la fiche, et prix ajusté au prix réellement encaissé.
+2. **Ajouter le tag `Vendu`** → l'article passe dans « Déjà vendu ».
+3. **Retirer le tag `Nouveau`** → il sort de « Nouveautés ».
+4. **Retirer l'article de la collection « Page d'accueil »** (section
+   « À la une ») — elle est curée à la main, rien ne l'en sort tout seul.
+5. Facture (numérotation continue), puis registres : livre des recettes
+   au jour de l'encaissement (en attente tant que la plateforme retient les
+   fonds), sortie au registre des objets mobiliers, ligne verte dans le
+   classeur de stock.
+
 ### À faire maintenant que le RIB est là
 
 3. ~~**Shopify Payments — IBAN.**~~ ✅ fait le 16/08 — compte EI IZRI NACIM

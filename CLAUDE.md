@@ -13,3 +13,11 @@ Répondre en français.
 - Registres légaux : `exports/maison-nsaia-registres.xlsx` (livre des recettes,
   registre des achats, objets mobiliers). Toute nouvelle recette s'y inscrit à la
   date d'encaissement, et `docs/04-suivi-comptable.md` est mis à jour en même temps.
+- Quand un article est vendu, appliquer la procédure « Procédure à chaque
+  vente » de `docs/00-roadmap.md` : stock à 0, tag `Vendu`, retrait du tag
+  `Nouveau` et retrait de la collection « Page d'accueil » (À la une) sur
+  Shopify, sans attendre qu'on le demande.
+- Factures : modèle `exports/facture-2026-001-Aouimeur-Siham.html`,
+  numérotation continue sans trou (2026-001, 2026-002, …). Une facture émise ne
+  se supprime ni ne se modifie : une vente annulée s'annule par une facture
+  d'avoir, dans la même numérotation (ex. avoir 2026-003 sur la facture 2026-002).

@@ -111,8 +111,8 @@ activités confondues sur le trimestre.
 |---|---|---|---|---|---|
 | 23/10/2026 | Hiflow (FREECARS SAS) | 3 convoyages du 13 au 15/10 — facture HIFNACIZR2026-S-3147 du 21/10/2026 (`exports/justificatifs/`) | 67,00 € | Convoyage automobile | Encaissé (ligne 11) — virement de 161,80 € dont 94,80 € de frais remboursés, hors CA |
 | 05/11/2026 | Hiflow (FREECARS SAS) | 7 convoyages du 19/10 au 30/10 — facture HIFNACIZR2026-S-3148 du 04/11/2026 (`exports/justificatifs/`) | 162,00 € | Convoyage automobile | Encaissé (ligne 12) — virement de 445 € dont 283 € de frais remboursés, hors CA |
-| 09/11/2026 | « anavdlr » (Vinted) | Ballerines Massimo Dutti P.41, vendues le 17/10 | 50 € | Achat-revente | Encaissé (ligne 13) — **puis retournées** |
-| 19/11/2026 | « anavdlr » | Remboursement des ballerines par PayPal | **−50 €** | Achat-revente | Versé — ligne rectificative (ligne 14) |
+| 09/11/2026 | « anavdlr » (Vinted) | Ballerines Massimo Dutti P.41, vendues le 17/10 — facture n° 2026-002 | 50 € | Achat-revente | Encaissé (ligne 13) — **puis retournées** |
+| 19/11/2026 | « anavdlr » | Remboursement des ballerines par PayPal — avoir n° 2026-003 | **−50 €** | Achat-revente | Versé — ligne rectificative (ligne 14) |
 | 19/11/2026 | Hiflow (FREECARS SAS) | 3 convoyages du 21/10 au 06/11 — facture HIFNACIZR2026-S-3149 du 18/11/2026 (`exports/justificatifs/`) | 161,00 € | Convoyage automobile | Encaissé (ligne 15) — virement de 514 € dont 353 € de frais remboursés, hors CA |
 | — | Pop Valet | 1 convoyage le 09/11/2026 (Vynex Pichot → TEA Toulouse, Castelnau) — facture Vc1c48b40-261100001 du 16/11/2026 (`exports/justificatifs/`) | 60,00 € | Convoyage automobile | **En attente du virement** (échéance 23/11/2026) — à inscrire au jour où l'argent arrive ; URSSAF ≈ 12,78 € |
 | — | Acheteur (à préciser) | Combinaison de pluie BMW Overall ProRain XL | 135 € | Achat-revente | **En attente du paiement** — contre-proposition à 135 € acceptée ; coût réel 70,94 €, URSSAF 16,74 €, marge prévue **+47,32 €** |
@@ -123,7 +123,10 @@ hors du délai de rétractation de 14 jours : le remboursement est un geste
 commercial. Vinted ayant déjà versé les 50 € le
 09/11, le remboursement a été fait par PayPal le **19/11/2026** (envoi « entre
 proches », motif « remboursement des ballerines ») : garder la capture de la
-transaction comme justificatif de la ligne −50 € (ligne 14). Vente annulée : net 0 € de chiffre d'affaires et
+transaction comme justificatif de la ligne −50 € (ligne 14).
+La facture n° 2026-002 (17/10, envoyée avec le colis) est annulée par la
+**facture d'avoir n° 2026-003** du 21/11/2026 (`exports/avoir-2026-003-Vidal-Lorenzo-Ana.pdf`) :
+une facture émise ne se supprime pas. Vente annulée : net 0 € de chiffre d'affaires et
 0 € d'URSSAF. Article revenu en stock (registre des objets mobiliers,
 n° 17).
 
@@ -141,6 +144,7 @@ n° 17).
 
 - [x] Ballerines Massimo Dutti : 50 € inscrits au livre des recettes le 09/11/2026 (ligne 13).
 - [x] Ballerines Massimo Dutti : 50 € remboursés par PayPal le 19/11/2026, ligne −50 € inscrite (ligne 14).
+- [ ] Ballerines Massimo Dutti : envoyer l'avoir n° 2026-003 (PDF) à l'acheteuse, par la messagerie Vinted ou par mail.
 - [ ] Ballerines Massimo Dutti : conserver la capture de la transaction PayPal du 19/11 avec les justificatifs.
 - [ ] Ballerines Massimo Dutti : vérifier l'état réel (neuves ou traces d'essayage) avant de les remettre en vente sur le site Shopify.
 - [ ] Combinaison BMW ProRain : inscrire les 135 € au livre des recettes le jour où ils arrivent (client, canal, mode de règlement).
