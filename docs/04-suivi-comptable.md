@@ -1,6 +1,6 @@
 # Suivi comptable — micro-entreprise
 
-*Mis à jour le 20/11/2026. Source de vérité : `exports/maison-nsaia-registres.xlsx`,
+*Mis à jour le 21/11/2026. Source de vérité : `exports/maison-nsaia-registres.xlsx`,
 onglet « Livre des recettes ».*
 
 ---
@@ -113,6 +113,7 @@ activités confondues sur le trimestre.
 | 05/11/2026 | Hiflow (FREECARS SAS) | 7 convoyages du 19/10 au 30/10 — facture HIFNACIZR2026-S-3148 | 162,00 € | Convoyage automobile | Encaissé (ligne 12) — virement de 445 € dont 283 € de frais remboursés, hors CA |
 | 09/11/2026 | « anavdlr » (Vinted) | Ballerines Massimo Dutti P.41, vendues le 17/10 | 50 € | Achat-revente | Encaissé (ligne 13) — **puis retournées** |
 | 19/11/2026 | « anavdlr » | Remboursement des ballerines par PayPal | **−50 €** | Achat-revente | Versé — ligne rectificative (ligne 14) |
+| 19/11/2026 | Hiflow (FREECARS SAS) | Convoyages automobiles — facture à joindre | 161,00 € | Convoyage automobile | Encaissé (ligne 15) — virement de 514 € dont 353 € de frais remboursés, hors CA |
 | — | Pop Valet | 1ʳᵉ mission de convoyage le lundi 09/11/2026 | — | Convoyage automobile | **À inscrire au jour du virement Pop Valet** |
 | — | Acheteur (à préciser) | Combinaison de pluie BMW Overall ProRain XL | 135 € | Achat-revente | **En attente du paiement** — contre-proposition à 135 € acceptée ; coût réel 70,94 €, URSSAF 16,74 €, marge prévue **+47,32 €** |
 
@@ -126,9 +127,9 @@ transaction comme justificatif de la ligne −50 € (ligne 14). Vente annulée 
 0 € d'URSSAF. Article revenu en stock (registre des objets mobiliers,
 n° 17).
 
-- Convoyage Hiflow encaissé au 4ᵉ trimestre : **229 €** de prestations (67 € + 162 €) ;
-  les 377,80 € de frais remboursés sont hors CA.
-- URSSAF à provisionner : ≈ **48,78 €** sur le convoyage (229 € × 21,3 %). Rien sur les
+- Convoyage Hiflow encaissé au 4ᵉ trimestre : **390 €** de prestations (67 € + 162 € + 161 €) ;
+  les 730,80 € de frais remboursés sont hors CA.
+- URSSAF à provisionner : ≈ **83,07 €** sur le convoyage (390 € × 21,3 %). Rien sur les
   ballerines : remboursement inscrit (+50 € − 50 € = 0 €).
 - Combinaison BMW : ≈ 16,74 € d'URSSAF à provisionner une fois les 135 € encaissés.
 - Livraisons Uber : aucun virement inscrit au 4ᵉ trimestre pour l'instant (URSSAF
@@ -143,6 +144,7 @@ n° 17).
 - [ ] Ballerines Massimo Dutti : conserver la capture de la transaction PayPal du 19/11 avec les justificatifs.
 - [ ] Ballerines Massimo Dutti : vérifier l'état réel (neuves ou traces d'essayage) avant de les remettre en vente sur le site Shopify.
 - [ ] Combinaison BMW ProRain : inscrire les 135 € au livre des recettes le jour où ils arrivent (client, canal, mode de règlement).
+- [ ] Hiflow, virement du 19/11 (ligne 15) : ranger la facture / capture dans `exports/justificatifs/` et reporter son numéro dans la colonne « Référence ».
 - [ ] Autres plateformes de convoyage : ajouter chaque virement (plateforme, date, montant).
 - [ ] Uber : décider comment suivre les virements dont l'URSSAF est déjà prélevée.
 - [ ] Confirmer sur autoentrepreneur.urssaf.fr le taux des prestations et du convoyage.
