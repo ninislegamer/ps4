@@ -58,12 +58,14 @@ chaque année par activité, avec la date limite de déclaration et l'URSSAF.
   seront uniquement du neuf en maison de vente (plus d'occasion), mais le registre
   reste tenu : il couvre les articles d'occasion encore en stock et prouve
   l'origine de chaque article en cas de contrôle.
-- **Compte bancaire de réception (au 23/10/2026)** : les virements **Hiflow**
-  arrivent encore sur le **compte personnel** (RIB pas encore modifié) ; le RIB
-  **Uber** a normalement déjà été passé sur le compte professionnel. Une recette
-  reçue sur le compte perso s'inscrit quand même au livre, à la date du virement
-  reçu. La transférer ensuite vers le compte pro n'est **pas** une nouvelle recette :
-  ne pas l'inscrire une deuxième fois.
+- **Compte bancaire de réception (mis à jour le 21/11/2026)** : à terme, **tout
+  l'argent reçu arrivera sur le compte professionnel Boursorama Banque**. En
+  attendant, une partie des recettes arrive encore sur le compte perso et sera
+  transférée sur le compte pro. On ne suit **pas** le compte de réception
+  recette par recette : une recette s'inscrit au livre à la date où l'argent
+  arrive, quel que soit le compte. Le transfert perso → pro n'est **pas** une
+  nouvelle recette : ne pas l'inscrire une deuxième fois. À noter ici le jour où
+  le transfert vers le compte pro est fait.
 
 ## 3ᵉ trimestre 2026 (juillet–septembre) — déclaré et payé
 
@@ -155,6 +157,7 @@ n° 17).
 - [ ] Uber : décider comment suivre les virements dont l'URSSAF est déjà prélevée.
 - [ ] Confirmer sur autoentrepreneur.urssaf.fr le taux des prestations et du convoyage.
 - [ ] Pop Valet, facture Vc1c48b40-261100001 (60 €, échéance 23/11) : inscrire les 60 € au livre le jour du virement.
-- [ ] Pop Valet : inscrire au livre des recettes chaque virement reçu (date du virement, montant des prestations, relevé/facture Pop Valet en justificatif). Les remboursements d'essence et de péage, versés à part, ne s'inscrivent pas. Vérifier sur quel compte arrive le virement.
+- [ ] Pop Valet : inscrire au livre des recettes chaque virement reçu (date du virement, montant des prestations, relevé/facture Pop Valet en justificatif). Les remboursements d'essence et de péage, versés à part, ne s'inscrivent pas.
+- [ ] Transférer sur le compte pro Boursorama les recettes reçues sur le compte perso (pas une nouvelle recette), puis le noter ici.
 - [ ] Hiflow (et chaque nouvelle plateforme de convoyage) : remplacer le RIB perso par le RIB du compte pro.
 - [ ] Uber : vérifier que le RIB enregistré est bien celui du compte pro.
