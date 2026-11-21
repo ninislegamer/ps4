@@ -126,7 +126,7 @@ proches », motif « remboursement des ballerines ») : garder la capture de la
 transaction comme justificatif de la ligne −50 € (ligne 14).
 La facture n° 2026-002 (17/10, envoyée avec le colis) est annulée par la
 **facture d'avoir n° 2026-003** du 21/11/2026 (`exports/avoir-2026-003-Vidal-Lorenzo-Ana.pdf`) :
-une facture émise ne se supprime pas. Vente annulée : net 0 € de chiffre d'affaires et
+une facture émise ne se supprime pas. Avoir envoyé à l'acheteuse le 21/11/2026. Vente annulée : net 0 € de chiffre d'affaires et
 0 € d'URSSAF. Article revenu en stock (registre des objets mobiliers,
 n° 17).
 
@@ -144,7 +144,7 @@ n° 17).
 
 - [x] Ballerines Massimo Dutti : 50 € inscrits au livre des recettes le 09/11/2026 (ligne 13).
 - [x] Ballerines Massimo Dutti : 50 € remboursés par PayPal le 19/11/2026, ligne −50 € inscrite (ligne 14).
-- [ ] Ballerines Massimo Dutti : envoyer l'avoir n° 2026-003 (PDF) à l'acheteuse, par la messagerie Vinted ou par mail.
+- [x] Ballerines Massimo Dutti : avoir n° 2026-003 envoyé à l'acheteuse le 21/11/2026.
 - [ ] Ballerines Massimo Dutti : conserver la capture de la transaction PayPal du 19/11 avec les justificatifs.
 - [ ] Ballerines Massimo Dutti : vérifier l'état réel (neuves ou traces d'essayage) avant de les remettre en vente sur le site Shopify.
 - [ ] Combinaison BMW ProRain : inscrire les 135 € au livre des recettes le jour où ils arrivent (client, canal, mode de règlement).
