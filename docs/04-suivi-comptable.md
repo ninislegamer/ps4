@@ -124,8 +124,9 @@ commercial. Vinted ayant déjà versé les 50 € le
 09/11, le remboursement a été fait par PayPal le **19/11/2026** (envoi « entre
 proches », motif « remboursement des ballerines ») : transaction PayPal
 **1V507477LK117904G** justifie la ligne −50 € (ligne 14). Le paiement est parti
-vers le compte PayPal que l'acheteuse a indiqué par message (capture et message
-conservés hors dépôt).
+vers le compte PayPal que l'acheteuse a indiqué dans la messagerie Vinted, et
+elle a confirmé la réception. Captures du paiement et de la conversation dans
+`exports/justificatifs/` (2026-11-19-paypal-… et 2026-11-19-vinted-anavdlr-…).
 La facture n° 2026-002 (17/10, envoyée avec le colis) est annulée par la
 **facture d'avoir n° 2026-003** du 21/11/2026 (`exports/avoir-2026-003-Vidal-Lorenzo-Ana.pdf`) :
 une facture émise ne se supprime pas. Avoir envoyé à l'acheteuse le 21/11/2026. Vente annulée : net 0 € de chiffre d'affaires et
@@ -147,7 +148,7 @@ n° 17).
 - [x] Ballerines Massimo Dutti : 50 € inscrits au livre des recettes le 09/11/2026 (ligne 13).
 - [x] Ballerines Massimo Dutti : 50 € remboursés par PayPal le 19/11/2026, ligne −50 € inscrite (ligne 14).
 - [x] Ballerines Massimo Dutti : avoir n° 2026-003 envoyé à l'acheteuse le 21/11/2026.
-- [x] Ballerines Massimo Dutti : transaction PayPal 1V507477LK117904G reportée au livre (ligne 14) ; capture et message Vinted de l'acheteuse (compte PayPal à utiliser) conservés hors dépôt.
+- [x] Ballerines Massimo Dutti : transaction PayPal 1V507477LK117904G reportée au livre (ligne 14) ; captures du paiement et de la conversation Vinted (compte PayPal donné par l'acheteuse, réception confirmée) rangées dans `exports/justificatifs/`.
 - [ ] Ballerines Massimo Dutti : vérifier l'état réel (neuves ou traces d'essayage) avant de les remettre en vente sur le site Shopify.
 - [ ] Combinaison BMW ProRain : inscrire les 135 € au livre des recettes le jour où ils arrivent (client, canal, mode de règlement).
 - [ ] Autres plateformes de convoyage : ajouter chaque virement (plateforme, date, montant).
