@@ -122,8 +122,10 @@ sur la paire le 18/11/2026). L'acheteuse l'a renvoyée pour une erreur de pointu
 hors du délai de rétractation de 14 jours : le remboursement est un geste
 commercial. Vinted ayant déjà versé les 50 € le
 09/11, le remboursement a été fait par PayPal le **19/11/2026** (envoi « entre
-proches », motif « remboursement des ballerines ») : garder la capture de la
-transaction comme justificatif de la ligne −50 € (ligne 14).
+proches », motif « remboursement des ballerines ») : transaction PayPal
+**1V507477LK117904G** justifie la ligne −50 € (ligne 14). Le paiement est parti
+vers le compte PayPal que l'acheteuse a indiqué par message (capture et message
+conservés hors dépôt).
 La facture n° 2026-002 (17/10, envoyée avec le colis) est annulée par la
 **facture d'avoir n° 2026-003** du 21/11/2026 (`exports/avoir-2026-003-Vidal-Lorenzo-Ana.pdf`) :
 une facture émise ne se supprime pas. Avoir envoyé à l'acheteuse le 21/11/2026. Vente annulée : net 0 € de chiffre d'affaires et
@@ -145,7 +147,7 @@ n° 17).
 - [x] Ballerines Massimo Dutti : 50 € inscrits au livre des recettes le 09/11/2026 (ligne 13).
 - [x] Ballerines Massimo Dutti : 50 € remboursés par PayPal le 19/11/2026, ligne −50 € inscrite (ligne 14).
 - [x] Ballerines Massimo Dutti : avoir n° 2026-003 envoyé à l'acheteuse le 21/11/2026.
-- [ ] Ballerines Massimo Dutti : conserver la capture de la transaction PayPal du 19/11 avec les justificatifs.
+- [x] Ballerines Massimo Dutti : transaction PayPal 1V507477LK117904G reportée au livre (ligne 14) ; capture et message Vinted de l'acheteuse (compte PayPal à utiliser) conservés hors dépôt.
 - [ ] Ballerines Massimo Dutti : vérifier l'état réel (neuves ou traces d'essayage) avant de les remettre en vente sur le site Shopify.
 - [ ] Combinaison BMW ProRain : inscrire les 135 € au livre des recettes le jour où ils arrivent (client, canal, mode de règlement).
 - [ ] Autres plateformes de convoyage : ajouter chaque virement (plateforme, date, montant).
