@@ -114,7 +114,7 @@ activités confondues sur le trimestre.
 | 09/11/2026 | « anavdlr » (Vinted) | Ballerines Massimo Dutti P.41, vendues le 17/10 | 50 € | Achat-revente | Encaissé (ligne 13) — **puis retournées** |
 | 19/11/2026 | « anavdlr » | Remboursement des ballerines par PayPal | **−50 €** | Achat-revente | Versé — ligne rectificative (ligne 14) |
 | 19/11/2026 | Hiflow (FREECARS SAS) | 3 convoyages du 21/10 au 06/11 — facture HIFNACIZR2026-S-3149 du 18/11/2026 (`exports/justificatifs/`) | 161,00 € | Convoyage automobile | Encaissé (ligne 15) — virement de 514 € dont 353 € de frais remboursés, hors CA |
-| — | Pop Valet | 1ʳᵉ mission de convoyage le lundi 09/11/2026 | — | Convoyage automobile | **À inscrire au jour du virement Pop Valet** |
+| — | Pop Valet | 1 convoyage le 09/11/2026 (Vynex Pichot → TEA Toulouse, Castelnau) — facture Vc1c48b40-261100001 du 16/11/2026 (`exports/justificatifs/`) | 60,00 € | Convoyage automobile | **En attente du virement** (échéance 23/11/2026) — à inscrire au jour où l'argent arrive ; URSSAF ≈ 12,78 € |
 | — | Acheteur (à préciser) | Combinaison de pluie BMW Overall ProRain XL | 135 € | Achat-revente | **En attente du paiement** — contre-proposition à 135 € acceptée ; coût réel 70,94 €, URSSAF 16,74 €, marge prévue **+47,32 €** |
 
 **Retour des ballerines Massimo Dutti.** La paire fait bien du **41** (vérifié
@@ -147,6 +147,7 @@ n° 17).
 - [ ] Autres plateformes de convoyage : ajouter chaque virement (plateforme, date, montant).
 - [ ] Uber : décider comment suivre les virements dont l'URSSAF est déjà prélevée.
 - [ ] Confirmer sur autoentrepreneur.urssaf.fr le taux des prestations et du convoyage.
+- [ ] Pop Valet, facture Vc1c48b40-261100001 (60 €, échéance 23/11) : inscrire les 60 € au livre le jour du virement.
 - [ ] Pop Valet : inscrire au livre des recettes chaque virement reçu (date du virement, montant des prestations, relevé/facture Pop Valet en justificatif). Les remboursements d'essence et de péage, versés à part, ne s'inscrivent pas. Vérifier sur quel compte arrive le virement.
 - [ ] Hiflow (et chaque nouvelle plateforme de convoyage) : remplacer le RIB perso par le RIB du compte pro.
 - [ ] Uber : vérifier que le RIB enregistré est bien celui du compte pro.
